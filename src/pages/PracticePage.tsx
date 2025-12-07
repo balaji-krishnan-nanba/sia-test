@@ -451,17 +451,6 @@ export function PracticePage() {
           <p>Click on a unit to expand and see its chapters</p>
           <p>Click the <strong>Practice</strong> button on any chapter to start</p>
         </div>
-
-        {/* Mock Test Info */}
-        <div className="mt-6 p-4 bg-blue-50 rounded-lg border border-blue-200">
-          <h3 className="font-semibold text-blue-900 mb-2">How Mock Tests Work</h3>
-          <ul className="text-sm text-blue-800 space-y-1">
-            <li>• <strong>10 pre-defined mock tests</strong> are available for each exam</li>
-            <li>• Each test uses <strong>seeded randomization</strong> - the same test number always generates the same questions</li>
-            <li>• Questions are <strong>balanced across units</strong> with 40% easy, 40% medium, 20% hard difficulty</li>
-            <li>• Your progress is saved locally and to your account</li>
-          </ul>
-        </div>
       </div>
     </div>
   );

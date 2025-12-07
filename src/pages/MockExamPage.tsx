@@ -1,9 +1,13 @@
 /**
- * Mock Exam Page - Complete examination experience for SIA Door Supervisor
+ * Mock Exam Page - Complete examination experience for all SIA qualifications
  *
  * Features:
  * - Pre-exam instructions screen
- * - 50 questions with 90-minute timer
+ * - Dynamic question count and time based on exam type:
+ *   - Door Supervisor: 50 questions, 90 minutes, 70% pass
+ *   - Security Guard: 40 questions, 75 minutes, 70% pass
+ *   - CCTV Operator: 45 questions, 80 minutes, 70% pass
+ *   - Close Protection: 60 questions, 120 minutes, 75% pass
  * - Question navigator with status indicators
  * - Flag for review functionality
  * - Submit confirmation
@@ -18,6 +22,7 @@ import { generateMockExam } from '@/utils/questionRandomizer';
 import { saveMockExamResult } from '@/utils/progressTracker';
 import { generateMockTestSeed } from '@/utils/seededRandom';
 import { saveMockTestResult } from '@/utils/mockTestProgress';
+import { EXAM_DETAILS, type ExamSlug } from '@/utils/constants';
 import { Timer } from '@/components/mock-exam/Timer';
 import { ResultsScreen, UnitBreakdown } from '@/components/mock-exam/ResultsScreen';
 import { QuestionCard } from '@/components/quiz/QuestionCard';
@@ -28,12 +33,23 @@ import { Card } from '@/components/ui/Card';
 import { Spinner } from '@/components/ui/Spinner';
 import type { Question, SIAQualification } from '@/types/question';
 
-// Exam constants
-const TOTAL_QUESTIONS = 50;
-const TIME_LIMIT_SECONDS = 90 * 60; // 90 minutes
-const PASSING_SCORE = 70; // 70% to pass
-
 type ExamState = 'pre-exam' | 'in-progress' | 'completed' | 'review';
+
+/**
+ * Get exam configuration based on exam slug
+ * Uses real SIA exam specifications for each qualification
+ */
+function getExamConfig(examSlug: string) {
+  const validSlug = (examSlug in EXAM_DETAILS ? examSlug : 'door-supervisor') as ExamSlug;
+  const examDetails = EXAM_DETAILS[validSlug];
+  return {
+    totalQuestions: examDetails.totalQuestions,
+    timeLimitSeconds: examDetails.timeLimit * 60, // Convert minutes to seconds
+    passingScore: examDetails.passingScore,
+    examName: examDetails.name,
+    examCode: examDetails.code,
+  };
+}
 
 interface ExamAnswer {
   questionId: string;
@@ -42,21 +58,6 @@ interface ExamAnswer {
   flagged: boolean;
 }
 
-// Exam name mappings
-const EXAM_NAMES: Record<string, string> = {
-  'door-supervisor': 'Door Supervisor',
-  'security-guard': 'Security Guard',
-  'cctv-operator': 'CCTV Operator',
-  'close-protection': 'Close Protection',
-};
-
-// Qualification codes for database
-const EXAM_CODES: Record<string, string> = {
-  'door-supervisor': 'DS',
-  'security-guard': 'SG',
-  'cctv-operator': 'CCTV',
-  'close-protection': 'CP',
-};
 
 export function MockExamPage() {
   const navigate = useNavigate();
@@ -71,8 +72,9 @@ export function MockExamPage() {
   const testNumberStr = params.testNumber || searchParams.get('testNumber');
   const testNumber = testNumberStr ? parseInt(testNumberStr, 10) : null;
 
-  const examName = EXAM_NAMES[examSlug] || 'Door Supervisor';
-  const examCode = EXAM_CODES[examSlug] || 'DS';
+  // Get exam-specific configuration (questions, time, passing score)
+  const examConfig = useMemo(() => getExamConfig(examSlug), [examSlug]);
+  const { totalQuestions, timeLimitSeconds, passingScore, examName, examCode } = examConfig;
 
   // Exam state
   const [examState, setExamState] = useState<ExamState>('pre-exam');
@@ -85,9 +87,9 @@ export function MockExamPage() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [flaggedQuestions, setFlaggedQuestions] = useState<Set<number>>(new Set());
 
-  // Timer
+  // Timer - initialized with exam-specific time limit
   const [isTimerRunning, setIsTimerRunning] = useState(false);
-  const [_timeRemaining, setTimeRemaining] = useState(TIME_LIMIT_SECONDS);
+  const [_timeRemaining, setTimeRemaining] = useState(timeLimitSeconds);
   const [startTime, setStartTime] = useState<number | null>(null);
 
   // Modals
@@ -137,7 +139,7 @@ export function MockExamPage() {
 
       const examQuestions = await generateMockExam(
         examSlug as 'door-supervisor' | 'security-guard' | 'cctv-operator' | 'close-protection',
-        TOTAL_QUESTIONS,
+        totalQuestions,
         {
           shuffleAnswers: true,
           ensureBalancedUnits: true,
@@ -145,8 +147,8 @@ export function MockExamPage() {
         }
       );
 
-      if (examQuestions.length < TOTAL_QUESTIONS) {
-        throw new Error(`Not enough questions available. Expected ${TOTAL_QUESTIONS}, got ${examQuestions.length}`);
+      if (examQuestions.length < totalQuestions) {
+        throw new Error(`Not enough questions available. Expected ${totalQuestions}, got ${examQuestions.length}`);
       }
 
       setQuestions(examQuestions);
@@ -268,8 +270,8 @@ export function MockExamPage() {
       }
     });
 
-    const percentage = Math.round((correctCount / TOTAL_QUESTIONS) * 100);
-    const passed = percentage >= PASSING_SCORE;
+    const percentage = Math.round((correctCount / totalQuestions) * 100);
+    const passed = percentage >= passingScore;
     const timeUsed = startTime ? Math.floor((Date.now() - startTime) / 1000) : 0;
 
     // Build unit breakdown
@@ -317,7 +319,7 @@ export function MockExamPage() {
         testNumber,
         examSlug: examSlug as string,
         score: results.score,
-        totalQuestions: TOTAL_QUESTIONS,
+        totalQuestions: totalQuestions,
         percentage: results.percentage,
         passed: results.passed,
         timeSpent: results.timeUsed,
@@ -343,8 +345,8 @@ export function MockExamPage() {
         await saveMockExamResult(user.id, {
           qualification: examCode as SIAQualification,
           score: results.percentage,
-          passingScore: PASSING_SCORE,
-          totalQuestions: TOTAL_QUESTIONS,
+          passingScore: passingScore,
+          totalQuestions: totalQuestions,
           correctAnswers: results.score,
           timeSpent: results.timeUsed,
           questions: questionsData,
@@ -374,7 +376,7 @@ export function MockExamPage() {
     setAnswers(new Map());
     setCurrentQuestionIndex(0);
     setFlaggedQuestions(new Set());
-    setTimeRemaining(TIME_LIMIT_SECONDS);
+    setTimeRemaining(timeLimitSeconds);
     setStartTime(null);
     setExamResults(null);
   }, []);
@@ -415,7 +417,7 @@ export function MockExamPage() {
   // Stats for submit confirmation
   const examStats = useMemo(() => {
     const answered = Array.from(answers.values()).filter(a => a.selectedAnswer !== null).length;
-    const unanswered = TOTAL_QUESTIONS - answered;
+    const unanswered = totalQuestions - answered;
     const flagged = flaggedQuestions.size;
     return { answered, unanswered, flagged };
   }, [answers, flaggedQuestions]);
@@ -461,7 +463,7 @@ export function MockExamPage() {
               <div className="flex items-center justify-between">
                 <div>
                   <p className="text-sm text-gray-600">
-                    Score: <span className="font-semibold">{lastAttempt.score}/{TOTAL_QUESTIONS}</span> ({lastAttempt.percentage}%)
+                    Score: <span className="font-semibold">{lastAttempt.score}/{totalQuestions}</span> ({lastAttempt.percentage}%)
                   </p>
                   <p className="text-xs text-gray-500">
                     {new Date(lastAttempt.date).toLocaleDateString()}
@@ -480,7 +482,7 @@ export function MockExamPage() {
               <svg className="w-8 h-8 text-primary-600 mx-auto mb-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <p className="text-2xl font-bold text-gray-900">{TOTAL_QUESTIONS}</p>
+              <p className="text-2xl font-bold text-gray-900">{totalQuestions}</p>
               <p className="text-sm text-gray-600">Questions</p>
             </div>
             <div className="text-center p-4 bg-gray-50 rounded-lg">
@@ -494,7 +496,7 @@ export function MockExamPage() {
               <svg className="w-8 h-8 text-primary-600 mx-auto mb-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <p className="text-2xl font-bold text-gray-900">{PASSING_SCORE}%</p>
+              <p className="text-2xl font-bold text-gray-900">{passingScore}%</p>
               <p className="text-sm text-gray-600">To Pass</p>
             </div>
           </div>
@@ -589,12 +591,12 @@ export function MockExamPage() {
     return (
       <ResultsScreen
         score={examResults.score}
-        totalQuestions={TOTAL_QUESTIONS}
+        totalQuestions={totalQuestions}
         percentage={examResults.percentage}
         passed={examResults.passed}
-        passingScore={PASSING_SCORE}
+        passingScore={passingScore}
         timeUsed={examResults.timeUsed}
-        timeLimit={TIME_LIMIT_SECONDS}
+        timeLimit={timeLimitSeconds}
         unitBreakdown={examResults.unitBreakdown}
         onReviewAnswers={reviewAnswers}
         onRetake={retakeExam}
@@ -620,7 +622,7 @@ export function MockExamPage() {
               <div className="flex-shrink-0">
                 {examState === 'in-progress' && (
                   <Timer
-                    duration={TIME_LIMIT_SECONDS}
+                    duration={timeLimitSeconds}
                     onTimeUp={handleTimeUp}
                     isRunning={isTimerRunning}
                     showControls={false}
@@ -636,7 +638,7 @@ export function MockExamPage() {
               {/* Progress */}
               <div className="flex items-center gap-4">
                 <span className="text-sm font-medium text-gray-600">
-                  Question {currentQuestionIndex + 1} of {TOTAL_QUESTIONS}
+                  Question {currentQuestionIndex + 1} of {totalQuestions}
                 </span>
 
                 {/* Desktop Navigator Button */}
@@ -660,7 +662,7 @@ export function MockExamPage() {
               <div className="h-2 w-full bg-gray-200 rounded-full overflow-hidden">
                 <div
                   className="h-full bg-primary-500 transition-all duration-300"
-                  style={{ width: `${((currentQuestionIndex + 1) / TOTAL_QUESTIONS) * 100}%` }}
+                  style={{ width: `${((currentQuestionIndex + 1) / totalQuestions) * 100}%` }}
                 />
               </div>
             </div>
@@ -673,7 +675,7 @@ export function MockExamPage() {
             {/* Question Card */}
             <QuestionCard
               questionNumber={currentQuestionIndex + 1}
-              totalQuestions={TOTAL_QUESTIONS}
+              totalQuestions={totalQuestions}
               question={{
                 id: currentQuestion.id,
                 question: currentQuestion.questionText,
@@ -732,7 +734,7 @@ export function MockExamPage() {
               )}
 
               {/* Next/Submit Button */}
-              {currentQuestionIndex === TOTAL_QUESTIONS - 1 ? (
+              {currentQuestionIndex === totalQuestions - 1 ? (
                 <Button
                   variant="primary"
                   size="md"
@@ -794,7 +796,7 @@ export function MockExamPage() {
             <div className="bg-gray-50 rounded-lg p-4 space-y-2">
               <div className="flex justify-between text-sm">
                 <span className="text-gray-600">Answered:</span>
-                <span className="font-semibold text-gray-900">{examStats.answered}/{TOTAL_QUESTIONS}</span>
+                <span className="font-semibold text-gray-900">{examStats.answered}/{totalQuestions}</span>
               </div>
               <div className="flex justify-between text-sm">
                 <span className="text-gray-600">Unanswered:</span>

@@ -1,0 +1,295 @@
+================================================================================
+UNIT 2, CHAPTER 2.9: SAFEGUARDING VULNERABLE PEOPLE
+================================================================================
+Meta: Total=22 | Easy=9 | Medium=9 | Hard=4 | A=5 | B=6 | C=6 | D=5
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Which of the following is the most common form of vulnerability seen in licensed premises?
+
+A) Intoxication
+B) Physical disability
+C) Old age
+D) Homelessness
+
+Answer: A
+Explanation: In the context of licensed premises, intoxication (from alcohol and/or drugs) is the most common form of vulnerability. It affects judgement, awareness and the ability to protect oneself from harm.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which statement best describes vulnerability in a safeguarding context?
+
+A) A state where a person is unable to protect themselves from harm or exploitation
+B) A permanent disability that never changes
+C) Only people with mental health conditions
+D) Only people under the age of 18
+
+Answer: A
+Explanation: Vulnerability is a temporary or permanent state in which a person is unable to protect themselves from harm or exploitation, make sound decisions or recognise danger.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: A customer is severely drunk, slurring their words and unable to walk without help. This is an example of:
+
+A) Intoxication-related vulnerability
+B) Situational vulnerability
+C) Financial vulnerability
+D) Age-related vulnerability
+
+Answer: A
+Explanation: The main issue in this case is impairment caused by alcohol. This is intoxication-related vulnerability, which is the most common vulnerability in venues.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which of the following is a common sign that a drink may have been spiked?
+
+A) Gradual feeling of tiredness over many hours
+B) Sudden intoxication inconsistent with the amount of alcohol consumed
+C) Feeling slightly thirsty
+D) Increased confidence after a few drinks
+
+Answer: B
+Explanation: A key indicator of drink spiking is sudden and unexpected intoxication that does not match the amount of alcohol the person says they have consumed.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: GHB/GBL are most commonly associated with which issue in licensed premises?
+
+A) Drink spiking
+B) Crowd control
+C) Fire safety
+D) Noise complaints
+
+Answer: A
+Explanation: GHB/GBL are drugs frequently linked to drink spiking because they can cause rapid drowsiness and loss of consciousness, putting the person at serious risk.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: "Ask for Angela" is primarily designed to help someone who:
+
+A) Has lost their wallet
+B) Feels unsafe or threatened by someone they are with
+C) Wants to make a complaint about the music
+D) Needs a first aider
+
+Answer: B
+Explanation: "Ask for Angela" is a discreet code phrase used by customers who feel unsafe, for example on a date or with someone whose behaviour is worrying. Staff should respond by helping them safely.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Which telephone number is associated with reporting concerns about modern slavery in the UK?
+
+A) 999
+B) 101
+C) 111
+D) 08000 121 700
+
+Answer: D
+Explanation: 08000 121 700 is the Modern Slavery Helpline for non-emergency reporting and advice. In EMERGENCY situations where someone is in immediate danger, always call 999 FIRST, then follow up with the helpline.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which of the following best describes "county lines"?
+
+A) A system of checking ID at the door
+B) Drug dealing using a dedicated phone line and exploiting vulnerable people
+C) A method of counting customers in a venue
+D) A system for reporting lost property
+
+Answer: B
+Explanation: County lines refers to a model of drug dealing using dedicated phone lines and the exploitation of children and vulnerable adults to transport and sell drugs, often involving violence and coercion.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which of the following is a key safeguarding duty of a door supervisor?
+
+A) Identify vulnerable people and take steps to protect them from harm
+B) Sell more drinks to increase profits
+C) Ignore vulnerable people unless they cause trouble
+D) Only deal with physical fights
+
+Answer: A
+Explanation: Door supervisors have a clear safeguarding role: to be vigilant, identify vulnerability and take appropriate action to protect individuals from harm and exploitation.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: You notice a young woman on the dance floor who is unsteady on her feet, confused about where her friends are and says she has "only had one drink." What is your BEST initial action?
+
+A) Assume she is lying and ignore her
+B) Immediately eject her from the premises
+C) Call the police straight away
+D) Take her calmly to a safe, quiet area and monitor her
+
+Answer: D
+Explanation: Sudden intoxication inconsistent with reported alcohol use may indicate drink spiking. The priority is to move her to a safe space, monitor her, and then escalate (e.g. ambulance, police) as required.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: A man insists he is taking an extremely drunk woman home. She can barely stand and is not responding clearly to questions. What is the MOST appropriate response from a door supervisor?
+
+A) Let her leave, as he claims to be her boyfriend
+B) Ask him to sign a note taking responsibility and let them go
+C) Ignore the situation as it is a private matter
+D) Refuse to let her leave with him until you can verify the relationship and arrange a safer option
+
+Answer: D
+Explanation: A highly intoxicated person cannot safely consent to leaving with someone. The door supervisor should verify the relationship and, if unsure, prevent departure and arrange a safer alternative such as contacting friends or family.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: You see a man repeatedly buying strong drinks for a woman who is clearly already drunk, while he hardly drinks anything himself. What is the MOST appropriate action?
+
+A) Do nothing; he is spending money at the bar
+B) Immediately accuse him of being a predator
+C) Announce to the whole bar that he is suspicious
+D) Quietly monitor the situation and then intervene to check on the woman's welfare
+
+Answer: D
+Explanation: This is concerning behaviour associated with sexual predators. The door supervisor should monitor, then discreetly intervene by checking on the woman's welfare and taking further safeguarding steps if needed.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: A 16-year-old is found inside an over-18s nightclub with an adult who claims to be their partner and has been buying them alcohol. What should you do FIRST?
+
+A) Ask the 16-year-old if they are enjoying the night
+B) Remove the under-18 from the adult environment and inform management
+C) Let them stay as long as they behave
+D) Only speak to the adult, not the young person
+
+Answer: B
+Explanation: Under-18s should not be in adult venues. This situation could indicate child sexual exploitation. The young person must be removed from the environment, management informed and concerns escalated (e.g. to police).
+
+---
+Q14 | Difficulty: Medium
+---
+Question: At closing time, you see a very drunk man alone outside, wearing only a thin shirt on a very cold night, struggling to use his phone. What is the BEST safeguarding action?
+
+A) Leave him to sort himself out
+B) Eject him further away from the venue
+C) Take his phone and call a random taxi
+D) Bring him back into a safe waiting area and help arrange transport home
+
+Answer: D
+Explanation: Safe dispersal includes ensuring vulnerable people are not left at risk outside, especially in bad weather. Bringing him inside and arranging safe transport is the best safeguarding response.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: You notice a young person in the venue with multiple phones, appearing very nervous and frequently meeting different individuals briefly. This could be a sign of:
+
+A) A secret shopper
+B) County lines drug dealing and exploitation
+C) A lost tourist
+D) An undercover police officer
+
+Answer: B
+Explanation: Multiple phones, nervous behaviour and brief meetings with different people can be indicators of county lines activity, where young or vulnerable people are exploited to deal drugs.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: A woman quietly tells you she wants to "Ask for Angela." What is the MOST appropriate immediate response?
+
+A) Tell her there is no Angela working tonight
+B) Ask her to come back later when it's quieter
+C) Take her discreetly to a safe area away from the person she is with
+D) Announce the code phrase over the radio loudly
+
+Answer: C
+Explanation: "Ask for Angela" is a code phrase indicating a person feels unsafe. The correct response is to discreetly move her to a safe area, away from the concerning person, and discuss how staff can help.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: You suspect a customer's drink has been spiked. Which of the following actions is MOST important regarding the drink itself?
+
+A) Throw the drink away to avoid complaints
+B) Give the drink to another customer
+C) Preserve the drink for possible evidence
+D) Dilute the drink with water
+
+Answer: C
+Explanation: If drink spiking is suspected, the drink should be preserved and not disposed of. It may be used as evidence by the police or medical professionals.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: Which of the following is the BEST example of recognising and responding to indicators of vulnerability inside a venue?
+
+A) Ignoring a distressed customer because they are not causing trouble
+B) Noticing a crying, confused customer alone and approaching them to ask if they are okay and need help
+C) Asking a distressed customer to leave immediately
+D) Turning up the music so they calm down
+
+Answer: B
+Explanation: Indicators of vulnerability include distress, confusion and being alone. A good safeguarding response is to approach, check their welfare and offer appropriate assistance rather than ignoring or ejecting them.
+
+---
+Q19 | Difficulty: Hard
+---
+Question: You notice a woman who appears malnourished and very withdrawn, standing near the venue with a man who answers all questions for her and holds her passport. She avoids eye contact and seems frightened. What is the MOST appropriate safeguarding response?
+
+A) Confront the man aggressively about trafficking
+B) Ignore it as it is outside the venue
+C) Quietly note your concerns, inform management and contact the police or Modern Slavery Helpline
+D) Ask the woman loudly if she is a victim
+
+Answer: C
+Explanation: These are strong indicators of possible modern slavery or trafficking. Door supervisors should not confront suspected traffickers directly, but should record observations, inform management and report to police or the Modern Slavery Helpline.
+
+---
+Q20 | Difficulty: Hard
+---
+Question: During a busy night, you see an extremely drunk man being taken outside by two strangers who say they "just met him and are taking him to another party." The man is barely conscious and cannot answer questions. What is the BEST course of action?
+
+A) Allow them to leave as they seem friendly
+B) Let them go but ask for their names
+C) Stop them leaving with him, bring him back inside and arrange safe medical help or contact his friends/family
+D) Call a taxi for all three of them together
+
+Answer: C
+Explanation: The man is highly vulnerable and unable to protect himself. Letting strangers take him away could lead to serious harm. The door supervisor must prevent this, ensure his safety, and arrange appropriate assistance.
+
+---
+Q21 | Difficulty: Hard
+---
+Question: You suspect a young person outside your venue is being used for county lines drug dealing. They appear frightened, have unexplained injuries and a much older person is watching them from a distance. What is the MOST appropriate action?
+
+A) Only ban them from the venue
+B) Speak to the older person and demand they leave
+C) Treat it as both a criminal and safeguarding concern and report to the police with your observations
+D) Do nothing because it is not happening inside the venue
+
+Answer: C
+Explanation: County lines involves both criminal activity and serious exploitation of vulnerable people. Door supervisors should see this as a safeguarding concern, record what they see and report to the police rather than simply ejecting or ignoring.
+
+---
+Q22 | Difficulty: Hard
+---
+Question: At the end of the night, a lone, very drunk woman refuses offers of help, insisting she will "walk home" through an unlit park. What is the BEST safeguarding approach?
+
+A) Let her go as it is her choice
+B) Physically restrain her until she agrees to a taxi
+C) Calmly explain your concerns, encourage a safer option such as a taxi, and involve colleagues/management to help arrange safe transport
+D) Take her home in your own car
+
+Answer: C
+Explanation: Safe dispersal means trying to prevent vulnerable people from leaving into risky situations. Door supervisors should use communication skills, involve colleagues and management, and encourage safer options like a taxi or contacting friends/family.
+
+================================================================================
+END OF CHAPTER 2.9
+================================================================================

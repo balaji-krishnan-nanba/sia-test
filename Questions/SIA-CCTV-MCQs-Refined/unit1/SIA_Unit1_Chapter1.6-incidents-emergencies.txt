@@ -1,0 +1,259 @@
+================================================================================
+UNIT 1, CHAPTER 1.6: RECOGNISING AND RESPONDING TO INCIDENTS AND EMERGENCIES
+
+Question 1 [Easy]
+What are the three elements of the fire triangle?
+A) Wood, paper, and electricity
+B) Ignition, growth, and decay
+C) Heat, fuel, and oxygen
+D) Smoke, flames, and sparks
+Correct Answer: C
+Explanation:
+The fire triangle is made up of heat, fuel and oxygen. All three must be present for a fire to start and keep burning. Removing any one of them (for example, cooling with water or removing fuel) will put the fire out. CCTV operators should understand this so they can recognise fire risks and how fires may develop.
+
+Question 2 [Easy]
+On camera you see petrol burning on the ground next to a vehicle in a car park. What class of fire is this?
+A) Class A – ordinary combustibles
+B) Class B – flammable liquids
+C) Class C – flammable gases
+D) Class F – cooking oils and fats
+Correct Answer: B
+Explanation:
+Petrol is a flammable liquid, which makes this a Class B fire. Class B fires involve substances like petrol, oil, paints and solvents, and must NOT be tackled with water because that can spread the burning liquid.
+
+Question 3 [Easy]
+Which colour is used for a CO2 fire extinguisher?
+A) Red
+B) Yellow
+C) Black
+D) Cream
+Correct Answer: C
+Explanation:
+A CO2 extinguisher has a black label. CO2 is suitable for Class B (flammable liquids) and electrical fires because it displaces oxygen and does not leave residue on equipment.
+
+Question 4 [Easy]
+When a CCTV operator first notices clear signs of a fire on camera, what should they do?
+A) Rewind the footage to see how the fire started before telling anyone
+B) Change to another camera so as not to alarm themselves
+C) Immediately alert the fire service and on-site security, giving location details
+D) Send an email to the fire service with a screenshot
+Correct Answer: C
+Explanation:
+For a fire, the priority is to raise the alarm immediately. The operator should call 999, alert on-site security, and give the exact location and any access information. Investigating how it started can wait until the emergency response is underway.
+
+Question 5 [Easy]
+In first aid, what does DR ABC stand for in the correct order?
+A) Danger, Response, Airway, Breathing, Circulation
+B) Danger, Response, Breathing, Airway, Circulation
+C) Detect, Response, Airway, Bleeding, CPR
+D) Danger, Recovery, Airway, Breathing, CPR
+Correct Answer: A
+Explanation:
+DR ABC is the primary survey:
+D – Danger
+R – Response
+A – Airway
+B – Breathing
+C – Circulation
+CCTV operators don’t normally give first aid, but understanding this helps them recognise urgency and give useful information to responders.
+
+Question 6 [Easy]
+What does the “T” in the stroke acronym FAST stand for?
+A) Test their balance
+B) Temperature of the skin
+C) Time to call 999
+D) Talk to the casualty
+Correct Answer: C
+Explanation:
+FAST stands for: Face, Arm, Speech, Time to call 999. If a CCTV operator sees signs of stroke (face drooping, arm weakness, slurred speech), it is time-critical, and emergency services must be called immediately.
+
+Question 7 [Easy]
+Which number should a CCTV operator call for a life‑threatening emergency they are watching live on CCTV?
+A) 999
+B) 112 only
+C) 101
+D) 100
+Correct Answer: A
+Explanation:
+In the UK, 999 is the main number for immediate, life‑threatening emergencies, including serious crime in progress, fire, and medical emergencies. 101 is for non‑emergency police matters.
+
+Question 8 [Easy]
+The recovery position is most appropriate for a casualty who is:
+A) Not breathing at all
+B) Unconscious but breathing normally
+C) Fully conscious and talking normally
+D) Having a seizure that is still ongoing
+Correct Answer: B
+Explanation:
+The recovery position is used when someone is unconscious but breathing. It keeps the airway open and helps prevent them from choking on vomit while waiting for help. It is not used for someone who is not breathing (they need CPR).
+
+Question 9 [Easy]
+If the control room receives a bomb threat by telephone, what should the CCTV operator do?
+A) Immediately hang up and call 999 without listening to the caller
+B) Stay calm, let the caller speak, and record as much information as possible
+C) Argue with the caller to test whether they are serious
+D) Put the caller on hold while checking other cameras
+Correct Answer: B
+Explanation:
+With a bomb threat, the operator should stay calm, let the caller talk, and gather information (location, timing, reasons, etc.). They should note the caller’s exact words, voice, and any background noise, then report it immediately to a supervisor and the police.
+
+Question 10 [Easy]
+Which of the following is a common feature of a suspicious package?
+A) No return address and excessive postage
+B) Clearly labelled with correct address and sender details
+C) Delivered by a known colleague
+D) Very light and rattles when shaken
+Correct Answer: A
+Explanation:
+Suspicious packages often have no return address, excessive postage, spelling mistakes, strange shapes or weights, and sometimes stains, odours, wires or batteries visible. Anything like this seen on CCTV should be reported and monitored carefully.
+
+Question 11 [Medium]
+While monitoring a shopping centre kitchen, you see a deep‑fat fryer on fire with burning cooking oil. How is this type of fire classified?
+A) Class A – ordinary combustibles
+B) Class F – cooking oils and fats
+C) Class B – flammable liquids
+D) Class C – flammable gases
+Correct Answer: B
+Explanation:
+Fires involving cooking oils and fats in deep‑fat fryers are Class F fires. They require a wet chemical extinguisher and are extremely dangerous if water is used.
+
+Question 12 [Medium]
+Security staff report a small fire in an electrical control cabinet. Which extinguisher should you advise them to use, if it is safe to tackle the fire?
+A) CO2 (black)
+B) Water (red)
+C) Foam (cream)
+D) Wet chemical (yellow)
+Correct Answer: A
+Explanation:
+For fires involving electrical equipment, a CO2 (black) extinguisher is suitable because it displaces oxygen and does not conduct electricity or leave residue. Water and foam can be dangerous on live electrics.
+
+Question 13 [Medium]
+When you call 999 to report a fire seen on CCTV, what is the most important information to give first?
+A) Your opinion on what started the fire
+B) The serial number of the nearest CCTV camera
+C) The make and model of nearby vehicles
+D) The exact location of the fire and how emergency vehicles can access it
+Correct Answer: D
+Explanation:
+The emergency services need to know where to go before anything else. Giving the exact location and access routes allows them to respond quickly; other details can follow once that is clear.
+
+Question 14 [Medium]
+While watching a serious fall on CCTV, you remember that “D” in DR ABC stands for Danger. How can you best use CCTV to help with this stage?
+A) Immediately instruct nearby members of the public to move the casualty
+B) Zoom in tightly on the casualty’s face to look for breathing
+C) Scan the surrounding area on different cameras to identify any dangers before guiding helpers in
+D) Turn off all cameras to protect the casualty’s privacy
+Correct Answer: C
+Explanation:
+“D – Danger” means checking for anything that could harm the casualty or helpers. A CCTV operator can scan the area on different cameras to spot traffic, fire, weapons, or other hazards, and then guide helpers safely.
+
+Question 15 [Medium]
+On town centre cameras, you see someone repeatedly filming entrances, security cameras and emergency exits while making notes. What should you do under counter‑terrorism guidance?
+A) Use the public address system to confront them directly
+B) Treat it as suspicious activity, record the details, and report it through your organisation’s procedures or to the police
+C) Post the footage on social media to warn the public
+D) Ignore them unless they commit a crime
+Correct Answer: B
+Explanation:
+Systematic recording of security measures can be part of hostile reconnaissance. The operator should treat it as suspicious, record what they see, and report through ACT / organisational procedures or to police, rather than confronting the person.
+
+Question 16 [Medium]
+During a suspected marauding terrorist attack, colleagues in a nearby building tell you they cannot safely escape. According to Run, Hide, Tell, what should they do next?
+A) Go outside to see what is happening so they can give you better information
+B) Pull the fire alarm to evacuate the building into the open
+C) Hide, locking or barricading doors, staying out of sight and keeping phones on silent until it is safe to tell the police
+D) Move towards the sound of gunfire to help casualties
+Correct Answer: C
+Explanation:
+Run, Hide, Tell advises people to run if possible, but if they cannot escape, they should hide: lock or barricade doors, stay away from sightlines, keep very quiet and phones on silent, then tell the police when it is safe to do so.
+
+Question 17 [Medium]
+Which of the following would most likely be classed as a major incident?
+A) A single shoplifter detained by store security
+B) One person fainting and quickly recovering
+C) A minor bin fire that is quickly extinguished
+D) A train derailment in the city centre with multiple casualties and emergency services overwhelmed
+Correct Answer: D
+Explanation:
+A major incident is an emergency that exceeds normal response capability and involves large‑scale damage or many casualties, requiring coordinated multi‑agency response. A serious train derailment fits this description.
+
+Question 18 [Medium]
+You review CCTV footage from earlier in the day showing suspicious behaviour that is no longer happening and there is no immediate danger. Which number is most appropriate to report this to the police?
+A) 111 – NHS advice line
+B) 999 – emergency services
+C) 101 – non‑emergency police number
+D) 123 – telephone operator services
+Correct Answer: C
+Explanation:
+101 is the non‑emergency police number used to report crimes or concerns that are not happening right now and where there is no immediate threat to life or property.
+
+Question 19 [Medium]
+On CCTV you see a person collapse in a shopping centre. A member of the public calls from a help point and says the casualty is not responding and not breathing normally. What should you advise them to do while the ambulance is on the way?
+A) Move the casualty outside for fresh air
+B) Begin CPR with chest compressions in the centre of the chest at around 100–120 per minute
+C) Give the casualty water and keep them sitting upright
+D) Place the casualty in the recovery position and wait for paramedics
+Correct Answer: B
+Explanation:
+An unresponsive casualty who is not breathing normally needs CPR. The operator should instruct the caller to start chest compressions in the centre of the chest, pushing hard and fast (about 100–120 per minute), until help or an AED arrives.
+
+Question 20 [Medium]
+In a busy railway station, you notice a rucksack pushed under a bench. It has been left there for over an hour and no one has returned to it. Why does this make it suspicious under the HOT protocol?
+A) Because it is clearly labelled with a name and address
+B) Because it is being carried openly by its owner
+C) Because it is brightly coloured and expensive‑looking
+D) Because it appears to have been hidden and is not typical for that location to have unattended bags
+Correct Answer: D
+Explanation:
+The HOT protocol asks whether the item has been Hidden, is Obviously suspicious, and whether it is Typical for the location. An unattended rucksack pushed under a bench for a long time may be hidden and not typical, so it should be treated as suspicious and reported.
+
+Question 21 [Hard]
+While you are monitoring a violent incident in the town centre, the fire alarm sounds in your own CCTV control room. There is no announcement that it is a test. What is the most appropriate action?
+A) Turn off all monitors and recording equipment, then wait in the control room for further instructions
+B) Follow the control room’s fire evacuation procedure immediately, leaving the building by the agreed route and reporting to the assembly point
+C) Remain at your workstation to keep cameras on the town centre incident until the police say they no longer need you
+D) Ignore the alarm because the external incident is more important than a possible fire in your building
+Correct Answer: B
+Explanation:
+Even during serious external incidents, your own safety comes first. Control room staff must not delay evacuation when a fire alarm sounds. Follow the evacuation route and go to the assembly point; the system will continue recording even if you are not watching live.
+
+Question 22 [Hard]
+Security staff call from a small, enclosed server room where a waste paper bin has caught fire next to electrical cabinets. They have water (red), CO2 (black) and dry powder (blue) extinguishers. Which one should you advise them to use, if it is safe to tackle the fire?
+A) CO2 (black), because it is suitable for electrical risks and will not leave residue
+B) Water (red), because it will cool the paper and the electrics
+C) Dry powder (blue), because it is ideal for enclosed spaces full of electronics
+D) None of them – advise them to ignore the fire and wait for it to burn out
+Correct Answer: A
+Explanation:
+CO2 (black) is suitable for electrical fires and does not leave residue that could damage equipment. Water is dangerous on electrics and dry powder is not recommended in enclosed spaces because it can obscure vision and create breathing issues.
+
+Question 23 [Hard]
+On CCTV you see a man fall heavily down some steps and land on his back. He is unconscious but breathing, and you suspect a spinal injury. A staff member rings from the scene asking if they should put him in the recovery position. What is the best advice?
+A) No – they should sit him in a chair to keep him upright instead
+B) No – because of the suspected spinal injury, they should keep him still, maintain his airway and wait for the ambulance unless his airway becomes blocked
+C) Yes – but only if they drag him quickly by the shoulders to one side
+D) Yes – all unconscious casualties who are breathing must always be put in the recovery position straight away
+Correct Answer: B
+Explanation:
+The recovery position is not recommended when there is a suspected spinal injury, unless it is needed to keep the airway open. In this case they should keep him still, monitor and maintain his airway, and wait for medical help.
+
+Question 24 [Hard]
+While monitoring a bus station, you see a person collapse after what appears to be a stabbing. A witness phones the control room and reports the casualty is conscious but bleeding heavily from the leg. What should you tell the witness to do while waiting for the ambulance?
+A) Remove any object in the wound so that the blood can flow out
+B) Use a clean cloth or clothing to apply firm direct pressure to the wound and, if possible, raise the leg above heart level
+C) Apply a tourniquet as tightly as possible using any belt or cord
+D) Offer the casualty a drink to keep them calm and replace lost fluid
+Correct Answer: B
+Explanation:
+For serious bleeding, the priority is to apply firm direct pressure to the wound, using a pad or clean cloth, and, if possible, elevate the injured limb. They should not remove embedded objects or give food or drink. Severe bleeding is a time‑critical emergency.
+
+Question 25 [Hard]
+A serious explosion occurs near a crowded transport hub. On CCTV you can see numerous casualties, heavy smoke and traffic gridlock. Multiple agencies start calling the control room for updates. What should be your main priority as the CCTV operator?
+A) Turn off all recordings to prevent the footage from being used in any future investigation
+B) Stop monitoring the incident and concentrate on answering questions from the media
+C) Immediately rewind all cameras to see exactly how the incident began, ignoring live pictures until you have done so
+D) Make sure the emergency services have been alerted, then focus on providing them with clear real‑time information and marking footage for preservation
+Correct Answer: D
+Explanation:
+In a major incident, the CCTV operator’s priorities are to ensure the alarm is raised, support the emergency services with accurate real‑time information, and preserve footage for investigation. Media enquiries and other issues are secondary to life‑saving coordination.
+

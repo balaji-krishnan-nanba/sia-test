@@ -1,0 +1,811 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 2, CHAPTER 2.6
+VEHICLE OPERATIONS
+================================================================================
+
+YOUR TASK
+---------
+Generate 25 high-quality Multiple Choice Questions (MCQs) for Chapter 2.6 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 6-7 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE EXAM
+--------
+Unit 2: Working as a Close Protection Operative
+- 30 multiple choice questions
+- 45 minutes duration
+- 70% pass mark (21 correct answers required)
+- This chapter (2.6) is one of 8 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Vehicle operations are a critical component of close protection. The 
+principal spends significant time in vehicles, and this is when they are 
+most vulnerable (80% of attacks occur in transit). Understanding embus/
+debus drills, convoy procedures, and anti-ambush actions is essential.
+
+================================================================================
+CHAPTER 2.6: VEHICLE OPERATIONS - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 25
+- Easy (direct recall): 10 questions
+- Medium (application): 10 questions
+- Hard (scenario-based): 5 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.1: VEHICLE SECURITY PRINCIPLES
+--------------------------------------------------------------------------------
+
+Why Vehicle Security Matters:
+- 80% of attacks during transit
+- Confined space
+- Predictable routes possible
+- Limited escape options
+- High vulnerability
+
+Vehicle Types:
+
+PRINCIPAL'S VEHICLE:
+- Usually in rear
+- Most protected position
+- Door nearest safety
+- Best vehicle in convoy
+
+LEAD VEHICLE:
+- In front of principal
+- Route clearance
+- Early warning
+- Draws initial threat
+
+FOLLOW VEHICLE:
+- Behind principal
+- Rear protection
+- Response team
+- Blocks followers
+
+ADVANCE VEHICLE:
+- Well ahead
+- Route checking
+- Reports back
+- Liaison
+
+Security Features:
+
+ARMOURED VEHICLES:
+- Ballistic protection
+- Higher cost
+- Heavier
+- Different handling
+
+STANDARD VEHICLES:
+- Common in commercial CP
+- Less protection
+- Speed and mobility
+- Lower profile
+
+Vehicle Selection Criteria:
+- Reliability
+- Performance
+- Blend in (or not)
+- Passenger capacity
+- Boot space
+- Communication capability
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.2: VEHICLE PRE-CHECKS
+--------------------------------------------------------------------------------
+
+Daily Vehicle Checks:
+
+EXTERIOR:
+- Walk around inspection
+- Damage or tampering
+- Tyres condition
+- Under vehicle (mirror)
+- Wheel arches
+- Exhaust and bumpers
+
+INTERIOR:
+- Seats and under
+- Glove compartment
+- Boot/trunk
+- Sun visors
+- Door pockets
+- Floor mats
+
+MECHANICAL:
+- Fuel level
+- Oil level
+- Coolant
+- Tyre pressure
+- Lights working
+- Wipers and washer
+
+EQUIPMENT CHECK:
+- Communication working
+- First aid kit
+- Fire extinguisher
+- Emergency equipment
+- Torch
+- Maps/satnav
+
+Before Principal Enters:
+- Vehicle searched
+- Engine running (climate)
+- Doors unlocked for quick entry
+- CPO in position
+- Route confirmed
+
+If Vehicle Left Unattended:
+- Full search required
+- Under vehicle check
+- Interior check
+- Check for tracking devices
+- Time-critical task
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.3: EMBUS (ENTERING VEHICLE) DRILLS
+--------------------------------------------------------------------------------
+
+Embus Definition:
+- Getting INTO vehicle
+- Structured procedure
+- Security maintained
+- Quick transition
+- Rehearsed action
+
+Embus Sequence:
+
+1. APPROACH:
+   - Vehicle in position
+   - Area checked
+   - Formation maintained
+   - Ready to enter
+
+2. POSITION:
+   - CPOs take positions
+   - Cover arcs maintained
+   - Doors to be used identified
+   - Principal shielded
+
+3. ENTRY:
+   - Door opened by CPO
+   - Area scanned
+   - Principal enters quickly
+   - Door closed immediately
+
+4. SECURE:
+   - All doors closed/locked
+   - Seatbelts on
+   - Ready to move
+   - Report to TL
+
+Principal's Position:
+- Rear nearside usually (UK)
+- Behind front passenger
+- Quick exit to pavement
+- Protected position
+
+CPO Positions:
+- Front passenger (PPO)
+- Driver (Security driver or CPO)
+- Rear offside (if team large enough)
+
+Embus Timing:
+- Minimise exposure time
+- Quick but controlled
+- No rushing principal
+- Smooth transition
+- Vehicle ready to move
+
+Emergency Embus:
+- Faster procedure
+- Less ceremony
+- Security priority
+- Principal in first
+- Move immediately
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.4: DEBUS (EXITING VEHICLE) DRILLS
+--------------------------------------------------------------------------------
+
+Debus Definition:
+- Getting OUT of vehicle
+- Higher risk than embus
+- Structured procedure
+- Security critical
+- Transition to foot
+
+Debus Sequence:
+
+1. APPROACH DESTINATION:
+   - Slow approach
+   - Check arrival area
+   - Communication with SAP
+   - Identify stop point
+
+2. STOP:
+   - Vehicle positioned
+   - Engine running
+   - Locks unlocked
+   - CPO ready to exit
+
+3. EXIT CPOs:
+   - CPO exits first
+   - Scans environment
+   - Opens principal's door
+   - Provides cover
+
+4. PRINCIPAL EXIT:
+   - Door fully open
+   - Principal exits
+   - CPO shields
+   - Quick transition
+
+5. MOVE:
+   - Formation formed
+   - Move to venue
+   - Vehicle secured/moved
+   - Exposure minimised
+
+CPO Actions:
+- Exit from front passenger
+- Walk around vehicle (check environment)
+- Open rear nearside door
+- Shield principal
+- Close door
+- Form escort
+
+The "Third Door" Principle:
+- CPO uses front door
+- Principal uses rear door
+- Two doors in use
+- Confusion to attacker
+- CPO always first
+
+Arrival Types:
+
+COVERED ARRIVAL:
+- Undercover parking
+- Private entrance
+- Minimal exposure
+- Weather protected
+
+OPEN ARRIVAL:
+- Public area
+- More exposure
+- Faster transition needed
+- Higher awareness
+
+Emergency Debus:
+- Under attack/threat
+- Immediate exit
+- All doors possible
+- Move to cover
+- Speed critical
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.5: CONVOY PROCEDURES
+--------------------------------------------------------------------------------
+
+Convoy Definition:
+- Multiple vehicles moving together
+- Coordinated movement
+- Mutual protection
+- Communication linked
+
+Typical Convoy Configuration:
+
+TWO-VEHICLE:
+- Lead/Principal combined
+- Follow vehicle
+- Most common commercial
+
+THREE-VEHICLE:
+- Lead vehicle
+- Principal vehicle
+- Follow vehicle
+
+FOUR+ VEHICLE:
+- Advance (well ahead)
+- Lead
+- Principal
+- Follow
+- Reserve/backup
+
+Vehicle Spacing:
+
+NORMAL CONDITIONS:
+- 2-3 car lengths
+- Close enough to react
+- Far enough for manoeuvre
+- Consistent spacing
+
+HIGH THREAT:
+- Closer spacing
+- Prevents cutting in
+- Coordinated movement
+- "Box in" principal vehicle
+
+TRAFFIC:
+- Adapt to conditions
+- Maintain contact
+- Don't lose vehicles
+- Communication crucial
+
+Convoy Discipline:
+- Maintain formation
+- Same speed
+- Signal turns
+- Stay together
+- No overtaking principal
+
+Communication:
+- Constant radio contact
+- Position reports
+- Hazard warnings
+- Commands from lead
+- Acknowledge receipt
+
+Lost Vehicle Procedure:
+- Report immediately
+- Last known location
+- Continue or stop (TL decision)
+- Rally point
+- Regroup plan
+
+Fuel Discipline:
+- All vehicles fuelled together
+- Planned stops
+- Security at fuel stations
+- Never run low
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.6: VEHICLE POSITIONING
+--------------------------------------------------------------------------------
+
+At Locations:
+
+ARRIVAL POSITIONING:
+- Close to entrance
+- Principal exit to pavement
+- Ready to depart
+- Not boxed in
+
+WAITING POSITIONING:
+- Visible to team
+- Quick access
+- Secure location
+- Ready to move
+
+DEPARTURE POSITIONING:
+- In position before principal
+- Engine running
+- Exit route clear
+- Principal enters nearside
+
+During Movement:
+
+LANE POSITIONING:
+- Usually nearside lane (UK)
+- Easy exit to pavement
+- Alternative lanes if needed
+- Avoid being boxed in
+
+AT JUNCTIONS:
+- Room to manoeuvre
+- Not right behind vehicle
+- Can escape if needed
+- Observation of surroundings
+
+AT TRAFFIC LIGHTS:
+- Gap from vehicle ahead
+- Room to pull out
+- Observation
+- Ready to move
+
+Defensive Positioning:
+- Never boxed in
+- Escape routes maintained
+- Space around vehicle
+- Awareness of surroundings
+
+Follow Vehicle Position:
+- Close behind principal
+- Blocks followers
+- Can respond to threats
+- Shields principal vehicle
+
+Lead Vehicle Position:
+- Far enough ahead to warn
+- Close enough to support
+- Route clearance
+- First contact with problems
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.7: ANTI-AMBUSH DRILLS
+--------------------------------------------------------------------------------
+
+Ambush Recognition:
+- Road blocked
+- Vehicles forcing stop
+- Armed individuals
+- Coordinated attack
+- Hostile environment
+
+Types of Ambush:
+
+VEHICLE BLOCK:
+- Cars blocking road
+- Forced stop
+- Attack from sides
+- Simulated accident
+
+ARMED AMBUSH:
+- Weapons involved
+- Life threatening
+- Immediate response
+- Fight or flight
+
+PEDESTRIAN ATTACK:
+- Attackers on foot
+- Approaching vehicle
+- At stop points
+- Windows targeted
+
+Anti-Ambush Actions:
+
+IF MOBILE:
+- Do NOT stop
+- Accelerate through/around
+- Ram if necessary
+- Escape route
+- Report
+
+IF STOPPED:
+- Immediate assessment
+- Reverse if possible
+- Alternative route
+- Protect principal
+- Call for help
+
+Ramming Techniques:
+- Last resort
+- Aim for weakest point
+- Rear quarter of blocking vehicle
+- Accelerate through
+- Maintain momentum
+
+J-Turn:
+- Emergency reverse
+- 180° turn
+- Escape direction
+- Practiced skill
+- Driver training
+
+Bootleg Turn:
+- Forward 180° turn
+- Handbrake turn
+- Change direction rapidly
+- Emergency use only
+
+Vehicle as Weapon:
+- Protection tool
+- Ram attackers if necessary
+- Protect principal
+- Legal justification needed
+- Proportionate response
+
+Post-Ambush:
+- Continue to safety
+- Report immediately
+- Check for injuries
+- Police notification
+- Do not return to scene
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.8: ACTIONS AT INCIDENTS
+--------------------------------------------------------------------------------
+
+Vehicle Breakdown:
+
+ACTIONS:
+- Move to safe location if possible
+- Hazard lights
+- Secure principal
+- Call for backup
+- Consider transfer
+- Stay with vehicle or evacuate (assess)
+
+TRANSFER:
+- Backup vehicle
+- To safe location
+- Maintain security
+- Principal priority
+
+Road Traffic Accident:
+
+PRINCIPAL VEHICLE INVOLVED:
+- Assess injuries
+- Principal safety first
+- Secure scene
+- Call emergency services
+- Transfer if necessary
+
+WITNESS TO ACCIDENT:
+- Decision: stop or continue
+- Principal safety priority
+- Render aid if safe
+- Report if continuing
+
+Breakdown of Follow/Lead:
+- Report immediately
+- Principal vehicle continues
+- Security implications
+- Backup plan activated
+
+Medical Emergency:
+- Stop safely
+- Assess emergency
+- First aid if trained
+- Call ambulance
+- Hospital route (emergency)
+
+Fire:
+- Stop immediately
+- Exit vehicle
+- Move away
+- Do not open bonnet
+- Emergency services
+
+Suspicious Approach:
+- Do not stop
+- Lock doors
+- Close windows
+- Keep moving
+- Report
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.9: DRIVER SKILLS AND RESPONSIBILITIES
+--------------------------------------------------------------------------------
+
+Security Driver Role:
+- Vehicle operation
+- Principal safety
+- Route execution
+- Emergency response
+- Team member
+
+Key Skills:
+
+DEFENSIVE DRIVING:
+- Anticipation
+- Observation
+- Safe distances
+- Hazard awareness
+
+EVASIVE DRIVING:
+- J-turns
+- Emergency stops
+- Ramming
+- High-speed manoeuvres
+
+LOCAL KNOWLEDGE:
+- Routes
+- Alternative routes
+- Traffic patterns
+- Key locations
+
+Driver Responsibilities:
+
+BEFORE JOURNEY:
+- Vehicle checks
+- Fuel level
+- Equipment
+- Route knowledge
+- Communication check
+
+DURING JOURNEY:
+- Safe driving
+- Formation maintenance
+- Threat awareness
+- Communication
+- Principal comfort
+
+AFTER JOURNEY:
+- Secure parking
+- Vehicle check
+- Reporting
+- Preparation for next journey
+
+Driver Positioning:
+- Full-time role ideally
+- Or CPO who drives
+- Stays with vehicle
+- Ready to move
+- Communication equipped
+
+Driver Training:
+- Advanced driving
+- Defensive techniques
+- Evasive manoeuvres
+- Vehicle familiarisation
+- Regular practice
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 25
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 10 questions (40%)
+- Medium (application): 10 questions (40%)
+- Hard (scenario-based): 5 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 6-7 questions
+- Correct answer B: 6-7 questions
+- Correct answer C: 6-7 questions
+- Correct answer D: 6-7 questions
+
+TOPICS TO COVER:
+□ Vehicle security principles (2-3 questions)
+□ Vehicle pre-checks (3-4 questions)
+□ Embus drills (3-4 questions)
+□ Debus drills (3-4 questions)
+□ Convoy procedures (3-4 questions)
+□ Vehicle positioning (3-4 questions)
+□ Anti-ambush drills (3-4 questions)
+□ Actions at incidents (2-3 questions)
+□ Driver responsibilities (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.6: VEHICLE OPERATIONS
+================================================================================
+
+Question 1 [Easy]
+In the UK, where should the principal normally sit in the vehicle?
+
+A) Front passenger seat
+B) Rear nearside (behind front passenger)
+C) Rear offside (behind driver)
+D) Driver's seat
+
+Correct Answer: B
+
+Explanation: In the UK, the principal normally sits rear nearside - behind 
+the front passenger seat. This position allows the principal to exit onto 
+the pavement (nearside) rather than into traffic. The front passenger seat 
+is typically occupied by the PPO/CPO.
+
+---
+
+[Continue for all 25 questions]
+
+================================================================================
+END OF CHAPTER 2.6 QUESTIONS
+================================================================================
+
+Total Questions: 25
+- Easy: 10
+- Medium: 10
+- Hard: 5
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+80/20 RULE:
+- 80% of attacks occur during transit
+- Vehicle operations are high risk
+
+PRINCIPAL'S POSITION (UK):
+- Rear nearside (behind front passenger)
+- Exits onto pavement
+- Protected position
+
+EMBUS SEQUENCE:
+- Approach → Position → Entry → Secure
+- CPO opens door, principal enters, door closed
+- Minimise exposure time
+
+DEBUS SEQUENCE:
+- CPO exits first
+- Scans environment
+- Opens principal's door
+- Shields principal
+- Formation forms
+
+THREE-VEHICLE CONVOY:
+- Lead vehicle (front)
+- Principal vehicle (middle)
+- Follow vehicle (rear)
+
+ANTI-AMBUSH - IF MOBILE:
+- Do NOT stop
+- Accelerate through/around
+- Ram if necessary
+- Escape
+
+ANTI-AMBUSH - IF STOPPED:
+- Immediate assessment
+- Reverse if possible
+- Alternative route
+- Call for help
+
+VEHICLE POSITIONING:
+- Never boxed in
+- Room to manoeuvre
+- Space from vehicle ahead at junctions
+- Exit routes maintained
+
+DRIVER MANOEUVRES:
+- J-turn (emergency reverse 180°)
+- Bootleg turn (forward 180°)
+- Ramming (last resort, weakest point)
+
+COMMON DISTRACTORS:
+- Principal sits rear offside in UK (wrong - nearside)
+- Principal exits first (wrong - CPO first)
+- Stop at ambush to assess (wrong - do NOT stop if mobile)
+- Lead vehicle behind principal (wrong - in front)
+- Ram front of blocking vehicle (wrong - rear quarter)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "Before the principal enters the vehicle, the CPO should..."
+- "During debus, the CPO should exit from which position..."
+- "If the convoy encounters a road block, the immediate action is..."
+- "In a three-vehicle convoy, the principal travels in..."
+- "When stopped at traffic lights, the driver should..."
+- "A vehicle has been left unattended. Before use..."
+- "The purpose of the follow vehicle is..."
+
+================================================================================
+END OF PROMPT
+================================================================================

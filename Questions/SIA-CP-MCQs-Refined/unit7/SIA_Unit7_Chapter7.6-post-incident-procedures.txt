@@ -1,0 +1,310 @@
+================================================================================
+UNIT 7, CHAPTER 7.6: POST-INTERVENTION AND PERSONAL WELFARE
+Question 1 [Easy] – Immediate post‑incident priorities
+
+What is the correct priority sequence immediately after physical intervention?
+
+A) Document, Communicate, Secure, Medical
+B) Secure, Medical, Communicate, Preserve
+C) Medical, Document, Preserve, Communicate
+D) Communicate, Preserve, Medical, Secure
+
+Correct Answer: B
+
+Explanation: The correct priority sequence after physical intervention is: SECURE (ensure the scene is safe and the threat is neutralised), MEDICAL (check for injuries, give first aid, call an ambulance if needed), COMMUNICATE (contact emergency services and your supervisor), PRESERVE (protect evidence, identify witnesses). Scene security must come first to prevent further harm.
+
+Question 2 [Easy] – When to call 999
+
+After securing the scene and checking for immediate injuries, when is it normally appropriate to contact the emergency services on 999?
+
+A) Only if a member of the public insists you call them
+B) Only if your employer tells you to
+C) When there is a serious injury, medical emergency, crime, or other emergency situation
+D) Whenever any physical contact has taken place, regardless of circumstances
+
+Correct Answer: C
+
+Explanation: 999 should be called when there is a serious injury, clear medical emergency, a crime that needs immediate police response, or any other emergency situation. Minor, non‑injury incidents without ongoing risk can often be managed via internal procedures and non‑emergency contact numbers.
+
+Question 3 [Medium] – Applying the priority sequence
+
+During an intervention at a venue, you and a colleague restrain an aggressive male who tried to attack your principal. The man is now under control, the principal is safe, and the room has been cleared. A bystander is holding their wrist and your colleague has a cut on his forehead. What is the MOST appropriate next action?
+
+A) Start writing your incident notes while the scene is quiet
+B) Ask staff to move the restrained subject to a back corridor to “get them out of the way”
+C) Check only the principal, as they are your primary responsibility
+D) Carry out a quick medical assessment of everyone involved, prioritising the most serious injuries first
+
+Correct Answer: D
+
+Explanation: Once the scene is secure, the next priority is medical: check all parties (principal, subject, staff, bystanders) and deal with life‑threatening and serious injuries first. Documentation and moving people come later and should not compromise safety or medical care.
+
+Question 4 [Easy] – Contemporaneous notes
+
+Contemporaneous notes are BEST described as:
+
+A) Notes made at the time of the incident or as soon as possible afterwards while events are still fresh
+B) A management summary of the incident written weeks later
+C) A typed report produced by another staff member from your verbal account
+D) A script prepared by a colleague to ensure all staff say the same thing
+
+Correct Answer: A
+
+Explanation: Contemporaneous notes are written at the time or immediately after the incident and capture key facts while your memory is fresh. They are considered highly reliable and may be used in investigations or court proceedings.
+GOV.UK
+
+Question 5 [Medium] – Factual reporting
+
+Which of the following incident report entries BEST follows the principle of factual, objective reporting?
+
+A) “The subject was obviously on drugs and looking for trouble.”
+B) “At approximately 23:15 the male shouted ‘I’m going to smash this place up’ and punched the table with his right fist.”
+C) “The subject seemed very aggressive, so I sensibly decided to restrain him.”
+D) “The subject was dangerous and the team acted perfectly.”
+
+Correct Answer: B
+
+Explanation: Option B records observable facts (time, words used, actions taken) without opinion or judgement. The other options include speculative language (“obviously on drugs”, “dangerous”, “sensibly”) which is not appropriate in an objective incident report.
+
+Question 6 [Medium] – Chronological structure
+
+When completing an incident report after a physical intervention, which approach BEST meets the requirement for a chronological record?
+
+A) Start with what you think caused the incident, then describe events in whatever order you remember them
+B) Begin with the final outcome and injuries, then add earlier details if you remember them later
+C) Describe events in the order they happened, including times where possible, from first observation through to handover and debrief
+D) Only describe your own actions and omit what the subject and colleagues did
+
+Correct Answer: C
+
+Explanation: Reports should be chronological, giving a clear timeline from what you first noticed through to the end of the incident and handover. This helps investigators understand exactly what occurred and when, and supports the justification for your actions.
+
+Question 7 [Easy] – Explaining the threat
+
+Which information is MOST important to include when explaining why force was necessary in your incident report?
+
+A) Only the number of people involved in the incident
+B) Only the name of the physical intervention technique you used
+C) Only that your supervisor told you to intervene
+D) The nature and severity of the threat, why force was required, and how you perceived the situation at the time
+
+Correct Answer: D
+
+Explanation: You must record what the threat was, how serious you believed it to be, and why physical intervention was necessary in that moment. Your honest perception at the time is crucial in assessing whether the use of force was reasonable and proportionate.
+GOV.UK
+
+Question 8 [Easy] – Handling physical evidence
+
+After an incident in a hotel lobby, there is broken glass on the floor and a knife that the subject dropped. What should you do about these items?
+
+A) Keep the area secure and prevent contamination, avoiding moving items unless necessary for safety
+B) Pick up the knife with a cloth, clean it and put it away so guests cannot see it
+C) Move all items into a cupboard so the police can look at them later
+D) Sweep up the glass immediately and throw it away to make the area tidy
+
+Correct Answer: A
+
+Explanation: Physical evidence such as weapons and damaged items should be left in place, the area secured, and contamination prevented. Items should only be moved if necessary to maintain safety, and their original positions should be noted or photographed where possible.
+
+Question 9 [Medium] – CCTV preservation
+
+You are involved in a struggle in a shopping centre where multiple cameras cover the area. Once the scene is safe and any urgent medical needs are dealt with, what is the MOST appropriate action regarding CCTV?
+
+A) Do nothing – CCTV is always saved automatically
+B) Promptly request that relevant CCTV footage is preserved for the specific time period and camera locations involved
+C) Wait until the following week and then ask if any footage still exists
+D) Just mention in your report that there “may be CCTV” and leave it at that
+
+Correct Answer: B
+
+Explanation: CCTV is not always kept automatically. You should request that relevant footage is retained immediately, specifying time window and camera locations, and record that request in your notes or report. This helps ensure key evidence is not overwritten.
+Mantec College
+
+Question 10 [Hard] – Managing witnesses
+
+After a serious restraint in a venue, police are on their way. Several members of the public saw what happened. Which action is MOST appropriate?
+
+A) Ask all witnesses to stay together and agree on what they think they saw, then take a single group statement
+B) Take each witness aside and ask detailed, leading questions so their accounts match your own
+C) Allow all witnesses to leave immediately without taking any details, as the police can trace them later if needed
+D) Identify potential witnesses, obtain their names and contact details, note a brief summary of what they say, and keep them separate until police arrive
+
+Correct Answer: D
+
+Explanation: Your role is to identify and preserve witnesses, not to conduct full interviews. Take brief notes, get contact details, and keep witnesses separate to avoid their accounts influencing each other. Detailed interviewing is for the police or investigators.
+
+Question 11 [Medium] – Initial account to police
+
+You are still shaken directly after an incident when an attending police officer asks, “Can you tell me what happened?” What is the MOST appropriate response?
+
+A) Give a long, detailed statement immediately, including what you think other people were thinking
+B) Refuse to say anything at all until you have seen all CCTV footage
+C) Provide a brief factual summary of what happened and what force you used, explaining that a full statement can follow once you have composed yourself (and had legal advice if needed)
+D) Give your opinion about the subject’s background and what your colleagues probably did
+
+Correct Answer: C
+
+Explanation: Good practice is to give an initial, basic factual account of the incident and force used, while recognising your right to legal advice and time to recover from shock before providing a full, detailed statement.
+College of Policing
++1
+
+Question 12 [Hard] – Rights and cooperation
+
+Following a serious incident where the subject is badly injured, you are told you may need to give a formal statement. You feel very upset. Which approach BEST balances your rights and your duty to cooperate?
+
+A) Request legal advice and time to compose yourself, then give a full, honest statement based on your notes and memory when you are ready
+B) Sign any statement written by your supervisor so you can go home quickly
+C) Refuse to provide any information at all to police or your employer
+D) Discuss the incident in detail with colleagues first so you can “get your stories straight” before speaking to investigators
+
+Correct Answer: A
+
+Explanation: You must cooperate fully with investigations but also have the right to legal representation, time to recover and to review your notes before making a formal statement. You should never sign a statement you do not understand, nor confer with colleagues about the details of your evidence.
+College of Policing
++1
+
+Question 13 [Easy] – Possible outcomes
+
+Which option BEST describes what “no further action” (NFA) normally means after a use‑of‑force investigation?
+
+A) Your licence is automatically revoked
+B) The authorities accept that the force used was lawful and justified, and the case is closed
+C) You are found guilty of an offence but receive only a warning
+D) Your employer must dismiss you even if you did nothing wrong
+
+Correct Answer: B
+
+Explanation: No further action means the investigating authority (e.g. police, CPS) has decided that no criminal proceedings are necessary, usually because the use of force is considered lawful and justified in the circumstances.
+
+Question 14 [Easy] – Normal stress reactions
+
+Which of the following is a NORMAL short‑term reaction after being involved in a frightening incident?
+
+A) Drinking heavily every night for several weeks
+B) Feeling nothing about any event for months and avoiding everyone
+C) Feeling more on edge, having difficulty sleeping and mentally replaying the incident for a while
+D) Regularly shouting at colleagues and clients who have done nothing wrong
+
+Correct Answer: C
+
+Explanation: After a traumatic event it is common to experience heightened alertness, disturbed sleep, intrusive thoughts and replaying events for a short period. These are normal stress reactions; they usually improve with time and support. Persistent or worsening symptoms may require professional help.
+Kent Police
+
+Question 15 [Medium] – When to seek help
+
+A week after a violent confrontation you are still having nightmares and think about the incident a lot. Over the next few weeks your sleep gets worse, your mood is low and colleagues notice you are more irritable. What should you do?
+
+A) Keep it to yourself – this is just part of the job
+B) Increase your alcohol intake to help you sleep
+C) Leave it another few months to see if it goes away on its own
+D) Seek professional help (for example through your GP, counsellor or occupational health) and let your employer know you are struggling
+
+Correct Answer: D
+
+Explanation: If symptoms persist, worsen, or affect your work or home life, you should seek professional help early. Support can be accessed through your GP, counselling services or occupational health, and your employer may have welfare programmes to assist you.
+Kent Police
++1
+
+Question 16 [Hard] – Physical welfare after an incident
+
+After a long, stressful shift that included a physical intervention, you feel fine and decline medical attention. At home you notice a painful swelling on your wrist and a small cut that was in contact with the subject’s blood. You are due to drive a long distance back to work early the next morning. What is the MOST appropriate action?
+
+A) Inform your supervisor, seek medical assessment for the injury and blood exposure, and ensure you are fit to work or drive before your next shift
+B) Just wash the cut, ignore the swelling and continue as normal
+C) Take strong painkillers, drive as planned and avoid telling anyone in case you are taken off duty
+D) Cover the cut with tape and rely on alcohol to help you sleep
+
+Correct Answer: A
+
+Explanation: Adrenaline can mask pain and injury immediately after incidents, and blood exposure may carry infection risks. You should report concerns, seek medical advice and not drive or return to duty if your injury, tiredness or emotional state could affect safety.
+GOV.UK
+
+Question 17 [Medium] – Types of debrief
+
+Which description MOST accurately matches a formal debrief after an incident?
+
+A) A very brief discussion immediately after the incident focusing on immediate safety and any urgent welfare issues
+B) A structured meeting 24–72 hours later where all participants review what happened in detail and learning points are documented
+C) An informal chat with a colleague several weeks later about how the incident made you feel
+D) A confidential one‑to‑one meeting purely to explore how you are coping emotionally and what support you need
+
+Correct Answer: B
+
+Explanation: A formal debrief normally takes place later (often 24–72 hours), involves all relevant participants, and provides a detailed, documented review of what happened, what worked, what did not, and how practice can improve. Option A describes a hot debrief; option D is more like a welfare‑focused debrief.
+
+Question 18 [Easy] – Sources of support
+
+Which option lists only appropriate sources of support for a close protection operative following a distressing incident?
+
+A) Social media followers and anonymous online forums
+B) Mainly alcohol and recreational drugs to “switch off”
+C) Colleagues, line manager, GP or counsellor, and employer welfare schemes such as an employee assistance programme
+D) No one – dealing with it alone so you do not appear weak
+
+Correct Answer: C
+
+Explanation: Good support can come from trusted colleagues, supervisors, professional services (GP, counsellor, occupational health) and employer welfare schemes such as employee assistance programmes. Reliance on alcohol/drugs or complete isolation is unhealthy and can make problems worse.
+NCSC
++1
+
+Question 19 [Medium] – Learning and prevention
+
+During a debrief after an incident, which question is MOST in line with a prevention‑focused and learning‑focused approach?
+
+A) “Who can we blame so this does not reflect badly on the team?”
+B) “How can we write the report so it shows we did nothing wrong?”
+C) “How can we make sure we always deal with incidents in exactly the same way next time?”
+D) “What worked well and what could we change, including earlier de‑escalation or risk controls, to reduce the chance of a similar incident?”
+
+Correct Answer: D
+
+Explanation: Effective debriefs should be blame‑free and focus on learning and prevention – understanding what worked, what did not, and how procedures, communication or training could be improved to reduce future risk.
+
+Question 20 [Easy] – Reflective practice
+
+Reflective practice in close protection is BEST described as:
+
+A) Regularly thinking about your work and incidents to identify learning and improve future performance
+B) Focusing on what management did wrong and complaining about it to colleagues
+C) Only reading company policies once, when you first start work
+D) Repeating the same approach to incidents because “it worked last time”
+
+Correct Answer: A
+
+Explanation: Reflective practice means deliberately thinking about your actions and experiences, identifying what went well and what could be improved, and using that learning to develop professionally and reduce future risk.
+
+Question 21 [Hard] – Ongoing professional development
+
+A close protection operative gains their SIA licence and successfully completes their physical intervention training. Several years later, there have been legal and industry changes. Which approach BEST demonstrates maintaining competence and professional development?
+
+A) Rely on the original training only – once qualified, no further learning is needed
+B) Practise physical techniques occasionally but ignore changes in law and industry guidance
+C) Keep the licence renewed, attend refresher and update training, stay informed about legal and industry changes, and reflect on incidents to improve skills
+D) Avoid any jobs where physical intervention might be needed so you do not have to update your skills
+
+Correct Answer: C
+
+Explanation: Maintaining competence means keeping your licence valid, attending regular refresher/update training, staying aware of legal and industry changes, and using reflective practice to develop your skills. This aligns with SIA expectations that licence holders keep their knowledge and abilities up to date.
+GOV.UK
++1
+
+================================================================================
+END OF CHAPTER 7.6 QUESTIONS
+
+Total Questions: 21
+
+Easy: 9
+
+Medium: 8
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 5 questions (Q4, Q8, Q12, Q16, Q20)
+
+Correct answer B: 5 questions (Q1, Q5, Q9, Q13, Q17)
+
+Correct answer C: 6 questions (Q2, Q6, Q11, Q14, Q18, Q21)
+
+Correct answer D: 5 questions (Q3, Q7, Q10, Q15, Q19)

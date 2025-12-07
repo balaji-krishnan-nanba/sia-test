@@ -1,0 +1,378 @@
+================================================================================
+UNIT 2, CHAPTER 2.2: LAW RELEVANT TO SECURITY OFFICERS
+
+Question 1 [Easy]
+In most civil court cases in England and Wales, which standard of proof is used to decide the case?
+A) Reasonable suspicion
+B) Balance of probabilities
+C) Absolute certainty
+D) Beyond reasonable doubt
+Correct Answer: B
+Explanation:
+Civil cases (for example, negligence or breach of contract) are decided on the balance of probabilities – the judge asks which side is more likely than not to be correct. Criminal cases use the higher standard of beyond reasonable doubt because the consequences can include loss of liberty.
+
+Question 2 [Easy]
+Who normally prosecutes criminal cases on behalf of the state in England and Wales?
+A) The claimant
+B) The defendant
+C) The Crown Prosecution Service (CPS)
+D) The security company involved
+Correct Answer: C
+Explanation:
+In criminal law, offences are viewed as against the state. The police investigate and then, in most cases, the Crown Prosecution Service (CPS) decides whether to charge and prosecutes the case in court on behalf of the Crown.
+
+Question 3 [Hard]
+A customer punches another customer in a shopping centre. The police arrest the attacker for assault. Later, the victim starts a separate court case to claim compensation for their injuries. Which statement BEST describes the legal position?
+A) The victim cannot bring any legal action once the police have made an arrest
+B) Only criminal law applies, because violence is always a matter for the state
+C) Only civil law applies, because it is a dispute between two individuals
+D) Both criminal and civil law can apply: the assault is a criminal offence and the victim can bring a civil claim for damages
+Correct Answer: D
+Explanation:
+An assault is a criminal offence, so the state (via the CPS) can prosecute. At the same time, the victim can bring a civil claim for compensation for their injuries and losses. The same incident can therefore lead to both criminal proceedings and a separate civil action.
+
+Question 4 [Easy]
+Which extra element must be present for an offence to be robbery rather than simple theft?
+A) The property must be taken from a shop
+B) The property must be of very high value
+C) The property must be taken at night
+D) The offender must use or threaten force at the time of the theft
+Correct Answer: D
+Explanation:
+Robbery is essentially theft combined with the use or threat of force at the time of stealing (or immediately before it) in order to steal. If there is theft but no use or threat of force, it remains simple theft rather than robbery.
+Wikipedia
+
+Question 5 [Easy]
+Which piece of legislation contains the main legal definition of theft in England and Wales?
+A) Criminal Damage Act 1971
+B) Police and Criminal Evidence Act 1984
+C) Equality Act 2010
+D) Theft Act 1968
+Correct Answer: D
+Explanation:
+Section 1 of the Theft Act 1968 sets out the key definition of theft: it involves dishonestly appropriating property belonging to another with the intention of permanently depriving the other of it.
+Legislation.gov.uk
++1
+
+Question 6 [Medium]
+A man is stopped at 2 a.m. near closed shop units carrying a large screwdriver and a torch. He tells a security officer he plans to “break into one of the units later.” Which offence does this behaviour MOST closely relate to?
+A) Going equipped for theft or burglary
+B) Handling stolen goods
+C) Criminal damage
+D) Theft
+Correct Answer: A
+Explanation:
+“Going equipped” is about having articles for use in theft, burglary or fraud while away from home, with criminal intent. The screwdriver and torch are ordinary items, but his admission about intending to break in points towards the offence of going equipped rather than completed theft or handling.
+
+Question 7 [Medium]
+A person climbs through a broken window into an office building at night, knowing they have no permission to be there, intending to steal laptops from inside. Which offence BEST describes this conduct?
+A) Burglary
+B) Robbery
+C) Handling stolen goods
+D) Going equipped
+Correct Answer: A
+Explanation:
+Burglary involves entering a building as a trespasser with intent to steal, inflict grievous bodily harm, or cause unlawful damage, or actually doing so once inside. Here, the person enters as a trespasser with intent to steal laptops, which fits the definition of burglary.
+
+Question 8 [Hard]
+During a patrol on a retail park, a security officer sees a man selling brand‑new laptops cheaply from the back of a van. Police later confirm the laptops were stolen from a nearby warehouse earlier that night. The man says, “I didn’t break in, I just agreed to sell them for a friend.” Assuming he knew or believed they were stolen, which MAIN offence is he likely to have committed?
+A) Theft
+B) Going equipped for burglary
+C) Burglary
+D) Handling stolen goods
+Correct Answer: D
+Explanation:
+Handling stolen goods covers receiving or dealing with property which a person knows or believes to be stolen, or helping to keep, remove, dispose of or realise it. The offender is helping to dispose of stolen laptops, rather than stealing them in the original burglary, so handling stolen goods is the most appropriate offence.
+LawTeacher.net
+
+Question 9 [Easy]
+Which of the following BEST describes the basic offence of criminal damage?
+A) Entering a building as a trespasser with intent to steal
+B) Taking property belonging to another dishonestly with intent to permanently deprive
+C) Destroying or damaging property belonging to another, without lawful excuse, intentionally or recklessly
+D) Using or threatening force in order to steal property from a person
+Correct Answer: C
+Explanation:
+The Criminal Damage Act 1971 makes it an offence to destroy or damage property belonging to another without lawful excuse, either intentionally or recklessly. The other options describe theft, robbery and burglary, which are separate offences.
+
+Question 10 [Medium]
+Which situation is MOST likely to provide a lawful excuse for what would otherwise be criminal damage?
+A) A security officer deliberately smashes a customer’s phone because they were rude
+B) A contractor honestly believes the shop owner has asked them to remove an internal wall, but later it turns out they were mistaken
+C) A drunk person kicks a bus shelter “for a laugh” and cracks the glass
+D) A customer spray‑paints a wall to protest about high prices
+Correct Answer: B
+Explanation:
+For criminal damage, there is a lawful excuse if the person honestly believes the owner has consented, or would consent, to the damage, or they act to protect property. A contractor honestly (even if mistakenly) believing they had permission can amount to a lawful excuse; the other examples involve deliberate, unjustified damage.
+
+Question 11 [Hard]
+An offender places a petrol bomb under a car parked beneath a block of flats. The device explodes, destroying the car and shattering several windows in the flats. Residents were inside at the time, and lives were clearly put at risk. Which offence is MOST likely?
+A) Common assault
+B) Aggravated burglary
+C) Basic criminal damage only
+D) Aggravated criminal damage/arson
+Correct Answer: D
+Explanation:
+Criminal damage caused by fire is charged as arson. Where the damage is done with intent to endanger life, or being reckless as to whether life is endangered, it becomes aggravated criminal damage or aggravated arson. Damaging a car with a petrol bomb under occupied flats plainly risks life, so aggravated arson is likely.
+
+Question 12 [Easy]
+Which offence involves an assault that causes injuries such as bruising or minor cuts that are “more than trivial”?
+A) Grievous bodily harm (GBH)
+B) Assault occasioning actual bodily harm (ABH)
+C) Common assault
+D) Harassment
+Correct Answer: B
+Explanation:
+Assault occasioning actual bodily harm (ABH) under section 47 of the Offences Against the Person Act 1861 involves an assault that results in actual bodily harm – injuries more than “transient or trifling”, such as bruising or minor cuts. Common assault does not require any injury, and GBH involves much more serious harm.
+
+Question 13 [Easy]
+Which statement BEST describes common assault?
+A) Causing serious injury such as broken bones or deep stab wounds
+B) Intentionally or recklessly causing someone to fear immediate unlawful violence, or applying very minor unlawful force
+C) Using or threatening force in order to steal property from a person
+D) Carrying out a course of conduct which causes someone alarm or distress on more than one occasion
+Correct Answer: B
+Explanation:
+Common assault covers both making someone fear immediate unlawful violence and applying minor unlawful force (often called battery), even if there is no visible injury. Serious injury is more likely to be ABH or GBH, and a repeated course of conduct causing alarm or distress is harassment.
+
+Question 14 [Medium]
+Two groups of youths start fighting violently in a shopping centre. Their behaviour is so aggressive that bystanders of reasonable firmness feel frightened and move away. Which offence does this MOST closely match?
+A) Affray
+B) Harassment
+C) Grievous bodily harm (GBH)
+D) Common assault
+Correct Answer: A
+Explanation:
+Affray involves using or threatening unlawful violence in a way that would cause a person of reasonable firmness to fear for their safety, even if that person is not actually present. A public brawl in a shopping centre that frightens bystanders is a typical example of affray.
+
+Question 15 [Hard]
+In a shopping centre food court, a man deliberately smashes a glass into another person's face, causing deep cuts and permanent scarring. CCTV shows he aimed directly at the victim's head. Which offence is MOST likely, assuming the intent can be proved?
+A) Assault occasioning actual bodily harm (ABH)
+B) Grievous bodily harm with intent (section 18)
+C) Harassment
+D) Common assault
+Correct Answer: B
+Explanation:
+Serious injuries such as deep cuts and permanent scarring are likely to be classed as grievous bodily harm (GBH). Where the prosecution can show that the attacker intended to cause really serious harm, the appropriate charge is usually GBH with intent under section 18 of the Offences Against the Person Act 1861, an indictable‑only offence.
+
+Question 16 [Easy]
+How is trespass to land usually treated when someone enters private property without permission but commits no other offence?
+A) As a summary‑only criminal offence requiring immediate arrest
+B) As always a criminal offence, whether the owner objects or not
+C) As an indictable‑only criminal offence
+D) As generally a civil matter between the occupier and the trespasser
+Correct Answer: D
+Explanation:
+Simple trespass – being on land without permission or remaining after being asked to leave – is usually a civil matter. The occupier can ask the person to leave and may use reasonable force as a last resort, but it is not normally a criminal offence unless specific laws on criminal or aggravated trespass apply.
+
+Question 17 [Easy]
+Which of the following is an example of civil trespass?
+A) Remaining on private premises after being clearly asked to leave by the occupier or their security officer
+B) Using threatening words and behaviour in a public street
+C) Stealing goods from a supermarket shelf
+D) Smashing a shop window during an argument
+Correct Answer: A
+Explanation:
+Trespass includes refusing to leave land or premises after permission is withdrawn. That is generally dealt with as a civil matter. Smashing windows, stealing goods or using threatening behaviour are criminal offences (criminal damage, theft and public order offences).
+
+Question 18 [Medium]
+A group of activists climb over a fence into a construction site and sit on machinery, refusing to move so work cannot continue. They are trespassing and deliberately disrupting lawful activity on the site. Which offence could this behaviour amount to?
+A) Robbery
+B) Aggravated trespass
+C) Handling stolen goods
+D) Basic civil trespass only
+Correct Answer: B
+Explanation:
+Aggravated trespass occurs when a person trespasses on land with the intention of disrupting, obstructing or intimidating those engaged in lawful activities there. Deliberately stopping work on the construction site while trespassing fits the definition of aggravated trespass, which is a criminal offence.
+
+Question 19 [Easy]
+Section 3 of the Criminal Law Act 1967 allows any person to use reasonable force for which purpose?
+A) To prevent crime or to effect or assist in a lawful arrest
+B) To force a suspect to confess to an offence
+C) To make people obey house rules even if no crime is involved
+D) To punish someone who has committed a crime
+Correct Answer: A
+Explanation:
+Section 3 of the Criminal Law Act 1967 says that a person may use such force as is reasonable in the circumstances in the prevention of crime, or in effecting or assisting a lawful arrest. This applies to any person, not just police officers, but the force used must still be necessary and proportionate.
+Legislation.gov.uk
++1
+
+Question 20 [Medium]
+When deciding whether a security officer’s use of force was reasonable, which factor should a court focus on MOST?
+A) Whether the suspect later complained about the incident
+B) Whether CCTV later shows the suspect was actually unarmed
+C) Whether the officer used any force at all
+D) What the officer honestly believed was happening at the time, including the level and immediacy of the threat and the options available
+Correct Answer: D
+Explanation:
+Reasonableness is judged on the circumstances as the officer honestly believed them to be at the time, not with hindsight. The court will look at the perceived threat, how immediate it was, what options were available, and whether the response was proportionate to that perceived threat.
+
+Question 21 [Medium]
+A shoplifter pushes past a security officer and runs out of the store. The officer stops him just outside and, after a brief struggle, the offender lies on the ground and stops resisting. The officer then continues to strike the offender several times as “payback”. What is the MAIN problem with the officer’s actions?
+A) The officer should never have followed the shoplifter outside the store
+B) The officer was not allowed to touch the offender at any point
+C) The force has become excessive because it is now being used as punishment after the threat has ended
+D) The officer should have used a weapon instead of their hands
+Correct Answer: C
+Explanation:
+Force must be necessary and proportionate. Once the offender has stopped resisting and is under control, any further blows are no longer about preventing crime or defending oneself; they become punishment or revenge. Punitive or excessive force is unlawful and likely to be criticised by the courts and regulators.
+
+Question 22 [Medium]
+During a busy evening queue at a shopping centre entrance, a customer becomes aggressive, raises a clenched fist and moves quickly towards a security officer while shouting threats. The officer honestly believes he is about to be punched and pushes the customer away before the punch is thrown, taking him to the ground. Which statement BEST reflects the legal position?
+A) Security officers may only use force after the police give permission
+B) Force is always lawful once someone swears at you
+C) Pre‑emptive force can be lawful in self‑defence if the officer honestly believes an attack is imminent and uses only reasonable force
+D) The force is unlawful because you must wait to be hit before acting
+Correct Answer: C
+Explanation:
+Self‑defence and prevention of crime do not require a person to wait to be attacked. If an officer honestly believes an attack is imminent, they may take reasonable pre‑emptive action. The key tests remain necessity and proportionality based on what the officer honestly believed at the time.
+Wikipedia
+
+Question 23 [Hard]
+Two guards detain a suspected shoplifter who was struggling violently. After a few minutes the suspect stops resisting and says they cannot breathe. One guard wants to keep the suspect face‑down with full bodyweight on their back “until the police arrive”, which may be 15 minutes. To stay within the law on use of force and human rights, what should the other guard do?
+A) Sit on the suspect’s chest instead, because that is a different technique
+B) Release the suspect immediately and walk away, because force can never be used for more than one minute
+C) Keep full bodyweight on the suspect until police arrive to make sure they cannot escape
+D) Reduce the level of force as soon as it is safe, move the suspect into a safer position, monitor their condition and call for urgent medical help if needed, while still preventing escape if necessary
+Correct Answer: D
+Explanation:
+Force must be the minimum necessary and must not create unnecessary risks to life or cause inhuman or degrading treatment. Keeping someone face‑down with bodyweight on their back after they stop struggling is dangerous and could breach Article 2 (right to life) and Article 3 (freedom from inhuman or degrading treatment). The correct approach is to de‑escalate, keep monitoring their welfare and still prevent escape where necessary.
+equalityhumanrights.com
++1
+
+Question 24 [Easy]
+Under section 24A of the Police and Criminal Evidence Act 1984, a security officer using “any person” powers may normally arrest someone only in relation to which type of offence?
+A) Indictable offences, such as theft or burglary
+B) Any minor summary‑only offence
+C) Civil disputes such as ordinary trespass
+D) Parking offences
+Correct Answer: A
+Explanation:
+Section 24A PACE allows “any person” (including security officers) to arrest someone only for indictable offences – generally more serious offences such as theft, burglary or ABH. It does not apply to most summary‑only offences, nor to purely civil matters.
+Wikipedia
++1
+
+Question 25 [Medium]
+A security officer personally sees a customer conceal expensive perfume in a bag and leave the store without paying. The officer stops the customer just outside, and reasonably believes they are trying to escape. No police are nearby. Which action BEST fits the officer’s legal power of arrest?
+A) Lock the customer in a back room for several hours to “teach them a lesson” before calling the police
+B) Arrest the customer, then drive them to their home to look for more stolen goods without consent
+C) Let the customer go because security officers are never allowed to arrest anyone
+D) Arrest the customer using “any person” powers for the indictable offence of theft and call the police immediately
+Correct Answer: D
+Explanation:
+Theft is an indictable offence, and the officer has personally seen it happening and believes the suspect may make off before police arrive, so a citizen’s arrest under section 24A can be justified. However, they must use only reasonable force and contact the police to take over as soon as practicable.
+GOV.UK
++1
+
+Question 26 [Medium]
+After making a lawful citizen’s arrest, what should a security officer do with the detained person?
+A) Question them in the security office until they admit the offence
+B) Keep them for up to 24 hours because that is the legal maximum for detention
+C) Drive them straight to the magistrates’ court for trial
+D) Call the police and hand the person over as soon as reasonably practicable
+Correct Answer: D
+Explanation:
+Any‑person arrest powers are only to hold a suspect until a constable can take responsibility. The detainee must be handed over to the police as soon as reasonably practicable; security officers have no power to detain for long periods or conduct detailed interviews.
+GOV.UK
+
+Question 27 [Medium]
+Outside a shopping centre, a man punches another man and starts to walk away quickly. Two uniformed police officers are standing about 20 metres away but have not yet noticed the incident. A security officer has seen everything and is considering a citizen’s arrest. What is the BEST action for the officer to take?
+A) Do nothing until the suspect has left the area, then think about arresting them later
+B) Ignore the incident completely, because fighting is a police matter only
+C) Quickly alert the nearby police officers, point out the suspect and let them use their own arrest powers
+D) Immediately arrest the suspect and then walk them over to the officers without speaking to them first
+Correct Answer: C
+Explanation:
+One condition for a citizen’s arrest under section 24A is that it is not reasonably practicable for a constable to make the arrest. Here, police officers are close by and can act quickly, so the safest and most appropriate option is to alert them and let them deal with the incident. A citizen’s arrest is a last resort, not a first choice.
+Wikipedia
++1
+
+Question 28 [Hard]
+A security officer receives a vague report that “a teenager in a grey hoodie” has been acting suspiciously. Without seeing any offence, the officer grabs the first teenager in a grey hoodie they see and locks them in the security office for an hour while checking CCTV. No evidence of any offence is found. Which statement BEST describes the legal risk created?
+A) There is no risk because security officers can detain anyone on private property for any reason
+B) It is a lawful citizen’s arrest because the teenager looked suspicious
+C) It is simply civil trespass by the teenager because they were on private property
+D) The officer may have committed false imprisonment by unlawfully detaining someone without lawful authority or necessity
+Correct Answer: D
+Explanation:
+Citizen’s arrest powers require reasonable grounds to suspect an indictable offence and that arrest is necessary; vague suspicion is not enough. Detaining someone in a locked room with no lawful basis can amount to false imprisonment, which is both a civil wrong (tort) and can in some cases be a criminal offence.
+
+Question 29 [Easy]
+Which article of the European Convention on Human Rights (brought into UK law by the Human Rights Act 1998) protects the right to life?
+A) Article 8
+B) Article 5
+C) Article 2
+D) Article 3
+Correct Answer: C
+Explanation:
+Article 2 of the European Convention on Human Rights protects everyone’s right to life and places a duty on the state to safeguard life. This is one of the most fundamental rights in the Convention.
+equalityhumanrights.com
++1
+
+Question 30 [Medium]
+A security officer reviews CCTV footage to investigate a shop theft. They then take still images from the footage and send them to friends on a private messaging app “for a laugh”. Which human right is MOST clearly being disregarded?
+A) Article 5 – right to liberty and security
+B) Article 14 – freedom from discrimination
+C) Article 2 – right to life
+D) Article 8 – right to respect for private and family life
+Correct Answer: D
+Explanation:
+Article 8 protects the right to respect for private and family life, home and correspondence. Misusing CCTV images for gossip or entertainment interferes with a person’s privacy and could breach data‑protection and human‑rights principles.
+equalityhumanrights.com
++1
+
+Question 31 [Hard]
+A security officer detains a customer on suspicion of shoplifting. A quick bag search shows nothing suspicious, and there is very little evidence, but the officer still refuses to let the customer leave for another 45 minutes “until the police arrive”, even though the police have not been called. Which human right is MOST likely to be breached?
+A) Article 3 – freedom from torture and inhuman or degrading treatment
+B) Article 2 – right to life
+C) Article 8 – right to respect for private life
+D) Article 5 – right to liberty and security
+Correct Answer: D
+Explanation:
+Article 5 protects the right to liberty and security and focuses on protecting people from arbitrary or unreasonable detention. Keeping someone against their will without good reason or lawful authority can breach this right and may also amount to false imprisonment in civil law.
+FRA
++2
+equalityhumanrights.com
++2
+
+Question 32 [Easy]
+Which of the following is a protected characteristic under the Equality Act 2010?
+A) Accent
+B) Sexual orientation
+C) Employment status (permanent, temporary or agency)
+D) Height
+Correct Answer: B
+Explanation:
+The Equality Act 2010 lists specific protected characteristics, including age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex and sexual orientation. Employment status, height and accent are not protected characteristics in themselves.
+
+Question 33 [Easy]
+Which piece of legislation sets out the main anti‑discrimination law and protected characteristics that security officers must be aware of?
+A) Police and Criminal Evidence Act 1984
+B) Criminal Damage Act 1971
+C) Theft Act 1968
+D) Equality Act 2010
+Correct Answer: D
+Explanation:
+The Equality Act 2010 brings together and replaces earlier discrimination laws and sets out the protected characteristics and different types of unlawful discrimination. Security officers must act in line with this Act when dealing with the public and colleagues.
+
+Question 34 [Medium]
+A large shopping centre introduces a rule that “no head coverings of any kind” may be worn inside. As a result, some people who wear religious head coverings (such as hijabs or turbans) are refused entry, even though they are otherwise suitable customers. What type of unlawful discrimination could this be?
+A) Harassment
+B) Indirect discrimination
+C) Direct discrimination
+D) Victimisation
+Correct Answer: B
+Explanation:
+Indirect discrimination happens when a seemingly neutral rule or policy puts people with a particular protected characteristic (such as a specific religion or belief) at a particular disadvantage compared with others. A blanket “no head coverings” rule can indirectly discriminate against people whose religion requires them to cover their head.
+
+Question 35 [Medium]
+A security officer controls access to a staff‑only entrance that has a small step. A delivery driver who uses a wheelchair asks to use a nearby ramped entrance instead. The officer refuses and says, “If you can’t get up the step, you’ll have to go away.” Under the Equality Act 2010, what should the officer have done?
+A) Asked the driver to provide detailed medical records before giving any help
+B) Refused entry because health and safety rules always override equality law
+C) Made reasonable adjustments, such as allowing use of the ramped entrance or providing help so the driver can gain equal access
+D) Allowed access only if the driver pays a fee for extra assistance
+Correct Answer: C
+Explanation:
+The Equality Act 2010 requires service providers to make reasonable adjustments for disabled people so they are not put at a substantial disadvantage. Allowing use of an accessible entrance or providing assistance to overcome a small step are typical examples of reasonable adjustments a security officer should support.
+
+

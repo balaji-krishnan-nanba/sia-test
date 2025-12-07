@@ -1,0 +1,333 @@
+================================================================================
+UNIT 2, CHAPTER 2.6: VEHICLE OPERATIONS
+
+Question 1 [Easy]
+In the UK, where should the principal normally sit in the vehicle?
+
+A) Front passenger seat
+B) Rear nearside (behind front passenger)
+C) Rear offside (behind driver)
+D) Driver's seat
+
+Correct Answer: B
+
+Explanation: In the UK, the principal normally sits rear nearside, behind the front passenger. This allows the principal to exit directly onto the pavement rather than into traffic, and keeps them in the most protected rear position. The front passenger seat is usually taken by the PPO/CPO.
+
+Question 2 [Easy]
+In a typical three-vehicle convoy (lead, principal, follow), where should the principal's vehicle normally be positioned?
+
+A) At the front of the convoy
+B) At the rear of the convoy
+C) In the middle, between the lead and follow vehicles
+D) It can be in any position as long as vehicles stay close
+
+Correct Answer: C
+
+Explanation: In a three-vehicle convoy, the principal's vehicle is usually placed in the middle. The lead vehicle provides route clearance and early warning, while the follow vehicle protects the rear and can respond to threats, giving the principal maximum protection.
+
+Question 3 [Easy]
+During daily exterior vehicle checks, how should a CPO BEST inspect the underside of the vehicle for suspicious items?
+
+A) Use an under-vehicle search mirror and visually examine the underside
+B) Kick each tyre and listen for unusual sounds
+C) Rely on the last service carried out by the garage
+D) Briefly crouch by one wheel and glance underneath from that position
+
+Correct Answer: A
+
+Explanation: A proper under-vehicle search uses a mirror (or similar device) to visually inspect the underside, including areas that cannot be seen from a casual glance. This can reveal devices, tampering or hidden objects, which kicking tyres or a brief glance would not reliably detect.
+
+Question 4 [Easy]
+A close protection vehicle has been left unattended on a busy street for 45 minutes before pick-up. What is the MOST appropriate action before allowing the principal to enter the vehicle?
+
+A) Check only the interior, as that is where the principal will sit
+B) Start the engine so the cabin is comfortable when the principal arrives
+C) Ask the principal’s PA whether anyone has been near the car
+D) Carry out a full security search inside and outside, including an under-vehicle check
+
+Correct Answer: D
+
+Explanation: Any time a vehicle has been left unattended, it should be treated as potentially compromised. A full search—interior, exterior, and under-vehicle—is required to look for signs of tampering, tracking devices or IEDs before the principal embus.
+
+Question 5 [Easy]
+Which sequence BEST describes the correct order for a standard embus drill?
+
+A) Approach → Position → Entry → Secure
+B) Position → Approach → Secure → Entry
+C) Secure → Entry → Position → Approach
+D) Entry → Secure → Position → Approach
+
+Correct Answer: A
+
+Explanation: A standard embus follows a rehearsed structure:
+
+Approach – vehicle in position, area checked;
+
+Position – CPOs take up positions and maintain cover arcs;
+
+Entry – principal is placed quickly into the vehicle;
+
+Secure – doors closed/locked, seatbelts on, ready to move.
+
+Question 6 [Easy]
+During a routine debus at an open arrival, who should normally exit the principal’s vehicle first?
+
+A) The principal, to minimise time in the vehicle
+B) The driver, to open the principal’s door
+C) The CPO in the front passenger seat, to scan and open the principal’s door
+D) Any team member closest to the exit side
+
+Correct Answer: C
+
+Explanation: In a proper debus, the CPO (usually seated in the front passenger seat) exits first, scans the environment, then moves to open the principal’s rear door and provide a physical shield. The principal should not exit until the area is checked and covered.
+
+Question 7 [Easy]
+What is the PRIMARY role of the follow vehicle in a three-vehicle close protection convoy?
+
+A) To carry the principal’s luggage
+B) To act as the advance vehicle and check the route ahead
+C) To provide the most comfortable seating for the principal
+D) To protect the rear, deter or block followers, and carry a response team
+
+Correct Answer: D
+
+Explanation: The follow vehicle sits behind the principal’s vehicle. Its role is rear protection: monitoring and discouraging followers, blocking hostile vehicles where necessary, and often carrying additional CPOs who can respond to incidents.
+
+Question 8 [Easy]
+When stopped at traffic lights in an urban area, how should a security driver position the principal’s vehicle in relation to the vehicle in front?
+
+A) As close as possible to prevent other cars cutting in
+B) Leave a clear gap to allow room to steer around or escape if needed
+C) Pull alongside the vehicle in front to block the junction
+D) Stop partly in the junction to get away faster when lights change
+
+Correct Answer: B
+
+Explanation: Defensive positioning means never being boxed in. Leaving a visible vehicle length (or more if possible) gives the driver room to steer around the vehicle in front, ram if necessary, and escape from an ambush or sudden threat.
+
+Question 9 [Easy]
+While driving the principal, you see a suspicious roadblock being set up ahead and potential attackers moving into position. The vehicle is still mobile and there is space to manoeuvre. What is the MOST appropriate immediate action?
+
+A) Stop and assess the situation calmly
+B) Reverse back to the last junction and stop there
+C) Do not stop; accelerate through or around the threat if it is safe to do so
+D) Stop in front of the roadblock and call control for instructions
+
+Correct Answer: C
+
+Explanation: Anti‑ambush doctrine is clear: if you are mobile, you should aim to stay mobile and get out of the kill zone. Stopping in front of a suspected ambush hands the initiative to the attackers. If safe, accelerate through or around the obstruction.
+
+Question 10 [Easy]
+Which of the following is a key responsibility of the security driver BEFORE starting a journey with the principal?
+
+A) Carry out full mechanical and security checks, including fuel, fluids and communications
+B) Allow the principal to decide whether checks are needed
+C) Avoid checking tyres to save time and reduce attention
+D) Focus on cleaning the vehicle interior rather than safety checks
+
+Correct Answer: A
+
+Explanation: Before any movement, the security driver must ensure the vehicle is mechanically sound and secure—fuel, oil, tyres, lights, wipers, communication equipment, and security checks completed. Comfort and appearance are secondary to safety and reliability.
+
+Question 11 [Hard]
+You are driving the lead vehicle in a three-car convoy with the principal in the middle vehicle. As you approach a junction, two cars suddenly pull across to form a partial roadblock ahead and several individuals emerge from cover. There is still some space to one side, and the convoy is still moving. What is the PRIORITY action?
+
+A) Stop the convoy at the block and reverse together as a group
+B) Stop the lead vehicle and confront the individuals while the principal’s vehicle waits behind
+C) Instruct the principal’s vehicle to pull over and wait while you investigate
+D) Use available space to steer or force a way past, keeping the principal’s vehicle mobile and out of the kill zone
+
+Correct Answer: D
+
+Explanation: In a suspected ambush, keeping the principal’s vehicle moving and escaping the danger area is the priority. The lead vehicle may take more risk to create or exploit a gap, but the key is not to allow the entire convoy to become stationary in front of a potential kill zone.
+
+Question 12 [Medium]
+During pre-departure checks, a CPO using an under‑vehicle mirror notices an unfamiliar object fixed near the fuel tank area. It was not present during previous checks. What should they do FIRST?
+
+A) Carefully remove the object to see what it is
+B) Stop the embarkation, move everyone away, and follow search/incident procedures
+C) Ask the principal if they recognise the device
+D) Ignore it for now and report it at the end of the shift
+
+Correct Answer: B
+
+Explanation: A suspicious device under the vehicle is a serious threat. The priority is to stop the movement, keep people away from the potential hazard, and follow established incident and reporting procedures. Touching or tampering with the object could be fatal.
+
+Question 13 [Medium]
+As you prepare to embus outside a venue, a hostile crowd begins to form nearby and is moving in your direction sooner than expected. The vehicle is correctly positioned and the route is clear. How should you BEST adapt the embus drill?
+
+A) Conduct an emergency embus, placing the principal into the vehicle first and moving off as soon as doors are closed
+B) Slow the embus to avoid alarming the principal and bystanders
+C) Wait until the crowd disperses naturally before moving the principal
+D) Cancel the movement and leave the principal standing outside the venue entrance
+
+Correct Answer: A
+
+Explanation: Where threat is rising, the priority is to reduce the principal’s exposure time. An emergency embus is faster and less ceremonial; the principal is placed into the vehicle first and, once the CPOs are in and doors secured, the vehicle moves off immediately.
+
+Question 14 [Medium]
+You are the PPO seated in the front passenger seat as the principal’s vehicle arrives at an open public venue. To apply the “third door” principle during debus, what should you do?
+
+A) Exit through your door and then open the driver’s door to provide extra cover
+B) Ask the principal to slide across and exit through your front passenger door
+C) Exit through your front passenger door, move around the rear of the car, scan, then open the principal’s rear nearside door and shield them as they exit
+D) Remain in your seat until the driver has opened the principal’s door
+
+Correct Answer: C
+
+Explanation: The “third door” principle means the CPO exits via the front door, then moves to open the rear door used by the principal, creating confusion for an attacker and ensuring the CPO is out first to scan and shield. Rear nearside is usually used in the UK so the principal steps onto the pavement.
+
+Question 15 [Medium]
+During a two‑vehicle movement (combined lead/principal vehicle plus follow vehicle), heavy traffic causes the follow vehicle to fall behind and lose visual contact. What should the driver of the principal’s vehicle do?
+
+A) Slow to a stop in the live lane so the follow vehicle can catch up
+B) Pull into the nearest lay‑by and wait there with the principal
+C) Turn around and drive back to look for the follow vehicle
+D) Maintain movement to the planned destination or rally point and inform control immediately about the loss of contact
+
+Correct Answer: D
+
+Explanation: The principal’s safety is paramount. The principal’s vehicle should avoid stopping in vulnerable locations. The correct response is to maintain movement towards a planned secure location or rally point, while reporting the lost vehicle so contingency plans can be activated.
+
+Question 16 [Hard]
+You must position the principal’s vehicle outside a large public event where protests are expected. Which option provides the BEST balance between rapid evacuation and security?
+
+A) Nose‑in parking very close to the entrance, even if other cars will park tight around you
+B) Park close to the entrance but ensure a clear forward and/or reverse escape route, avoiding being boxed in by other vehicles
+C) Park in the most distant underground space to keep the vehicle hidden, even if turning space is limited
+D) Double‑park directly at the doorway so the principal has the shortest possible walk, despite likely traffic congestion
+
+Correct Answer: B
+
+Explanation: Vehicle positioning should allow fast, flexible movement. Parking close to the entrance is helpful, but not at the cost of being boxed in. The driver must preserve escape routes—forward and/or reverse—and avoid tight spaces that restrict rapid departure.
+
+Question 17 [Medium]
+On a motorway journey, the principal’s vehicle begins to lose power and you suspect an imminent breakdown. What is the MOST appropriate course of action?
+
+A) Continue in the same lane until the vehicle stops completely
+B) Ask the principal to remain in the vehicle while you stand behind it with a warning triangle
+C) Move the vehicle to the safest practicable location (e.g. hard shoulder or exit), secure the principal in a safer position, and arrange backup/transfer
+D) Immediately abandon the vehicle in the live lane and run to safety with the principal
+
+Correct Answer: C
+
+Explanation: In a breakdown, you balance security with road safety. Move to the safest practicable place off the live carriageway, then secure the principal away from traffic (and any potential secondary threat) while arranging a backup vehicle or safe transfer.
+
+Question 18 [Medium]
+While driving the principal through busy city traffic under normal conditions, what style of driving should the security driver primarily adopt?
+
+A) Defensive driving, anticipating hazards, maintaining safe distances, and avoiding unnecessary risks
+B) Evasive driving at high speed, with frequent sharp lane changes to deter followers
+C) High‑performance driving, using maximum acceleration and braking to shorten the journey
+D) Covert driving, with lights off and ignoring traffic rules to avoid attention
+
+Correct Answer: A
+
+Explanation: The everyday standard for a security driver is defensive driving—good observation, anticipation of hazards, stable vehicle control and safe following distances. Evasive and high‑performance manoeuvres are specialist skills used only in emergencies.
+
+Question 19 [Hard]
+At a red traffic light, your vehicle has stopped leaving a full vehicle‑length gap to the car in front, as trained. Suddenly, a car stops very close behind you and armed attackers step out from both pavements. What is the BEST immediate action for the security driver?
+
+A) Remain stationary, lock the doors and try to negotiate
+B) Use the gap ahead to steer into the rear quarter of the car in front, ram it out of the way, and drive through the junction if safe
+C) Wait for the lights to turn green before moving, to avoid attracting attention
+D) Exit the vehicle with the principal and seek cover behind street furniture
+
+Correct Answer: B
+
+Explanation: The gap left to the vehicle in front provides space for an escape. Ramming at the rear quarter is the recommended weak point to displace the blocking vehicle. The priority is to get the principal out of the ambush zone, not to remain static or dismount into the threat.
+
+Question 20 [Medium]
+The principal’s vehicle is involved in a minor road traffic collision in a public area. There are no obvious injuries, but people are gathering around. What should be your FIRST priority as the CP team?
+
+A) Argue with the other driver to establish who is at fault
+B) Immediately start completing insurance and accident forms
+C) Stay in the vehicle and wait for police to arrive before doing anything
+D) Assess the principal for injury and, if safe, move them to a more secure location while notifying control and emergency services as needed
+
+Correct Answer: D
+
+Explanation: In any incident, the principal’s safety and well‑being come first. You must quickly check for injuries, move them out of any unsafe or exposed situation where possible, and then coordinate with control and emergency services. Insurance and liability issues come later.
+
+Question 21 [Medium]
+During a long journey with a two‑vehicle convoy, the follow vehicle reports it is getting low on fuel while the principal’s vehicle still has over half a tank. How should the team BEST manage fuel discipline?
+
+A) Plan a secure fuel stop where all vehicles refuel together before any vehicle runs critically low
+B) Allow the follow vehicle to refuel alone while the principal’s vehicle continues to its destination
+C) Wait until the follow vehicle is on its reserve and then stop at the nearest available station
+D) Stop only the principal’s vehicle to refuel, as it is the most important
+
+Correct Answer: A
+
+Explanation: Good fuel discipline means planning refuelling so that all convoy vehicles refuel together in a controlled, pre‑assessed location, well before tanks are critically low. Splitting the convoy to refuel separately increases vulnerability.
+
+Question 22 [Medium]
+After dropping the principal at their residence at the end of the day, what is the MOST appropriate action for the security driver?
+
+A) Leave the vehicle parked on the street and go off duty immediately
+B) Move the vehicle to secure parking, carry out post‑journey checks, and prepare it for the next task
+C) Turn off the radio equipment to preserve battery and leave windows slightly open
+D) Hand the keys to household staff to park the vehicle wherever they wish
+
+Correct Answer: B
+
+Explanation: Driver responsibilities continue after the journey. The vehicle should be parked securely, checked for damage or issues, re‑fuelled if necessary, and prepared for the next operation. This also helps detect any tampering before the next use.
+
+Question 23 [Hard]
+During planning, you identify a narrow dead‑end lane that might need to be used as a temporary holding area. There is limited room for turning, but you may have to reverse out quickly and change direction by 180°. Which manoeuvre should a trained security driver be prepared to use?
+
+A) A standard three‑point turn
+B) Parallel parking manoeuvre
+C) A J‑turn, reversing at speed then swinging the front of the vehicle around 180°
+D) A bootleg turn, a forward handbrake turn through 180°
+
+Correct Answer: C
+
+Explanation: A J‑turn is an emergency reverse‑to‑forward 180° manoeuvre used to change direction rapidly when starting in reverse. A bootleg turn is a forward 180° handbrake turn, which requires different conditions. A three‑point turn is too slow in an emergency.
+
+Question 24 [Hard]
+While waiting in a stationary vehicle outside a venue for the principal to return, you notice two individuals approaching from different directions, repeatedly glancing at the vehicle. The doors are unlocked and the windows are slightly open. What is the MOST appropriate immediate action?
+
+A) Remain stationary with doors open to show you are not a threat
+B) Step out of the vehicle and ask them what they want
+C) Ignore them unless they actually touch the vehicle
+D) Lock the doors, close the windows, move the vehicle away if safe, and report the suspicious approach to the team/control
+
+Correct Answer: D
+
+Explanation: A suspicious approach to the vehicle is a potential pre‑attack indicator. The driver should immediately harden the vehicle (locks and windows), avoid being static if possible, and move to a safer location while informing the team or control room.
+
+Question 25 [Medium]
+Which statement BEST describes the role of a dedicated security driver in a close protection team?
+
+A) To act mainly as a chauffeur, focusing on comfort rather than security
+B) To be a trained team member responsible for safe vehicle operation, route management, and supporting the security plan in normal and emergency conditions
+C) To choose routes independently without consulting the team leader
+D) To remain with the vehicle at all times and not participate in team briefings
+
+Correct Answer: B
+
+Explanation: The security driver is an integral part of the CP team: trained in advanced, defensive and evasive driving, fully briefed on routes and contingencies, and responsible for operating the vehicle in line with the overall protection plan. They are far more than just a chauffeur.
+
+================================================================================
+END OF CHAPTER 2.6 QUESTIONS
+
+Total Questions: 25
+
+Easy: 10 (Questions 1–10)
+
+Medium: 10 (Questions 12, 13, 14, 15, 17, 18, 20, 21, 22, 25)
+
+Hard: 5 (Questions 11, 16, 19, 23, 24)
+
+Answer Distribution:
+
+Correct answer A: 6 questions (3, 5, 10, 13, 18, 21)
+
+Correct answer B: 7 questions (1, 2, 12, 16, 19, 22, 25)
+
+Correct answer C: 6 questions (6, 8, 9, 14, 17, 23)
+
+Correct answer D: 6 questions (4, 7, 11, 15, 20, 24)
+
+================================================================================

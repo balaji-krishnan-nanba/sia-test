@@ -1,0 +1,325 @@
+================================================================================
+UNIT 2, CHAPTER 2.5: MONITORING AND INCIDENT RESPONSE
+
+Question 1 [Easy]
+What should ALWAYS be the highest priority for a CCTV operator?
+
+A) Preventing shoplifting
+B) Situations where life is at risk
+C) Anti-social behaviour
+D) Vehicle crime
+
+Correct Answer: B
+
+Explanation: Situations where life is at risk must always be treated as the highest priority. This includes serious violence, medical emergencies, and anything where someone may be seriously harmed or killed. All other incident types (property crime, anti-social behaviour, traffic issues) come after protecting life.
+
+Question 2 [Easy] – Identifying incidents
+A CCTV operator sees a man walking through the shopping area suddenly clutch his chest and collapse to the ground. People gather around him, but there is no sign of aggression or criminal behaviour. How should this incident MOST likely be classified?
+
+A) Criminal damage
+B) Anti-social behaviour
+C) Traffic incident
+D) Medical emergency
+
+Correct Answer: D
+
+Explanation: The key features are a sudden collapse and no visible signs of an assault or crime. This fits a medical emergency (possible heart attack or serious illness). The other categories involve criminal acts, nuisance behaviour, or traffic issues, which are not indicated here.
+
+Question 3 [Easy] – Behavioural indicators
+Which of the following is a typical indicator of theft that a CCTV operator should watch for in a retail environment?
+
+A) A person repeatedly watching staff and security while handling high‑value items and keeping a large bag open
+B) A family taking photos of each other near a shop window
+C) A delivery driver carrying sealed boxes into a stock room
+D) A cleaner moving rubbish bags towards the back door
+
+Correct Answer: A
+
+Explanation: Watching staff/security while focusing on high‑value items and having a large open bag are classic shoplifting indicators. The other behaviours have clear, innocent explanations (family photos, deliveries, cleaning) and are not in themselves suspicious.
+
+Question 4 [Easy] – Response actions
+When a CCTV operator first notices that an incident may be developing on screen, what should they do BEFORE anything else?
+
+A) Immediately broadcast instructions to the police
+B) Leave the control room to attend the scene
+C) Carefully observe what is happening and identify who is involved and where
+D) Start filling in the incident log
+
+Correct Answer: C
+
+Explanation: The first stage of response is OBSERVE – understanding what is happening, who is involved, and the exact location. Leaving the control room is rarely appropriate, logging comes later, and contacting responders is more effective once clear information has been gathered.
+
+Question 5 [Easy] – Vulnerable persons
+Which person should automatically be treated as vulnerable by a CCTV operator?
+
+A) A healthy adult commuter walking quickly to the station alone
+B) Two adults arguing outside a bar while door staff watch nearby
+C) An off-duty paramedic waiting for a taxi
+D) A young child alone in a busy town centre, crying and wandering without an adult
+
+Correct Answer: D
+
+Explanation: Children who are unaccompanied, distressed or appearing lost are always considered vulnerable and at risk of harm or exploitation. The other individuals may still need monitoring, but they are not automatically vulnerable in the same way.
+
+Question 6 [Medium] – Identifying incidents
+On a rainy evening, the operator spots a car stopped diagonally across two lanes at a junction with its hazard lights on, causing other drivers to brake sharply. The driver is standing by the front of the car looking at the engine. How should this incident be classified for reporting and logging purposes?
+
+A) Traffic incident
+B) Anti-social behaviour
+C) Criminal damage
+D) Routine monitoring
+
+Correct Answer: A
+
+Explanation: The car is obstructing the road and affecting other vehicles, so this is a traffic incident. There is no sign of deliberate nuisance (anti‑social behaviour) or intentional damage. It is more serious than routine monitoring because it poses a safety risk to road users.
+
+Question 7 [Easy] – Terrorism awareness
+In the “Run, Hide, Tell” guidance for terror attacks, what does “Tell” require people to do?
+
+A) Tell people on social media what is happening
+B) Tell your manager when you finish your shift
+C) Contact the police on 999 (or local security) when safe and give clear information
+D) Tell news reporters what you saw
+
+Correct Answer: C
+
+Explanation: “Tell” means reporting to the police (999) or appropriate authorities as soon as it is safe, giving location, what you saw, and descriptions of attackers. Social media and the press are not appropriate channels for emergency reporting.
+
+Question 8 [Medium] – Behavioural indicators
+On a housing estate camera, the operator notices the same man returning to the same doorway several times over an hour. Each time, a different person briefly approaches him, there is a quick hand‑to‑hand exchange, and they walk away in opposite directions. Which type of suspicious behaviour is this MOST likely to indicate?
+
+A) Hostile reconnaissance
+B) Drug-related activity
+C) Shoplifting
+D) Lost property
+
+Correct Answer: B
+
+Explanation: Short, repeated meetings with quick exchanges and people immediately leaving are classic signs of drug dealing. Hostile reconnaissance involves observing security or infrastructure, shoplifting focuses on goods in shops, and lost property would not show this repeated pattern.
+
+Question 9 [Hard] – Prioritisation
+Several incidents happen at the same time on your cameras. Which should be treated as the IMMEDIATE / CRITICAL priority?
+
+A) A shop reports that a suspected shoplifter left the store 10 minutes ago and may still be in the town centre
+B) A group of 15 youths is drinking and shouting in the square, but no violence is currently seen
+C) An intoxicated man is asleep on a bench near the taxi rank with people walking past
+D) A person is lying motionless in the roadway after being struck by a vehicle, and other traffic is swerving around them
+
+Correct Answer: D
+
+Explanation: The person lying in the road is at immediate risk to life, making this an IMMEDIATE/CRITICAL incident. The other situations are important but lower priority: past property crime (A), anti‑social behaviour (B), and intoxication (C) which may become serious but is not yet as urgent as someone potentially dying in the road.
+
+Question 10 [Medium] – Response actions
+While monitoring a town centre, you see a serious assault begin outside a bar. You start to observe the incident. What is the MOST effective action to protect CCTV evidence at this early stage?
+
+A) Check that the relevant cameras are recording, note the camera numbers and time, and mark the footage
+B) Zoom in so far on one suspect’s face that the rest of the scene is no longer visible
+C) Switch to playback to see how the argument started, even if you lose the live view
+D) Wait until the police ask before noting any details about the footage
+
+Correct Answer: A
+
+Explanation: The “RECORD” stage involves making sure the incident is being captured, noting camera references and times, and marking the footage so it can be preserved. Over‑zooming loses context, switching to playback loses live coverage, and waiting for police risks footage being overwritten or missed.
+
+Question 11 [Easy] – Directing responders
+When giving information to police or other responders over the radio, what is usually the MOST important thing for a CCTV operator to state first?
+
+A) Their own name and collar number
+B) A full clothing description of the suspect
+C) The exact location of the incident
+D) The camera number they are using
+
+Correct Answer: C
+
+Explanation: Location is critical so responders know where to go. Once they know where the incident is, further details (suspect descriptions, camera numbers, operator ID) can follow. Without a clear location, responders cannot act effectively.
+
+Question 12 [Medium] – Prioritisation
+Which of the following would usually be classed as a HIGH PRIORITY incident (but not immediate / critical)?
+
+A) A request from the council to monitor a busy road tomorrow morning
+B) A burglar alarm has activated at a closed shop and cameras show two people inside apparently searching the shelves
+C) Two people having a minor verbal argument in a public square with no threats or violence
+D) A police officer asks you to review footage from last week
+
+Correct Answer: B
+
+Explanation: A crime in progress involving property (such as burglary) is normally high priority—there is a chance of arrest and loss of property. There is no obvious immediate risk to life, so it is not critical. Routine tasks and historical reviews (A and D) are low priority, while a minor argument (C) is medium or even low unless it escalates.
+
+Question 13 [Hard] – Identifying incidents
+Which scenario should MOST clearly be treated as a suspicious item / fire or hazard–type incident rather than lost property or routine behaviour?
+
+A) A suitcase placed next to a seated passenger at a bus stop; the passenger keeps looking back at it
+B) A shopping bag left at a checkout, and staff are seen picking it up and moving it behind the counter
+C) A rucksack left on a café chair while its owner walks a short distance to the counter to pay
+D) A rucksack pushed deep under a stairwell in a quiet part of a station where bags are not normally left, with the person walking away quickly and not returning
+
+Correct Answer: D
+
+Explanation: The rucksack is hidden, in an unusual location, and abandoned, making it suspicious and potentially a fire/hazard or terrorism-related incident. The other examples show bags that are either clearly attended or being handled in a typical way for the location.
+
+Question 14 [Medium] – Directing responders
+Police officers are approaching a suspect you have been tracking on camera. What is the BEST way to hand over the suspect to them?
+
+A) Continue giving calm, precise directions until an officer confirms on the radio that they can see and have identified the correct person, then return to general monitoring
+B) Stop talking as soon as you see a police car enter the street
+C) Keep talking even after officers say they have detained someone, repeating the same description
+D) Immediately switch cameras away from the area to avoid seeing any distressing images
+
+Correct Answer: A
+
+Explanation: Good practice is to guide responders until they clearly confirm they have visual on the correct person. Stopping too early (B) may leave them unsure, repeating after confirmation (C) adds unnecessary noise, and switching cameras away (D) removes useful situational awareness.
+
+Question 15 [Medium] – Behavioural indicators
+Which behaviour on camera MOST strongly suggests that violence may be about to occur?
+
+A) Two men standing apart with hands in their pockets, occasionally glancing at their phones
+B) Two men moving very close together, squaring up, pointing, removing jackets, clenching fists while a small group gathers around them
+C) A group of friends leaving a bar laughing and singing
+D) A family standing in a queue at a fast‑food outlet
+
+Correct Answer: B
+
+Explanation: Aggressive posturing, moving into each other’s space, removing outer clothing, clenching fists and a crowd forming are classic pre‑attack indicators. The other behaviours are normal social activity without clear signs of imminent violence.
+
+Question 16 [Easy] – Post-incident actions
+Immediately after a serious incident has finished and responders are dealing with it on scene, what is the MOST important first step for the CCTV operator to protect video evidence?
+
+A) Tidy the control room
+B) Phone a colleague at home to tell them what happened
+C) Mark and secure all relevant footage (time codes and camera numbers) so it cannot be overwritten
+D) Shut down the CCTV system
+
+Correct Answer: C
+
+Explanation: Preserving evidence is a key post‑incident duty. Marking and securing footage and noting times and camera numbers makes sure crucial images are not lost. The other options either waste time or risk losing evidence.
+
+Question 17 [Hard] – Vulnerable persons
+On a night‑time camera, you see a young woman who appears heavily intoxicated, stumbling and struggling to walk. Two men she does not seem to know well are holding her by the arms and leading her down a side street away from the main area. What is the MOST appropriate action?
+
+A) Assume her friends will look after her and move on to other cameras
+B) Wait to see if a crime is clearly committed before telling anyone
+C) Make a note in the log but do nothing unless someone calls the control room
+D) Treat her as a vulnerable person at risk, alert police or appropriate responders immediately, and maintain continuous observation
+
+Correct Answer: D
+
+Explanation: Intoxicated people are highly vulnerable, especially when being led away by others who may exploit them. The operator should treat this as a vulnerable person at risk, report it promptly, and keep them in view whenever possible. Waiting for a clear crime risks serious harm.
+
+Question 18 [Medium] – Terrorism awareness (HOT protocol)
+Which situation BEST fits an item that the HOT protocol would identify as suspicious?
+
+A) A holdall pushed deep under a stairwell in a staff car park where bags are not normally left, with the person walking away quickly and not returning
+B) A suitcase placed beside a passenger who stays seated next to it while waiting for a coach
+C) A rucksack on the luggage rack of a busy train with many travellers nearby
+D) A shopping trolley temporarily left near the tills while the owner pays
+
+Correct Answer: A
+
+Explanation: In HOT, suspicious items tend to be Hidden, Obviously suspicious, and not Typical for the location. A bag deliberately pushed under a stairwell and abandoned in an area where bags are not expected is clearly suspicious. The other bags are typical for their locations and still have likely owners nearby.
+
+Question 19 [Easy] – Response actions (what NOT to do)
+Which of the following is something a CCTV operator should NOT do when responding to an incident?
+
+A) Track a suspect using a sequence of cameras
+B) Leave the control room to physically intervene at the scene without authorisation
+C) Mark the recording so the incident can be easily found later
+D) Complete an incident log after the situation is under control
+
+Correct Answer: B
+
+Explanation: CCTV operators are usually control room based. Leaving the control room to intervene can breach procedures and leaves cameras unmonitored. Tracking suspects, preserving evidence, and completing logs are all part of good professional practice.
+
+Question 20 [Hard] – Directing responders
+You are directing police officers on foot towards a suspect who is moving quickly through a busy town centre. Radio traffic is busy and the officers sound stressed. What is the BEST way to support them?
+
+A) Talk as fast as possible and give every detail you can think of about the suspect’s behaviour
+B) Only give camera numbers and expect officers to work out the route
+C) Give calm, concise updates describing the suspect’s current location, direction of travel and nearest landmarks or street names until officers confirm they have the suspect
+D) Say nothing unless the officers ask you a direct question
+
+Correct Answer: C
+
+Explanation: Effective direction uses a calm, clear voice and structured information: where the suspect is now, where they are heading, and nearby landmarks. Overloading officers with unnecessary detail (A), using only camera numbers (B), or staying silent (D) makes their job harder and slows the response.
+
+Question 21 [Medium] – Response actions
+Police have been alerted to a serious assault you are watching live on camera and are on their way. What should you mainly do while they are travelling to the scene?
+
+A) Rewind the footage repeatedly to study how the argument started
+B) Zoom in only on injuries, even if you lose sight of the attackers
+C) Move to other unrelated cameras so you don’t have to watch the assault
+D) Continue to track the suspects and victims, updating the control room or responders with any changes in location, weapons, or injuries
+
+Correct Answer: D
+
+Explanation: Once responders are on their way, the operator should track and update—keeping live observation, following movement between cameras, and passing on any changes (such as weapons or direction of travel). Rewinding, over‑zooming or moving away from the scene removes vital, current information.
+
+Question 22 [Medium] – Vulnerable persons
+A small child, around six years old, is seen walking alone through a busy shopping area on your cameras. They look distressed and keep turning around as if searching for someone. What is the MOST appropriate response?
+
+A) Treat this as a vulnerable child, alert police or local security immediately, and keep the child under constant observation
+B) Assume their parents are nearby and check back in 30 minutes
+C) Announce over the radio that the child is misbehaving and should be ignored
+D) Wait until a member of the public phones the control room before doing anything
+
+Correct Answer: A
+
+Explanation: Unaccompanied, distressed children are high‑risk vulnerable persons. The operator should alert responders immediately and keep visual contact. Delaying or assuming parents are nearby is unsafe.
+
+Question 23 [Hard] – Terrorism awareness (hostile reconnaissance)
+On cameras overlooking a transport hub, you notice a man spending a long time filming CCTV cameras, entrances, security staff positions and emergency exits. He writes notes on a pad and returns several times during the day. What is the MOST appropriate response?
+
+A) Assume he is a tourist and take no further action
+B) Wait until he returns on another day before telling anyone
+C) Treat this as possible hostile reconnaissance, report it promptly to police or appropriate authorities, and continue discreet monitoring
+D) Announce his behaviour loudly over the public address system
+
+Correct Answer: C
+
+Explanation: Filming and noting security measures, camera positions and entrances can indicate hostile reconnaissance, a potential precursor to terrorism or serious crime. It should be reported promptly while the operator continues to monitor. Ignoring or delaying (A and B) is unsafe, and broadcasting over PA (D) could escalate the situation or alert the individual.
+
+Question 24 [Easy] – Prioritisation
+An operator observes a group of adults drinking in the street, being noisy and occasionally shouting, but with no threats or violence. How would this type of anti-social behaviour normally be prioritised?
+
+A) Immediate / critical
+B) Medium priority
+C) High priority
+D) Routine only
+
+Correct Answer: B
+
+Explanation: Anti‑social behaviour such as street drinking and noise is usually a medium‑priority incident. It still requires attention and possible action, but it is lower priority than life‑threatening situations or serious crimes in progress.
+
+Question 25 [Medium] – Post-incident actions & welfare
+After witnessing a very distressing incident on CCTV, an operator finds themselves replaying it in their mind, struggling to sleep and feeling anxious at work. What is the MOST appropriate action?
+
+A) Keep quiet and hope the feelings go away on their own
+B) Repeatedly watch the footage to “get used to it”
+C) Only discuss the incident informally with friends outside work
+D) Speak to a supervisor and, if needed, access occupational health or counselling support
+
+Correct Answer: D
+
+Explanation: Disturbing incidents can affect staff mentally and emotionally. Operators should seek support, for example by speaking to a supervisor or using occupational health / counselling services. Ignoring symptoms or repeatedly watching footage can make things worse, and only informal chats may not provide proper help.
+
+================================================================================
+END OF CHAPTER 2.5 QUESTIONS
+
+Total Questions: 25
+
+Easy: 10
+
+Medium: 10
+
+Hard: 5
+
+Answer Distribution:
+
+Correct answer A: 6 questions (3, 6, 10, 14, 18, 22)
+
+Correct answer B: 6 questions (1, 8, 12, 15, 19, 24)
+
+Correct answer C: 6 questions (4, 7, 11, 16, 20, 23)
+
+Correct answer D: 7 questions (2, 5, 9, 13, 17, 21, 25)
+
+================================================================================

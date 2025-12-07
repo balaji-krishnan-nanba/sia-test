@@ -1,0 +1,372 @@
+================================================================================
+UNIT 2, CHAPTER 2.3: CCTV SYSTEMS AND TECHNOLOGY
+Question 1 [Easy]
+
+What does PTZ stand for in relation to CCTV cameras?
+
+A) Precision Targeting Zone
+B) Pan-Tilt-Zoom
+C) Programmable Tracking Zoom
+D) Power Transmission Zone
+
+Correct Answer: B
+
+Explanation:
+PTZ stands for Pan‑Tilt‑Zoom. Pan is left/right movement, tilt is up/down movement, and zoom is the ability to magnify the image. PTZ cameras allow operators to move the view and zoom in on detail, making them very flexible for town centre and open‑space monitoring.
+
+Question 2 [Easy]
+
+Which type of CCTV camera has a static position with a fixed field of view and cannot be moved remotely?
+
+A) PTZ camera
+B) Dome camera
+C) Fixed camera
+D) Thermal camera
+
+Correct Answer: C
+
+Explanation:
+A fixed camera is set to look in one direction with a fixed field of view. It cannot be panned, tilted or zoomed remotely. This makes it ideal for entrances, exits and other specific locations that always need the same area covered.
+
+Question 3 [Easy]
+
+Which camera type is enclosed in a housing that hides the direction it is pointing and often provides vandal resistance?
+
+A) Thermal camera
+B) Fixed box camera
+C) Day/night camera
+D) Dome camera
+
+Correct Answer: D
+
+Explanation:
+Dome cameras are contained within a dome housing. This makes it difficult for people to see exactly where the camera is pointing and offers protection against vandalism and weather. Domes can contain either fixed or PTZ mechanisms inside.
+
+Question 4 [Easy]
+
+What do thermal/infrared CCTV cameras primarily detect to create an image?
+
+A) Heat signatures from objects and people
+B) Reflected visible light
+C) Radio signals from vehicles
+D) GPS signals from mobile phones
+
+Correct Answer: A
+
+Explanation:
+Thermal/infrared cameras detect heat differences and display heat signatures rather than visible colours. They work in total darkness and are useful for perimeter and night‑time surveillance, but they do not show colour or fine facial detail.
+
+Question 5 [Easy]
+
+On an older analogue town‑centre CCTV system, which device records the analogue camera signals to internal hard drives after converting them to digital?
+
+A) Cloud storage server
+B) Network Video Recorder (NVR)
+C) Analogue time‑lapse recorder
+D) Digital Video Recorder (DVR)
+
+Correct Answer: D
+
+Explanation:
+A DVR (Digital Video Recorder) receives analogue video signals, converts them to digital and records them to internal hard drives. It is typically used with analogue cameras and is less scalable and lower resolution than modern NVR‑based IP systems.
+
+Question 6 [Easy]
+
+In the UK, which frame rate is generally used to give smooth CCTV video playback?
+
+A) 25 frames per second (fps)
+B) 5 frames per second (fps)
+C) 10 frames per second (fps)
+D) 60 frames per second (fps)
+
+Correct Answer: A
+
+Explanation:
+Around 25 fps is commonly used as the standard for smooth video in the UK. Lower frame rates can look jerky, while higher frame rates use significantly more storage and are usually unnecessary for typical public space surveillance.
+
+Question 7 [Easy]
+
+Which of the following resolutions is commonly referred to as HD (high definition) in CCTV?
+
+A) CIF (352 × 288)
+B) D1 (720 × 576)
+C) 1280 × 720
+D) 3840 × 2160
+
+Correct Answer: C
+
+Explanation:
+1280 × 720 is HD (720p) resolution. D1 is standard definition and CIF is a much lower, older format. 3840 × 2160 is 4K, which is ultra‑high definition, not just standard HD.
+
+Question 8 [Easy]
+
+A new IP camera is installed using a single cable that carries both data and power (PoE). Which cable type is MOST likely being used?
+
+A) Coaxial cable
+B) CAT5/CAT6 Ethernet cable
+C) Fibre optic cable
+D) Telephone cable
+
+Correct Answer: B
+
+Explanation:
+Modern IP cameras typically use CAT5/CAT6 Ethernet cables, which can provide both data and power using Power over Ethernet (PoE). Coaxial cable is more associated with traditional analogue systems, and fibre optics normally carry data only, not power.
+
+Question 9 [Easy]
+
+In CCTV operations, what does ANPR stand for?
+
+A) Automatic Number Plate Recognition
+B) Automatic Network Picture Recording
+C) Advanced Night‑time Picture Resolution
+D) Analogue Network Protocol Relay
+
+Correct Answer: A
+
+Explanation:
+ANPR stands for Automatic Number Plate Recognition. ANPR systems capture images of vehicle registration plates, use OCR (optical character recognition) to read them, and check them against databases for purposes such as stolen vehicle checks or parking enforcement.
+
+Question 10 [Easy]
+
+What is a key advantage of using cloud storage for CCTV recordings?
+
+A) It works without an internet connection
+B) It removes the need for incident logging
+C) It guarantees faster frame rates
+D) Recordings are stored off‑site, providing backup if control room equipment is damaged
+
+Correct Answer: D
+
+Explanation:
+Cloud storage keeps recordings in remote data centres. This provides off‑site backup if local recorders are damaged by fire, theft or flooding. However, it requires internet connectivity and usually involves ongoing subscription costs.
+
+Question 11 [Medium]
+
+An operator needs to monitor a rear fire exit door. The camera only needs to watch that specific doorway, and there is no requirement to track people once they leave. Which type of camera is MOST suitable?
+
+A) PTZ camera
+B) Thermal camera
+C) Fixed camera
+D) Wireless camera
+
+Correct Answer: C
+
+Explanation:
+A fixed camera is ideal for a specific, unchanging area such as a door. PTZ cameras are more expensive and better suited to situations where tracking movement or scanning wide areas is required. Thermal and wireless options do not match the basic requirement as directly.
+
+Question 12 [Medium]
+
+You are asked to choose a camera for a busy town‑centre square where operators frequently need to follow suspects and zoom in on faces or number plates. Which camera type is MOST appropriate?
+
+A) Fixed dome camera
+B) PTZ camera
+C) Thermal camera
+D) Mini dome camera
+
+Correct Answer: B
+
+Explanation:
+A PTZ camera allows operators to pan across the square, tilt up or down and zoom in on detail. This flexibility makes it ideal for tracking suspects and managing dynamic situations in open public spaces. Fixed and mini domes cannot track movement in the same way.
+
+Question 13 [Medium]
+
+Your organisation is upgrading to a modern CCTV system using only IP cameras and wants high‑resolution recording with easy remote access over the network. Which recording system is MOST suitable?
+
+A) Network Video Recorder (NVR)
+B) Digital Video Recorder (DVR)
+C) Analogue time‑lapse recorder
+D) Hybrid DVR/NVR designed mainly for analogue cameras
+
+Correct Answer: A
+
+Explanation:
+An NVR is designed for IP cameras and network‑based recording. It supports higher resolutions and remote access more effectively than a DVR, which is mainly for analogue inputs. A hybrid system is useful for mixed analogue/IP systems, not an all‑IP installation.
+
+Question 14 [Medium]
+
+In a large control room, operators monitor dozens of cameras covering a city centre. What is the MAIN advantage of using a video wall?
+
+A) It automatically improves the frame rate of all cameras
+B) It removes the need for individual monitors
+C) It eliminates all blind spots in the CCTV system
+D) It provides a large overview so operators can see many camera images at once
+
+Correct Answer: D
+
+Explanation:
+A video wall gives a big, shared overview of many camera feeds, helping supervisors and operators maintain situational awareness. It does not change camera frame rates or magically remove blind spots; it simply displays the images in a more effective way.
+
+Question 15 [Medium]
+
+A remote park‑and‑ride car park is several kilometres away from the control room. The council wants a high‑capacity, reliable link for multiple high‑resolution cameras, with minimal interference. Which transmission method is MOST appropriate?
+
+A) Coaxial cable
+B) Fibre optic cable
+C) Wireless link using a basic home router
+D) Analogue telephone line
+
+Correct Answer: B
+
+Explanation:
+Fibre optic cable is ideal for long distances and high‑bandwidth CCTV transmission. It uses light rather than electrical signals, giving high capacity and resistance to electrical interference. Coaxial and telephone lines are limited over long distances, and a basic wireless router is not suitable for a robust public‑space CCTV link.
+
+Question 16 [Medium]
+
+When reviewing footage for a serious incident, the operator notices that the time stamp on the recording is five minutes behind the actual time. Which routine maintenance task is MOST important to prevent this problem?
+
+A) Increasing the frame rate on all cameras
+B) Cleaning camera lenses more often
+C) Regularly synchronising system time across cameras and recorders
+D) Reducing the recording resolution
+
+Correct Answer: C
+
+Explanation:
+Accurate time synchronisation is critical for evidential use of CCTV. All cameras and recorders should be regularly checked and synchronised, often via an NTP server. Frame rate, cleaning and resolution are important for quality, but they do not correct time‑stamp errors.
+
+Question 17 [Medium]
+
+A restricted service yard behind several shops must trigger an alert whenever someone crosses a virtual line into the area outside working hours. Which video analytics feature should be configured?
+
+A) Face detection
+B) Crowd density monitoring
+C) Object left/removed detection
+D) Tripwire/line‑crossing detection
+
+Correct Answer: D
+
+Explanation:
+Tripwire or line‑crossing analytics generate an alert when a target crosses a predefined virtual line. This is ideal for detecting unauthorised entry into areas such as service yards. Object left/removed and crowd monitoring are for different types of behaviour.
+
+Question 18 [Medium]
+
+During a live fight in the town centre, the CCTV operator needs to contact police officers on patrol immediately. Which communication method should normally be used FIRST?
+
+A) Email
+B) Radio
+C) Internal intercom
+D) Mobile text message
+
+Correct Answer: B
+
+Explanation:
+Radio provides immediate, direct communication with police and partner agencies during incidents. Email and text are too slow for urgent situations, and intercom is usually for internal communication within the premises, not contacting external responders.
+
+Question 19 [Medium]
+
+The NVR is running out of storage before the required 31‑day retention period is reached, but the images still need to be good enough for identifying people. What is usually the BEST adjustment to make first?
+
+A) Significantly reduce the camera resolution on all cameras
+B) Turn off recording on some less important cameras
+C) Reduce the frame rate slightly while keeping the resolution suitable for identification
+D) Apply the highest possible compression setting, regardless of image quality
+
+Correct Answer: C
+
+Explanation:
+Lowering the frame rate slightly (for example from 25 fps to a lower but still usable rate) reduces storage while maintaining enough detail for identification. Drastic resolution cuts or extreme compression can seriously harm evidential quality. Turning off cameras reduces coverage and may not be acceptable.
+
+Question 20 [Medium]
+
+An argument between two taxi drivers is captured on CCTV late at night. Police do not attend at the time, but it may be relevant to a later complaint. What should the operator do in the incident logging system?
+
+A) Create a time‑stamped entry describing the incident, cameras used and any actions taken
+B) Do nothing, because no police were called
+C) Delete the recording immediately to save storage space
+D) Only make a note if the incident becomes violent
+
+Correct Answer: A
+
+Explanation:
+Incident logs should record all relevant events, not just those where police attend. A time‑stamped entry with details of the incident, cameras and operator actions creates an audit trail and supports any future investigation or complaint.
+
+Question 21 [Hard]
+
+Camera 21 is a PTZ mounted high on a tower, overlooking a dual carriageway. Even at maximum zoom, the operator cannot reliably identify drivers’ faces in vehicles passing 300 metres away. Lighting and focus appear normal. What is the MOST likely limitation in this situation?
+
+A) Poor maintenance of the control room monitors
+B) Incorrect time synchronisation on the NVR
+C) The camera’s lack of video analytics
+D) Distance and resolution limits – the camera cannot provide enough detail at that range
+
+Correct Answer: D
+
+Explanation:
+Every camera has limits to what detail it can capture at a given distance. At long ranges, even a PTZ may not provide enough pixels on target for clear facial identification. This is a technical limitation of distance, resolution and lens capability, not a monitor, timing or analytics issue.
+
+Question 22 [Hard]
+
+A facial recognition system linked to the CCTV network generates an alert suggesting a possible match to a person wanted by police. As the CCTV operator, what is the MOST appropriate action?
+
+A) Treat the alert as proof of identity and immediately instruct police to arrest the person
+B) Ignore the alert because facial recognition technology is always inaccurate
+C) Treat the alert as an indication only, carry out human checks on the images and follow agreed procedures
+D) Turn off the facial recognition system to avoid any privacy complaints
+
+Correct Answer: C
+
+Explanation:
+Facial recognition is a developing and controversial technology. Alerts should be treated as intelligence, not proof. Operators must verify images, apply human judgement and follow strict procedures and governance. Automatically arresting or ignoring alerts is inappropriate.
+
+Question 23 [Hard]
+
+A key PTZ camera covering a busy bus station suddenly stops responding and shows a black screen. What is the BEST overall response by the operator?
+
+A) Report the fault according to procedures, arrange any available alternative coverage, and record all actions in the incident log
+B) Wait until the end of the shift and then mention it informally to the next operator
+C) Reboot the NVR repeatedly until the camera starts working again, without telling anyone
+D) Ignore the problem because other cameras exist elsewhere in the town
+
+Correct Answer: A
+
+Explanation:
+Faults should be reported promptly using the correct procedures. Where possible, temporary measures such as using nearby cameras should be put in place, and all actions must be documented. Delaying, hiding or ignoring the fault fails to manage risk and breaks audit and maintenance requirements.
+
+Question 24 [Hard]
+
+After new 4K monitors are installed very close to each workstation, operators begin to complain of eye strain during long shifts. Which change is MOST likely to reduce this problem while still allowing effective monitoring?
+
+A) Reducing all cameras to the lowest possible resolution
+B) Adjusting the control room layout so monitors are at an appropriate size and viewing distance for operators
+C) Turning off half of the monitors during quieter periods
+D) Increasing the brightness of the monitors to make images clearer
+
+Correct Answer: B
+
+Explanation:
+Monitor size, resolution and viewing distance all affect eye strain. Ensuring the screens are at an appropriate distance and ergonomically positioned helps reduce fatigue while maintaining image quality. Simply lowering resolution, switching off screens or increasing brightness does not address the underlying ergonomic issue.
+
+Question 25 [Hard]
+
+On a busy Saturday afternoon, a single operator is monitoring over 80 cameras. Later, management ask why a minor shoplifting incident on one camera was not spotted at the time. Which limitation BEST explains this?
+
+A) The cameras were recording at too high a frame rate
+B) The system was using cloud storage instead of local disks
+C) The cameras were all fixed rather than PTZ
+D) Human monitoring limitations – too many cameras and attention/fatigue issues
+
+Correct Answer: D
+
+Explanation:
+There are operational limits to how many cameras one person can effectively monitor. Attention, workload and fatigue mean that minor incidents can be missed, especially with a large number of cameras. This is a human monitoring limitation, not a storage, frame rate or camera type issue.
+
+================================================================================
+END OF CHAPTER 2.3 QUESTIONS
+
+Total Questions: 25
+
+Easy: 10
+
+Medium: 10
+
+Hard: 5
+
+Answer Distribution:
+
+Correct answer A: 6 questions (Q4, Q6, Q9, Q13, Q20, Q23)
+
+Correct answer B: 6 questions (Q1, Q8, Q12, Q15, Q18, Q24)
+
+Correct answer C: 6 questions (Q2, Q7, Q11, Q16, Q19, Q22)
+
+Correct answer D: 7 questions (Q3, Q5, Q10, Q14, Q17, Q21, Q25)

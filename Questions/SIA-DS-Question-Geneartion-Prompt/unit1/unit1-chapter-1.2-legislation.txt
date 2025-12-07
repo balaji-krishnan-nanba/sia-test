@@ -1,0 +1,548 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 1, CHAPTER 1.2
+LEGISLATION FOR SECURITY OPERATIVES
+================================================================================
+
+YOUR TASK
+---------
+Generate 55 high-quality Multiple Choice Questions (MCQs) for Chapter 1.2 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+This chapter covers the key legislation that all security operatives must 
+understand. Door supervisors regularly encounter situations involving human 
+rights, discrimination, data protection, and health and safety law.
+
+THE EXAM
+--------
+Unit 1: Working in the Private Security Industry
+- 72 multiple choice questions in actual exam
+- 110 minutes duration
+- 71% pass mark (51 correct answers required)
+- This chapter (1.2) is one of 6 chapters in Unit 1
+
+================================================================================
+CHAPTER 1.2: LEGISLATION FOR SECURITY OPERATIVES - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 55
+- Easy (direct recall): 22 questions
+- Medium (application): 22 questions
+- Hard (scenario-based): 11 questions
+
+--------------------------------------------------------------------------------
+TOPIC 1.2.1: CRIMINAL LAW VS CIVIL LAW
+--------------------------------------------------------------------------------
+
+Criminal Law:
+- Offences against the state/society
+- Prosecution by Crown Prosecution Service (CPS)
+- Cases heard in Magistrates' Court or Crown Court
+- Burden of proof: "beyond reasonable doubt"
+- Penalties: imprisonment, fines, community orders
+- Examples: assault, theft, criminal damage
+
+Civil Law:
+- Disputes between individuals or organisations
+- Claimant brings case against defendant
+- Cases heard in County Court or High Court
+- Burden of proof: "balance of probabilities"
+- Remedies: damages (compensation), injunctions
+- Examples: negligence, breach of contract, trespass
+
+Key Distinction:
+- Same incident can be BOTH criminal and civil
+- Example: Assault is criminal offence AND can lead to civil claim for damages
+- Different courts, different standards of proof, different outcomes
+- Acquittal in criminal court doesn't prevent civil claim
+
+Security Operative Implications:
+- Can face criminal prosecution for unlawful actions
+- Can also be sued civilly for same actions
+- Employer may be vicariously liable in civil cases
+
+--------------------------------------------------------------------------------
+TOPIC 1.2.2: HUMAN RIGHTS ACT 1998
+--------------------------------------------------------------------------------
+
+Overview:
+- Incorporates European Convention on Human Rights into UK law
+- Public authorities must act compatibly with Convention rights
+- Security operatives may be acting as agents of public authority
+- Rights must be respected in all actions
+
+Key Articles:
+
+ARTICLE 2 - RIGHT TO LIFE:
+- Duty to protect life
+- Cannot take life except in extreme self-defence
+- Duty to prevent foreseeable harm
+- Absolute right (cannot be limited)
+
+ARTICLE 3 - PROHIBITION OF TORTURE:
+- No torture, inhuman or degrading treatment
+- Covers physical and psychological abuse
+- Absolute right (never justified)
+- Relevant to restraint and treatment of detainees
+
+ARTICLE 5 - RIGHT TO LIBERTY AND SECURITY:
+- Cannot be deprived of liberty except lawfully
+- Arrest must be lawful
+- False imprisonment breaches this article
+- Limited right (can be restricted in certain circumstances)
+
+ARTICLE 6 - RIGHT TO FAIR TRIAL:
+- Innocent until proven guilty
+- Cannot prejudge or punish without trial
+- Relevant when gathering evidence
+
+ARTICLE 8 - RIGHT TO RESPECT FOR PRIVATE LIFE:
+- Privacy of person, home, correspondence
+- Includes surveillance, searches, CCTV
+- Qualified right (can be balanced against other interests)
+- Security must be proportionate
+
+ARTICLE 10 - FREEDOM OF EXPRESSION:
+- Right to hold and express opinions
+- Can be restricted to prevent crime, protect others
+- Qualified right
+
+ARTICLE 11 - FREEDOM OF ASSEMBLY:
+- Right to peaceful assembly
+- Protests, gatherings
+- Can be restricted for public safety
+- Qualified right
+
+ARTICLE 14 - PROHIBITION OF DISCRIMINATION:
+- Rights apply equally to all
+- Cannot discriminate in application of rights
+- Works with other articles
+
+Types of Rights:
+- ABSOLUTE: Cannot be limited (Art 2, 3)
+- LIMITED: Can only be limited in specific circumstances (Art 5)
+- QUALIFIED: Can be balanced against other interests (Art 8, 10, 11)
+
+Proportionality:
+- Any interference with rights must be proportionate
+- Least restrictive means to achieve legitimate aim
+- Balance between individual rights and public interest
+
+--------------------------------------------------------------------------------
+TOPIC 1.2.3: EQUALITY ACT 2010
+--------------------------------------------------------------------------------
+
+Overview:
+- Consolidates and replaces previous discrimination legislation
+- Protects people from discrimination in the workplace and wider society
+- Applies to security operatives in their treatment of public
+
+The 9 Protected Characteristics:
+1. Age
+2. Disability
+3. Gender reassignment
+4. Marriage and civil partnership
+5. Pregnancy and maternity
+6. Race (includes colour, nationality, ethnic origin)
+7. Religion or belief (includes lack of belief)
+8. Sex
+9. Sexual orientation
+
+NOT Protected (Common Misconceptions):
+- Political opinion
+- Social class
+- Criminal record
+- Appearance (unless related to protected characteristic)
+
+Types of Discrimination:
+
+DIRECT DISCRIMINATION:
+- Treating someone worse BECAUSE OF protected characteristic
+- Example: refusing entry because of race
+- No justification possible (except age in limited circumstances)
+
+INDIRECT DISCRIMINATION:
+- Policy that applies to everyone but disadvantages a particular group
+- Example: dress code that disadvantages religious groups
+- Can be justified if "proportionate means of achieving legitimate aim"
+
+HARASSMENT:
+- Unwanted conduct related to protected characteristic
+- Violates dignity or creates intimidating environment
+- Includes sexual harassment
+- Includes harassment by third parties
+
+VICTIMISATION:
+- Treating someone badly because they made a discrimination complaint
+- Or because they supported someone else's complaint
+- Protection for whistleblowers
+
+Reasonable Adjustments:
+- Duty to make adjustments for disabled persons
+- Remove barriers that disadvantage disabled people
+- May include: ramps, alternative formats, extra time, assistance
+
+Application to Door Supervision:
+- Admission policies must not discriminate
+- Dress codes must be carefully considered
+- Searches must be conducted fairly
+- Refusing entry must be for legitimate, non-discriminatory reasons
+- Accommodate disabled customers where reasonable
+
+--------------------------------------------------------------------------------
+TOPIC 1.2.4: DATA PROTECTION ACT 2018 / UK GDPR
+--------------------------------------------------------------------------------
+
+Overview:
+- Controls how personal information is used
+- Applies to all organisations handling personal data
+- Security operatives handle personal data regularly
+- Serious penalties for breaches
+
+The 7 Data Protection Principles:
+
+1. LAWFULNESS, FAIRNESS, TRANSPARENCY:
+   - Must have lawful basis for processing
+   - Must be fair to the individual
+   - Must be transparent about how data is used
+
+2. PURPOSE LIMITATION:
+   - Collect for specified, explicit, legitimate purposes
+   - Don't use for incompatible purposes
+
+3. DATA MINIMISATION:
+   - Only collect what is necessary
+   - Don't collect excessive data
+
+4. ACCURACY:
+   - Keep data accurate and up to date
+   - Correct inaccurate data
+
+5. STORAGE LIMITATION:
+   - Don't keep data longer than necessary
+   - Delete when no longer needed
+
+6. INTEGRITY AND CONFIDENTIALITY (Security):
+   - Keep data secure
+   - Protect against unauthorised access
+   - Protect against loss or damage
+
+7. ACCOUNTABILITY:
+   - Controller responsible for compliance
+   - Must be able to demonstrate compliance
+
+Lawful Bases for Processing:
+- Consent
+- Contract
+- Legal obligation
+- Vital interests
+- Public task
+- Legitimate interests
+
+Special Category Data:
+- More sensitive data requiring extra protection
+- Includes: racial/ethnic origin, political opinions, religious beliefs,
+  trade union membership, genetic data, biometric data, health data,
+  sex life or sexual orientation, criminal convictions
+
+Data Subject Rights:
+- Right of access (subject access request)
+- Right to rectification
+- Right to erasure ("right to be forgotten")
+- Right to restrict processing
+- Right to data portability
+- Right to object
+
+Data Breach Reporting:
+- Report to ICO (Information Commissioner's Office) within 72 HOURS
+- If breach likely to result in risk to individuals
+- Must also notify affected individuals in serious cases
+
+Security Operative Duties:
+- Keep personal information confidential
+- Only access information on need-to-know basis
+- Secure storage of records and notebooks
+- Don't share information inappropriately
+- CCTV footage is personal data - handle appropriately
+
+CCTV Considerations:
+- Signage required (people must know they're being recorded)
+- Footage is personal data
+- Access must be controlled
+- Retention periods apply
+- Subject access requests can include CCTV
+
+--------------------------------------------------------------------------------
+TOPIC 1.2.5: HEALTH AND SAFETY LEGISLATION
+--------------------------------------------------------------------------------
+
+Health and Safety at Work Act 1974 (HASAWA):
+
+SECTION 2 - Employer's Duty to Employees:
+- Provide safe workplace
+- Safe systems of work
+- Safe equipment
+- Adequate training
+- Welfare provisions
+- "So far as is reasonably practicable"
+
+SECTION 3 - Employer's Duty to Non-Employees:
+- Must not endanger visitors, customers, public
+- Applies to anyone affected by the business
+
+SECTION 7 - Employee's Duties:
+- Take reasonable care for own health and safety
+- Take reasonable care for others affected by your actions
+- Cooperate with employer on health and safety matters
+
+SECTION 8 - General Duty:
+- No one shall intentionally or recklessly interfere with
+  anything provided for health and safety
+- Don't misuse safety equipment
+
+"Reasonably Practicable":
+- Weighing risk against cost/difficulty of reducing it
+- Not absolute duty - what is reasonable
+- Higher risk = more required to control it
+
+Management of Health and Safety at Work Regulations 1999:
+- Requires risk assessments
+- Competent persons for health and safety
+- Emergency procedures
+- Information and training
+
+Personal Protective Equipment (PPE):
+- Employer must provide suitable PPE
+- Employee must use PPE correctly
+- Last resort in control hierarchy
+- Types: high-vis, gloves, protective footwear
+
+--------------------------------------------------------------------------------
+TOPIC 1.2.6: RIDDOR - REPORTING REQUIREMENTS
+--------------------------------------------------------------------------------
+
+RIDDOR = Reporting of Injuries, Diseases and Dangerous Occurrences 
+Regulations 2013
+
+What Must Be Reported:
+
+DEATHS:
+- Any work-related death
+- Report immediately, then written report within 10 days
+
+SPECIFIED INJURIES:
+- Fractures (except fingers, thumbs, toes)
+- Amputations
+- Serious burns
+- Loss of sight
+- Crush injuries
+- Injuries requiring immediate hospitalisation over 24 hours
+- Report immediately, then written report within 10 days
+
+OVER-7-DAY INJURIES:
+- Injuries causing incapacitation for more than 7 consecutive days
+- Report within 15 days
+
+NON-WORKER INJURIES:
+- Injuries to public requiring hospital treatment
+- Report within 10 days
+
+OCCUPATIONAL DISEASES:
+- When diagnosed and linked to work
+- Report when diagnosed
+
+DANGEROUS OCCURRENCES:
+- Near-misses with serious potential
+- Report within 10 days
+
+How to Report:
+- Online at HSE website
+- Telephone for fatalities and specified injuries
+- Employer's duty to report (not employee)
+
+Record Keeping:
+- Keep records for at least 3 years
+- Records of all reportable incidents
+- Available for inspection
+
+--------------------------------------------------------------------------------
+TOPIC 1.2.7: OTHER RELEVANT LEGISLATION
+--------------------------------------------------------------------------------
+
+Criminal Damage Act 1971:
+- Intentionally or recklessly destroying/damaging property
+- Without lawful excuse
+- Offence even if own property (if endangers life)
+
+Theft Act 1968:
+- Dishonestly appropriating property
+- Belonging to another
+- With intention to permanently deprive
+
+Public Order Act 1986:
+- Various public order offences
+- Section 4: fear or provocation of violence
+- Section 5: harassment, alarm, distress
+- Riot, violent disorder, affray
+
+Protection from Harassment Act 1997:
+- Course of conduct amounting to harassment
+- Puts another in fear of violence
+- Stalking offences
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 55
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 22 questions (40%)
+- Medium (application): 22 questions (40%)
+- Hard (scenario-based): 11 questions (20%)
+
+TOPICS TO COVER (ensure all are represented):
+□ Criminal vs civil law distinction (5-6 questions)
+□ Human Rights Act - key articles (8-10 questions)
+□ Types of rights (absolute, limited, qualified) (3-4 questions)
+□ Equality Act - protected characteristics (6-8 questions)
+□ Types of discrimination (5-6 questions)
+□ Reasonable adjustments (2-3 questions)
+□ Data Protection principles (6-8 questions)
+□ Data subject rights (3-4 questions)
+□ Health and Safety at Work Act sections (5-6 questions)
+□ RIDDOR reporting requirements (5-6 questions)
+□ Other legislation basics (3-4 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. No trick questions or double negatives
+5. UK English spelling (organisation, behaviour, colour)
+6. Clear, unambiguous wording
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+Output all questions in this exact format:
+
+================================================================================
+UNIT 1, CHAPTER 1.2: LEGISLATION FOR SECURITY OPERATIVES
+================================================================================
+
+Question 1 [Easy]
+Which of the following is NOT one of the 9 protected characteristics under 
+the Equality Act 2010?
+
+A) Age
+B) Political opinion
+C) Religion or belief
+D) Sexual orientation
+
+Correct Answer: B
+
+Explanation: Political opinion is not a protected characteristic under the 
+Equality Act 2010. The 9 characteristics are: age, disability, gender 
+reassignment, marriage/civil partnership, pregnancy/maternity, race, 
+religion/belief, sex, and sexual orientation.
+
+---
+
+Question 2 [Medium]
+[Question text]
+
+A) [Option A]
+B) [Option B]
+C) [Option C]
+D) [Option D]
+
+Correct Answer: [Letter]
+
+Explanation: [2-3 sentence explanation]
+
+---
+
+[Continue for all 55 questions]
+
+================================================================================
+END OF CHAPTER 1.2 QUESTIONS
+================================================================================
+
+Total Questions: 55
+- Easy: 22
+- Medium: 22
+- Hard: 11
+
+================================================================================
+
+================================================================================
+LEGAL ACCURACY - KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+BURDEN OF PROOF:
+- Criminal: "beyond reasonable doubt"
+- Civil: "balance of probabilities"
+
+PROTECTED CHARACTERISTICS (exactly 9):
+- Age, Disability, Gender reassignment, Marriage/civil partnership,
+  Pregnancy/maternity, Race, Religion/belief, Sex, Sexual orientation
+- Political opinion is NOT included
+- Social class is NOT included
+
+DATA PROTECTION:
+- 7 principles (not 6 or 8)
+- Breach notification: 72 HOURS to ICO
+- ICO = Information Commissioner's Office
+
+HUMAN RIGHTS:
+- Article 2: Right to life (absolute)
+- Article 3: No torture (absolute)
+- Article 5: Right to liberty (limited)
+- Article 8: Right to privacy (qualified)
+
+RIDDOR:
+- Deaths/specified injuries: immediately + 10 days written
+- Over-7-day injuries: within 15 days
+- Records kept: 3 years
+
+HASAWA SECTIONS:
+- Section 2: Employer duty to employees
+- Section 7: Employee duties
+- Section 8: Don't interfere with safety equipment
+
+COMMON DISTRACTORS:
+- 8 or 10 protected characteristics (wrong - it's 9)
+- Political opinion protected (wrong - it's not)
+- 48 hours for breach notification (wrong - 72 hours)
+- Records kept 5 years (wrong - 3 years for RIDDOR)
+
+================================================================================
+QUALITY CHECKLIST
+================================================================================
+
+Before finalising:
+□ Exactly 55 questions
+□ 22 easy, 22 medium, 11 hard
+□ All topics covered
+□ Only ONE correct answer per question
+□ UK English spelling
+□ No duplicate questions
+□ Explanations are clear and concise
+□ All legal facts are accurate
+
+================================================================================
+END OF PROMPT
+================================================================================

@@ -1,0 +1,204 @@
+================================================================================
+UNIT 2, CHAPTER 2.1: ROLE AND OBJECTIVES OF A DOOR SUPERVISOR
+================================================================================
+Meta: Total=15 | Easy=6 | Medium=6 | Hard=3 | A=4 | B=4 | C=4 | D=3
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: What is the PRIMARY role of a door supervisor at a licensed premises?
+
+A) To create and maintain a safe environment for customers, staff and the public
+B) To maximise profits for the venue
+C) To refuse entry to as many people as possible
+D) To catch criminals and make citizen's arrests
+
+Answer: A
+Explanation: The primary role of a door supervisor is to create and maintain a safe environment for customers, staff and the wider public. Supporting the business is important, but safety must always come before profit, queues or customer numbers.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which statement BEST describes the dual role of a modern door supervisor?
+
+A) Security professional and customer service representative
+B) Police officer and bartender
+C) Manager and first aider
+D) DJ and security guard
+
+Answer: A
+Explanation: A door supervisor is both a security professional and a customer service representative. They must protect the venue and its customers while also being welcoming, polite and professional, especially as they are often the first person customers meet.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which of the following is normally an acceptable form of ID for proving age in licensed premises?
+
+A) Supermarket loyalty card
+B) Bank card
+C) Student union card without a PASS logo
+D) UK passport
+
+Answer: D
+Explanation: Acceptable ID for age verification normally includes a valid passport, driving licence or a PASS-accredited card. Items such as store cards, bank cards or non-PASS student cards are not reliable proof of age and should not be accepted.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: When a venue reaches its maximum licensed capacity, a door supervisor should:
+
+A) Operate a one-in-one-out system and not exceed capacity
+B) Only allow in people who know the manager
+C) Allow in small groups if they promise to behave
+D) Let more people in for a short time to reduce the queue
+
+Answer: A
+Explanation: Capacity limits are set by law, usually through a fire risk assessment, and must never be exceeded. When the venue is full, a one-in-one-out system must be used; going over the limit is a criminal offence and creates serious safety risks.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which piece of venue knowledge is MOST important for a door supervisor in an emergency such as a fire?
+
+A) Location of the manager's office
+B) Location of all fire exits and escape routes
+C) Price list for drinks
+D) Names of the DJs
+
+Answer: B
+Explanation: In an emergency, knowing all fire exits and escape routes is essential so customers can be directed quickly and safely out of the building. Detailed knowledge of the venue layout is a key part of the door supervisor's role.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: How should an SIA licence be displayed while on duty as a door supervisor?
+
+A) Kept in a pocket and shown only if asked
+B) Photocopied and kept in a notebook
+C) Left in the manager's office for safekeeping
+D) Worn openly where it can be easily seen, such as on a lanyard or clip
+
+Answer: D
+Explanation: A condition of holding an SIA licence is that it must be worn and displayed clearly while on duty, unless there is a specific approved exemption. Keeping it hidden or locked away does not meet this requirement.
+
+---
+Q7 | Difficulty: Medium
+---
+Question: While checking IDs at the entrance, a customer who looks about 20 approaches. What is the MOST appropriate action under a Challenge 25-type policy?
+
+A) Allow them entry because they are probably over 18
+B) Ask for valid photo ID to prove their age
+C) Ask their friends to confirm how old they are
+D) Refuse entry immediately without explanation
+
+Answer: B
+Explanation: Under Challenge 25, anyone who appears under 25 should be asked to provide acceptable photo ID to prove they are at least 18. Friends' statements are not reliable, and refusing without explanation is poor customer service.
+
+---
+Q8 | Difficulty: Medium
+---
+Question: Your venue has a "no sports shirts" dress code. A customer wearing a football shirt tries to enter, and you politely explain the policy and refuse entry. Which statement BEST describes this situation?
+
+A) It is acceptable if the policy is applied consistently to everyone
+B) It is unlawful discrimination in all circumstances
+C) It is only acceptable if the customer is also intoxicated
+D) It is acceptable only if the customer is not a regular
+
+Answer: A
+Explanation: Venues may have dress codes as long as they are applied fairly and consistently and do not discriminate against protected groups. A neutral policy such as "no sports shirts", if enforced equally for everyone, is normally acceptable under equality law.
+
+---
+Q9 | Difficulty: Medium
+---
+Question: Inside the venue you notice a customer who is unsteady on their feet, slurring their words and spilling drinks. What is the MOST appropriate first action?
+
+A) Ignore them unless they become violent
+B) Immediately eject them using physical force
+C) Monitor them closely and inform colleagues or management of your concerns
+D) Take a photo of them for the banned list
+
+Answer: C
+Explanation: The customer is showing signs of intoxication and potential vulnerability. The best first step is to monitor the situation, communicate with colleagues or management, and then take proportionate action to protect the customer and others if necessary.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: You are positioned at the main entrance when a fight breaks out just inside the venue. Several door supervisors are already moving towards the incident. What should you MOST likely do?
+
+A) Abandon the door immediately and join the incident team
+B) Stay at your post unless specifically directed to move, maintaining control of entry and exit
+C) Close the door and refuse to let anyone leave
+D) Leave the venue to look for the police
+
+Answer: B
+Explanation: Teamwork means managing incidents while still maintaining overall safety and control of the venue. If other staff are already responding, it is usually best to keep your position at the door to control who enters and exits, unless you are directed to assist elsewhere.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: An intoxicated customer collapses and hits their head inside the venue. Staff place them in the recovery position and call 999 for an ambulance. As a door supervisor, what is your MOST important responsibility when the ambulance arrives?
+
+A) Continue checking ID and ignore the ambulance crew
+B) Challenge the crew for ID before letting them in
+C) Ask them to wait until the end of the night so the venue is less busy
+D) Ensure they have clear, safe access to the casualty and assist with crowd control as directed
+
+Answer: D
+Explanation: When emergency services attend, door supervisors should help by keeping access routes clear, directing them quickly to the casualty and managing the crowd as requested. Working cooperatively with paramedics is vital for the safety of the injured person.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: A licensing officer from the local authority arrives during your shift and asks to see how you monitor capacity. What should you do?
+
+A) Refuse, as capacity is a private business matter
+B) Ask them to return when the manager is on duty and provide no information
+C) Cooperate, showing them any counters, clickers or records used to monitor numbers
+D) Ask customers if they are happy for the officer to inspect before allowing access
+
+Answer: C
+Explanation: Licensing officers help ensure that licence conditions, including capacity limits, are being followed. Door supervisors should cooperate fully and professionally, demonstrating how numbers are monitored in line with the premises licence and risk assessment.
+
+---
+Q13 | Difficulty: Hard
+---
+Question: Your venue is at its licensed capacity and you are operating a one-in-one-out system. A group of ten arrives with a well-known local celebrity who has been booked to appear. At the same time, you notice that one of the fire exits is partially blocked by customers smoking. What should be your TOP priority?
+
+A) Allow the celebrity and their group straight in to avoid bad publicity
+B) Ask the DJ to stop the music so the celebrity can be announced
+C) Immediately ensure the fire exit is cleared and kept unobstructed, while maintaining the one-in-one-out system
+D) Temporarily exceed capacity to let the group in, then reduce numbers later
+
+Answer: C
+Explanation: Safety always comes before reputation, queues or VIPs. Fire exits must be kept clear at all times and capacity limits must not be exceeded. The correct response is to clear and protect the exit and continue to control admission within the legal capacity.
+
+---
+Q14 | Difficulty: Hard
+---
+Question: You recognise a person in a group of six approaching the door as someone who is on the venue's banned list for previous violence. The rest of the group appear calm and sober. What is the MOST appropriate action?
+
+A) Allow the whole group in but keep an eye on the banned person
+B) Refuse entry only to the banned person, clearly explaining the ban, and allow the rest of the group in if they meet entry conditions
+C) Refuse entry to the entire group without explanation
+D) Let the banned person in if they promise to behave
+
+Answer: B
+Explanation: Bans should be applied consistently to the individual concerned and recorded with reasons, often as part of venue or Pubwatch/Clubwatch schemes. The banned person should be refused entry and the decision explained calmly; the others can be admitted if they meet all entry conditions, though they may choose to leave with their friend.
+
+---
+Q15 | Difficulty: Hard
+---
+Question: After a serious assault outside your venue, you provide a factual statement to police officers, including what you saw on CCTV. Later that night, a friend of the suspect demands to know exactly what you told the police and threatens to complain if you refuse. What is the MOST appropriate response?
+
+A) Tell them everything you told the police to avoid confrontation
+B) Refuse to speak to them at all and walk away without explanation
+C) Calmly explain that you have a duty to cooperate with the police and cannot discuss details of the investigation, and direct them to management if they wish to complain
+D) Show them the CCTV so they can see what happened
+
+Answer: C
+Explanation: Door supervisors must cooperate with police investigations and also maintain confidentiality about incidents and customer information. The best response is to remain calm, explain your duty to assist the police, avoid sharing details with third parties and signpost any complaint through the proper venue procedures.
+
+================================================================================
+END OF CHAPTER 2.1
+================================================================================

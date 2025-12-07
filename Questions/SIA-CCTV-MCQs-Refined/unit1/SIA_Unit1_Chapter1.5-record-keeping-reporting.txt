@@ -1,0 +1,230 @@
+================================================================================
+UNIT 1, CHAPTER 1.5: RECORD KEEPING AND REPORTING
+Question 1 [Easy]
+What does 'contemporaneous' mean in relation to record keeping?
+A) Written by the same person throughout
+B) Made at the time or as soon as possible after
+C) Containing pictures and diagrams
+D) Signed by a witness
+Correct Answer: B
+Explanation: Contemporaneous means made at the time of the event or as soon as possible afterwards, while memory is still fresh. This gives records greater evidential value as they are less likely to be affected by memory degradation or later influences.
+
+Question 2 [Easy]
+Which statement best describes how good record keeping supports accountability in a CCTV control room?
+A) It provides an audit trail showing what actions were taken, when and by whom
+B) It allows operators to delete footage they think is unimportant
+C) It gives operators legal advice when dealing with the police
+D) It removes the need for supervisors to monitor staff performance
+Correct Answer: A
+Explanation: Good records create an audit trail that shows what happened, who did what and when. This demonstrates professionalism, allows decisions to be reviewed and helps protect both the operator and employer if actions are questioned later.
+
+Question 3 [Easy]
+Which of the following entries is not appropriate in a factual CCTV incident log?
+A) “Male wearing a blue jacket entered the shop at 15:02 hrs.”
+B) “CCTV coverage lost on Camera 4 at 18:47 hrs.”
+C) “Police control room notified at 22:15 hrs.”
+D) “The male looked like he was up to no good.”
+Correct Answer: D
+Explanation: Records must be factual and objective. Option D is an opinion about someone’s state of mind, not an observed fact. The other options describe observable events that can be verified.
+
+Question 4 [Easy]
+Which of the following would be a breach of confidentiality by a CCTV operator?
+A) Providing footage to the police following a documented request
+B) Completing an incident report on the secure system
+C) Telling a neighbour about an incident involving their relative that you saw on CCTV
+D) Recording in the handover log that footage has been preserved for an incident
+Correct Answer: C
+Explanation: Operators must not share information from CCTV with unauthorised people, even if they are related to those involved. Options A, B and D are examples of authorised, professional use of information.
+
+Question 5 [Easy]
+Which of the following best describes the minimum key details that should appear in every CCTV incident log entry?
+A) The operator’s full employment history and shift pattern
+B) Only the camera number and the operator’s name
+C) The operator’s personal opinions about the people involved
+D) Time, location, description of what was seen and actions taken
+Correct Answer: D
+Explanation: A good incident log entry should record when and where the incident occurred, what was observed and what actions were taken. This allows others to understand the event and follow up if needed.
+
+Question 6 [Easy]
+How should a CCTV operator correct an error in their pocket notebook?
+A) Put a single line through the mistake so it remains readable, then initial and date it
+B) Rub it out with a pencil eraser and write over the top
+C) Use correction fluid to completely cover the mistake
+D) Tear out the page and rewrite the entry neatly
+Correct Answer: A
+Explanation: Pocket notebooks are evidential documents. Errors must remain readable, with a single line through them and the correction initialled and dated. Pages must not be removed and correction fluid must not be used.
+
+Question 7 [Easy]
+How should a CCTV operator correctly begin a sentence in a formal statement describing what they saw?
+A) “You could see that…”
+B) “I observed…”
+C) “We all thought…”
+D) “The suspect was obviously guilty because…”
+Correct Answer: B
+Explanation: Statements should be in the first person and describe the operator’s own observations, e.g. “I observed…”. Options A, C and D are either second person, give group opinions or include improper conclusions about guilt.
+
+Question 8 [Easy]
+In CCTV work, what is meant by the ‘chain of custody’ for recorded footage?
+A) The number of cameras installed on a site
+B) The list of officers on duty in the control room
+C) How often the equipment is serviced
+D) A documented record of who has handled the evidence, when and why, from capture to final use
+Correct Answer: D
+Explanation: Chain of custody is the documented history of evidence from the moment it is identified until it is presented in court or disposed of. It shows who accessed it, when, why and what was done, helping prove that it has not been tampered with.
+
+Question 9 [Easy]
+What is the main purpose of a shift handover log in a CCTV control room?
+A) To record staff holiday requests
+B) To replace all verbal briefings
+C) To document key incidents, equipment issues and ongoing tasks for the next operator
+D) To store copies of all incident reports
+Correct Answer: C
+Explanation: A handover log supports continuity between shifts by summarising ongoing incidents, equipment faults and outstanding actions. It does not replace verbal handover, but supports it and provides a written record.
+
+Question 10 [Medium]
+During a busy Saturday night, you observe a serious fight on camera. You are focused on tracking the incident and liaising with police over the radio. When should you complete the incident log entry?
+A) At the end of the week, using your memory and any police reports
+B) Make basic notes if possible and complete a full log entry as soon as possible after the incident
+C) Only if someone is arrested as a result of the fight
+D) Not at all, because the video footage will show everything that happened
+Correct Answer: B
+Explanation: Operators should record incidents in real time where possible, or as soon as practicable afterwards, while details are still fresh. Relying on memory days later or assuming footage alone is sufficient is poor practice.
+
+Question 11 [Medium]
+A CCTV operator is sent to check a rooftop camera. While there, they see a group of youths throwing objects into a car park that the fixed cameras cannot clearly see. There is no access to the electronic incident log. How should they best use their pocket notebook?
+A) Not write anything until back in the control room to keep the notebook tidy
+B) Make notes in pencil and rub them out once the incident log is updated
+C) Write only the incident reference number, as full details will be visible on CCTV
+D) Record time, date, location and detailed observations in ink, then use these notes to complete formal records later, keeping the notebook if required as evidence
+Correct Answer: D
+Explanation: Pocket notebooks act as contemporaneous records and an aide-memoire for later statements or logs. Entries must be in ink, detailed and kept as potential evidence. They should not be erased or kept deliberately vague.
+
+Question 12 [Medium]
+After observing an assault on camera, a CCTV operator is asked by the police to write a statement. Which approach is MOST appropriate?
+A) Provide a chronological, factual account of what they personally saw on the screens, including times, camera numbers, locations and actions they took
+B) Summarise what other witnesses told the police, so everything is in one document
+C) Explain why they think the suspect started the fight, using their personal opinions
+D) Copy the brief incident log entry word-for-word without adding any further detail
+Correct Answer: A
+Explanation: A statement should give a clear, chronological, factual account of the operator’s own observations and actions. It should not include hearsay, speculation or unnecessary opinions, and usually needs more detail than a brief log entry.
+
+Question 13 [Medium]
+You export footage of a shop theft to a USB drive for a police officer. What should you do to maintain a proper chain of custody?
+A) Hand the USB straight to the officer so they can leave quickly, without paperwork
+B) Give the USB to any colleague and ask them to pass it to the officer later
+C) Record the export and handover in the disclosure or evidence log, including date, time, case reference, your details and the officer’s details, and obtain a signature on receipt
+D) Make two USB copies and keep one in your pocket in case the first is lost
+Correct Answer: C
+Explanation: Every transfer of CCTV evidence must be documented: who transferred it, to whom, when, why and for which case. A signature or other acknowledgement supports the chain of custody and protects both the operator and the investigation.
+
+Question 14 [Medium]
+You are finishing a busy shift. There is an ongoing police search for a missing person and two cameras are out of service. What is the BEST way to carry out handover?
+A) Leave exactly at your finish time; the next operator can see what is on the screens
+B) Stay a few minutes to give a structured verbal briefing, highlight incidents and faults, and ensure key points are recorded in the handover log
+C) Send an email to your supervisor and assume they will update the next operator
+D) Only mention the faulty cameras, as ongoing incidents will be obvious
+Correct Answer: B
+Explanation: Good handover practice includes a clear briefing on ongoing incidents, equipment issues and outstanding tasks, supported by written records. Rushing off or relying on others to pass information on risks loss of crucial information.
+
+Question 15 [Medium]
+While you are on duty, a friend messages you asking if you can “have a quick look on the cameras” to see if their car is still parked outside a bar. What should you do?
+A) Agree, as long as you do not record anything in the incident log
+B) Send them a screenshot from your phone but delete it afterwards
+C) Ask a colleague to check instead, so you are not personally involved
+D) Refuse the request, explain that CCTV may only be used for authorised purposes, and advise them to contact the appropriate authority if they have a legitimate concern
+Correct Answer: D
+Explanation: CCTV must only be used for legitimate, authorised purposes. Personal requests from friends or family must be refused, and operators should explain that there are proper channels (such as police or site management) for any genuine concerns.
+
+Question 16 [Medium]
+You are writing an incident report about several linked assaults in the town centre. Which approach BEST follows good report-writing practice?
+A) Write everything in one long paragraph so you do not miss anything
+B) Focus mainly on your personal views about how well the police responded
+C) Use a clear structure: introduction (what, when, where), chronological detail of events, then a conclusion summarising the outcome and any recommendations
+D) Only record incidents where an arrest was made, to keep the report short
+Correct Answer: C
+Explanation: Good reports are structured, clear and easy to follow. An introduction, detailed chronological section and conclusion allow others to understand what happened, what was done and what might be required next.
+
+Question 17 [Medium]
+During a court case, it becomes clear that the CCTV incident log for a burglary has missing times, vague descriptions and no record of who handled the footage. What is the MOST likely consequence?
+A) The judge will simply correct the records to make them acceptable
+B) The defence may successfully challenge the CCTV evidence, weakening or even causing the case to fail
+C) The operator will automatically be promoted for being honest about the gaps
+D) The court will ignore the problems because there is video footage
+Correct Answer: B
+Explanation: Poor, incomplete or unreliable records can seriously damage a case. If the defence can show that logs are weak or the evidence handling is unclear, the CCTV evidence may be given little weight or excluded altogether.
+
+Question 18 [Medium]
+On a quiet night shift, nothing at all happens for almost two hours. How should the CCTV operator record this in the incident log?
+A) Make an entry such as “01:00–02:50 – routine monitoring, no incidents to report”
+B) Leave a blank space in the log so it is obvious nothing happened
+C) Backdate an incident to fill the gap so it looks like they were busy
+D) Tear out the pages for that period to keep the log tidy
+Correct Answer: A
+Explanation: Logs should show continuous monitoring, even if nothing happens. Brief entries confirming “routine monitoring, nothing to report” avoid unexplained gaps that could be questioned later.
+
+Question 19 [Hard]
+A CCTV operator exports footage of a serious assault to a DVD at 23:30, labels it with the incident reference, then leaves it on their workstation while dealing with another live incident. At 00:05 a colleague locks it in a drawer. At 01:00 the supervisor takes it from the drawer and hands it to a police officer, but no one records these movements in the evidence log. What aspect of this process MOST seriously risks the chain of custody?
+A) Exporting the footage to a DVD instead of a USB drive
+B) Labelling the disc with the incident reference number
+C) Leaving the disc unsecured on the workstation and then failing to record who handled it and when
+D) Handing the disc directly to a police officer
+Correct Answer: C
+Explanation: Evidence should be secured and every transfer documented. Leaving the disc unattended on a workstation and not properly logging its movements creates opportunities for tampering and makes it difficult to prove integrity in court.
+
+Question 20 [Hard]
+A week after a major public disorder, you are asked for a witness statement. Your original logs and notebook entries are available, but you cannot clearly remember the colour of one suspect’s jacket. The investigating officer suggests you “just put blue like the others; it probably was”. What should you do?
+A) Rely on your contemporaneous notes and only include details you are sure of, clearly stating in the statement if you cannot remember something
+B) Accept the officer’s suggestion so the statement looks complete and helps the case
+C) Guess the jacket colour and hope you remember better by the time you go to court
+D) Refuse to provide any statement at all because your memory is not perfect
+Correct Answer: A
+Explanation: Statements must be truthful and based on what the witness actually knows. It is acceptable – and more professional – to say you are unsure or cannot remember, rather than guessing or being led into an inaccurate account.
+
+Question 21 [Hard]
+You are monitoring a busy transport hub. You see a man steal a wallet but only note the approximate time. Which log entry BEST follows good practice for recording this incident?
+A) “About lunchtime – man stole wallet on Platform 2.”
+B) “14:00 – Think something might have been stolen near ticket machines, not sure.”
+C) “Time unknown – suspect possibly removed something from bag; will check later.”
+D) “Approx. 13:52 hrs – Camera 12, Platform 2 ticket machines. Observed male IC1, 30s, grey coat, remove wallet from rear pocket of male IC3, 40s, then exit towards main concourse.”
+Correct Answer: D
+Explanation: Even if the exact time is not known, the operator should record an approximate time and clearly state it as such, along with camera reference, location, descriptions of those involved and what was actually observed.
+
+Question 22 [Hard]
+After a high-profile incident in the town centre, a CCTV operator posts on their personal social media: “You should have seen the state of that drunk woman we were watching on camera last night – hilarious!” Friends know where they work. What is the MOST accurate assessment of this behaviour?
+A) Acceptable, because no footage was shared and no names were mentioned
+B) It is a breach of confidentiality and data protection, and could lead to disciplinary, licensing or even criminal consequences
+C) Acceptable, as long as the post is deleted within 24 hours
+D) Required, because staff must keep the public informed about what happens on CCTV
+Correct Answer: B
+Explanation: Even without names or images, sharing information from CCTV on social media is unprofessional and can breach confidentiality and data protection law. Operators have a continuing duty to protect the privacy of those recorded.
+
+================================================================================
+END OF CHAPTER 1.5 QUESTIONS
+Total Questions: 22
+
+
+Easy: 9
+
+
+Medium: 9
+
+
+Hard: 4
+
+
+Answer Distribution:
+
+
+Correct answer A: 5 questions
+
+
+Correct answer B: 6 questions
+
+
+Correct answer C: 5 questions
+
+
+Correct answer D: 6 questions
+
+
+================================================================================

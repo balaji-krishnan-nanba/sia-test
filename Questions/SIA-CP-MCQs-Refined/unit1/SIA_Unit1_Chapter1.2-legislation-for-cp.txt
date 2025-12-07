@@ -1,0 +1,430 @@
+================================================================================
+UNIT 1, CHAPTER 1.2: LEGISLATION FOR CLOSE PROTECTION
+Question 1 [Easy] – PSIA 2001
+
+Under which Act was the Security Industry Authority (SIA) established?
+
+A) Police and Criminal Evidence Act 1984
+B) Private Security Industry Act 2001
+C) Human Rights Act 1998
+D) Equality Act 2010
+
+Correct Answer: B
+
+Explanation:
+The Security Industry Authority (SIA) was created by the Private Security Industry Act 2001 to regulate the private security industry and raise standards. 
+IN2 Security Training
++1
+
+Question 2 [Easy] – PSIA 2001
+
+What is the maximum criminal penalty for working as a close protection operative without a required SIA licence?
+
+A) Up to 10 years’ imprisonment and an unlimited fine
+B) Dismissal from employment but no criminal penalty
+C) Up to 6 months’ imprisonment only
+D) Up to 5 years’ imprisonment and an unlimited fine
+
+Correct Answer: D
+
+Explanation:
+Working in a licensable role without an SIA licence is a criminal offence under the Private Security Industry Act 2001. On indictment, the maximum penalty is up to 5 years’ imprisonment and an unlimited fine. 
+Mortons Solicitors
++1
+
+Question 3 [Medium] – PSIA 2001
+
+A security company supplies a CPO to a high‑profile event. It later emerges the CPO’s SIA licence had expired before the event. Under the Private Security Industry Act 2001, what is the main legal consequence for the company?
+
+A) The company can be fined but it is not a criminal offence.
+B) Only the individual CPO can be prosecuted, not the company.
+C) The company commits a criminal offence for employing an unlicensed operative.
+D) The event organiser, not the company, is solely liable.
+
+Correct Answer: C
+
+Explanation:
+Under PSIA 2001, employing unlicensed staff is itself a criminal offence. The employer can be prosecuted as well as, or instead of, the unlicensed operative. 
+guardpass.com
++1
+
+Question 4 [Easy] – Human Rights Act 1998
+
+Under the Human Rights Act 1998, which Article protects the right to respect for private and family life, home and correspondence?
+
+A) Article 2
+B) Article 8
+C) Article 5
+D) Article 3
+
+Correct Answer: B
+
+Explanation:
+Article 8 of the Human Rights Act protects the right to respect for private and family life, home and correspondence. This is highly relevant to CPOs when considering surveillance and handling of personal information. 
+Equality and Human Rights Commission
++1
+
+Question 5 [Easy] – Human Rights Act 1998
+
+Which Article of the Human Rights Act 1998 contains the absolute prohibition on torture and inhuman or degrading treatment?
+
+A) Article 3
+B) Article 10
+C) Article 14
+D) Article 6
+
+Correct Answer: A
+
+Explanation:
+Article 3 prohibits torture and inhuman or degrading treatment. It is an absolute right, meaning it cannot be limited or suspended in any circumstances, and it guides how force is used and how detainees are treated. 
+Equality and Human Rights Commission
++2
+Legislation.gov.uk
++2
+
+Question 6 [Medium] – Human Rights Act 1998
+
+A celebrity principal is being filmed by a TV crew while walking along a public street. The principal tells the CPO to “stop them filming me – it’s against my human rights.” Which response best reflects the CPO’s understanding of the Human Rights Act?
+
+A) Immediately seize the camera because Article 8 always overrides media rights.
+B) Explain that journalists have a right to report in public (Article 10) as long as they act lawfully, and manage the situation by positioning and movement.
+C) Threaten to arrest the crew for breaching the principal’s right to liberty under Article 5.
+D) Physically block the camera at all times because any filming in public is unlawful.
+
+Correct Answer: B
+
+Explanation:
+The CPO must balance Article 8 (privacy) with Article 10 – freedom of expression. Lawful filming in a public place is generally allowed. The appropriate response is to manage the risk through positioning and movement, not to unlawfully interfere with media rights. 
+Equality and Human Rights Commission
++1
+
+Question 7 [Easy] – Use of Force
+
+Which legal provision states that a person may use such force as is reasonable in the circumstances in the prevention of crime?
+
+A) Section 24A of the Police and Criminal Evidence Act 1984
+B) Section 3 of the Criminal Law Act 1967
+C) Regulation of Investigatory Powers Act 2000
+D) Equality Act 2010
+
+Correct Answer: B
+
+Explanation:
+Section 3 of the Criminal Law Act 1967 allows any person to use such force as is reasonable in the circumstances in the prevention of crime or in effecting or assisting a lawful arrest. This is a key provision for CPOs. 
+College Police Library
++2
+Points2Prove
++2
+
+Question 8 [Medium] – Use of Force (Pre‑emptive)
+
+In a crowded bar, an aggressive man marches towards the principal, shouting threats and raising a clenched fist. He is only a step away when the CPO delivers a single strike to stop him. Which statement best describes the legality of the CPO’s action?
+
+A) It is lawful only if the principal has already been injured.
+B) It can be lawful as pre‑emptive force if the CPO honestly believed an attack was imminent and used proportionate force.
+C) It is unlawful because you must wait to be hit before using force.
+D) It is automatically lawful because the man was shouting.
+
+Correct Answer: B
+
+Explanation:
+Self‑defence and Section 3 CLA 1967 allow pre‑emptive force where the CPO honestly believes an attack is imminent, provided the force used is necessary and proportionate to the threat. You do not have to wait to be hit.
+
+Question 9 [Medium] – Use of Force (Proportionality)
+
+A drunk guest pushes a CPO and tries to force past towards the principal. The CPO takes him to the ground and, once the guest has stopped resisting, continues to punch him several times in the head. Which principle governing use of force is the CPO MOST likely to have breached?
+
+A) Necessity – force can never be used to protect a principal
+B) Minimum force – because only the police can use any level of force
+C) Honest belief – the CPO’s belief is irrelevant in law
+D) Proportionality – the force used became excessive once the threat had passed
+
+Correct Answer: D
+
+Explanation:
+Once the guest had stopped resisting, the ongoing punches were no longer necessary to prevent harm. The CPO has likely used excessive force and breached the principle of proportionality, creating both criminal and civil liability risks.
+
+Question 10 [Medium] – Use of Force (Necessity)
+
+During a public walkabout, a man stands behind a barrier, shouting insults at the principal but making no attempt to climb over. There is a clear escape route. Which action best reflects the legal principle of NECESSITY in use of force?
+
+A) Drag the man over the barrier and detain him until the police arrive.
+B) Strike the man immediately to “teach him a lesson”.
+C) Jump over the barrier and restrain the man in a chokehold.
+D) Move the principal away and continue to monitor, as there is a safe alternative to using force.
+
+Correct Answer: D
+
+Explanation:
+Force must be a last resort. If the principal can be safely moved away, the necessity test is not met and force should not be used. Monitoring and repositioning are lawful, proportionate options.
+
+Question 11 [Hard] – Use of Force (Full Legal Test)
+
+As the principal leaves a restaurant, a man rushes towards them holding a raised glass bottle and shouting “I’m going to kill you.” The CPO swings a briefcase hard into the man’s arm, breaking it and knocking the bottle away. Which statement BEST describes how a court would consider the CPO’s actions?
+
+A) Not lawful because any force causing a broken bone is automatically unreasonable.
+B) Lawful only if the man’s weapon had been a firearm.
+C) Automatically lawful because the CPO holds an SIA licence.
+D) Potentially lawful if the CPO honestly believed a lethal attack was imminent and the force was necessary and proportionate in the circumstances.
+
+Correct Answer: D
+
+Explanation:
+The court will consider whether the CPO honestly believed an attack was imminent and whether the response was necessary and proportionate under common law self‑defence and Section 3 CLA 1967. Serious injury to the attacker can still be lawful if those tests are satisfied. 
+College Police Library
++2
+Points2Prove
++2
+
+Question 12 [Easy] – Citizen’s Arrest (Offence Type)
+
+Under Section 24A of the Police and Criminal Evidence Act 1984, a CPO may exercise a citizen’s arrest only where they reasonably suspect that a person is committing:
+
+A) A summary‑only public order offence
+B) An indictable offence (serious offence tried in the Crown Court)
+C) A civil wrong such as trespass
+D) Any offence, however minor
+
+Correct Answer: B
+
+Explanation:
+Section 24A PACE allows “any person” (including CPOs) to arrest only for indictable offences (which include either‑way and indictable‑only offences), not for purely summary matters. 
+Main Page - CrimeLine from Andrew Keogh
++3
+Legislation.gov.uk
++3
+Points2Prove
++3
+
+Question 13 [Medium] – Citizen’s Arrest (Necessity)
+
+Which statement BEST describes the “necessity” condition for a citizen’s arrest under Section 24A PACE 1984?
+
+A) It is necessary whenever any offence has occurred, regardless of risk or police availability.
+B) The CPO must personally dislike the suspect’s behaviour.
+C) It must be impracticable for a constable to make the arrest, and the arrest is needed to prevent injury, loss/damage or escape.
+D) The arrest is necessary whenever the principal asks for it.
+
+Correct Answer: C
+
+Explanation:
+A citizen’s arrest must be a last resort: it must be impracticable for a constable to carry out the arrest and the arrest must be necessary to prevent physical injury, damage or loss to property, or escape. 
+Legislation.gov.uk
++2
+Peoplesafe
++2
+
+Question 14 [Medium] – Citizen’s Arrest (Application)
+
+At a busy public event, a CPO sees a man take a wallet from a guest’s pocket and try to walk away quickly. The police have said they are 15 minutes away. What is the MOST appropriate action for the CPO?
+
+A) Strike the man repeatedly to ensure he cannot escape.
+B) Search the man, return the wallet, then release him without contacting police.
+C) Detain the man using reasonable force, explaining it is a citizen’s arrest for suspected theft, and call the police immediately.
+D) Do nothing, as only police can arrest for theft.
+
+Correct Answer: C
+
+Explanation:
+Theft is an indictable offence, so a citizen’s arrest is available if the necessity criteria are met. Using reasonable force to detain, clearly stating the reason, and calling police immediately is lawful and professional. 
+Peoplesafe
++1
+
+Question 15 [Hard] – Citizen’s Arrest & Civil Liability
+
+A CPO believes (incorrectly) that filming near the principal’s residence is illegal. He grabs a man who is lawfully filming in a public place, forces him to the ground and handcuffs him, keeping him detained for 30 minutes until police arrive. The police confirm no offence has been committed and release the man. What is the MOST likely legal position for the CPO?
+
+A) He may have committed criminal offences and be liable for civil claims such as false imprisonment and assault, and his SIA licence could be at risk.
+B) He is protected as long as the principal requested the detention.
+C) There can be no consequences because no physical injury was caused.
+D) His actions are fully protected because he was “doing his job”.
+
+Correct Answer: A
+
+Explanation:
+Because there was no indictable offence and the detention was unnecessary, the CPO risks criminal liability (e.g. assault) and civil liability for false imprisonment, as well as potential SIA licence consequences. Citizen’s arrest powers must be used with great caution.
+
+Question 16 [Easy] – Relevant Offences
+
+Which offence under the Offences Against the Person Act is the MOST serious and can carry a maximum sentence of life imprisonment?
+
+A) Grievous bodily harm (GBH) – Section 20
+B) GBH with intent – Section 18
+C) Common assault
+D) Assault occasioning actual bodily harm (ABH)
+
+Correct Answer: B
+
+Explanation:
+Section 18 GBH with intent is the most serious non‑fatal assault offence and can carry a maximum sentence of life imprisonment, reflecting the high level of harm and intent involved.
+
+Question 17 [Medium] – Relevant Offences (Harassment)
+
+A principal is being repeatedly followed and sent unwanted messages by the same individual over several weeks, causing them alarm and distress. Under which legislation is this behaviour MOST likely to amount to a criminal offence?
+
+A) Protection from Harassment Act 1997
+B) Regulation of Investigatory Powers Act 2000
+C) Equality Act 2010
+D) Human Rights Act 1998
+
+Correct Answer: A
+
+Explanation:
+A repeated “course of conduct” causing alarm or distress is likely to fall under the Protection from Harassment Act 1997, which also includes specific stalking offences – very relevant to close protection work.
+
+Question 18 [Easy] – Civil Law (Standard of Proof)
+
+In a civil claim brought against a CPO for negligence, what standard of proof will the court apply?
+
+A) Balance of probabilities
+B) Beyond reasonable doubt
+C) Beyond all possible doubt
+D) Clear and convincing evidence
+
+Correct Answer: A
+
+Explanation:
+Civil cases (such as negligence or false imprisonment claims) are decided on the “balance of probabilities” – whether it is more likely than not that the CPO was at fault. Criminal cases use the higher “beyond reasonable doubt” standard.
+
+Question 19 [Medium] – Civil Law (False Imprisonment)
+
+A CPO detains a person in a back room for 45 minutes after deciding they “look suspicious”, but there is no evidence of an offence and the person repeatedly asks to leave. Which CIVIL wrong is this MOST likely to amount to?
+
+A) False imprisonment
+B) Negligence
+C) Criminal damage
+D) Trespass to land
+
+Correct Answer: A
+
+Explanation:
+Holding someone without lawful authority or consent can amount to false imprisonment, a civil claim (and potentially a criminal matter too). Citizen’s arrest powers must not be used simply because someone “looks suspicious”.
+
+Question 20 [Easy] – Data Protection (Principles)
+
+Under the UK GDPR, which of the following is one of the key data protection principles a CPO must follow when handling personal information?
+
+A) Share information freely with anyone who asks for it
+B) Storage limitation – do not keep personal data longer than necessary for the purpose collected
+C) Keep all data indefinitely once collected
+D) Collect as much data as possible in case it is useful later
+
+Correct Answer: B
+
+Explanation:
+Storage limitation is one of the seven core data protection principles. Personal data should not be kept for longer than necessary for the stated purpose. Other key principles include lawfulness, fairness and transparency; purpose limitation; data minimisation; accuracy; security; and accountability. 
+ICO
++2
+Data Protection Network
++2
+
+Question 21 [Medium] – Data Protection (Lawful Basis)
+
+A CPO obtains CCTV stills of a man making credible threats to kill the principal and wants to pass them to the police and venue security. Which lawful basis for processing personal data is MOST likely to apply?
+
+A) Consent – because the man has agreed to be filmed
+B) Direct marketing – to promote the event
+C) Public task – because the CPO is a police officer
+D) Vital interests – processing necessary to protect someone's life
+
+Correct Answer: D
+
+Explanation:
+Where processing is necessary to protect someone's life, the lawful basis of vital interests can apply. Here, sharing images with police and security to prevent a serious attack on the principal is a strong example. While legitimate interests might also apply in some circumstances, vital interests is most appropriate given the immediate threat to life from credible death threats.
+
+Question 22 [Hard] – Covert Surveillance & Legal Position
+
+A corporate principal asks the team leader to install hidden cameras and microphones in their personal residence to covertly monitor domestic staff, without informing them. Which statement BEST reflects the legal position for the CPO team?
+
+A) Covert recording inside a private home raises serious legal issues under data protection law and the Human Rights Act (Article 8); the CPO should refuse and strongly advise the principal to seek independent legal advice.
+B) It is lawful as long as the staff have signed a confidentiality agreement.
+C) This is routine overt surveillance and can be done without concern.
+D) It is automatically lawful because the house belongs to the principal.
+
+Correct Answer: A
+
+Explanation:
+Private CPOs conducting covert surveillance in residential premises face serious legal consequences under UK GDPR/Data Protection Act 2018 (unlawful processing of personal data), the Human Rights Act 1998 Article 8 (breach of privacy rights), and potentially criminal law. CPOs must not undertake covert residential surveillance and should advise the principal to seek independent legal advice if there are legitimate security concerns requiring such measures. 
+Wikipedia
++3
+Legislation.gov.uk
++3
+GOV.UK
++3
+
+Question 23 [Easy] – Equality Act 2010 (Protected Characteristics)
+
+Which of the following is a PROTECTED CHARACTERISTIC under the Equality Act 2010?
+
+A) Having a criminal record
+B) Sexual orientation
+C) Political opinion
+D) Employment status (employed or unemployed)
+
+Correct Answer: B
+
+Explanation:
+The Equality Act 2010 lists nine protected characteristics, including sexual orientation, age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, and sex. 
+Acas
++3
+Equality and Human Rights Commission
++3
+Legislation.gov.uk
++3
+
+Question 24 [Hard] – Equality Act 2010 (Direct Discrimination)
+
+During briefing, an events manager tells the CPO team: “Make sure you search all young black men thoroughly – they’re usually the troublemakers.” Under the Equality Act 2010, how should this instruction be viewed?
+
+A) Victimisation
+B) Direct discrimination because it treats people less favourably because of race
+C) Indirect discrimination based on a neutral policy
+D) Harassment
+
+Correct Answer: B
+
+Explanation:
+This instruction singles out individuals for less favourable treatment because of race, which is direct discrimination under the Equality Act 2010. CPOs should challenge such instructions and refuse to act in a discriminatory way. 
+Equality and Human Rights Commission
++2
+Local Government Association
++2
+
+Question 25 [Hard] – Equality Act 2010 (Reasonable Adjustments)
+
+At a high‑profile event, one guest arrives in a wheelchair. The only planned search lane involves a narrow step‑over metal detector that the chair cannot pass through. What is the MOST appropriate response in line with the Equality Act 2010?
+
+A) Ask the guest to return another day when different equipment is available
+B) Allow entry without any security checks
+C) Make reasonable adjustments, such as conducting an equivalent manual search in an accessible area, so the guest receives equal protection
+D) Refuse entry because everyone must use the same lane
+
+Correct Answer: C
+
+Explanation:
+For disabled persons, there is a duty to make reasonable adjustments so they are not placed at a substantial disadvantage. Providing an equivalent manual search in an accessible area meets both security and equality obligations. 
+Equality and Human Rights Commission
++2
+Local Government Association
++2
+
+================================================================================
+END OF CHAPTER 1.2 QUESTIONS
+
+Total Questions: 25
+
+Easy: 10
+
+Medium: 10
+
+Hard: 5
+
+Answer Distribution:
+
+Correct answer A: 6 questions (Q1, Q5, Q9, Q13, Q17, Q21)
+
+Correct answer B: 6 questions (Q2, Q6, Q10, Q14, Q18, Q22)
+
+Correct answer C: 6 questions (Q3, Q7, Q11, Q15, Q19, Q24)
+
+Correct answer D: 7 questions (Q4, Q8, Q12, Q16, Q20, Q23, Q25)

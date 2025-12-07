@@ -1,0 +1,849 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 4, CHAPTER 4.2
+ATTACK METHODOLOGIES
+================================================================================
+
+YOUR TASK
+---------
+Generate 22 high-quality Multiple Choice Questions (MCQs) for Chapter 4.2 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 5-6 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE UNIT
+--------
+Unit 4: Terror Threat Awareness for Close Protection
+- Assessment: Portfolio-based
+- Chapters: 5
+- Practice Questions: 102 total
+- This chapter (4.2) is one of 5 chapters in Unit 4
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Understanding how terrorists plan and execute attacks enables CPOs to 
+recognise threats early and implement effective countermeasures. Knowledge
+of attack methodologies - from IEDs to vehicle attacks to edged weapons -
+is essential for threat assessment and protective planning.
+
+================================================================================
+CHAPTER 4.2: ATTACK METHODOLOGIES - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 22
+- Easy (direct recall): 9 questions
+- Medium (application): 9 questions
+- Hard (scenario-based): 4 questions
+
+--------------------------------------------------------------------------------
+TOPIC 4.2.1: THE HOSTILE PLANNING CYCLE (ATTACK CYCLE)
+--------------------------------------------------------------------------------
+
+Understanding the Attack Cycle:
+- Terrorists plan methodically
+- Attacks rarely spontaneous
+- Follows identifiable stages
+- Intervention possible at each stage
+- Early detection prevents attacks
+
+The Six Stages:
+
+1. TARGET SELECTION:
+   - Research potential targets
+   - Identify vulnerabilities
+   - Match to objectives
+   - Assess feasibility
+   - Choose final target
+
+2. SURVEILLANCE/RECONNAISSANCE:
+   - Observe target
+   - Gather information
+   - Identify patterns
+   - Map security measures
+   - Multiple visits possible
+
+3. PLANNING:
+   - Develop attack plan
+   - Acquire resources
+   - Assign roles
+   - Set timeline
+   - Identify escape routes
+
+4. DEPLOYMENT:
+   - Move into position
+   - Final preparation
+   - Last reconnaissance
+   - Equipment ready
+   - Point of no return approaching
+
+5. ATTACK:
+   - Execute plan
+   - Carry out violence
+   - May be brief or prolonged
+   - Multiple methods possible
+
+6. ESCAPE:
+   - Flee scene
+   - Evade capture
+   - Not always planned
+   - May include suicide
+
+Disrupting the Cycle:
+
+AT TARGET SELECTION:
+- Low profile
+- Varied routines
+- Unpredictability
+
+AT SURVEILLANCE:
+- Counter-surveillance
+- Detection measures
+- Report suspicious activity
+
+AT PLANNING:
+- Intelligence sharing
+- Community vigilance
+- Report suspicious behaviour
+
+AT DEPLOYMENT:
+- Alert security
+- Detection measures
+- Rapid response
+
+CPO Focus:
+- Most effective at surveillance stage
+- Detection through awareness
+- Reporting suspicious activity
+- Disrupting planning
+
+--------------------------------------------------------------------------------
+TOPIC 4.2.2: IMPROVISED EXPLOSIVE DEVICES (IEDs)
+--------------------------------------------------------------------------------
+
+What are IEDs:
+- Improvised Explosive Devices
+- "Home-made" bombs
+- Variable sophistication
+- Can be highly effective
+- Major terrorist weapon
+
+Types of IEDs:
+
+VBIED (Vehicle-Borne IED):
+- Bomb in vehicle
+- Car, van, truck
+- Large explosive capacity
+- Can breach security cordons
+- Devastating effect
+
+PBIED (Person-Borne IED):
+- Suicide bomber
+- Worn on body
+- Vest or belt
+- Personal delivery
+- Hard to stop
+
+PACKAGE/OBJECT IED:
+- Left in bag, box, container
+- Can be disguised
+- Time or remote detonated
+- Common method
+
+LETTER/MAIL BOMB:
+- Sent through post
+- Opens to detonate
+- Smaller explosive
+- Targeted attack
+
+UCIED (Under-Vehicle IED):
+- Attached under vehicle
+- Magnetic or tape
+- Targeted assassination
+- Requires vehicle checks
+
+IED Components:
+
+MAIN CHARGE:
+- Explosive material
+- Commercial or improvised
+- Creates blast
+
+POWER SOURCE:
+- Battery
+- Electrical supply
+- Initiates device
+
+SWITCH:
+- Timer
+- Remote control
+- Victim-operated
+- Triggers device
+
+CONTAINER:
+- Holds components
+- May add shrapnel
+- Concealment
+
+IED Indicators:
+
+VISUAL:
+- Wires visible
+- Unusual packages
+- Out of place items
+- Abandoned bags/vehicles
+
+BEHAVIOURAL:
+- Nervous individual
+- Bulky clothing
+- Abandoned item
+- Avoiding eye contact
+
+HOT Protocol:
+- H = Has it been HIDDEN?
+- O = Is it OBVIOUSLY suspicious?
+- T = Is it TYPICAL for this location?
+
+If IED Suspected:
+- DO NOT touch
+- DO NOT use radio near it
+- Move away calmly
+- Clear area
+- Report immediately
+- Call police
+
+--------------------------------------------------------------------------------
+TOPIC 4.2.3: VEHICLE ATTACKS
+--------------------------------------------------------------------------------
+
+Vehicle as Weapon (VAW):
+- Using vehicle to attack people
+- Ram attacks
+- No special equipment needed
+- Low sophistication
+- Highly effective
+
+UK Examples:
+- Westminster Bridge 2017
+- London Bridge 2017
+- Finsbury Park 2017
+- Multiple casualties possible
+
+Attack Characteristics:
+
+TARGET AREAS:
+- Pedestrianised areas
+- Crowded places
+- Markets and events
+- Tourist locations
+- Where people gather
+
+VEHICLE TYPES:
+- Cars
+- Vans (larger impact)
+- Trucks (maximum damage)
+- Stolen or hired
+
+METHODS:
+- Direct ramming
+- Mounting pavements
+- Driving through crowds
+- May be followed by secondary attack
+
+Warning Signs:
+
+PRIOR TO ATTACK:
+- Vehicle reconnaissance
+- Unusual vehicle behaviour
+- Vehicle positioning
+- Aggressive driving
+
+DURING ATTACK:
+- Vehicle mounting pavement
+- Accelerating at pedestrians
+- Deliberate impact
+- Driver behaviour
+
+Protective Measures:
+
+PHYSICAL BARRIERS:
+- Hostile Vehicle Mitigation (HVM)
+- Bollards
+- Planters
+- Vehicle barriers
+
+AWARENESS:
+- Traffic observation
+- Unusual vehicles
+- Positioning of crowds
+- Escape routes
+
+RESPONSE:
+- Alert immediately
+- Move principal perpendicular to threat
+- Seek solid cover
+- Evacuate area
+
+CPO Considerations:
+- Venue assessment includes vehicle access
+- Route planning considers pedestrian areas
+- Awareness of vehicle threats
+- Rapid evacuation planning
+
+--------------------------------------------------------------------------------
+TOPIC 4.2.4: EDGED WEAPON ATTACKS (KNIFE ATTACKS)
+--------------------------------------------------------------------------------
+
+Characteristics:
+- Simple weapon
+- Readily available
+- No training needed
+- Personal delivery
+- Often close range
+
+UK Examples:
+- London Bridge 2019
+- Multiple street attacks
+- Often combined with other methods
+
+Attack Patterns:
+
+TARGETED:
+- Specific victim
+- Planned approach
+- Assassination style
+
+RANDOM/INDISCRIMINATE:
+- Multiple victims
+- Attacks whoever available
+- "Rampage" style
+
+COMBINED:
+- With vehicle attack
+- With other weapons
+- Multiple methods
+
+Warning Signs:
+
+BEHAVIOURAL:
+- Concealing hand/object
+- Moving with purpose
+- Focused on target
+- Unusual clothing (concealment)
+
+PHYSICAL:
+- Visible weapon
+- Bulge under clothing
+- Hand in pocket
+- Aggressive approach
+
+Response to Edged Weapon:
+
+DISTANCE:
+- Create distance
+- Distance is safety
+- Every metre matters
+
+BARRIERS:
+- Get behind obstacles
+- Doors, vehicles, furniture
+- Anything between threat and principal
+
+RUN:
+- First option
+- Fastest route
+- Don't stop
+
+FIGHT:
+- Last resort only
+- If cornered
+- Improvised weapons
+- Commit fully
+
+CPO Response:
+- Principal safety first
+- Create distance
+- Evacuate if possible
+- Physical intervention only if necessary
+- Cover and evacuate
+
+--------------------------------------------------------------------------------
+TOPIC 4.2.5: FIREARMS ATTACKS
+--------------------------------------------------------------------------------
+
+Characteristics:
+- High lethality
+- Range capability
+- Psychological impact
+- Harder to obtain in UK
+- Less common but devastating
+
+UK Context:
+- Strict firearms laws
+- Illegal weapons exist
+- Converted weapons
+- Terrorist procurement difficult
+
+Attack Types:
+
+ACTIVE SHOOTER:
+- Moving through location
+- Multiple victims
+- May be methodical
+- Extended duration
+
+TARGETED SHOOTING:
+- Specific victim
+- Assassination style
+- May be rapid
+
+SIEGE:
+- Taking hostages
+- Barricaded
+- Prolonged incident
+- Negotiation required
+
+Firearms Indicators:
+
+PRIOR TO:
+- Unusual bulges
+- Long items under clothing
+- Bags with unusual weight
+- Nervous behaviour
+
+DURING:
+- Sound of gunfire
+- People running
+- Screaming
+- Victims falling
+
+Run-Hide-Tell:
+
+RUN:
+- Evacuate immediately
+- Insist principal moves
+- Leave belongings
+- Don't stop for others
+- Run away from gunfire
+
+HIDE:
+- If cannot run
+- Find cover (stops bullets)
+- Not just concealment
+- Lock/barricade doors
+- Silence phone
+- Stay quiet
+
+TELL:
+- When safe
+- Call 999
+- Location
+- Number of attackers
+- Description
+- Direction of movement
+- Weapon type
+
+Cover vs Concealment:
+- Cover = stops bullets (concrete, engine block, thick walls)
+- Concealment = hides from view (curtains, bushes, thin walls)
+- Know the difference
+- Seek COVER in firearms attack
+
+CPO Response:
+- Evacuate principal immediately
+- Move away from gunfire
+- Seek cover
+- Do not engage unless trained and necessary
+- Communicate situation
+- Follow Run-Hide-Tell
+
+--------------------------------------------------------------------------------
+TOPIC 4.2.6: CHEMICAL, BIOLOGICAL, RADIOLOGICAL ATTACKS
+--------------------------------------------------------------------------------
+
+CBR Overview:
+- Chemical agents
+- Biological agents
+- Radiological material
+- Less common but possible
+- Mass casualty potential
+
+Chemical Agents:
+
+TYPES:
+- Nerve agents (Novichok, VX, Sarin)
+- Blister agents
+- Blood agents
+- Choking agents
+
+DELIVERY:
+- Aerosol
+- Liquid
+- Contact
+- Contaminated items
+
+INDICATORS:
+- Unusual smell
+- Visible vapour/mist
+- Multiple casualties
+- Unexplained symptoms
+
+Biological Agents:
+
+TYPES:
+- Bacteria (Anthrax)
+- Viruses
+- Toxins (Ricin)
+
+DELIVERY:
+- Aerosol
+- Contaminated items
+- Water/food contamination
+- Letter/package
+
+INDICATORS:
+- Delayed symptoms
+- Multiple sick people
+- Unusual illness pattern
+- Suspicious packages
+
+Radiological:
+- "Dirty bomb" (explosive + radioactive)
+- Contamination device
+- Long-term effects
+- Psychological impact
+
+INDICATORS:
+- Explosion with unusual residue
+- Detection equipment alerts
+- Reported material
+
+Response to CBR:
+
+IMMEDIATE:
+- Move away
+- Upwind if chemical
+- Avoid contamination
+- Cover mouth/nose
+
+DO NOT:
+- Touch casualties
+- Touch suspicious material
+- Spread contamination
+
+REPORT:
+- 999 immediately
+- Describe symptoms/indicators
+- Location
+- Number affected
+
+DECONTAMINATION:
+- Remove outer clothing
+- Wash if possible
+- Await emergency services
+
+CPO Considerations:
+- Awareness of CBR possibility
+- Event risk assessment
+- Immediate evacuation
+- Do not become casualty
+- Principal protection continues
+
+--------------------------------------------------------------------------------
+TOPIC 4.2.7: CYBER AND COMBINED ATTACKS
+--------------------------------------------------------------------------------
+
+Cyber-Terrorism:
+- Attack on computer systems
+- Critical infrastructure
+- Data theft
+- Disruption
+
+Cyber Threats to CP:
+
+COMMUNICATIONS:
+- Jamming
+- Interception
+- System failure
+
+INTELLIGENCE:
+- Information theft
+- Principal's data
+- Operation details
+
+INFRASTRUCTURE:
+- Transport disruption
+- Power failure
+- Security system failure
+
+Combined/Complex Attacks:
+
+CHARACTERISTICS:
+- Multiple methods
+- Multiple attackers
+- Multiple locations
+- Coordinated timing
+
+EXAMPLES:
+- Vehicle + knife (London Bridge)
+- Bombing + firearms (Paris 2015)
+- Multiple simultaneous attacks
+
+CHALLENGES:
+- Overwhelming response
+- Multiple casualties
+- Resource stretch
+- Confusion
+
+Response Considerations:
+- Expect follow-up attacks
+- Secondary devices
+- Multiple locations
+- Don't assume single incident
+- Maintain vigilance post-attack
+
+CPO Planning:
+- Consider combined threats
+- Multiple contingencies
+- Communication backup
+- Flexible response
+- Continued awareness
+
+--------------------------------------------------------------------------------
+TOPIC 4.2.8: ATTACK INDICATORS AND PRECURSORS
+--------------------------------------------------------------------------------
+
+Pre-Attack Indicators:
+
+SURVEILLANCE:
+- Unusual observation
+- Photography/filming
+- Note-taking
+- Multiple visits
+- Questions about security
+
+TESTING SECURITY:
+- Probing responses
+- Creating incidents
+- Timing reactions
+- Identifying weaknesses
+
+ACQUIRING RESOURCES:
+- Unusual purchases
+- Suspicious storage
+- Equipment gathering
+- Vehicle acquisition
+
+DEPLOYMENT SIGNS:
+- Unusual behaviour
+- Out of place persons
+- Abandoned items
+- Nervous individuals
+
+Recognising Surveillance:
+
+WHO:
+- Out of place persons
+- Repeated sightings
+- Interest in security
+
+WHAT:
+- Photography
+- Timing movements
+- Making notes
+- Using binoculars
+
+WHERE:
+- Good vantage points
+- Near entry/exit
+- Observing security
+
+WHEN:
+- Regular times
+- Before events
+- During security changes
+
+Reporting:
+- Trust instincts
+- Report suspicious activity
+- Use official channels
+- Anti-terrorist hotline
+- Local police
+- Better to report than not
+
+What to Report:
+- Description of person
+- Vehicle details
+- Behaviour observed
+- Time and location
+- Direction of travel
+- Any interaction
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 22
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 9 questions (40%)
+- Medium (application): 9 questions (40%)
+- Hard (scenario-based): 4 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 5-6 questions
+- Correct answer B: 5-6 questions
+- Correct answer C: 5-6 questions
+- Correct answer D: 5-6 questions
+
+TOPICS TO COVER:
+□ Hostile planning cycle (3-4 questions)
+□ IEDs and types (3-4 questions)
+□ Vehicle attacks (3-4 questions)
+□ Edged weapon attacks (2-3 questions)
+□ Firearms attacks and Run-Hide-Tell (3-4 questions)
+□ CBR attacks (2-3 questions)
+□ Attack indicators/precursors (3-4 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 4, CHAPTER 4.2: ATTACK METHODOLOGIES
+================================================================================
+
+Question 1 [Easy]
+What does VBIED stand for?
+
+A) Very Big Improvised Explosive Device
+B) Vehicle-Borne Improvised Explosive Device
+C) Victim-Based Improvised Explosive Device
+D) Visual Bomb Identification and Evaluation Device
+
+Correct Answer: B
+
+Explanation: VBIED stands for Vehicle-Borne Improvised Explosive Device - 
+a bomb placed in or constructed within a vehicle. VBIEDs can carry large 
+amounts of explosives and are particularly dangerous as vehicles can 
+breach security cordons and approach close to targets.
+
+---
+
+[Continue for all 22 questions]
+
+================================================================================
+END OF CHAPTER 4.2 QUESTIONS
+================================================================================
+
+Total Questions: 22
+- Easy: 9
+- Medium: 9
+- Hard: 4
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+HOSTILE PLANNING CYCLE (6 stages):
+1. Target Selection
+2. Surveillance/Reconnaissance
+3. Planning
+4. Deployment
+5. Attack
+6. Escape
+
+IED TYPES:
+- VBIED = Vehicle-Borne IED
+- PBIED = Person-Borne IED (suicide bomber)
+- UCIED = Under-Vehicle IED
+- Package/Object IED
+- Letter/Mail bomb
+
+HOT PROTOCOL (suspicious items):
+- H = Has it been HIDDEN?
+- O = Is it OBVIOUSLY suspicious?
+- T = Is it TYPICAL for this location?
+
+RUN-HIDE-TELL (firearms/terrorism):
+- RUN = Evacuate immediately
+- HIDE = If cannot run, find cover
+- TELL = When safe, call 999
+
+COVER vs CONCEALMENT:
+- Cover = stops bullets (physical protection)
+- Concealment = hides from view only (visual)
+
+VEHICLE ATTACK RESPONSE:
+- Move PERPENDICULAR to threat
+- Seek solid cover
+- Evacuate area
+
+SURVEILLANCE INDICATORS:
+- Unusual observation
+- Photography/filming
+- Repeated sightings
+- Questions about security
+
+IF IED SUSPECTED:
+- DO NOT touch
+- DO NOT use radio near it
+- Clear area
+- Report immediately
+
+COMMON DISTRACTORS:
+- PBIED is package-borne (wrong - person-borne)
+- Concealment stops bullets (wrong - that's cover)
+- First stage is surveillance (wrong - target selection)
+- Run toward gunfire to help (wrong - run away)
+- Radio safe near suspected IED (wrong - don't use radio)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "What is the first stage of the hostile planning cycle?"
+- "A CPO discovers a suspicious package. Using HOT protocol..."
+- "What does PBIED stand for?"
+- "During a firearms attack, the first action should be..."
+- "The difference between cover and concealment is..."
+- "Which of the following is a pre-attack indicator?"
+- "When responding to a vehicle attack, the principal should be moved..."
+
+================================================================================
+END OF PROMPT
+================================================================================

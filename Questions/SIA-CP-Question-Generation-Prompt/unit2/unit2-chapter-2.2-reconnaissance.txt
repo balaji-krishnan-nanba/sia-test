@@ -1,0 +1,713 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 2, CHAPTER 2.2
+RECONNAISSANCE
+================================================================================
+
+YOUR TASK
+---------
+Generate 25 high-quality Multiple Choice Questions (MCQs) for Chapter 2.2 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 6-7 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE EXAM
+--------
+Unit 2: Working as a Close Protection Operative
+- 30 multiple choice questions
+- 45 minutes duration
+- 70% pass mark (21 correct answers required)
+- This chapter (2.2) is one of 8 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Reconnaissance (recce) is the foundation of all CP operations. You cannot 
+protect a principal at a venue you haven't seen or via a route you haven't 
+checked. Thorough reconnaissance identifies risks, prepares responses, and 
+enables smooth operations. "Time spent on recce is seldom wasted."
+
+================================================================================
+CHAPTER 2.2: RECONNAISSANCE - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 25
+- Easy (direct recall): 10 questions
+- Medium (application): 10 questions
+- Hard (scenario-based): 5 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.1: PRINCIPLES OF RECONNAISSANCE
+--------------------------------------------------------------------------------
+
+What is Reconnaissance:
+- Gathering information
+- Physical inspection
+- Before principal arrives
+- Risk identification
+- Planning information
+
+Purpose of Recce:
+- Understand environment
+- Identify threats and hazards
+- Plan principal's movements
+- Prepare contingencies
+- Enable smooth operation
+
+Types of Reconnaissance:
+
+MAP/DESK RECCE:
+- From office
+- Internet research
+- Maps and plans
+- Background information
+- Before physical visit
+
+PHYSICAL RECCE:
+- On-site inspection
+- Walking the ground
+- Meeting contacts
+- Photographs/video
+- Confirms/updates desk recce
+
+COVERT RECCE:
+- Without revealing purpose
+- Observing discreetly
+- Higher threat situations
+- No advance notice
+
+OVERT RECCE:
+- With coordination
+- Announced visit
+- Venue liaison
+- Most common for CP
+
+Key Principle:
+"Time spent on reconnaissance is seldom wasted"
+- Thorough preparation
+- Fewer surprises
+- Better outcomes
+- Professional standard
+
+Who Conducts Recce:
+- Security Advance Party (SAP)
+- Team Leader
+- Designated team members
+- Before principal arrives
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.2: VENUE RECONNAISSANCE
+--------------------------------------------------------------------------------
+
+Purpose of Venue Recce:
+- Understand layout
+- Identify security issues
+- Plan arrival/departure
+- Establish control measures
+- Emergency procedures
+
+Venue Assessment:
+
+EXTERNAL ASSESSMENT:
+- Approaches
+- Car parking
+- Entry points
+- Exit points
+- Surrounding area
+- Overlooking buildings
+- Cover positions
+- Escape routes
+
+INTERNAL ASSESSMENT:
+- Layout and flow
+- Rooms to be used
+- Toilets/facilities
+- Kitchen/catering areas
+- Staff areas
+- Emergency exits
+- Fire equipment
+- First aid
+
+Key Areas to Assess:
+
+ARRIVAL POINT:
+- Vehicle access
+- Drop-off location
+- Weather protection
+- Crowd exposure
+- Alternative arrival
+
+PRINCIPAL'S ROUTE:
+- Path through venue
+- Pinch points
+- Crowd areas
+- Exposure points
+- Alternative routes
+
+HOLDING AREAS:
+- Private rooms
+- Safe areas
+- Pre-event waiting
+- Emergency refuge
+
+EVENT SPACE:
+- Principal's position
+- CPO positioning
+- Crowd proximity
+- Stage/platform access
+- Exit access
+
+Security Assessment:
+
+EXISTING SECURITY:
+- Venue security staff
+- CCTV coverage
+- Access control
+- Communication systems
+
+GAPS AND VULNERABILITIES:
+- Unsecured areas
+- Poor lighting
+- Limited CCTV
+- Weak access control
+
+HAZARDS:
+- Trip hazards
+- Fire risks
+- Structural concerns
+- Crowd crush points
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.3: ROUTE RECONNAISSANCE
+--------------------------------------------------------------------------------
+
+Purpose of Route Recce:
+- Assess route options
+- Identify hazards
+- Plan alternatives
+- Time routes
+- Select primary route
+
+Route Assessment Factors:
+
+DISTANCE AND TIME:
+- Actual driving time
+- Traffic patterns
+- Peak hours
+- Time of day variations
+
+ROAD CONDITIONS:
+- Road quality
+- Width (can vehicles pass?)
+- Traffic lights/junctions
+- Speed restrictions
+- Roadworks
+
+SECURITY FACTORS:
+- Choke points
+- Ambush potential
+- Surveillance opportunities
+- Population density
+- Crime areas
+
+SUPPORT FACTORS:
+- Police stations
+- Hospitals
+- Petrol stations
+- Safe havens
+- Communication coverage
+
+Identifying Key Points:
+
+CHOKE POINTS:
+- Narrow roads
+- Single route sections
+- Bridges/tunnels
+- One-way systems
+- Traffic lights
+
+SAFE HAVENS:
+- Police stations
+- Fire stations
+- Hospitals
+- Embassies
+- Hotels (pre-arranged)
+
+EMERGENCY FACILITIES:
+- A&E departments
+- Police presence
+- Recovery services
+
+Timing Routes:
+- Drive at planned time
+- Check traffic patterns
+- Time accurately
+- Allow contingency
+- Peak vs off-peak
+
+Route Selection:
+- Primary route (best option)
+- Alternate route (backup)
+- Emergency route (fastest to safety)
+- Different characteristics each
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.4: GROUND APPRECIATION
+--------------------------------------------------------------------------------
+
+What is Ground Appreciation:
+- Understanding terrain
+- Tactical assessment
+- How ground affects operations
+- Military-derived skill
+
+OCOKA Framework:
+
+O - OBSERVATION AND FIELDS OF FIRE:
+- What can be seen from where
+- Lines of sight
+- Visibility issues
+- Surveillance points
+
+C - COVER AND CONCEALMENT:
+- Cover (protection from fire)
+- Concealment (hidden from view)
+- Available positions
+- Protection options
+
+O - OBSTACLES:
+- Natural (rivers, hills)
+- Man-made (walls, fences)
+- Movement restrictions
+- Channelling effect
+
+K - KEY TERRAIN:
+- Dominant positions
+- Control points
+- Critical locations
+- Must-control areas
+
+A - AVENUES OF APPROACH:
+- Routes in and out
+- Movement corridors
+- Access points
+- Escape routes
+
+Applying Ground Appreciation:
+- Route planning
+- Venue assessment
+- Positioning decisions
+- Emergency planning
+- Threat assessment
+
+Dead Ground:
+- Areas not visible
+- Blind spots
+- Potential hiding places
+- Must be considered
+
+Elevation:
+- Higher ground advantages
+- Overlooking positions
+- Threats from above
+- Sniper considerations
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.5: SECURITY ADVANCE PARTY (SAP) PROCEDURES
+--------------------------------------------------------------------------------
+
+SAP Role Review:
+- Conduct reconnaissance
+- Prepare venue for arrival
+- Coordinate with local security
+- Report to Team Leader
+- Receive principal safely
+
+SAP Timeline:
+
+ADVANCE NOTICE:
+- Days/weeks before
+- Planning phase
+- Desk recce
+- Coordination
+
+DAY BEFORE:
+- Physical recce
+- Confirm arrangements
+- Meet venue contacts
+- Final planning
+
+DAY OF EVENT:
+- Arrive early
+- Final checks
+- Establish communications
+- Briefings
+- Ready for principal
+
+SAP Tasks at Venue:
+
+ON ARRIVAL:
+- Introduce to venue security
+- Confirm arrangements
+- Check changes since recce
+- Establish CP position
+
+SECURITY SETUP:
+- Verify access control
+- Check sterile areas
+- Position team members
+- Test communications
+
+FINAL PREPARATION:
+- Walk principal's route
+- Check holding areas
+- Verify emergency exits
+- Confirm timing
+
+RECEIVING PRINCIPAL:
+- Guide arrival
+- Handover from mobile team
+- Escort through venue
+- Maintain security
+
+SAP Communications:
+- Report to TL on arrival
+- Confirm readiness
+- Update on changes
+- Coordinate arrival time
+- Emergency reporting
+
+SAP Equipment:
+- Communication equipment
+- Camera (if permitted)
+- Notepad and pen
+- Maps/plans
+- Contact list
+- First aid
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.6: RECCE REPORTS
+--------------------------------------------------------------------------------
+
+Purpose of Recce Reports:
+- Document findings
+- Brief team
+- Reference during op
+- Record for future
+- Accountability
+
+Venue Recce Report Contents:
+
+GENERAL INFORMATION:
+- Venue name and address
+- Contact details
+- Date of recce
+- CPO conducting recce
+
+VENUE DESCRIPTION:
+- Type of venue
+- Layout overview
+- Capacity
+- Opening hours
+
+ACCESS AND PARKING:
+- Vehicle access points
+- Parking locations
+- VIP parking
+- Drop-off points
+
+SECURITY ASSESSMENT:
+- Existing security
+- CCTV coverage
+- Access control
+- Security personnel
+
+PRINCIPAL'S REQUIREMENTS:
+- Rooms to be used
+- Facilities needed
+- Movement plan
+- Timing
+
+EMERGENCY INFORMATION:
+- Fire exits
+- Assembly points
+- First aid
+- Nearest hospital
+- Emergency contacts
+
+RECOMMENDATIONS:
+- Security measures needed
+- Positioning suggestions
+- Concerns identified
+- Actions required
+
+Route Recce Report Contents:
+
+ROUTE DETAILS:
+- Start and end points
+- Distance
+- Estimated time
+
+ROUTE DESCRIPTION:
+- Major roads used
+- Key junctions
+- Notable landmarks
+- Traffic conditions
+
+SECURITY ASSESSMENT:
+- Choke points
+- Vulnerable areas
+- Safe havens
+- Emergency facilities
+
+ALTERNATIVES:
+- Alternate routes
+- Emergency routes
+- Route to hospital
+
+RECOMMENDATIONS:
+- Preferred route
+- Timing considerations
+- Concerns identified
+
+Report Format:
+- Clear and structured
+- Consistent format
+- Include maps/photos
+- Grid references
+- Contact details
+
+Distribution:
+- Team Leader
+- Team members (relevant)
+- Client (as appropriate)
+- Secure storage
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.7: LIAISON DURING RECONNAISSANCE
+--------------------------------------------------------------------------------
+
+Who to Liaise With:
+
+VENUE MANAGEMENT:
+- General Manager
+- Events Manager
+- Facilities Manager
+- Confirm arrangements
+- Special requirements
+
+VENUE SECURITY:
+- Security Manager
+- Control room
+- Door staff
+- Coordination
+- Emergency procedures
+
+LOCAL POLICE:
+- Community officers
+- Special events
+- Intelligence
+- Emergency response
+
+HOTEL STAFF:
+- Reception
+- Concierge
+- Housekeeping
+- Room service
+- Security
+
+EVENT ORGANISERS:
+- Event manager
+- PR/media
+- Guest list
+- Running order
+
+Liaison Principles:
+- Professional approach
+- Clear communication
+- Confirm in writing
+- Exchange contacts
+- Build relationships
+
+Information to Obtain:
+- Venue procedures
+- Emergency plans
+- Communication methods
+- Key contacts
+- Any concerns
+
+Information to Provide:
+- Principal's requirements
+- Timing (general)
+- Team size
+- Equipment needs
+- Special requests
+
+Confidentiality:
+- Limit detail shared
+- Need to know
+- Principal's identity (if sensitive)
+- Security arrangements
+- Maintain discretion
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 25
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 10 questions (40%)
+- Medium (application): 10 questions (40%)
+- Hard (scenario-based): 5 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 6-7 questions
+- Correct answer B: 6-7 questions
+- Correct answer C: 6-7 questions
+- Correct answer D: 6-7 questions
+
+TOPICS TO COVER:
+□ Principles of reconnaissance (2-3 questions)
+□ Venue reconnaissance (4-5 questions)
+□ Route reconnaissance (4-5 questions)
+□ Ground appreciation/OCOKA (3-4 questions)
+□ SAP procedures (4-5 questions)
+□ Recce reports (3-4 questions)
+□ Liaison during recce (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.2: RECONNAISSANCE
+================================================================================
+
+Question 1 [Easy]
+What does the 'O' in OCOKA stand for when conducting ground appreciation?
+
+A) Operations and Obstacles
+B) Observation and fields of fire
+C) Options and contingencies
+D) Organisation and control
+
+Correct Answer: B
+
+Explanation: OCOKA is a military-derived framework for ground appreciation. 
+The first 'O' stands for Observation and fields of fire - assessing what 
+can be seen from where, lines of sight, and surveillance points. The full 
+acronym is: Observation, Cover and concealment, Obstacles, Key terrain, 
+Avenues of approach.
+
+---
+
+[Continue for all 25 questions]
+
+================================================================================
+END OF CHAPTER 2.2 QUESTIONS
+================================================================================
+
+Total Questions: 25
+- Easy: 10
+- Medium: 10
+- Hard: 5
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+TYPES OF RECCE:
+- Map/desk recce (from office, research)
+- Physical recce (on-site inspection)
+- Covert recce (without revealing purpose)
+- Overt recce (with coordination)
+
+OCOKA:
+- O = Observation and fields of fire
+- C = Cover and concealment
+- O = Obstacles
+- K = Key terrain
+- A = Avenues of approach
+
+THREE ROUTE TYPES:
+- Primary route (best option)
+- Alternate route (backup)
+- Emergency route (fastest to safety)
+
+SAP TIMELINE:
+- Advance notice (days/weeks before)
+- Day before (physical recce)
+- Day of event (arrive early, final checks)
+
+VENUE RECCE MUST INCLUDE:
+- External assessment (approaches, parking, entry/exit)
+- Internal assessment (layout, rooms, emergencies)
+- Security assessment (existing security, gaps)
+- Principal's route through venue
+
+ROUTE RECCE MUST INCLUDE:
+- Timing (drive at planned time)
+- Choke points
+- Safe havens
+- Emergency facilities
+
+KEY PRINCIPLE:
+"Time spent on reconnaissance is seldom wasted"
+
+COMMON DISTRACTORS:
+- Physical recce replaces desk recce (wrong - desk first, then physical)
+- OCOKA's K = Knowledge (wrong - Key terrain)
+- SAP arrives with principal (wrong - arrives BEFORE)
+- Primary route is fastest (wrong - best overall, not necessarily fastest)
+- Recce reports are verbal only (wrong - written and structured)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "When conducting a venue recce, the SAP should FIRST..."
+- "The primary purpose of route reconnaissance is to..."
+- "Using OCOKA, 'Key terrain' refers to..."
+- "A recce report should include..."
+- "The difference between cover and concealment is..."
+- "When timing a route, the CPO should drive it..."
+- "Safe havens along a route might include..."
+
+================================================================================
+END OF PROMPT
+================================================================================

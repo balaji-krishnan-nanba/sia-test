@@ -1,0 +1,295 @@
+================================================================================
+UNIT 7, CHAPTER 7.2: HEALTH, SAFETY AND RISK ASSESSMENT
+Question 1 [Easy]
+
+What position carries the HIGHEST risk of positional asphyxia?
+
+A) Recovery position (on side)
+B) Seated position
+C) Prone position (face down)
+D) Standing position
+
+Correct Answer: C
+
+Explanation: The prone (face down) position carries the highest risk of positional asphyxia. In this position the chest can be compressed, especially if weight is placed on the back, restricting the ability to breathe. If a prone restraint is unavoidable, it must be for the minimum possible time and the subject should be moved to a safer position (such as recovery or seated) as soon as it is safe to do so.
+
+Question 2 [Easy]
+
+Under the Health and Safety at Work etc. Act 1974, which of the following is an employee’s duty in relation to physical intervention?
+
+A) Provide all PPE for the team
+B) Decide what physical intervention training the company should buy
+C) Write the organisation’s health and safety policy
+D) Take reasonable care for their own health and safety and that of others
+
+Correct Answer: D
+
+Explanation: Employees must take reasonable care for their own health and safety and that of others who may be affected by their acts or omissions. In a physical intervention context this means following training, using safe techniques and reporting hazards or incidents. Providing training and PPE are employer duties.
+
+Question 3 [Easy]
+
+In the five-step risk assessment process, what is the SECOND step?
+
+A) Evaluate the risks and decide on precautions
+B) Identify who might be harmed and how
+C) Record the significant findings
+D) Review and update the assessment
+
+Correct Answer: B
+
+Explanation: The recognised five steps are:
+
+Identify hazards
+
+Identify who might be harmed and how
+
+Evaluate the risks and decide on precautions
+
+Record findings
+
+Review and update.
+Knowing the correct order is important for planning and reviewing physical intervention risks.
+
+Question 4 [Easy]
+
+Which of the following is an example of personal protective equipment (PPE) that may be provided for physical intervention work?
+
+A) Stab-resistant vest
+B) Incident report form
+C) Two-way radio
+D) Risk assessment template
+
+Correct Answer: A
+
+Explanation: A stab-resistant vest is PPE because it is worn to reduce the risk of physical harm. Radios and paperwork support safety but are not PPE. If PPE is provided, staff must use it correctly and look after it.
+
+Question 5 [Easy]
+
+Which situation is MOST clearly reportable under RIDDOR?
+
+A) A minor scratch during a restraint that needs only a plaster
+B) An operative feeling stressed after an incident but remaining at work
+C) An operative is off work for more than seven days after an injury during a restraint
+D) A subject trips but suffers no injury
+
+Correct Answer: C
+
+Explanation: RIDDOR requires certain work-related injuries to be reported to the HSE, including where a worker is incapacitated for more than seven consecutive days due to a work-related injury. Minor injuries not resulting in significant time off are normally recorded internally but not reportable.
+
+Question 6 [Easy]
+
+Which blood-borne infection listed below has an effective vaccine available?
+
+A) HIV
+B) Hepatitis C
+C) Common cold
+D) Hepatitis B
+
+Correct Answer: D
+
+Explanation: A vaccine is available for Hepatitis B and is often recommended for workers at risk of blood exposure. There is currently no vaccine for HIV or Hepatitis C. The common cold is not a blood-borne infection.
+
+Question 7 [Easy]
+
+Which description best fits a LOW level risk in a physical intervention context?
+
+A) Likely to occur and could cause serious or fatal injury
+B) Unlikely to occur and would only cause minor injury, provided controls are in place
+C) Possible to occur and could cause serious injury
+D) Certain to occur but with no consequences
+
+Correct Answer: B
+
+Explanation: Low risk usually means the event is unlikely and, if it occurs, the consequences are minor and can be controlled. High risk involves a significant chance of serious harm and requires immediate, strong control measures.
+
+Question 8 [Easy]
+
+Which of the following is an environmental hazard that should be considered before starting a physical intervention?
+
+A) A flight of stairs directly behind the subject
+B) The subject’s history of drug misuse
+C) The subject’s current mental state
+D) The number of staff on duty
+
+Correct Answer: A
+
+Explanation: Stairs are an environmental hazard because a fall during a struggle could cause serious injury. The subject’s drug use and mental state relate to people hazards, while staffing is a resource issue.
+
+Question 9 [Medium]
+
+You have identified a hazard and who might be harmed. According to the five-step risk assessment process, what should you do NEXT?
+
+A) Review and update the assessment
+B) Record the findings and control measures
+C) Evaluate the risks and decide on additional control measures
+D) Begin the physical intervention immediately to remove the hazard
+
+Correct Answer: C
+
+Explanation: After identifying hazards and who may be harmed, the next step is to evaluate the risks (likelihood and severity) and decide what controls are needed. Only after this should you record the findings and then review them at appropriate intervals.
+
+Question 10 [Medium]
+
+During an escort through a crowded nightclub, an operative notices the subject becoming more agitated as the crowd presses in and people nearby are waving glass bottles. Which action BEST demonstrates good dynamic risk assessment?
+
+A) Continue as planned because a risk assessment was done earlier
+B) Ignore the crowd to focus only on the subject’s hands
+C) Immediately take the subject to the ground where they stand
+D) Adjust the plan by moving the subject and principal to a clearer area and calling for additional support
+
+Correct Answer: D
+
+Explanation: Dynamic risk assessment means continuously reassessing the situation in real time and adjusting your response. Moving to a safer area and calling for support reduces risk to the subject, the principal, bystanders and staff.
+
+Question 11 [Medium]
+
+Two operatives are about to restrain a violent subject at the top of a concrete stairwell. What is the SAFEST option to manage the environmental risk?
+
+A) Restrain immediately at the top of the stairs to gain control quickly
+B) Move the subject away from the stairwell to a safer, level area before using any physical intervention
+C) Ask the subject to sit on the top step and restrain them there
+D) Push the subject down a few steps to create distance
+
+Correct Answer: B
+
+Explanation: Stairs greatly increase the risk of serious injury if anyone falls. Good practice is to guide or move the subject away from obvious hazards before using force, provided this can be done safely.
+
+Question 12 [Medium]
+
+During a struggle, a subject bites an operative and breaks the skin. Once the situation is under control, what is the MOST appropriate immediate first-aid action for the bite wound?
+
+A) Wash the area as soon as possible with running water and soap
+B) Cover the wound straight away with a dry dressing before washing
+C) Scrub the wound vigorously with a brush to make it bleed more
+D) Do nothing until the end of the shift
+
+Correct Answer: A
+
+Explanation: After potential exposure to blood or saliva, the area should be washed promptly with running water and soap. Do not scrub harshly as this can damage tissue. The incident should then be reported and medical advice sought.
+
+Question 13 [Medium]
+
+A large subject is being restrained face down on the floor. After a period of struggling and shouting, they start gasping, say “I can’t breathe”, then become quiet and go limp. What is the MOST appropriate immediate action?
+
+A) Maintain the hold because they may be pretending
+B) Apply more pressure to stop any further struggle
+C) Release or significantly reduce the restraint, reposition to a safer posture (e.g. recovery or seated), check breathing and call for urgent medical help
+D) Wait until they stop moving completely and then remove the restraints
+
+Correct Answer: C
+
+Explanation: Sudden quietness, limpness and breathing difficulty in a prone restrained person are classic warning signs of positional asphyxia. Pressure must be removed, the subject repositioned to allow breathing, and medical assistance requested immediately.
+
+Question 14 [Medium]
+
+A venue manager tells a close protection team leader that a new security guard, who has NOT had physical intervention training, must help restrain violent guests if needed. What should the team leader do to meet health and safety responsibilities?
+
+A) Ask the new guard to copy the team’s techniques during any restraint
+B) Allow the new guard to hold the subject’s arms while trained staff control the legs
+C) Ignore the training issue because protecting the principal overrides everything
+D) Allocate the untrained guard to observation or communication tasks and ensure only trained staff carry out physical intervention
+
+Correct Answer: D
+
+Explanation: Employers must ensure staff are competent and trained for tasks involving significant risk such as physical intervention. Using untrained staff for restraint increases risk and may breach health and safety duties. They can instead support by observing, calling for help or managing bystanders.
+
+Question 15 [Medium]
+
+A subject who appears to be on drugs is shouting, punching walls near glass windows and repeatedly trying to stagger into a busy road, with members of the public close by. How should this situation MOST accurately be described in terms of risk?
+
+A) Low risk, because no one has been hurt yet
+B) High risk, because serious harm is likely unless immediate and robust control measures are taken
+C) Medium risk, because the only danger is to the subject
+D) Low risk, because security staff are present
+
+Correct Answer: B
+
+Explanation: The combination of drugs, aggressive behaviour, glass and traffic makes serious harm likely to the subject and others. This is a high-risk situation that requires urgent action and strong controls (possibly including physical intervention and police support), while still using proportionate force.
+
+Question 16 [Medium]
+
+Which sequence best describes the dynamic risk assessment cycle during an incident?
+
+A) Assess → Consider → Decide → Act → Review
+B) Decide → Act → Assess → Consider → Review
+C) Plan → Act → Record → Review → File
+D) Assess → Act → Record → File → Forget
+
+Correct Answer: A
+
+Explanation: Dynamic risk assessment is an ongoing loop: you assess what is happening, consider your options and resources, decide on a plan, act, and then review the results so you can adjust if necessary.
+
+Question 17 [Hard]
+
+A large, intoxicated subject has been held face down on a hard floor for several minutes. One operative is kneeling across the subject’s lower back. The subject is obese, sweating heavily and suddenly stops shouting, becomes quiet and has shallow, noisy breathing. What should the team do FIRST to manage the risk of positional asphyxia?
+
+A) Remove weight from the subject, reposition them into a safer posture such as recovery position if possible, check airway and breathing and call for urgent medical assistance
+B) Keep the subject face down but loosen one arm hold to see if they still resist
+C) Maintain the current position until police arrive to apply handcuffs
+D) Sit the subject up but keep an operative pushing down hard on their shoulders
+
+Correct Answer: A
+
+Explanation: Obesity, intoxication, prolonged prone restraint and weight on the back all increase the risk of positional asphyxia. Sudden quietness and abnormal breathing are emergency warning signs. Weight must be removed immediately, the position changed to allow breathing, and medical help requested.
+
+Question 18 [Hard]
+
+A close protection team is escorting the principal out of a nightclub. Outside, their driver gets into a heated argument with a member of the public and they square up to each other. A small crowd is forming, and only two other operatives are with the principal. What is the BEST course of action for the team leader, using dynamic risk assessment?
+
+A) Leave the principal outside while all three operatives restrain the member of the public
+B) Prioritise moving the principal to a safe location, then call for additional support before deciding whether any physical intervention is necessary
+C) Tell the driver to “put him down quickly” so they can leave
+D) Ignore the situation because it does not directly involve the principal yet
+
+Correct Answer: B
+
+Explanation: The team’s primary duty is the safety of the principal. Dynamic risk assessment suggests withdrawing the principal from developing danger, seeking support (e.g. additional staff or police) and only considering physical intervention if truly necessary and proportionate.
+
+Question 19 [Hard]
+
+A subject being escorted out of a venue has blood around their mouth and suddenly spits blood-stained saliva towards an operative and nearby customers. The operative feels fluid on their lips and cheek. What is the MOST appropriate immediate response by the operative?
+
+A) Panic and insist the subject is tested for HIV before doing anything else
+B) Ignore it and continue the escort to avoid losing control
+C) As soon as it is safe, avoid touching the face, move away from direct contact, wash the affected area with running water, and ensure the incident is reported and medical advice sought
+D) Immediately punch the subject to stop any further spitting
+
+Correct Answer: C
+
+Explanation: Spitting blood or saliva carries an infection risk. The operative should, as soon as practicable, wash the affected area with running water (and soap if available), avoid touching eyes, nose or mouth, then report the incident and seek medical advice in line with workplace procedures. Retaliatory violence is unlawful and unprofessional.
+
+Question 20 [Hard]
+
+Which of these incidents involving security staff most clearly requires a formal RIDDOR report to the HSE?
+
+A) An operative bruises their arm during a restraint but completes the shift and needs no further treatment
+B) A doorman has a minor nosebleed after being head-butted but returns to work the next day
+C) An operative twists an ankle during a shift and is unable to work for three days
+D) An operative sustains a broken wrist while restraining a subject and is signed off work for two weeks
+
+Correct Answer: D
+
+Explanation: RIDDOR requires reporting of work-related deaths, specified injuries and over-seven-day incapacitation. A broken wrist in the course of work that results in two weeks off clearly falls into the reportable categories. The other examples involve minor injuries or shorter absences.
+
+================================================================================
+END OF CHAPTER 7.2 QUESTIONS
+
+Total Questions: 20
+
+Easy: 8
+
+Medium: 8
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 5 questions
+
+Correct answer B: 5 questions
+
+Correct answer C: 5 questions
+
+Correct answer D: 5 questions
+
+================================================================================

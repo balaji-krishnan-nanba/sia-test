@@ -1,0 +1,399 @@
+================================================================================
+UNIT 2, CHAPTER 2.5: DRUG AWARENESS
+================================================================================
+Meta: Total=30 | Easy=12 | Medium=12 | Hard=6 | A=8 | B=7 | C=8 | D=7
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Under UK drugs law, which class of controlled drug is treated as the most serious and attracts the highest maximum penalties?
+
+A) Class A
+B) Class B
+C) Class C
+D) Temporary class drug
+
+Answer: A
+Explanation: Class A drugs are considered the most harmful and attract the heaviest penalties, including up to life imprisonment for supply offences. Class B and C drugs carry lower maximum sentences.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which of the following is a Class A controlled drug in the UK?
+
+A) Heroin
+B) Cannabis
+C) Ketamine
+D) Diazepam
+
+Answer: A
+Explanation: Heroin is a Class A drug, along with substances such as cocaine, crack and ecstasy. Cannabis and ketamine are Class B, while drugs like diazepam (a benzodiazepine) fall into Class C.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: In UK law, how is cannabis (herbal, resin or oil) classified?
+
+A) Class B
+B) Class A
+C) Class C
+D) Not a controlled drug
+
+Answer: A
+Explanation: Cannabis in all its common forms (herbal, resin, oil) is a Class B controlled drug. Calling it Class A is a common exam trap.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: GHB (gamma-hydroxybutyrate), sometimes used in drink spiking, is classified as which class of drug?
+
+A) Class B
+B) Class A
+C) Class C
+D) Not controlled under drugs law
+
+Answer: A
+Explanation: GHB was reclassified from Class C to Class B on 10 April 2023 due to its role in drug-facilitated sexual assault and potential for serious harm. GBL (gamma-butyrolactone), a precursor that converts to GHB in the body, is also controlled as Class B under the Misuse of Drugs Act when intended for human consumption.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Under the Psychoactive Substances Act 2016, which of the following substances is specifically excluded from the Act?
+
+A) Caffeine in food or drinks
+B) Herbal smoking mixtures
+C) Any "legal highs" sold online
+D) Any powder labelled "not for human consumption"
+
+Answer: A
+Explanation: The Psychoactive Substances Act bans the production and supply of psychoactive substances intended for human consumption, but specifically excludes substances such as alcohol, tobacco, nicotine, caffeine, food and licensed medicines.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Which change in a customer's pupils is most commonly associated with stimulant drugs such as cocaine or MDMA (ecstasy)?
+
+A) Very small, "pin-point" pupils
+B) One small pupil and one large pupil
+C) Normal-sized pupils
+D) Very large, dilated pupils
+
+Answer: D
+Explanation: Stimulant drugs typically cause the pupils to become noticeably enlarged (dilated), often combined with restlessness, sweating and rapid speech.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Which of the following is a typical physical sign of opiate (heroin) use?
+
+A) Constricted "pin-point" pupils
+B) Dilated pupils
+C) Constant chewing and jaw clenching
+D) Strong smell of cannabis
+
+Answer: A
+Explanation: Opiates such as heroin commonly cause very small, "pin-point" pupils, along with drowsiness, slow breathing and "nodding off".
+
+---
+Q8 | Difficulty: Easy
+---
+Question: A customer approaching the door has red, bloodshot eyes, smells strongly of a sweet, herbal smoke and is moving slowly. These are classic signs of using which drug?
+
+A) Ecstasy
+B) Cocaine
+C) GHB
+D) Cannabis
+
+Answer: D
+Explanation: Red eyes, a distinctive cannabis smell and slowed reactions are well-known signs of cannabis use.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which piece of legislation is the main law controlling the production, supply and possession of most dangerous drugs in the UK?
+
+A) Misuse of Drugs Act 1971
+B) Licensing Act 2003
+C) Psychoactive Substances Act 2016
+D) Health and Safety at Work etc. Act 1974
+
+Answer: A
+Explanation: The Misuse of Drugs Act 1971 is the primary legislation that classifies controlled drugs into Classes A, B and C and sets out offences such as possession, supply and production.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: Under the Misuse of Drugs Act 1971, which of the following is generally treated as the more serious type of offence?
+
+A) Simple possession for personal use
+B) Being in the same room as people using drugs
+C) Supplying or possessing drugs with intent to supply to others
+D) Forgetting to write in the incident log
+
+Answer: C
+Explanation: Supply offences, or possession with intent to supply, are treated much more seriously than simple possession and attract much higher maximum penalties.
+
+---
+Q11 | Difficulty: Easy
+---
+Question: When you find suspected drugs on a customer or on the floor of the premises, what should you do about returning them?
+
+A) Return them if the person shows a prescription
+B) Return them if it is only a very small amount
+C) Never return them to anyone
+D) Return them if the person is leaving the premises
+
+Answer: C
+Explanation: Door supervisors should never return suspected drugs, regardless of the amount or what the person claims. The correct procedure is to seize, secure, record and hand them to the police.
+
+---
+Q12 | Difficulty: Easy
+---
+Question: Which sign could most strongly suggest that a person's drink has been spiked with a depressant such as GHB?
+
+A) They appear far more intoxicated than the small amount of alcohol consumed would suggest
+B) They are gradually sobering up as the night goes on
+C) They complain of being too hot after dancing
+D) They are talking rapidly and seem overconfident
+
+Answer: A
+Explanation: A key warning sign of drink spiking is someone suddenly appearing extremely drunk, confused or unsteady when they have had little or no alcohol, especially if this happens rapidly.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: In a nightclub, you notice a man who is very energetic, talking rapidly, sweating heavily and has large pupils. You also see him making frequent trips to the toilet, coming back sniffing and wiping his nose, with a small white residue near one nostril. Which drug is he MOST likely to be using?
+
+A) Heroin
+B) Cannabis
+C) GHB
+D) Cocaine
+
+Answer: D
+Explanation: The combination of hyperactivity, large pupils, sweating, frequent toilet visits and white powder around the nose is strongly suggestive of cocaine use, a stimulant usually taken by snorting.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: A woman is sitting in a quiet corner of the bar. Her head keeps dropping forward, she appears to "nod off" mid-conversation, scratches her arms repeatedly, has very small pupils and slurred speech. Which type of substance is MOST likely involved?
+
+A) A stimulant such as cocaine
+B) A hallucinogen such as LSD
+C) An opiate such as heroin
+D) Cannabis
+
+Answer: C
+Explanation: Extreme drowsiness, "nodding off", itching and pin-point pupils are classic signs of opiate use, such as heroin.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: At the entrance, a group of customers arrive smelling strongly of cannabis. Their eyes are red and their reactions are slow. What is the MOST appropriate action as a door supervisor?
+
+A) Allow them in but warn them not to smoke inside
+B) Allow entry and simply keep an eye on them
+C) Refuse entry because they appear under the influence of drugs
+D) Call 999 immediately to have them arrested
+
+Answer: C
+Explanation: Door supervisors must refuse entry to people who are intoxicated or clearly under the influence of drugs, as they pose a risk to themselves, others and the premises' licence. Police attendance is not usually required just to refuse entry.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: During a search under your "condition of entry" policy, you find a number of small wraps of white powder, a set of digital scales and a large amount of cash on a customer. Why is this more serious than finding a single wrap of powder?
+
+A) It means the drug is automatically Class A
+B) It proves the drug is 100% pure cocaine
+C) It shows the customer must be under 18
+D) It suggests possession with intent to supply, a more serious offence than simple personal possession
+
+Answer: D
+Explanation: Multiple wraps, scales and significant cash are strong indicators of dealing or possession with intent to supply, which is treated as more serious than simple personal possession under UK drugs law.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: Which set of items is MOST associated with injecting drug use, such as heroin?
+
+A) Rolled banknotes, small mirrors, credit cards
+B) Bongs, large cigarette papers, grinders
+C) Foil squares and glass pipes
+D) Spoons with burn marks, syringes, tourniquets
+
+Answer: D
+Explanation: Injecting drug use is commonly associated with syringes and needles, spoons with burn marks (used to prepare the drug) and tourniquets (belts, ties, etc.) used to raise veins.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: Which pattern of behaviour inside a venue is MOST likely to indicate drug dealing rather than normal socialising?
+
+A) A customer spending most of the night chatting to the same friend
+B) A customer who keeps going outside to smoke
+C) A customer dancing near the speakers for a long time
+D) A customer frequently meeting different people for a few seconds and exchanging small items and cash
+
+Answer: D
+Explanation: Multiple brief meetings with different people, involving quick exchanges of small items and money, is highly suspicious for dealing.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: After seizing suspected drugs, which combination of information is MOST important to record in the incident log to maintain a clear chain of evidence?
+
+A) The DJ's name and how busy the venue is
+B) The customer's star sign and favourite drink
+C) Only the customer's name and address if known
+D) Date, time, exact location, description of the item, who found it and any witnesses
+
+Answer: D
+Explanation: A proper evidential record should include what was found, where, when, by whom, and any witnesses. This supports the chain of custody if the police take over the case.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: During a routine toilet check, you find a small bag of white powder on the floor. What is your BEST course of action?
+
+A) Flush it down the toilet so no one gets in trouble
+B) Leave it where it is and continue your patrol
+C) Pick it up carefully, secure it, record the find and inform management/police
+D) Put it behind the bar as lost property
+
+Answer: C
+Explanation: Door supervisors must seize suspected drugs, handle them minimally (ideally with gloves), secure and label them, record the details and ensure they are handed to the police through management. Destroying or returning them is not appropriate.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: A customer claims that a bag of colourful pills you have seized are "just legal highs" and therefore allowed. Which statement best reflects the law under the Psychoactive Substances Act 2016?
+
+A) All psychoactive substances are legal to supply if they are sold online
+B) Supplying psychoactive substances for human consumption can be an offence even if they are marketed as "legal highs"
+C) Possession of any psychoactive substance is always a criminal offence
+D) The Act only applies inside prisons
+
+Answer: B
+Explanation: The Act targets the production and supply of psychoactive substances intended for human consumption, regardless of how they are advertised. Simple possession is generally not an offence outside custodial institutions, but supply can carry up to seven years' imprisonment.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: You suspect a customer's drink has been spiked. What should you do with the drink?
+
+A) Pour it away immediately for hygiene reasons
+B) Offer it to another customer if it looks untouched
+C) Preserve it safely as potential evidence
+D) Put it back on the bar for resale
+
+Answer: C
+Explanation: The suspected spiked drink should be kept safely (labelled and secured) so that the police or medical staff can test it if necessary.
+
+---
+Q23 | Difficulty: Medium
+---
+Question: Inside a hot nightclub, a young man who has been dancing non-stop for hours is extremely hot, sweating heavily, chewing gum constantly and drinking only spirits. You suspect he has taken MDMA (ecstasy). Which harm-reduction measure is MOST appropriate?
+
+A) Encourage him to keep dancing to "sweat it out"
+B) Encourage him to take regular small amounts of water and short cooling breaks
+C) Confiscate his chewing gum and send him back to dance
+D) Give him strong coffee to keep him awake
+
+Answer: B
+Explanation: MDMA can cause overheating and dehydration, especially in hot, crowded venues. Encouraging regular sips of water and rest breaks can reduce the risk of collapse, while still calling for medical help if you have any concerns.
+
+---
+Q24 | Difficulty: Medium
+---
+Question: Your venue has a written drugs policy, regular condition-of-entry searches, staff training and good documentation of all drug-related incidents. How can this help the premises licence holder if drugs are found on the premises?
+
+A) It guarantees that nobody will ever use drugs in the venue
+B) It supports an "occupier's defence" by showing reasonable steps were taken to prevent drug use
+C) It means the Misuse of Drugs Act does not apply inside the venue
+D) It allows door supervisors to ignore minor drug use
+
+Answer: B
+Explanation: Under the Misuse of Drugs Act, it is an offence to knowingly permit certain drug activities on premises. A strong, consistently applied drugs policy and good records help show that the licence holder has taken reasonable steps to prevent drug misuse.
+
+---
+Q25 | Difficulty: Hard
+---
+Question: You receive several reports that a man in a black hoodie is dealing drugs in the gents' toilets. When you observe, you see him making brief visits to cubicles with different people, with quick hand-to-hand exchanges. There is currently no police presence. What is the MOST appropriate action?
+
+A) Enter a cubicle alone and physically search him for drugs
+B) Eject him immediately without any record, to avoid paperwork
+C) Inform your team and management, monitor him, then safely stop him, refuse entry/eject and seize any drugs found lawfully, while contacting the police
+D) Ignore it until the police happen to visit another time
+
+Answer: C
+Explanation: Door supervisors should not carry out forced searches, but can work as a team to safely intervene, use condition-of-entry searches, refuse entry or eject, seize any suspected drugs, document the incident and contact the police where dealing is suspected.
+
+---
+Q26 | Difficulty: Hard
+---
+Question: At 1 a.m., a young woman is found slumped on a sofa. She is extremely unsteady, confused and barely able to stand, but friends say she has had only one drink. A man you do not recognise insists he is "taking her home" and tries to lead her out. What should you do FIRST?
+
+A) Let the man take her home because he seems confident
+B) Ask the man for ID and, if over 18, allow them to leave
+C) Stop her leaving with him, move her to a safe area and ensure she is supervised while you assess possible spiking and consider medical help
+D) Loudly accuse the man of attempted rape in front of everyone
+
+Answer: C
+Explanation: Safeguarding is the priority. Someone who may have been spiked should be taken to a safe area, not left alone and not allowed to leave with a stranger. Door staff should monitor her, consider calling an ambulance and inform police and management as appropriate.
+
+---
+Q27 | Difficulty: Hard
+---
+Question: During a search at the door, you find a bag of brightly coloured powders in small packets. The customer says they are "just legal highs from the internet" and demands them back. What is the BEST course of action?
+
+A) Return them because they are sold as "legal highs"
+B) Retain, secure and record them, and explain they may be illegal under the Psychoactive Substances Act and will be handed to the police
+C) Allow the customer to take them but refuse entry
+D) Taste a small amount to see what the powder is
+
+Answer: B
+Explanation: While simple possession of psychoactive substances is not generally an offence under the PSA 2016, production and SUPPLY are serious crimes. Door supervisors should seize, secure and record such items under venue policy and hand them to police, as they may be evidence of supply offences or may actually be controlled drugs. Substances marketed as "legal highs" may be illegal psychoactive substances. Door supervisors should never return or sample them; instead they should seize, secure, record and hand them to the police via management.
+
+---
+Q28 | Difficulty: Hard
+---
+Question: On the dancefloor, a man collapses. He is very hot to the touch, breathing rapidly, his heart is racing and he suddenly begins to have a seizure. Friends say he has taken "loads of pills" and has been dancing for hours. What is the MOST important action you should take immediately?
+
+A) Move him outside and leave him to cool down on his own
+B) Call 999, provide first aid and place him in the recovery position if he is breathing
+C) Give him very cold alcoholic drinks to calm him down
+D) Wait a few minutes to see if he recovers on his own
+
+Answer: B
+Explanation: These are signs of a possible stimulant overdose and medical emergency. You must call 999 at once, ensure his airway is open, place him in the recovery position if he is breathing, and be ready to start CPR if he stops breathing.
+
+---
+Q29 | Difficulty: Hard
+---
+Question: You see two customers openly snorting white powder from a key in a quiet corner. When you alert a colleague, they shrug and say, "We don't bother with that – management don't want the hassle and it keeps the customers happy." What is the BIGGEST risk if this attitude continues?
+
+A) The customers might complain about door staff
+B) The venue and licence holder could be accused of knowingly permitting drug use on the premises
+C) The music licence will automatically be cancelled
+D) The door supervisors will not get paid overtime
+
+Answer: B
+Explanation: If staff knowingly ignore drug misuse, the premises licence holder could face action for permitting drug use under the Misuse of Drugs Act and licensing law, potentially risking the venue's licence.
+
+---
+Q30 | Difficulty: Hard
+---
+Question: During a clearly advertised condition-of-entry search, you find a pouch on a customer containing multiple small wraps of white powder, a small digital scale and a roll of £20 notes. What is the MOST appropriate overall response?
+
+A) Return all items if the customer promises not to deal inside
+B) Seize and secure the items, record the seizure in detail, refuse entry or eject and contact the police because this strongly suggests dealing
+C) Allow the customer to enter but ask them to keep everything hidden
+D) Only seize the cash, as the drugs may be fake
+
+Answer: B
+Explanation: The combination of multiple wraps, scales and cash strongly indicates dealing. Door supervisors should seize and secure the items, record everything carefully, refuse entry or eject the customer and inform the police.
+
+================================================================================
+END OF CHAPTER 2.5
+================================================================================

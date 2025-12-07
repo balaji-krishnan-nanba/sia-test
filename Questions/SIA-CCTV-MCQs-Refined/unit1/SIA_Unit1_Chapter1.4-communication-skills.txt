@@ -1,0 +1,232 @@
+================================================================================
+UNIT 1, CHAPTER 1.4: COMMUNICATION SKILLS
+Question 1 [Easy]
+What does the letter F represent in the NATO phonetic alphabet used by CCTV operators and other emergency services?
+A) Foxtrot
+B) Fox
+C) Freddie
+D) Franklin
+Correct Answer: A
+Explanation:
+The NATO phonetic alphabet is used to avoid confusion when spelling words or registrations over the radio. The letter F is correctly spoken as “Foxtrot”, not “Fox” or any other variation. Using the standard terms means everyone hears the same thing and reduces mistakes.
+
+Question 2 [Easy]
+Why is radio the primary communication tool for a CCTV operator in a control room?
+A) It allows immediate, often hands‑free communication while the operator continues monitoring cameras
+B) It does not require any training to use safely and correctly
+C) It automatically records all incidents without any need for written logs
+D) It is always more private than using the telephone
+Correct Answer: A
+Explanation:
+Radio lets the CCTV operator talk to multiple units instantly and often using a hands‑free setup, so they can keep watching the monitors. It is fast, shared communication – essential during incidents. It is not private, and operators still need proper training and written records.
+
+Question 3 [Easy]
+When giving a description of a person over the radio, which information should usually be given first?
+A) Their sex (e.g. male, female, unknown)
+B) Their direction of travel
+C) Their clothing from head to toe
+D) Any tattoos or scars
+Correct Answer: A
+Explanation:
+The recommended structure for descriptions is top to bottom and starts with:
+Sex
+Ethnicity/appearance
+Age
+Height
+… and so on.
+Beginning with sex immediately tells officers who they’re looking for and helps them filter people in a crowd.
+
+Question 4 [Easy]
+In the context of CCTV operations, active listening mainly involves:
+A) Writing down every single word someone says
+B) Fully concentrating on the speaker, understanding, responding and remembering key points
+C) Speaking slowly so others can hear you better
+D) Turning up the volume on the radio to maximum
+Correct Answer: B
+Explanation:
+Active listening is about focus and understanding, not just hearing sounds. The operator concentrates on the message, checks understanding, responds appropriately and remembers key details such as descriptions, times and locations.
+
+Question 5 [Easy]
+Which statement best describes good written communication in an incident log?
+A) It includes personal opinions to explain what you think happened
+B) It can be changed later without showing that it has been altered
+C) It uses slang and abbreviations only the writer understands
+D) It is clear, factual and accurate, with relevant times and dates recorded
+Correct Answer: D
+Explanation:
+Incident logs and reports may be used as evidence, so they must be accurate, clear, factual, complete and timed/dated. Personal opinions, unexplained slang, and hidden alterations are not acceptable in professional records.
+
+Question 6 [Easy]
+When giving a location over the radio, what should the CCTV operator usually give first?
+A) The operator’s personal opinion about what is happening
+B) The street name or precise location (e.g. “High Street, outside number 23”)
+C) The colour of the subject’s clothing
+D) The subject’s direction of travel
+Correct Answer: B
+Explanation:
+Responders must be able to find the scene quickly. Giving the street name and exact position (such as outside a particular building or number) is the starting point, followed by landmarks, direction of travel and camera references if useful.
+
+Question 7 [Easy]
+Which of the following is an example of a physical barrier to communication in a CCTV control room?
+A) Stress making an operator jump to conclusions
+B) Poor radio reception caused by buildings or equipment issues
+C) Strong personal opinions affecting how a message is heard
+D) Complex technical jargon that a listener does not understand
+Correct Answer: B
+Explanation:
+Physical barriers include things like poor radio reception, background noise, faulty equipment or distance. Jargon and language issues are language barriers, while stress and assumptions are psychological barriers.
+
+Question 8 [Easy]
+How should a CCTV operator most appropriately answer an external telephone call to the control room?
+A) State only their name and then wait
+B) Answer promptly, identify the control room and themselves, then listen
+C) Just say “Control” and stay silent
+D) “Yeah, hello, what do you want?”
+Correct Answer: B
+Explanation:
+Professional telephone manner is vital. A good example is:
+“Town Centre CCTV, operator Smith speaking.”
+This is prompt, identifies the service and the person, and sets the tone for a clear, professional conversation.
+
+Question 9 [Easy]
+A camera only shows a suspect from the shoulders down. What should the CCTV operator do when giving a description over the radio?
+A) Describe only the details that can actually be seen, such as clothing and build
+B) Wait and give no description at all until the face is visible
+C) Guess their facial features and age to give officers more information
+D) Invent facial details so officers can be sure to recognise the suspect
+Correct Answer: A
+Explanation:
+CCTV descriptions must be honest and based on what is visible. If the face isn’t shown, the operator should describe clothing, build, and other visible features – not guess or make up details.
+
+Question 10 [Medium]
+During a quiet period on the radio, a CCTV operator reports a fight but notices that the start of the message was cut off because they spoke as soon as they pressed the button. What should they do differently next time?
+A) Press the transmit button, pause briefly, then speak clearly at a normal pace with a planned message
+B) Speak much faster so the message finishes before they release the button
+C) Use more slang so the message is shorter
+D) Keep the button pressed while they think about what to say
+Correct Answer: A
+Explanation:
+Good radio procedure is to plan what to say, then press, pause, speak clearly at a normal pace. This avoids the first words being clipped and makes messages easier for all units to understand.
+
+Question 11 [Medium]
+An officer asks the CCTV operator to spell the vehicle registration AB12 CDE over the radio. Which is the correct way to transmit it?
+A) “Alpha Bravo One Two Charlie Delta Echo”
+B) “A B One Two C D E”
+C) “Able Baker One Two Charlie David Edward”
+D) “Alpha Bravo Twelve Charlie Delta Echo”
+Correct Answer: A
+Explanation:
+Using the NATO phonetic alphabet and clear numbers, the correct version is:
+“Alpha Bravo One Two Charlie Delta Echo.”
+Letters are spoken using phonetic words, and numbers are given digit by digit.
+
+Question 12 [Medium]
+A suspicious male is seen near a bank. A patrol asks, “Control, where exactly is he?” Which radio message gives the clearest and most useful location?
+A) “He’s on the High Street somewhere, just keep looking.”
+B) “He’s outside a shop, I think it might be a bank.”
+C) “Male is outside Barclays Bank on High Street, heading north towards the bus station.”
+D) “He’s near Camera 12.”
+Correct Answer: C
+Explanation:
+A good location message includes the street name, a clear landmark and direction of travel. Option D tells officers where (High Street, Barclays Bank) and which way he is going, which is exactly what they need.
+
+Question 13 [Medium]
+A CCTV operator realises they missed the exact location given by a ground unit because they were thinking about how to reply. Which behaviour would best support active listening in future?
+A) Turn the radio volume up to maximum and continue other tasks
+B) Focus fully on the caller, avoid planning a response until they finish, and note key details like location and description
+C) Ask the caller to repeat everything twice, even when it was clear
+D) Interrupt the caller if they are talking slowly to speed up the conversation
+Correct Answer: B
+Explanation:
+Active listening means concentrating on the speaker, not rehearsing your reply. The operator should give full attention, write down important details and only then respond, checking any points that are unclear.
+
+Question 14 [Medium]
+After an incident, the CCTV operator must complete the incident log. Which entry is most appropriate?
+A) “22:15 – Observed male, IC3, approx. 30 yrs, blue jacket, jeans, arguing with staff at High Street Supermarket. Radioed Unit 3. Police arrived 22:20 and spoke to male.”
+B) “Something happened at the supermarket earlier, I think the police went.”
+C) “Saw suspect causing trouble; he was clearly guilty of shoplifting.”
+D) “Bloke looked dodgy and was probably drunk, so I got the police to sort him out.”
+Correct Answer: A
+Explanation:
+Option B is factual, objective, timed and complete, which are key features of good written communication. Options A, C and D include opinions, vague wording or missing details and would be unsuitable if the record were used as evidence.
+
+Question 15 [Medium]
+The control room is very noisy and the operator is struggling to hear important radio messages. What is the best action to overcome this barrier?
+A) Carry on as normal and assume any missed details will be repeated by someone else
+B) Ignore radio messages until the room becomes quieter
+C) Ask colleagues to reduce noise or move to a quieter position, then confirm key information with the caller
+D) Shout louder into the radio so others can hear them
+Correct Answer: C
+Explanation:
+Environmental noise is a barrier to communication. The operator should reduce distractions where possible and check understanding, for example by confirming key details with the caller. Ignoring messages or just shouting louder doesn’t solve the problem.
+
+Question 16 [Medium]
+A shop manager phones the control room, angry that police have not yet arrived. They are raising their voice and complaining. How should the CCTV operator respond?
+A) Interrupt and tell the caller they are overreacting
+B) Stay calm, listen fully, remain polite and professional, explain what you can do, and refer to a supervisor if needed
+C) Hang up if the caller sounds annoyed or emotional
+D) Agree with the caller and criticise the police response
+Correct Answer: B
+Explanation:
+Professional telephone communication means staying calm, polite and objective, even with difficult callers. The operator should listen, explain the limits of their role, and involve a supervisor if required, while avoiding arguments or criticism of partners.
+
+Question 17 [Medium]
+Which of the following radio descriptions best follows the recommended description structure for CCTV operators?
+A) “Dark hooded jacket, blue jeans, white trainers, male about 5'8, IC4, late 20s walking along King Street.”
+B) “Male, IC4, late 20s, about 5 foot 8, slim build, short black hair, dark hooded jacket, blue jeans, white trainers, carrying a black rucksack, heading east on King Street.”
+C) “Male walking east on King Street, maybe Asian or Arabic, can’t really see clothing or height, might be in his 20s.”
+D) “Suspicious-looking male, probably trouble, medium height, some kind of dark clothes, walking somewhere on King Street.”
+Correct Answer: B
+Explanation:
+Option A follows the top‑to‑bottom order: sex, IC code, age, height, build, hair, clothing, and then distinguishing features and direction of travel. The other descriptions are out of order, vague or include opinions.
+
+Question 18 [Medium]
+The radio channel is extremely busy. The CCTV operator needs to discuss a non‑urgent, detailed maintenance issue with a police liaison officer. What is the most appropriate way to handle this?
+A) Use the radio to chat with a colleague while waiting for a quiet moment
+B) Keep the transmit button pressed and talk until everything is explained
+C) Keep the radio message brief and arrange to continue the longer discussion by telephone
+D) Interrupt an emergency call to give the update quickly
+Correct Answer: C
+Explanation:
+Radio discipline means not blocking the channel with long, non‑urgent messages. The operator should give a short message and then use the telephone or another method for detailed discussion, keeping the radio free for priority traffic.
+
+Question 19 [Hard]
+Radio reception is poor and there is background noise. You must spell the name KHAN 94 over the radio so officers can write it down accurately. Which transmission is most correct for UK practice?
+A) “Kilo Hotel Alpha November Niner Four”
+B) “Kilo Hotel Alpha November Nine Four”
+C) “Khan Nine Four”
+D) “Kilo Henry Alpha November Ninety Four”
+Correct Answer: A
+Explanation:
+Using the NATO phonetic alphabet, K = Kilo, H = Hotel, A = Alpha, N = November. In radio communications, particularly in poor reception conditions, the digit 9 is spoken as "Niner" to avoid confusion with "Five". Digits are given one by one, so "Kilo Hotel Alpha November Niner Four" is the clearest and safest version when reception is poor.
+
+Question 20 [Hard]
+On camera you see: a white male, about 40 years old, tall, heavy build, shaved head, wearing a black leather jacket over a grey hoodie, dark jeans and black boots, carrying a green carrier bag, walking south on High Street from outside Boots towards the train station. Which radio message best follows the recommended description structure and gives officers the most useful detail?
+A) “Tall heavy guy, white, about 40, in a black jacket and jeans with a bag, walking down the High Street.”
+B) “IC1 male in his 40s, shaved head, black jacket, grey hoodie, dark jeans, black boots with a green bag.”
+C) “White male, 40‑ish, black jacket, jeans, heavy build, carrying a bag, walking towards something at the end of the street.”
+D) “Male, IC1, approx. 40 years, about 6 foot 2, heavy build, shaved head, black leather jacket over grey hoodie, dark jeans, black boots, carrying a green carrier bag, heading south on High Street from Boots towards the train station.”
+Correct Answer: D
+Explanation:
+Option D gives: sex, IC code, age, height, build, hair, clothing, item carried and precise direction/location. It is structured and detailed, making it far more useful to officers than the shorter, vaguer alternatives.
+
+Question 21 [Hard]
+You are tracking a suspect walking east along High Street past the library towards the bus station. Officers are already on High Street. Just before the bus station, the suspect turns left into Station Road. You have already reported that he was outside the library. Which update best helps officers locate him now?
+A) “He’s disappeared somewhere near the bus station.”
+B) “Subject now turning left into Station Road from High Street, just before the bus station.”
+C) “He’s gone, I can’t see him any more.”
+D) “Just check all the side streets off High Street.”
+Correct Answer: B
+Explanation:
+Effective direction updates use clear landmarks and show that the subject is moving. Option A tells officers exactly where the suspect has gone from and to (“from High Street into Station Road, just before the bus station”), allowing them to respond quickly.
+
+Question 22 [Hard]
+During a major incident the radio is very busy. You realise you may have missed part of an instruction from a police inspector because you were talking to a colleague in the control room. What is the most professional action to take while maintaining good radio discipline and active listening?
+A) Immediately transmit over an ongoing urgent message to ask the inspector to repeat
+B) Leave the control room to telephone a friend to find out what was said
+C) Wait for a suitable gap, then call the inspector using correct call signs to politely request a repeat and confirm your understanding
+D) Say nothing and hope someone else repeats the information later
+Correct Answer: C
+Explanation:
+The operator must ensure they have understood instructions accurately, but also maintain radio discipline. Waiting for a gap, using the correct call signs, and politely asking for the message to be repeated shows professionalism and supports safe, coordinated response.
+

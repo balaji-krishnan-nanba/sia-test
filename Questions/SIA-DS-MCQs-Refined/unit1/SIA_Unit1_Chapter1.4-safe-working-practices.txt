@@ -1,0 +1,599 @@
+================================================================================
+UNIT 1, CHAPTER 1.4: SAFE WORKING PRACTICES
+================================================================================
+Meta: Total=45 | Easy=18 | Medium=18 | Hard=9 | A=11 | B=12 | C=11 | D=11
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Under Section 2 of the Health and Safety at Work etc. Act 1974, what is the general duty of an employer towards their employees?
+
+A) To guarantee that no accidents ever occur at work
+B) To ensure, so far as is reasonably practicable, the health, safety and welfare at work of their employees
+C) To protect only employees who carry out high-risk tasks
+D) To provide personal protective equipment instead of training
+
+Answer: B
+Explanation: Section 2 requires employers to ensure, so far as is reasonably practicable, the health, safety and welfare at work of all their employees. This duty covers things like safe equipment, safe systems of work and adequate information, instruction, training and supervision.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Under Section 3 of the Health and Safety at Work etc. Act 1974, employers must protect:
+
+A) Only their employees inside the workplace
+B) Persons not in their employment who may be affected by their work activities
+C) Only contractors working permanently on site
+D) Only members of the public who make a complaint
+
+Answer: B
+Explanation: Section 3 places a duty on employers (and certain self-employed people) to ensure, so far as is reasonably practicable, that persons not in their employment are not exposed to risks to their health or safety. This includes customers, visitors, contractors and members of the public.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which of the following is a duty of employees under Section 7 of the Health and Safety at Work etc. Act 1974?
+
+A) To write the company's health and safety policy
+B) To carry out all risk assessments for the business
+C) To take reasonable care for their own health and safety and that of others
+D) To provide all safety equipment at their own expense
+
+Answer: C
+Explanation: Section 7 requires employees to take reasonable care for their own health and safety and for others who may be affected by their acts or omissions at work. They must also co-operate with their employer on health and safety matters.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: What does Section 8 of the Health and Safety at Work etc. Act 1974 prohibit?
+
+A) Working longer than 48 hours per week
+B) Refusing to work alone
+C) Intentionally or recklessly interfering with or misusing anything provided for health, safety or welfare
+D) Taking rest breaks during a shift
+
+Answer: C
+Explanation: Section 8 makes it an offence to intentionally or recklessly interfere with or misuse anything provided in the interests of health, safety or welfare. For example, removing fire extinguishers or wedging open fire doors breaches this duty.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: In health and safety law, what does "so far as is reasonably practicable" mean?
+
+A) Employers must remove every possible risk, whatever the cost
+B) Employers can ignore risks if staff sign a disclaimer
+C) Balancing the level of risk against the time, trouble and cost of controlling it
+D) Doing nothing unless someone has already been injured
+
+Answer: C
+Explanation: "Reasonably practicable" means weighing the likelihood and severity of harm against the time, effort and cost of control measures. The higher the risk, the more is expected to be done, but the law does not require action where the cost is grossly disproportionate to the risk.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: What is the FIRST step of a formal risk assessment?
+
+A) Record the findings
+B) Evaluate the risks and decide on precautions
+C) Identify the hazards
+D) Review and update the assessment
+
+Answer: C
+Explanation: The first step in the 5-step risk assessment process is to identify the hazards. This involves looking around the workplace, talking to staff and reviewing information to find anything that could cause harm.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: At what point must a risk assessment be WRITTEN DOWN by law?
+
+A) When any accident has occurred
+B) When the workplace is open to the public
+C) When the employer has 5 or more employees
+D) Only when requested by the HSE
+
+Answer: C
+Explanation: The Management of Health and Safety at Work Regulations require significant findings of risk assessments to be recorded when an organisation has five or more employees. This written record shows that risks have been properly considered and controlled.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which statement best describes a HAZARD?
+
+A) The chance that someone will be injured
+B) Anything with the potential to cause harm
+C) An assessment of how serious an accident would be
+D) A reportable incident under RIDDOR
+
+Answer: B
+Explanation: A hazard is anything with the potential to cause harm, such as a wet floor, broken glass or an aggressive person. Identifying hazards is the starting point for managing risk.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which statement best describes a RISK?
+
+A) Any object that could cause injury
+B) A list of rules and procedures
+C) The likelihood and severity of harm arising from a hazard
+D) A minor injury that needs only first aid
+
+Answer: C
+Explanation: Risk combines the likelihood that harm will occur with the potential severity of that harm. The same hazard can present different levels of risk depending on the circumstances, controls in place and people exposed.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: In the hierarchy of control, which option represents the MOST effective way of controlling a risk?
+
+A) Providing personal protective equipment (PPE)
+B) Putting up warning signs
+C) Eliminating the hazard completely
+D) Giving verbal instructions only
+
+Answer: C
+Explanation: Elimination, removing the hazard altogether, sits at the top of the hierarchy of control and is the most effective measure. If there is no hazard, there is no risk.
+
+---
+Q11 | Difficulty: Easy
+---
+Question: Where does personal protective equipment (PPE) sit in the hierarchy of control?
+
+A) It is the first control that should be considered
+B) It replaces the need for any other controls
+C) It is a last resort after other controls have been considered
+D) It only applies to customers, not staff
+
+Answer: C
+Explanation: PPE is the last line of defence and should only be used after other measures such as elimination, substitution, engineering and administrative controls have been applied where possible. PPE protects the individual but does not remove the hazard.
+
+---
+Q12 | Difficulty: Easy
+---
+Question: Which of the following best describes LONE WORKING in the security industry?
+
+A) Working outdoors in bad weather
+B) Working without close or direct supervision or in isolation from colleagues
+C) Working more than 48 hours per week
+D) Working at night in a team of four
+
+Answer: B
+Explanation: Lone working means working without close or direct supervision and often in isolation from colleagues. This can increase risks because there is no immediate help if something goes wrong.
+
+---
+Q13 | Difficulty: Easy
+---
+Question: Under the Working Time Regulations 1998, what in-work rest break is an adult worker entitled to when working MORE than 6 hours in a day?
+
+A) 10 minutes
+B) 15 minutes
+C) 20 minutes
+D) 30 minutes
+
+Answer: C
+Explanation: Adult workers are entitled to an uninterrupted rest break of at least 20 minutes when their daily working time exceeds six hours. This break should be taken during the working day, not at the beginning or end.
+
+---
+Q14 | Difficulty: Easy
+---
+Question: What is the minimum DAILY rest period that most adult workers should have between shifts under the Working Time Regulations?
+
+A) 8 consecutive hours
+B) 9 consecutive hours
+C) 10 consecutive hours
+D) 11 consecutive hours
+
+Answer: D
+Explanation: Most adult workers are entitled to at least 11 consecutive hours' rest in each 24-hour period. This helps prevent fatigue and reduces risk.
+
+---
+Q15 | Difficulty: Easy
+---
+Question: Under the reporting regulations Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (RIDDOR), an injury that results in a worker being incapacitated for MORE than 7 consecutive days (not counting the day of the accident) must be reported within:
+
+A) 10 days
+B) 15 days
+C) 21 days
+D) 30 days
+
+Answer: B
+Explanation: RIDDOR requires over-seven-day incapacitation cases to be reported within 15 days of the incident.
+
+---
+Q16 | Difficulty: Easy
+---
+Question: For how long must records of reportable incidents be kept under RIDDOR?
+
+A) At least 12 months
+B) At least 2 years
+C) At least 3 years
+D) At least 5 years
+
+Answer: C
+Explanation: RIDDOR requires records of reportable injuries, diseases and dangerous occurrences to be kept for a minimum of three years.
+
+---
+Q17 | Difficulty: Easy
+---
+Question: Which is generally considered the MOST significant workplace hazard for door supervisors?
+
+A) Working with computers
+B) Violence and aggression from customers
+C) Exposure to loud music
+D) Cleaning toilets
+
+Answer: B
+Explanation: Door supervisors often face violence and aggression from customers — verbal abuse, threats or physical assault — which is usually the greatest workplace hazard in their role.
+
+---
+Q18 | Difficulty: Easy
+---
+Question: What is meant by a DYNAMIC RISK ASSESSMENT in security work?
+
+A) A written risk assessment carried out once a year
+B) An insurance assessment carried out by the venue owner
+C) An ongoing, real-time assessment of risks as a situation changes
+D) A risk assessment completed only after an accident
+
+Answer: C
+Explanation: Dynamic risk assessment refers to the continual process of "reading the situation" and adjusting actions as circumstances change — a common necessity in security work where conditions can be unpredictable.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: A door supervisor refuses to attend a mandatory safety briefing about new emergency evacuation procedures. Which duty under the Health and Safety at Work etc. Act 1974 are they most clearly failing to meet?
+
+A) To write the evacuation plan
+B) To co-operate with their employer on health and safety matters
+C) To report incidents under RIDDOR
+D) To provide others with PPE
+
+Answer: B
+Explanation: Employees have a duty to cooperate with their employer on health and safety matters, including attending training and briefings. Refusing to attend such a briefing breaches that duty.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: A damaged step at the entrance to a nightclub has already caused one customer to trip. Repairing it will cost the business some money and a few hours' closure. From a "reasonably practicable" point of view, what should the employer do?
+
+A) Do nothing unless someone is seriously injured
+B) Put up a small sign but leave the step as it is
+C) Arrange for the step to be repaired and warn customers until it is fixed
+D) Close the business permanently
+
+Answer: C
+Explanation: Because the risk of further slips or trips is real and the cost/time to repair is reasonable, repairing or marking the hazard meets the employer's duty under "reasonably practicable" — balancing risk and cost.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: During a risk assessment, a supervisor notes that elderly customers and people with mobility issues could be harmed if the only accessible toilet is out of order. Which STEP of the 5-step risk assessment process does this describe?
+
+A) Step 1 – Identify the hazards
+B) Step 2 – Decide who might be harmed and how
+C) Step 3 – Evaluate the risks and decide on precautions
+D) Step 5 – Review and update
+
+Answer: B
+Explanation: Identifying who might be harmed (including vulnerable groups) and how is Step 2 of the risk assessment process.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: A near-miss occurs when a heavy speaker stack almost falls onto the dance floor during a busy event, but no one is injured. What is the MOST appropriate action regarding the risk assessment?
+
+A) Do nothing because no injury occurred
+B) Wait until the annual review is due
+C) Review and update the risk assessment as soon as possible
+D) Destroy the existing risk assessment and start again next year
+
+Answer: C
+Explanation: Near-misses are important indications that existing controls may be inadequate — the risk assessment should be reviewed and updated promptly.
+
+---
+Q23 | Difficulty: Medium
+---
+Question: Why is it important for a door supervisor to follow the venue's written Standard Operating Procedures (SOPs) for searching customers?
+
+A) SOPs allow door supervisors to avoid personal responsibility
+B) SOPs ensure searches are carried out safely, legally and consistently
+C) SOPs allow staff to search customers in any way they choose
+D) SOPs are only for managers, not front-line staff
+
+Answer: B
+Explanation: Safe systems of work — e.g. SOPs — provide clear, consistent and lawful methods for tasks such as searches, helping protect staff and customers.
+
+---
+Q24 | Difficulty: Medium
+---
+Question: Which of the following best describes a COMPETENT worker in health and safety terms?
+
+A) Someone who has been with the company the longest
+B) Someone who is physically strong and confident
+C) Someone with the appropriate training, knowledge and experience to work safely
+D) Someone who works the most hours each week
+
+Answer: C
+Explanation: A competent person is one who has the appropriate training, knowledge and experience to carry out work safely. Employers must ensure workers are competent or supervised until they are.
+
+---
+Q25 | Difficulty: Medium
+---
+Question: You are monitoring a queue outside a busy venue. The crowd is getting restless, voices are raised and one person appears very intoxicated and unsteady. What is the BEST example of using dynamic risk assessment?
+
+A) Ignoring the situation until a fight breaks out
+B) Quickly assessing the mood, calling for support and intervening early to calm things down
+C) Shouting at the whole queue to be quiet
+D) Closing the venue immediately without speaking to anyone
+
+Answer: B
+Explanation: Dynamic risk assessment involves continuously assessing changing risk and acting early to prevent escalation, e.g. calling for backup and intervening carefully.
+
+---
+Q26 | Difficulty: Medium
+---
+Question: There have been several incidents of customers being cut by broken glass bottles on the dance floor. Which control measure best follows the HIGHEST level of the hierarchy of control?
+
+A) Providing thicker gloves for staff who clear the glass
+B) Putting up more warning signs about broken glass
+C) Banning glass containers and only allowing drinks in safer alternatives
+D) Telling staff to clear up faster after each breakage
+
+Answer: C
+Explanation: Banning glass containers removes the hazard altogether — elimination is the top and most effective level in the hierarchy of control.
+
+---
+Q27 | Difficulty: Medium
+---
+Question: A door supervisor notices that the strap on their stab-resistant vest is badly damaged and the vest no longer fits properly. What should they do?
+
+A) Wear it anyway because some protection is better than none
+B) Repair it themselves with tape and continue working
+C) Report the defect immediately and stop using the vest until it is repaired or replaced
+D) Give it to a colleague to wear instead
+
+Answer: C
+Explanation: PPE must be suitable, properly maintained and fit correctly. If it is defective, the employee must report it and stop using it until it's safe — otherwise PPE may fail when needed.
+
+---
+Q28 | Difficulty: Medium
+---
+Question: A security officer patrols a remote car park alone and must call the control room every 30 minutes. What is the MAIN purpose of this check-in procedure?
+
+A) To monitor how many cars are in the car park
+B) To prove the officer is not taking long breaks
+C) To confirm the officer's safety and trigger help if they fail to respond
+D) To reduce the officer's pay if they miss a call
+
+Answer: C
+Explanation: Regular check-ins are a core lone-working safety control to make sure the officer is safe and to raise alarm if contact is lost.
+
+---
+Q29 | Difficulty: Medium
+---
+Question: While working alone at the back of a venue, a door supervisor is approached by a large group who are becoming increasingly aggressive. Backup is several minutes away. What is the MOST appropriate action?
+
+A) Stand their ground and argue with the group
+B) Use force immediately to show authority
+C) Withdraw to a safe place and maintain observation while waiting for support
+D) Ignore the group and continue their patrol
+
+Answer: C
+Explanation: Lone-working guidance requires avoiding unnecessary personal risk: withdrawing to a safer position and calling for support is the safest approach.
+
+---
+Q30 | Difficulty: Medium
+---
+Question: Under the Working Time Regulations 1998, what is the MINIMUM uninterrupted weekly rest that most adult workers are entitled to in each 7-day period (unless an equivalent rest is given over 14 days)?
+
+A) 12 hours
+B) 24 hours
+C) 36 hours
+D) 48 hours
+
+Answer: B
+Explanation: Workers are entitled to at least one full 24-hour rest period in each seven-day period (or equivalent rest over 14 days), under the Working Time Regulations.
+
+---
+Q31 | Difficulty: Medium
+---
+Question: A door supervisor regularly works 48 hours a week for one employer and also does several night shifts for another company, leaving very little time to rest. What is the BEST action to manage health, safety and legal requirements?
+
+A) Continue working as many hours as possible to earn more money
+B) Hide the second job from both employers
+C) Inform their employers about the additional work and reduce hours to avoid excessive fatigue
+D) Only rest on days off and change nothing else
+
+Answer: C
+Explanation: Excessive working hours and lack of rest increase fatigue, impair judgement and raise risk of accidents. They should inform employers and adjust hours to respect safety, health and legal limits.
+
+---
+Q32 | Difficulty: Medium
+---
+Question: A security guard suffers a fractured leg after being struck by a vehicle while directing traffic at an event and is taken straight to hospital. How should this incident be reported under RIDDOR?
+
+A) It is a minor injury and not reportable
+B) As an over-7-day injury within 15 days
+C) As a specified injury, reported by the quickest practicable means (usually online)
+D) Only if the guard is off work for more than a month
+
+Answer: C
+Explanation: A fracture (except to fingers, thumbs or toes) is a specified injury under RIDDOR and must be reported immediately by the quickest practicable means (usually online via HSE's website). There is no separate written confirmation requirement.
+
+---
+Q33 | Difficulty: Medium
+---
+Question: A customer slips on a wet floor in a shopping centre, is clearly injured and is taken directly to hospital for treatment. Which statement is most accurate regarding RIDDOR?
+
+A) It is reportable because a member of the public was taken directly to hospital as a result of a work-related accident
+B) It is only reportable if the customer sues the company
+C) It is only reportable if the injured person is an employee
+D) It is never reportable if a "wet floor" sign was displayed
+
+Answer: A
+Explanation: Under RIDDOR, injuries to non-workers (e.g. customers) that result in hospital treatment are reportable when arising from work activity.
+
+---
+Q34 | Difficulty: Medium
+---
+Question: A door supervisor has been working long shifts with little rest and is starting to feel irritable, unable to concentrate and dreads going to work. Which hazard is this MOST likely to indicate?
+
+A) Manual handling
+B) Stress and fatigue
+C) Chemical exposure
+D) Working at height
+
+Answer: B
+Explanation: Fatigue and stress are common hazards in security work, especially with long/irregular hours and demanding conditions.
+
+---
+Q35 | Difficulty: Medium
+---
+Question: Two door supervisors are asked to move a very heavy metal barrier on their own without any equipment. What is the MOST appropriate control measure?
+
+A) Tell them to lift it quickly so it is over with
+B) Provide mechanical aids or ensure enough staff are available for a team lift
+C) Ignore the problem because they look strong
+D) Ask them to work longer hours to move all the barriers
+
+Answer: B
+Explanation: Manual-handling risks should be controlled by using mechanical aids or team lifts, reducing risk of back injuries and other harm.
+
+---
+Q36 | Difficulty: Medium
+---
+Question: A door supervisor is responsible for an outside smoking area at night. The lighting is poor and several customers have tripped over uneven paving. What is the MOST effective control measure?
+
+A) Ask customers to use their phone torches
+B) Put up a small sign that says "Mind the step"
+C) Improve the lighting and repair or clearly mark the uneven surface
+D) Tell customers to walk more carefully
+
+Answer: C
+Explanation: Improving lighting and repairing or marking hazards is an engineering (or administrative) control — more effective than relying solely on warnings or PPE.
+
+---
+Q37 | Difficulty: Hard
+---
+Question: You are the only door supervisor at a rear fire exit when a fight breaks out between several intoxicated customers. One person is holding a broken bottle and you have no immediate backup. What is the SAFEST course of action?
+
+A) Move in alone and physically restrain the person with the bottle
+B) Withdraw to a safe distance, call for assistance and monitor the situation
+C) Lock the fire exit so no one can get out
+D) Ignore the incident and continue checking tickets
+
+Answer: B
+Explanation: Dynamic risk assessment and lone-working guidance require avoiding unnecessary personal risk. Withdrawing to a safe position, calling for backup and monitoring reduces danger for you and others.
+
+---
+Q38 | Difficulty: Hard
+---
+Question: A door supervisor has worked five 12-hour night shifts in a row (60 hours) and is asked to work an additional 12-hour shift immediately. They already have a second job during the day. What is the BEST response from a health and safety point of view?
+
+A) Accept the shift because refusing work could upset the employer
+B) Accept the shift but drink energy drinks to stay awake
+C) Explain concerns about fatigue and Working Time limits and agree a safer work pattern
+D) Lie about having another job and continue working all hours
+
+Answer: C
+Explanation: Long hours, especially night shifts, increase fatigue and accident risk. Workers should ensure adequate rest and comply with Working Time Regulations to remain fit for duty.
+
+---
+Q39 | Difficulty: Hard
+---
+Question: A security officer is injured in an accident at work. They are then unable to carry out ANY of their normal duties for 10 consecutive days (not counting the day of the accident), after which they return to work. How should this be classified under RIDDOR?
+
+A) It is not reportable because they returned to work
+B) It is a specified injury and must be reported immediately
+C) It is an over-seven-day incapacitation and must be reported within 15 days
+D) It is reportable only if the worker requests it
+
+Answer: C
+Explanation: Any injury causing over seven consecutive days of incapacity (excluding the day of the accident) qualifies as over-7-day incapacitation under RIDDOR and must be reported within 15 days.
+
+---
+Q40 | Difficulty: Hard
+---
+Question: During a concert, a large lighting rig collapses onto the stage area. No one is injured, but the structure is badly damaged and it could easily have hit performers or staff. What is the MOST accurate statement?
+
+A) It is not reportable because no one was hurt
+B) It is reportable as a dangerous occurrence under RIDDOR
+C) It is only reportable if the media find out
+D) It is only reportable if the event is cancelled
+
+Answer: B
+Explanation: Some serious near-misses or failures with potential for injury or harm (e.g. collapse of structures) count as "dangerous occurrences" and must be reported under RIDDOR even if no-one was injured.
+
+---
+Q41 | Difficulty: Hard
+---
+Question: To make crowd control easier, a supervisor tells a door supervisor to wedge open a clearly signed fire door and move a fire extinguisher so it is out of the way. Which statement is MOST accurate?
+
+A) This is good practice because it speeds up evacuation
+B) It is acceptable if no fire occurs
+C) It may breach Section 8 by interfering with safety equipment and could be a criminal offence
+D) It is only a problem if the manager has not agreed in writing
+
+Answer: C
+Explanation: Both the supervisor giving the instruction AND the door supervisor following it could breach Section 8 of the Health and Safety at Work Act 1974. Following an unlawful instruction does not exempt you from personal liability. Intentionally interfering with safety equipment or misuse of safety/welfare provisions can breach the duty, which states no-one shall misuse or interfere with anything provided for health, safety or welfare.
+
+---
+Q42 | Difficulty: Hard
+---
+Question: In a crowded venue you notice ALL of the following at the same time:
+• A small spillage creating a slippery patch near the bar
+• Two customers loudly arguing and squaring up near an exit
+• A chair left in the middle of a main walkway
+
+Using dynamic risk assessment, what should you prioritise FIRST?
+
+A) Move the chair out of the walkway
+B) Clean up the spill immediately
+C) Calmly intervene in the argument and call for backup if needed
+D) Ignore everything until the manager arrives
+
+Answer: C
+Explanation: Dynamic risk assessment requires prioritising the greatest immediate threat to people's safety. A confrontation that could escalate into violence near an exit poses a more urgent risk than a small spill or obstruction — so intervention and support are the priority.
+
+---
+Q43 | Difficulty: Hard
+---
+Question: A lone security officer on an industrial site fails to respond to two scheduled radio check-ins. Their last call mentioned suspicious people nearby. According to good lone-working procedures, what should the control room do NEXT?
+
+A) Wait until the next routine check-in
+B) Assume their radio battery is flat and ignore it
+C) Escalate according to procedure, attempting contact by other means and arranging a welfare check
+D) Immediately discipline the officer for missing a call
+
+Answer: C
+Explanation: Losing contact with a lone worker, especially after reporting a potential threat, should trigger escalation procedures including alternative contact methods and a welfare check — not simply waiting.
+
+---
+Q44 | Difficulty: Hard
+---
+Question: A company introduces a new task that involves moving heavy equipment up stairs. Management decides the only control measure needed is to issue staff with back-support belts. Which statement best explains why this is a poor approach?
+
+A) PPE is illegal for manual-handling tasks
+B) PPE should be the first control, not the last
+C) Relying only on PPE ignores higher levels of the hierarchy such as eliminating or reducing the manual handling
+D) Workers should supply their own PPE instead
+
+Answer: C
+Explanation: The hierarchy of control requires elimination, substitution or engineering/administrative measures before relying on PPE. Issuing belts alone does not remove or reduce the hazard — it only offers personal protection.
+
+---
+Q45 | Difficulty: Hard
+---
+Question: A new door supervisor has completed basic training but ignores the venue's written search procedure because they "prefer to do it their own way". Which is the MOST important reason this is unacceptable?
+
+A) It may make queues move faster
+B) It breaches the safe system of work and could create safety, legal and customer-service problems
+C) It shows they are confident and independent
+D) It avoids the need for supervision
+
+Answer: B
+Explanation: Safe systems of work (such as SOPs) exist to ensure tasks are carried out safely, legally and consistently. Ignoring them undermines safety and can result in legal, safety or reputational consequences.
+
+================================================================================
+END OF CHAPTER 1.4
+================================================================================

@@ -1,0 +1,590 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 2, CHAPTER 2.6
+INCIDENT RECORDING AND CRIME SCENE PRESERVATION
+================================================================================
+
+YOUR TASK
+---------
+Generate 18 high-quality Multiple Choice Questions (MCQs) for Chapter 2.6 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE EXAM
+--------
+Unit 2: Working as a Door Supervisor
+- 50 multiple choice questions in actual exam
+- 75 minutes duration
+- 70% pass mark (35 correct answers required)
+- This chapter (2.6) is one of 10 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Good incident recording protects the door supervisor, the venue, and 
+supports prosecution of offenders. Poor recording can result in 
+failed prosecutions, successful civil claims, and professional criticism.
+Crime scene preservation ensures evidence is available for police.
+
+================================================================================
+CHAPTER 2.6: INCIDENT RECORDING - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 18
+- Easy (direct recall): 7 questions
+- Medium (application): 7 questions
+- Hard (scenario-based): 4 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.1: WHY RECORD INCIDENTS
+--------------------------------------------------------------------------------
+
+Legal Protection:
+- Evidence of what happened
+- Evidence of your actions
+- Defence against false claims
+- Supports your account in court
+
+Criminal Proceedings:
+- Provides evidence for prosecution
+- Statement for court
+- Refresh memory before testimony
+- Corroborate other evidence
+
+Civil Proceedings:
+- Defence against compensation claims
+- Evidence for venue's defence
+- Employer liability cases
+- Insurance claims
+
+Regulatory Purposes:
+- Licensing authority may require records
+- Demonstrates compliance
+- Evidence of taking reasonable steps
+- Audit trail
+
+Operational Improvements:
+- Identify patterns (when, where, who)
+- Improve procedures
+- Training needs identification
+- Staff briefings
+
+Insurance:
+- Claims for damage
+- Incident evidence
+- Loss documentation
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.2: WHAT TO RECORD
+--------------------------------------------------------------------------------
+
+Essential Information:
+
+DATE AND TIME:
+- When incident occurred
+- When you became aware
+- When actions were taken
+- Be precise (use 24-hour clock)
+
+LOCATION:
+- Specific location within venue
+- Near which feature (bar, dance floor, exit)
+- Address if outside
+
+PEOPLE INVOLVED:
+- Descriptions (detailed)
+- Names if known
+- Role in incident (victim, aggressor, witness)
+- Contact details if obtained
+
+WHAT HAPPENED:
+- Sequence of events
+- Who did what
+- Who said what
+- Chronological order
+
+YOUR OBSERVATIONS:
+- What YOU saw
+- What YOU heard
+- Physical evidence observed
+- Conditions (lighting, noise, crowding)
+
+ACTIONS TAKEN:
+- What you did
+- When you did it
+- Force used (if any)
+- Assistance called
+
+WITNESSES:
+- Names and contact details
+- What they saw
+- Where they were positioned
+
+INJURIES:
+- Who was injured
+- Nature of injuries observed
+- First aid provided
+- Medical attention sought
+
+PROPERTY:
+- Damage caused
+- Items seized
+- Items found
+
+OUTCOME:
+- How incident resolved
+- Police called/attended
+- Ejection/barring
+- Hospital attendance
+
+FOLLOW-UP:
+- Further actions needed
+- Referrals made
+- Management notified
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.3: PRINCIPLES OF GOOD RECORDING
+--------------------------------------------------------------------------------
+
+ACCURATE:
+- Correct facts
+- Precise times
+- Accurate descriptions
+- Verify spellings of names
+
+FACTUAL:
+- What you SAW, not what you think
+- What you HEARD, not interpretation
+- Observable facts only
+- Distinguish fact from opinion
+
+OBJECTIVE:
+- No personal bias
+- No emotional language
+- Fair representation
+- Both sides if relevant
+
+COMPLETE:
+- All relevant information
+- Nothing significant omitted
+- Full picture
+- Sufficient detail
+
+TIMELY:
+- Write as soon as possible
+- While memory is fresh
+- Same shift if possible
+- Don't delay
+
+LEGIBLE:
+- Clear handwriting
+- Or typed/printed
+- Can be read by others
+- Will be read months/years later
+
+PROFESSIONAL:
+- Appropriate language
+- No slang or abbreviations (unless standard)
+- Suitable for court
+- Reflects professionalism
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.4: THE ELBOWS METHOD
+--------------------------------------------------------------------------------
+
+Structured Format for Reports:
+
+E - EVENT:
+- What happened
+- Type of incident
+- Brief summary
+
+L - LOCATION:
+- Where it happened
+- Specific area
+- Address/venue details
+
+B - BROUGHT TO ATTENTION BY:
+- How you became aware
+- Who reported it
+- How it was discovered
+
+O - OBSERVATIONS:
+- What YOU personally saw
+- What YOU personally heard
+- Physical evidence
+- Conditions at scene
+
+W - WITNESSES:
+- Names of witnesses
+- Contact details
+- What they saw
+- Where they were standing
+
+S - SUBJECTS:
+- People involved
+- Full descriptions
+- Names if known
+- Their role in incident
+
+Memory Aid: "Every Little Bit Of Writing Saves"
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.5: WRITING DESCRIPTIONS
+--------------------------------------------------------------------------------
+
+Describe Persons Systematically:
+- Gender
+- Approximate age
+- Ethnicity (if relevant/helpful)
+- Height (approximate)
+- Build (slim, medium, heavy)
+- Hair: colour, length, style
+- Facial hair
+- Facial features
+- Clothing (head to toe)
+- Distinguishing features: tattoos, scars, piercings
+- Items carried
+- Direction of travel
+
+Be Specific:
+- "Blue denim jacket" not "jacket"
+- "Approximately 5'10" not "tall"
+- "Short brown hair" not "brown hair"
+- "Sleeve tattoo left arm" not "tattoos"
+
+Clothing Order (Head to Toe):
+1. Hat/head covering
+2. Jacket/coat
+3. Top/shirt
+4. Trousers/skirt
+5. Footwear
+6. Accessories (watch, jewellery)
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.6: WRITING STATEMENTS
+--------------------------------------------------------------------------------
+
+Format:
+- First person ("I saw...")
+- Chronological order
+- Factual content
+- Professional language
+
+Structure:
+1. Your details (name, role, location)
+2. Background (what you were doing)
+3. How you became aware of incident
+4. What you observed (in order)
+5. Actions you took
+6. Outcome
+
+Writing Style:
+- "At approximately 23:15 hours, I was positioned at the main entrance..."
+- "I saw a male, described as..."
+- "I heard him say..."
+- "I then..."
+
+Do NOT:
+- Guess or assume
+- Include hearsay (unless clearly labelled)
+- Include opinions
+- Exaggerate or minimise
+- Use emotional language
+
+Sign and Date:
+- Sign at the end
+- Date when written
+- Note if written later than incident date
+
+Corrections:
+- Do not use correction fluid
+- Cross out with single line
+- Initial the correction
+- Don't obliterate original text
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.7: CRIME SCENE PRESERVATION
+--------------------------------------------------------------------------------
+
+Why Preserve the Scene:
+- Evidence for police investigation
+- Forensic examination
+- Photography
+- Witness identification
+- Reconstruction of events
+
+Immediate Actions:
+- Protect the area
+- Prevent people entering
+- Don't touch or move anything
+- Note what scene looks like
+
+Cordon if Possible:
+- Use barriers/tape if available
+- Ask people to stay back
+- Position colleagues to guard
+- Create clear boundary
+
+Do NOT:
+- Touch or move items (unless for safety)
+- Clean up blood or mess
+- Pick up weapons
+- Move furniture back
+- Let people walk through
+
+Only Touch if Necessary for Safety:
+- Moving injured person
+- Making area safe
+- If you do touch, note what and why
+
+What to Preserve:
+- Weapons
+- Broken glass
+- Blood/body fluids
+- Clothing
+- Personal items
+- Position of furniture
+- Anything related to incident
+
+Document the Scene:
+- Note original positions
+- What was where
+- Take photos if possible (don't touch)
+- Note any changes made
+
+CCTV Preservation:
+- Note relevant times and cameras
+- Inform management immediately
+- Ensure footage is saved/backed up
+- Systems may overwrite after set period
+- Police will need to seize
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.8: EVIDENCE HANDLING
+--------------------------------------------------------------------------------
+
+Minimum Handling:
+- Touch as little as possible
+- Use gloves if available
+- Handle by edges
+- Don't contaminate
+
+Chain of Custody:
+- Who had the item
+- When they had it
+- Where it was stored
+- Who it was given to
+- Document every transfer
+
+Documentation:
+- What was found
+- Where exactly it was found
+- When it was found
+- Who found it
+- Who it was given to
+- How it was stored
+
+Secure Storage:
+- Locked location
+- Limited access
+- Temperature appropriate
+- Documented
+
+Handover to Police:
+- Provide to police as soon as possible
+- Get receipt/reference number
+- Note officer's name/number
+- Document the handover
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.9: WITNESS MANAGEMENT
+--------------------------------------------------------------------------------
+
+Identify Witnesses:
+- Who saw what happened
+- Get names and contact details
+- Mobile numbers
+- Email addresses
+
+Ask Them to Stay:
+- If willing
+- While police are called
+- Or until statement taken
+- Don't force them
+
+Keep Witnesses Separate:
+- Prevent them discussing incident
+- Each account should be independent
+- Prevent "group memory"
+- Reduces contamination of evidence
+
+Don't Discuss Details:
+- Don't tell them what you saw
+- Don't suggest what happened
+- Let them give own account
+- Don't lead them
+
+Direct to Police:
+- Point out witnesses to police on arrival
+- Provide contact details
+- Explain what you understand they saw
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.10: COMMON RECORDING MISTAKES
+--------------------------------------------------------------------------------
+
+Mistakes to Avoid:
+
+Waiting Too Long:
+- Memory fades quickly
+- Details forgotten
+- Other events confuse memory
+- Write same shift
+
+Recording Opinion:
+- "He was being aggressive" (opinion)
+- "He raised his fist and shouted" (fact)
+- Describe what you saw/heard
+
+Missing Details:
+- Incomplete descriptions
+- Missing times
+- Missing witnesses
+- Vague locations
+
+Illegible Writing:
+- Can't be read later
+- Useless for court
+- Print clearly or type
+
+Using Jargon:
+- Court may not understand
+- Use plain English
+- Explain abbreviations
+
+Not Preserving Scene:
+- Cleaning up before police arrive
+- Moving items
+- Letting people contaminate
+
+Losing Evidence:
+- Not securing items
+- No chain of custody
+- Items lost or contaminated
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 18
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 7 questions (40%)
+- Medium (application): 7 questions (40%)
+- Hard (scenario-based): 4 questions (20%)
+
+TOPICS TO COVER:
+□ Reasons for recording (2-3 questions)
+□ What to record (2-3 questions)
+□ ELBOWS method (3-4 questions)
+□ Writing descriptions (2-3 questions)
+□ Statement writing (2-3 questions)
+□ Crime scene preservation (2-3 questions)
+□ Evidence handling (2-3 questions)
+□ Witness management (1-2 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic door supervisor scenarios
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.6: INCIDENT RECORDING AND CRIME SCENE PRESERVATION
+================================================================================
+
+Question 1 [Easy]
+In the ELBOWS method for incident reporting, what does the 'O' stand for?
+
+A) Offenders
+B) Observations
+C) Outcomes
+D) Officers
+
+Correct Answer: B
+
+Explanation: In ELBOWS, the 'O' stands for Observations - what you personally 
+saw and heard. ELBOWS stands for: Event, Location, Brought to attention by, 
+Observations, Witnesses, Subjects.
+
+---
+
+[Continue for all 18 questions]
+
+================================================================================
+END OF CHAPTER 2.6 QUESTIONS
+================================================================================
+
+Total Questions: 18
+- Easy: 7
+- Medium: 7
+- Hard: 4
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+ELBOWS:
+- Event
+- Location
+- Brought to attention by
+- Observations
+- Witnesses
+- Subjects
+
+PRINCIPLES:
+- Accurate, Factual, Objective
+- Complete, Timely, Legible
+- Professional
+
+RECORDING:
+- Record what you SAW and HEARD
+- NOT opinions or assumptions
+- Write as soon as possible
+
+CRIME SCENE:
+- Do NOT touch or move items
+- Cordon the area
+- Preserve CCTV footage
+- Document original positions
+
+WITNESSES:
+- Keep witnesses SEPARATE
+- Don't discuss incident with them
+- Get contact details
+
+COMMON DISTRACTORS:
+- Include your opinion of what happened (wrong - facts only)
+- Clean up scene before police arrive (wrong - preserve it)
+- Let witnesses discuss to get story straight (wrong - keep separate)
+
+================================================================================
+END OF PROMPT
+================================================================================

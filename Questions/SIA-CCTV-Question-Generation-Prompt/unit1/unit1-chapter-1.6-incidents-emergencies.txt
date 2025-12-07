@@ -1,0 +1,770 @@
+================================================================================
+SIA CCTV OPERATOR - UNIT 1, CHAPTER 1.6
+RECOGNISING AND RESPONDING TO INCIDENTS AND EMERGENCIES
+================================================================================
+
+YOUR TASK
+---------
+Generate 25 high-quality Multiple Choice Questions (MCQs) for Chapter 1.6 of 
+the SIA CCTV Operator (Public Space Surveillance) Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 6-7 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 2 Award for Working as a CCTV Operator (Public Space Surveillance)
+- Regulates operators monitoring CCTV in public spaces
+- Control room based work
+- Town centre schemes, transport hubs, retail environments
+
+THE EXAM
+--------
+Unit 1: Working in the Private Security Industry
+- 40 multiple choice questions in actual exam
+- 60 minutes duration
+- 70% pass mark (28 correct answers required)
+- This chapter (1.6) is one of 6 chapters in Unit 1
+
+WHY THIS CHAPTER MATTERS
+------------------------
+CCTV operators are often the first to observe emergencies - fires, medical
+emergencies, serious incidents, and potential terrorist attacks. Knowing
+how to recognise these situations and coordinate an appropriate response
+can save lives. While operators rarely attend scenes, their actions in
+alerting and directing responders are critical.
+
+================================================================================
+CHAPTER 1.6: INCIDENTS AND EMERGENCIES - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 25
+- Easy (direct recall): 10 questions
+- Medium (application): 10 questions
+- Hard (scenario-based): 5 questions
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.1: FIRE SAFETY FUNDAMENTALS
+--------------------------------------------------------------------------------
+
+The Fire Triangle:
+- HEAT - energy to start combustion
+- FUEL - material that burns
+- OXYGEN - air to sustain fire
+- Remove any one = fire goes out
+
+Fire Development Stages:
+1. IGNITION - fire starts
+2. GROWTH - fire spreads
+3. FULLY DEVELOPED - maximum intensity
+4. DECAY - fuel consumed, fire dies
+
+Classes of Fire:
+
+CLASS A - Ordinary Combustibles:
+- Paper, wood, textiles, plastics
+- Most common type
+- Water extinguisher effective
+
+CLASS B - Flammable Liquids:
+- Petrol, oil, paints, solvents
+- Do NOT use water
+- Foam or CO2 extinguisher
+
+CLASS C - Flammable Gases:
+- Propane, butane, natural gas
+- Isolate supply
+- Dry powder extinguisher
+
+CLASS D - Flammable Metals:
+- Magnesium, aluminium, titanium
+- Specialist extinguisher only
+- Rare in public spaces
+
+CLASS F - Cooking Oils/Fats:
+- Kitchen fires
+- Wet chemical extinguisher
+- Never use water
+
+ELECTRICAL:
+- Not a class but a hazard
+- Isolate power if safe
+- CO2 extinguisher
+- No water
+
+Fire Extinguisher Types and Colours:
+
+WATER (Red):
+- Class A only
+- NOT electrical, liquids, metals
+- Cooling effect
+
+FOAM (Cream):
+- Class A and B
+- Smothering effect
+- Some electrical risk
+
+CO2 (Black):
+- Class B and electrical
+- Displaces oxygen
+- No residue
+- Gets very cold
+
+DRY POWDER (Blue):
+- Multi-purpose (A, B, C)
+- Messy residue
+- Can obscure vision
+- Not for enclosed spaces
+
+WET CHEMICAL (Yellow):
+- Class F (cooking fires)
+- Creates film
+- Kitchen use
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.2: FIRE RESPONSE FOR CCTV OPERATORS
+--------------------------------------------------------------------------------
+
+Observing Fire on CCTV:
+- Smoke visible first often
+- Flames may be visible
+- People running/evacuating
+- Emergency services arriving
+
+CCTV Operator Response:
+
+1. ALERT IMMEDIATELY:
+   - Call Fire Service (999)
+   - Alert security on site
+   - Notify supervisor
+
+2. PROVIDE INFORMATION:
+   - Exact location
+   - What is burning (if known)
+   - Access routes
+   - People affected
+
+3. MONITOR AND UPDATE:
+   - Track fire spread
+   - Watch evacuation
+   - Guide emergency services
+   - Record events
+
+4. PRESERVE EVIDENCE:
+   - Mark footage for retention
+   - Note relevant cameras
+   - May help investigation
+
+Control Room Evacuation:
+- Know your evacuation route
+- Assembly point location
+- Don't delay leaving if alarm
+- Follow procedures
+- Report to supervisor
+
+Control Room Fire Risks:
+- Electrical equipment
+- Overloaded sockets
+- Blocked exits
+- Poor housekeeping
+- Smoking materials
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.3: FIRST AID AWARENESS
+--------------------------------------------------------------------------------
+
+Note: CCTV operators observe emergencies, they don't usually attend. But 
+understanding first aid helps them:
+- Recognise emergencies
+- Provide information to responders
+- Understand urgency
+- Know what responders need to know
+
+DR ABC Primary Survey:
+
+D - DANGER:
+- Check for danger
+- Don't become a casualty
+- CCTV can help identify dangers
+
+R - RESPONSE:
+- Is casualty responsive?
+- Can you see them responding?
+- Movement, reaction
+
+A - AIRWAY:
+- Is airway clear?
+- Position of casualty
+- Obstructions visible
+
+B - BREATHING:
+- Are they breathing?
+- Chest movement
+- Signs of distress
+
+C - CIRCULATION:
+- Signs of bleeding
+- Skin colour
+- Movement
+
+Medical Emergencies to Recognise on CCTV:
+
+COLLAPSE:
+- Person falls suddenly
+- Doesn't get up
+- Unresponsive
+- Immediate 999 call
+
+SUSPECTED HEART ATTACK:
+- Clutching chest
+- Distress
+- Collapse
+- Time critical
+
+STROKE (FAST):
+- F - Face drooping
+- A - Arm weakness
+- S - Speech problems
+- T - Time to call 999
+
+SERIOUS INJURY:
+- Major bleeding visible
+- Obvious trauma
+- Person not moving
+- Emergency response needed
+
+CHOKING:
+- Clutching throat
+- Unable to speak
+- Distress
+- May need direction to helpers
+
+SEIZURE:
+- Uncontrolled movements
+- Falls to ground
+- May injure themselves
+- Note start time
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.4: CALLING EMERGENCY SERVICES
+--------------------------------------------------------------------------------
+
+When to Call 999:
+- Life-threatening emergency
+- Serious crime in progress
+- Fire
+- Serious injury
+- Immediate response needed
+
+Information to Provide:
+
+1. SERVICE NEEDED:
+   - Police, Fire, Ambulance
+   - May need multiple
+
+2. LOCATION:
+   - Exact address
+   - Landmarks
+   - Camera reference for your records
+   - Access points
+
+3. WHAT IS HAPPENING:
+   - Nature of emergency
+   - Fire/medical/crime
+   - How many involved
+   - Ongoing or concluded
+
+4. DESCRIPTION (if crime):
+   - Suspects
+   - Direction of travel
+   - Weapons
+   - Vehicles
+
+5. ANY HAZARDS:
+   - Chemicals
+   - Weapons
+   - Violence
+   - Access issues
+
+Stay on Line:
+- May be asked to stay on line
+- Updates may be needed
+- Caller can be transferred
+- Don't hang up unless told
+
+When to Call 101:
+- Non-emergency police matters
+- Report crime not in progress
+- Information/intelligence
+- General enquiries
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.5: THE RECOVERY POSITION
+--------------------------------------------------------------------------------
+
+What is Recovery Position:
+- Safe position for unconscious casualty
+- Who IS breathing
+- Keeps airway clear
+- Prevents choking on vomit
+
+Why CCTV Operators Need to Know:
+- Can direct helpers on scene
+- Recognise when used correctly
+- Understand urgency
+- Communicate with responders
+
+Basic Recovery Position:
+- Casualty on their side
+- Head tilted back
+- Airway clear
+- Mouth pointing down
+- Stable position
+
+When to Use:
+- Unconscious but breathing
+- Not safe to leave on back
+- Waiting for help
+- After seizure (once stopped)
+
+When NOT to Use:
+- Suspected spinal injury
+- Not breathing (needs CPR)
+- Serious injury to side
+- When other treatment priority
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.6: CPR AWARENESS
+--------------------------------------------------------------------------------
+
+What is CPR:
+- Cardiopulmonary Resuscitation
+- Chest compressions
+- Rescue breaths (optional now for untrained)
+- Keeps blood/oxygen circulating
+
+When CPR is Needed:
+- Casualty not breathing normally
+- Unresponsive
+- No pulse (trained can check)
+
+CPR Key Points:
+
+COMPRESSIONS:
+- Centre of chest
+- Push hard and fast
+- About 5-6cm depth
+- 100-120 per minute
+- Minimal interruptions
+
+RESCUE BREATHS:
+- 30 compressions : 2 breaths
+- Or compression-only CPR
+- Tilt head, lift chin
+- Watch chest rise
+
+CCTV Operator Role:
+- Call 999 immediately
+- Direct helpers to casualty
+- Note time CPR started
+- Watch for AED arrival
+- Guide emergency services in
+
+AED (Automated External Defibrillator):
+- Device that shocks heart
+- Public access in many locations
+- CCTV can help locate
+- Follow voice prompts
+- Can be used by public
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.7: SERIOUS BLEEDING
+--------------------------------------------------------------------------------
+
+Recognising Serious Bleeding on CCTV:
+- Pool of blood forming
+- Spurting blood (arterial)
+- Casualty collapsing
+- Others reacting
+
+How to Help (for helpers on scene):
+
+APPLY PRESSURE:
+- Direct pressure on wound
+- Use clean material
+- Press firmly
+- Don't remove
+
+ELEVATE:
+- Raise injured limb
+- Above heart level
+- If possible
+
+CALL 999:
+- Serious bleeding = emergency
+- Blood loss can be fatal
+- Time critical
+
+CCTV Operator Role:
+- Alert ambulance immediately
+- Give exact location
+- Describe severity
+- Monitor until help arrives
+- Record footage
+
+What NOT to Do:
+- Don't apply tourniquet unless trained
+- Don't remove embedded objects
+- Don't give food/water
+- Don't move if spinal injury possible
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.8: BOMB THREATS AND SUSPICIOUS PACKAGES
+--------------------------------------------------------------------------------
+
+Why CCTV Operators Need This Knowledge:
+- May receive threats (telephone)
+- May observe suspicious behaviour
+- May spot suspicious packages
+- Critical role in response
+
+If Bomb Threat Received (phone):
+
+STAY CALM:
+- Let caller talk
+- Don't interrupt
+- Listen carefully
+
+GATHER INFORMATION:
+- When will it explode?
+- Where is it?
+- What does it look like?
+- Why are you doing this?
+- Who are you?
+
+NOTE DETAILS:
+- Exact words used
+- Caller's voice (accent, age, gender)
+- Background noise
+- Time of call
+- Caller ID if available
+
+REPORT IMMEDIATELY:
+- Supervisor
+- Police
+- Don't discuss widely
+
+Suspicious Packages - Signs:
+- Unexpected delivery
+- No return address
+- Excessive postage
+- Misspelled addresses
+- Unusual weight/shape
+- Oily stains or odours
+- Wires or batteries visible
+- Ticking sounds
+
+If Suspicious Package on CCTV:
+- Alert police immediately
+- Note location precisely
+- Do NOT approach
+- Monitor but keep cameras rolling
+- Support evacuation if ordered
+
+HOT Protocol for Suspicious Items:
+- H - Has it been hidden?
+- O - Is it obviously suspicious?
+- T - Is it typical for location?
+
+If answer suggests threat = report
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.9: COUNTER-TERRORISM AWARENESS
+--------------------------------------------------------------------------------
+
+ACT Awareness:
+- Action Counters Terrorism
+- Public awareness campaign
+- Security industry training
+- Reporting suspicious activity
+
+What to Report:
+
+SUSPICIOUS BEHAVIOUR:
+- Photographing security measures
+- Testing security responses
+- Asking unusual questions
+- Making notes on security
+- Dry runs/rehearsals
+
+SUSPICIOUS VEHICLES:
+- Parked in unusual locations
+- Left unattended
+- Heavy load
+- Blocked windows
+- Monitoring locations
+
+SUSPICIOUS PEOPLE:
+- Nervous behaviour
+- Inappropriate clothing (heavy in summer)
+- Avoiding security
+- Observing without clear purpose
+
+Run, Hide, Tell:
+
+RUN:
+- Escape if possible
+- Leave belongings
+- Don't use lifts
+- Encourage others
+
+HIDE:
+- If can't run
+- Lock/barricade doors
+- Move away from doors
+- Be quiet
+- Turn phone silent
+
+TELL:
+- Call 999 when safe
+- Location
+- What you saw
+- Description of attackers
+
+CCTV Operator Role in Terrorist Incident:
+- Alert police immediately
+- Provide real-time information
+- Track suspects if safe to do so
+- Direct emergency services
+- Preserve all footage
+- Stay calm, stay professional
+
+Marauding Terrorist Attack:
+- Active attackers
+- Multiple locations possible
+- Casualties likely
+- Armed police response
+- CCTV critical for tracking
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.10: MAJOR INCIDENTS
+--------------------------------------------------------------------------------
+
+What is a Major Incident:
+- Exceeds normal response capability
+- Significant casualties
+- Large-scale emergency
+- Requires coordinated response
+
+Types of Major Incidents:
+- Terrorist attacks
+- Major fires
+- Building collapse
+- Transport accidents
+- Chemical incidents
+- Public disorder
+
+CCTV Operator Role:
+- Critical information source
+- Real-time intelligence
+- Direct resources
+- Evidence preservation
+- Coordination support
+
+Priorities:
+1. Raise alarm/alert emergency services
+2. Provide information
+3. Monitor situation
+4. Preserve footage
+5. Support coordination
+6. Maintain own safety
+
+Communication Challenges:
+- Radio/phone may be overwhelmed
+- Multiple agencies involved
+- Changing situation
+- Stress and pressure
+- Information overload
+
+Aftermath:
+- Footage is evidence
+- Police investigation
+- Inquests/inquiries
+- May be witness
+- Debriefing and support
+
+Post-Incident Support:
+- Traumatic events affect staff
+- Debriefing available
+- Counselling if needed
+- Don't struggle alone
+- Recognise stress reactions
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 25
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 10 questions (40%)
+- Medium (application): 10 questions (40%)
+- Hard (scenario-based): 5 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 6-7 questions
+- Correct answer B: 6-7 questions
+- Correct answer C: 6-7 questions
+- Correct answer D: 6-7 questions
+
+TOPICS TO COVER:
+□ Fire triangle and classes of fire (3-4 questions)
+□ Fire extinguisher types (3-4 questions)
+□ Fire response for CCTV operators (2-3 questions)
+□ First aid awareness - DR ABC (2-3 questions)
+□ Medical emergencies recognition (2-3 questions)
+□ Calling emergency services (2-3 questions)
+□ Recovery position / CPR awareness (2-3 questions)
+□ Bomb threats and suspicious packages (3-4 questions)
+□ Counter-terrorism / Run Hide Tell (3-4 questions)
+□ Major incidents (1-2 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. CCTV control room scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 1, CHAPTER 1.6: RECOGNISING AND RESPONDING TO INCIDENTS AND EMERGENCIES
+================================================================================
+
+Question 1 [Easy]
+What are the three elements of the fire triangle?
+
+A) Heat, fuel, and oxygen
+B) Smoke, flames, and sparks
+C) Wood, paper, and electricity
+D) Ignition, growth, and decay
+
+Correct Answer: A
+
+Explanation: The fire triangle consists of heat, fuel, and oxygen. These 
+three elements must be present for a fire to start and continue burning. 
+Removing any one of these elements will extinguish the fire. CCTV operators 
+should understand this to recognise fire development on cameras.
+
+---
+
+[Continue for all 25 questions]
+
+================================================================================
+END OF CHAPTER 1.6 QUESTIONS
+================================================================================
+
+Total Questions: 25
+- Easy: 10
+- Medium: 10
+- Hard: 5
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+FIRE TRIANGLE:
+- Heat
+- Fuel  
+- Oxygen
+
+FIRE EXTINGUISHER COLOURS:
+- Water = Red (Class A only)
+- Foam = Cream (A and B)
+- CO2 = Black (B and electrical)
+- Dry Powder = Blue (A, B, C)
+- Wet Chemical = Yellow (Class F)
+
+CLASSES OF FIRE:
+- A = Ordinary combustibles (paper, wood)
+- B = Flammable liquids
+- C = Flammable gases
+- D = Flammable metals
+- F = Cooking oils/fats
+
+DR ABC:
+- Danger
+- Response
+- Airway
+- Breathing
+- Circulation
+
+STROKE - FAST:
+- Face drooping
+- Arm weakness
+- Speech problems
+- Time to call 999
+
+RUN HIDE TELL:
+- Run if possible
+- Hide if can't run
+- Tell police when safe
+
+HOT PROTOCOL:
+- Hidden?
+- Obviously suspicious?
+- Typical for location?
+
+RECOVERY POSITION:
+- Unconscious but breathing
+- On side, airway clear
+
+COMMON DISTRACTORS:
+- Water on electrical fires (wrong - use CO2)
+- Water on chip pan fires (wrong - wet chemical)
+- Foam extinguisher is blue (wrong - cream)
+- Recovery position for not breathing (wrong - needs CPR)
+- Run first in bomb threat (wrong - assess situation)
+
+================================================================================
+CCTV-SPECIFIC SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "A CCTV operator observes smoke coming from a building..."
+- "While monitoring the town centre, a person collapses on screen..."
+- "The control room receives a telephone bomb threat..."
+- "A CCTV operator notices a suspicious package on camera..."
+- "During monitoring, an operator observes what appears to be a stabbing..."
+- "The fire alarm sounds in the control room..."
+- "A CCTV operator sees someone behaving suspiciously near a crowded area..."
+- "When observing a serious road traffic accident on CCTV..."
+
+================================================================================
+END OF PROMPT
+================================================================================

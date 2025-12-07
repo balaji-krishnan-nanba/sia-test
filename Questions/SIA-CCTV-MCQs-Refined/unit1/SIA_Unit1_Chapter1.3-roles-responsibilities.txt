@@ -1,0 +1,230 @@
+================================================================================
+UNIT 1, CHAPTER 1.3: ROLES AND RESPONSIBILITIES
+Question 1 [Easy]
+Where does a public space CCTV operator normally carry out most of their duties?
+A) On a foot patrol of the town centre
+B) In a control room monitoring screens and communications
+C) On the door of a licensed venue checking ID
+D) Driving a mobile patrol vehicle
+Correct Answer: B
+Explanation: CCTV operators are remote observers based in a control room, using multiple monitors and communications systems. They are not usually patrolling or working at the front line with the public.
+
+Question 2 [Easy]
+What is the MAIN way a CCTV operator helps protect the public?
+A) By patrolling the streets and physically challenging suspicious people
+B) By carrying out searches of people and bags
+C) By monitoring cameras and passing timely, accurate information to those who can respond
+D) By issuing fixed penalty notices to offenders at the scene
+Correct Answer: C
+Explanation: The CCTV operator’s power is information. They protect the public by spotting incidents early on camera and directing police or other responders with accurate information, not by physical intervention or enforcement.
+
+Question 3 [Easy]
+Which of the following is a key responsibility of a CCTV operator?
+A) Accurately recording incidents and actions in the incident log
+B) Conducting personal searches of members of the public
+C) Deciding which suspects should be prosecuted
+D) Authorising entry into private premises
+Correct Answer: A
+Explanation: Accurate documentation is a core part of the CCTV operator role, helping to preserve evidence and demonstrate accountability. Detaining, searching or deciding on prosecutions are not part of their role.
+
+Question 4 [Easy]
+What is meant by a CCTV operator’s “duty of care”?
+A) Doing whatever your manager tells you, even if it seems unsafe
+B) Helping colleagues but not needing to consider the public
+C) A voluntary guideline to assist emergency services if you have time
+D) A legal and moral obligation to act with reasonable care towards people who may be affected by what you do or fail to do
+Correct Answer: D
+Explanation: Duty of care means you must act with reasonable care towards the public, colleagues, your employer and yourself. Failing to act when you should, or acting negligently, can breach this duty and may have legal consequences.
+
+Question 5 [Medium]
+While monitoring the town centre, you see a person suddenly collapse and lie motionless on the pavement. What is the MOST appropriate action to fulfil your duty of care?
+A) Note the time in the log but wait to see if someone else helps
+B) Immediately alert ambulance control or your radio contact, giving exact location and description, and continue to monitor the scene
+C) Rewind the footage to see what happened before the collapse and deal with it later
+D) Do nothing because you are not medically trained
+Correct Answer: B
+Explanation: Duty of care requires prompt action. The operator should quickly alert the appropriate emergency service and provide accurate information, while continuing to monitor. Simply watching, delaying, or doing nothing fails that duty.
+
+Question 6 [Hard]
+During a busy afternoon shift you notice an elderly person on camera who appears confused and is wandering close to a busy main road. No crime is taking place and your supervisor earlier said, “Just focus on crime today, we’re short staffed.” What should you do to BEST meet your duty of care?
+A) Ignore the situation because it is not crime-related
+B) Zoom out from the camera so you are not distracted
+C) Continue to monitor the person and promptly alert appropriate responders (such as police, street wardens or control) that a vulnerable person may be at risk
+D) Call the person directly using a public address system and tell them to go home immediately
+Correct Answer: C
+Explanation: Duty of care includes protecting vulnerable persons and not ignoring obvious risks. The operator should continue to observe and alert suitable responders. Giving direct instructions to the public or ignoring the situation would not be appropriate.
+
+Question 7 [Easy]
+Which example BEST shows a CCTV operator meeting professional appearance standards in the control room?
+A) Wearing clean, appropriate clothing or uniform with SIA licence/ID clearly displayed
+B) Wearing a football shirt and trainers as long as no member of the public visits the room
+C) Keeping a coat over the chair so your SIA licence is not visible
+D) Wearing headphones and a hoodie so you can concentrate on the screens
+Correct Answer: A
+Explanation: Professional standards require a clean, presentable appearance and visible ID/licence. Informal or obscured dress damages the professional image expected of CCTV operators.
+
+Question 8 [Medium]
+After a serious incident in the town centre, your friend messages you: “You were on the cameras – what actually happened? Send me a clip!” To maintain professional standards, what should you do?
+A) Send your friend a short clip privately as long as they promise not to share it
+B) Tell them basic details and say you will show them the footage after your shift
+C) Post a still image from the incident on your personal social media, but blur the faces
+D) Explain that you cannot discuss or share CCTV footage and refer them to official police or council information
+Correct Answer: D
+Explanation: Confidentiality is critical. CCTV images must not be shared with unauthorised people or on social media. The professional response is to refuse to share and direct them to official channels.
+
+Question 9 [Medium]
+You arrive 15 minutes late for your control-room shift, meaning some cameras were not monitored and the outgoing operator could not give a proper handover. Which professional standard have you MOST clearly failed to meet?
+A) Duty of care to yourself
+B) Confidentiality
+C) Punctuality and reliability
+D) Customer service to the police
+Correct Answer: C
+Explanation: Being on time so there is a proper handover and continuous monitoring is a key standard. While poor punctuality can affect service to others, the clearest standard broken here is punctuality and reliability.
+
+Question 10 [Easy]
+Which action is OUTSIDE the normal authority of a CCTV operator?
+A) Observing and recording incidents on camera
+B) Physically detaining a suspected shoplifter in the street
+C) Passing information to police by radio
+D) Providing recorded footage to authorised investigators
+Correct Answer: B
+Explanation: CCTV operators have no special power to detain people. Their role is to observe, record and report, not to physically intervene. Detention is for the police or others with appropriate authority.
+
+Question 11 [Medium]
+While monitoring a fight, a police officer on the radio says, “Can you go outside and help hold that suspect until we arrive?” What is the MOST appropriate response for the CCTV operator?
+A) Explain that you cannot physically intervene, continue monitoring the incident and provide clear, accurate updates to the officer
+B) Leave the control room immediately to help restrain the suspect, leaving the cameras unattended
+C) Lock the control-room door and turn off the monitors until the incident is over
+D) Refuse to help in any way because it is “a police matter”
+Correct Answer: A
+Explanation: The operator must stay within their authority and maintain surveillance. They should not leave the control room to intervene physically, but they should support the police by providing good information.
+
+Question 12 [Hard]
+A new colleague says, “Now we work in the CCTV control room we have more power than ordinary people – we can detain people and demand ID if we need to.” Which reply shows the BEST understanding of your legal authority?
+A) “Yes, we can detain anyone seen committing an offence until the police arrive.”
+B) “We can demand ID, but only if we explain we are CCTV staff.”
+C) “We can search people if we have clear evidence of theft on camera.”
+D) “No, we have NO special legal powers – we only have the same powers as any ordinary member of the public and must work through police and other responders.”
+Correct Answer: D
+Explanation: CCTV operators have no special legal powers. They cannot demand ID, search or detain beyond what any ordinary citizen could legally do. Their role is to observe, record and report.
+
+Question 13 [Easy]
+Who is usually the CCTV operator’s PRIMARY partner when responding to crime and disorder in public spaces?
+A) Local schools
+B) Private taxi firms
+C) The police
+D) Local newspapers
+Correct Answer: C
+Explanation: Police are the main operational partner for CCTV operators, relying on timely, accurate information and evidence from the control room.
+
+Question 14 [Medium]
+You are tracking a suspected thief on camera. A police unit radios: “Control, can you update us?” What information will be MOST useful for the officers?
+A) Your opinion on why the suspect is behaving suspiciously
+B) Clear factual details such as clothing, exact location, direction of travel and anything the suspect is carrying
+C) The suspect’s possible name based on what other staff think
+D) A general comment that the suspect is “somewhere in the town centre”
+Correct Answer: B
+Explanation: Police need precise, factual information to locate and safely deal with suspects. Opinions, guesses and vague locations are far less useful.
+
+Question 15 [Medium]
+From the control room you see smoke and flames coming from a rubbish bin outside a busy shopping centre. No one appears injured. Which partner should you contact FIRST?
+A) Local authority licensing team
+B) Retail radio scheme
+C) Ambulance service
+D) Fire and rescue service
+Correct Answer: D
+Explanation: A fire is an immediate safety risk. The fire and rescue service should be alerted first so they can respond quickly, while the operator continues to monitor and support other partners as needed.
+
+Question 16 [Easy]
+Which of the following is a common safety control for a lone-working CCTV operator on a night shift?
+A) Turning off external phones so no one can disturb you
+B) Having regular check-in calls or messages with a supervisor or monitoring point
+C) Leaving the control-room door propped open to feel less isolated
+D) Refusing to handle any incidents after midnight
+Correct Answer: B
+Explanation: Lone working procedures usually include regular check-ins and clear communication routes. Propping doors open or refusing incidents increases risk rather than controlling it.
+
+Question 17 [Hard]
+You are alone in the control room on a night shift. Your relief calls to say they are running one hour late and tells you to “just lock up and go, nothing ever happens at this time.” What is the MOST appropriate action, considering lone working and duty of care?
+A) Inform your supervisor or control contact and remain on duty until safe cover or instructions are arranged, even if this means working beyond your scheduled finish time
+B) Lock the control room and leave immediately at your scheduled finish time
+C) Switch off all cameras but leave the lights on so it looks occupied
+D) Open the control-room door so police can walk in if there is a problem
+Correct Answer: A
+Explanation: The control room should not be left unattended without proper authorisation. The operator should escalate the issue and maintain cover until safe arrangements are made, balancing duty of care to the public, colleagues and themselves.
+
+Question 18 [Medium]
+Why is it important for CCTV operators to follow agreed Standard Operating Procedures (SOPs)?
+A) So that each operator can do things in their own preferred way
+B) To avoid having to make any decisions during a shift
+C) To ensure work is carried out consistently, safely and in line with legal and organisational requirements
+D) To reduce the amount of information that has to be recorded
+Correct Answer: C
+Explanation: SOPs support consistent practice, legal compliance, safety and quality. They help show that the system is operated professionally and can be audited if something goes wrong.
+
+Question 19 [Medium]
+You face an unusual situation on camera that is not covered by any current procedure. What is the BEST way to deal with it?
+A) Ignore it, because if it is not in the procedures it is not your responsibility
+B) Make up your own method but do not tell anyone in case it is criticised
+C) Wait until the next team meeting before taking any action
+D) Use your professional judgement to deal with the situation safely, seek guidance from a supervisor where possible, and fully document what you did so procedures can be reviewed
+Correct Answer: D
+Explanation: Procedures cannot cover every situation. Operators should act safely and sensibly, seek guidance, and document their decisions so the organisation can learn and update SOPs if needed.
+
+Question 20 [Easy]
+Which organisation licenses CCTV operators working in public space surveillance within the private security industry?
+A) The Security Industry Authority (SIA)
+B) The Information Commissioner’s Office (ICO)
+C) The Fire and Rescue Service
+D) The Crown Prosecution Service (CPS)
+Correct Answer: A
+Explanation: The SIA is the regulator for the private security industry and issues licences for roles such as CCTV operators. The ICO deals with data protection, not licensing.
+
+Question 21 [Medium]
+Which action BEST demonstrates accountability in the CCTV control room?
+A) Deleting footage quickly to free up space for new recordings
+B) Relying on memory instead of completing written incident logs
+C) Keeping accurate, timely records of incidents and actions taken, creating an audit trail that can be checked
+D) Only telling supervisors about incidents that make you look good
+Correct Answer: C
+Explanation: Accountability is shown through accurate records, audit trails and transparent operations. Logs demonstrate what was done, when and why, and can be reviewed by employers, regulators or courts.
+
+Question 22 [Hard]
+While monitoring a quiet period, you become distracted by a personal text message and miss the start of a serious assault that was visible on one of the cameras. You realise your mistake when police later ask for footage. What is the MOST appropriate way to respond?
+A) Edit the log to pretend you were watching the camera the whole time, so you will not get into trouble
+B) Be honest about what happened, report the lapse to your supervisor, ensure all available footage is preserved and cooperate with any review to prevent it happening again
+C) Delete the footage so no one can see that you missed the incident
+D) Blame a technical fault on the system, even though you know it was working normally
+Correct Answer: B
+Explanation: Accountability means accepting responsibility when things go wrong. The operator must preserve evidence, be honest, report promptly and learn from the mistake. Falsifying records or destroying evidence is unethical and could be illegal.
+
+================================================================================
+END OF CHAPTER 1.3 QUESTIONS
+Total Questions: 22
+
+
+Easy: 9
+
+
+Medium: 9
+
+
+Hard: 4
+
+
+Answer Distribution:
+
+
+Correct answer A: 5 questions
+
+
+Correct answer B: 6 questions
+
+
+Correct answer C: 6 questions
+
+
+Correct answer D: 5 questions
+
+
+================================================================================

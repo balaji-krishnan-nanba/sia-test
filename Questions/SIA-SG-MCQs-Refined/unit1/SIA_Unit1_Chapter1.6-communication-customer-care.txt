@@ -1,0 +1,527 @@
+================================================================================
+UNIT 1, CHAPTER 1.6: COMMUNICATION AND CUSTOMER CARE
+================================================================================
+Meta: Total=40 | Easy=16 | Medium=16 | Hard=8 | A=10 | B=10 | C=10 | D=10
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: In the basic communication model, what is the role of the "receiver"?
+
+A) To obtain and interpret the message
+B) To create the message
+C) To block feedback from the sender
+D) To transmit the message through a channel
+
+Answer: A
+Explanation: In the communication process, the receiver is the person who obtains and interprets the message. The sender creates the message, the channel carries it, and feedback confirms understanding.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which of the following is a PHYSICAL barrier to communication?
+
+A) Using jargon the customer does not understand
+B) Prejudice against a particular group
+C) Loud music making it hard to hear
+D) Assumptions about someone's behaviour
+
+Answer: C
+Explanation: Loud music is a physical barrier because it makes it difficult to hear. Prejudice and assumptions are psychological barriers, while jargon is a semantic barrier.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which of the following best describes "active listening"?
+
+A) Paying full attention, showing you are listening and giving feedback
+B) Waiting for your turn to speak
+C) Giving orders in a clear, firm voice
+D) Repeating exactly what the person has said word-for-word
+
+Answer: A
+Explanation: Active listening involves giving the speaker your full attention, showing you are listening through body language, and providing feedback such as paraphrasing or summarising.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which aspect of communication is MOST strongly linked to emotional meaning in a conversation?
+
+A) Tone of voice
+B) Written notes
+C) Facts being discussed
+D) Length of the conversation
+
+Answer: A
+Explanation: Research suggests that tone of voice conveys a large proportion of emotional meaning in a conversation. How you say something often has more impact than the words themselves.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which type of question is designed to encourage a fuller response and cannot be answered with just "yes" or "no"?
+
+A) Closed question
+B) Leading question
+C) Loaded question
+D) Open question
+
+Answer: D
+Explanation: Open questions invite the person to explain more, often starting with words like "what", "how" or "why". Closed questions are used to confirm specific facts with short answers.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Which of the following is an example of positive phrasing?
+
+A) "Entry isn't available right now."
+B) "That's not allowed so just go away."
+C) "You can't come in."
+D) "Don't do that."
+
+Answer: A
+Explanation: Positive phrasing focuses on what can be done rather than what cannot. "Entry isn't available right now" is calmer and more professional than simply saying "you can't come in".
+
+---
+Q7 | Difficulty: Easy
+---
+Question: What is generally considered an APPROPRIATE level of eye contact in most cultures when speaking to someone?
+
+A) 20–30% of the time
+B) 0–10% of the time
+C) 60–70% of the time
+D) 90–100% of the time
+
+Answer: C
+Explanation: While research suggests 60-70% eye contact is appropriate in many Western contexts, security guards should be aware that appropriate eye contact varies significantly across cultures. The key is maintaining natural, non-threatening eye contact without staring.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which zone of personal space is typically used for business and formal interactions, such as speaking to people at a building entrance?
+
+A) Public zone (3.6m+)
+B) Personal zone (45cm–1.2m)
+C) Intimate zone (0–45cm)
+D) Social zone (1.2m–3.6m)
+
+Answer: D
+Explanation: The social zone of approximately 1.2m–3.6m is normal for business or formal interactions, such as a security guard dealing with people entering a site or building.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which one of the following should incident reports ALWAYS be based on?
+
+A) What you saw and heard
+B) What colleagues think probably happened
+C) Personal opinions
+D) Hearsay and rumours
+
+Answer: A
+Explanation: Incident reports must be factual and objective, based on what you saw and heard, not on opinions, rumours, or assumptions.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: In the ELBOWS format for report writing, what does the "E" stand for?
+
+A) Evidence
+B) Entry
+C) Event
+D) Evaluation
+
+Answer: C
+Explanation: In ELBOWS, the letters stand for Event, Location, Brought to attention by, Observations, Witnesses, and Subjects. "E" is for Event – what happened.
+
+---
+Q11 | Difficulty: Easy
+---
+Question: In radio communication, what does the proword "OVER" mean?
+
+A) End of conversation, no reply expected
+B) I have received and understood your message
+C) Please repeat your last message
+D) I have finished speaking and am awaiting your reply
+
+Answer: D
+Explanation: "Over" means the speaker has finished talking and is waiting for a reply. "Out" ends the conversation, "Roger" means received and understood, and "Say again" means repeat your message.
+
+---
+Q12 | Difficulty: Easy
+---
+Question: Which of the following is GOOD radio discipline for a security guard?
+
+A) Shouting into the radio to be heard
+B) Keeping transmissions brief and to the point
+C) Using the radio for personal chat
+D) Talking over other users on the channel
+
+Answer: B
+Explanation: Good radio discipline includes keeping messages brief, thinking before you speak, and avoiding interrupting others. Radios should not be used for personal conversations.
+
+---
+Q13 | Difficulty: Easy
+---
+Question: Which of the following BEST describes a professional first impression for a security guard?
+
+A) Standing with arms folded and avoiding eye contact
+B) Clean, neat uniform with visible SIA licence
+C) Wearing sunglasses at night and chewing gum
+D) Wearing casual clothing and hiding your SIA licence
+
+Answer: B
+Explanation: A professional first impression includes a clean, neat uniform, visible SIA licence and an approachable manner, which builds customer confidence and trust.
+
+---
+Q14 | Difficulty: Easy
+---
+Question: When communicating with a customer who does not speak English well, which approach is MOST appropriate?
+
+A) Speak slowly using simple words and avoid idioms
+B) Ignore them and move on to another customer
+C) Use slang and local expressions
+D) Speak much louder so they will understand
+
+Answer: A
+Explanation: For non-English speakers, speak slowly and clearly using simple words. Avoid slang, idioms and complex language. Raising your voice will not help them understand and may seem rude.
+
+---
+Q15 | Difficulty: Easy
+---
+Question: Which of the following is an early body language indicator that someone may be becoming aggressive?
+
+A) Looking away and stepping back
+B) Smiling and nodding
+C) Relaxed shoulders and open posture
+D) Clenching fists and tightening the jaw
+
+Answer: D
+Explanation: Early signs of potential aggression include clenched fists, a tightened jaw, staring and moving into someone's personal space. Recognising these signs allows early de-escalation.
+
+---
+Q16 | Difficulty: Easy
+---
+Question: When should an incident report ideally be completed?
+
+A) As soon as possible after the incident
+B) At the end of the week
+C) Only if the police ask for it
+D) The next time you are on shift
+
+Answer: A
+Explanation: Incident reports should be completed as soon as possible after the incident while details are still fresh in the mind, helping accuracy and reliability.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: A customer is complaining angrily about the queue time. Using the HEAT model, what is the FIRST thing you should do?
+
+A) Pass them straight to your manager
+B) Hear them out without interrupting
+C) Tell them to calm down and stop shouting
+D) Apologise immediately and offer them compensation or a discount
+
+Answer: B
+Explanation: The HEAT model starts with Hear – you allow the customer to explain the problem without interrupting, showing that you are listening before empathising, apologising and taking action.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: You are speaking to a visually impaired visitor at the entrance to an office building. Which approach is MOST appropriate?
+
+A) Shout instructions so they know where to go
+B) Identify yourself and offer your arm if they want assistance
+C) Speak to their companion rather than to them directly
+D) Take hold of their arm and pull them into the building
+
+Answer: B
+Explanation: With visually impaired customers, you should identify yourself, speak directly to them and offer your arm so they can choose whether to accept assistance. You should not pull or push them.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: A colleague reports an incident to you and you later write the incident report. Which of the following statements is MOST appropriate to include in your report?
+
+A) "I saw the male punch another customer once to the face."
+B) "He looked like he was about to attack."
+C) "The male was obviously a troublemaker."
+D) "I think he was drunk and aggressive."
+
+Answer: A
+Explanation: Reports must be factual and based on what you actually saw and heard. Statement C is a clear, factual observation. The others include opinions, assumptions or vague language.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: You need to check a name over the radio and it is unclear. What is the BEST way to spell it?
+
+A) "That's J, Apple, Mouse, Ear, Snake."
+B) "That's J, A, M, E, S."
+C) "Just James, you know, like the name."
+D) "That's J for Juliet, A for Alpha, M for Mike, E for Echo, S for Sierra."
+
+Answer: D
+Explanation: The phonetic alphabet (Juliet, Alpha, Mike, Echo, Sierra) is used in radio communications to avoid confusion when spelling names or other important words.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: A group arrives at a site and one person appears intoxicated. When you speak to them, what communication style is MOST appropriate?
+
+A) Long, detailed explanations using complex language
+B) Fast, loud instructions to keep them moving
+C) Short, simple sentences, spoken calmly and clearly
+D) Sarcastic jokes to keep the mood light
+
+Answer: C
+Explanation: Intoxicated people may have slower processing and impaired judgement. Short, simple sentences delivered calmly help them understand your instructions and reduce the risk of conflict.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: You are refusing entry because the site is at capacity. Which response uses positive, professional phrasing?
+
+A) "I'm sorry, entry isn't available right now as we're at capacity."
+B) "I don't make the rules, it's not my problem."
+C) "No entry, go somewhere else."
+D) "You can't come in, we're full."
+
+Answer: A
+Explanation: Positive, professional phrasing gives a clear reason and remains polite: "entry isn't available right now as we're at capacity" is firm but respectful and avoids blaming others.
+
+---
+Q23 | Difficulty: Medium
+---
+Question: You notice a customer's arms are tightly folded, shoulders raised and their body turned slightly away from you. What does this body language MOST likely indicate?
+
+A) Defensiveness or discomfort
+B) Agreement with what you are saying
+C) Relaxation and trust
+D) Interest and engagement
+
+Answer: A
+Explanation: Closed posture, such as folded arms, raised shoulders and turning away, usually indicates defensiveness, discomfort or lack of openness. Being aware of this helps you adjust your approach.
+
+---
+Q24 | Difficulty: Medium
+---
+Question: You have given clear instructions to a customer during an evacuation. Which of the following is the BEST way to check that they have understood you?
+
+A) Ask them to repeat back the key instructions in their own words.
+B) Assume they understood because they nodded once.
+C) Ask, "Do you understand?" and move on if they say "yes".
+D) Repeat the same words again, more loudly.
+
+Answer: A
+Explanation: Asking the person to repeat back the main points in their own words is an effective way to confirm understanding and allows you to correct any misunderstandings.
+
+---
+Q25 | Difficulty: Medium
+---
+Question: You need to communicate with an elderly customer who seems confused and is struggling to follow what you say. Which is the MOST appropriate approach?
+
+A) Ask another customer to explain it for you
+B) Ignore their confusion and focus on the queue
+C) Speak faster to get through the explanation quickly
+D) Use simple language and give them extra time to respond
+
+Answer: D
+Explanation: Elderly customers may process information more slowly. Using simple, clear language and allowing extra time shows respect and helps ensure they understand what is happening.
+
+---
+Q26 | Difficulty: Medium
+---
+Question: During a dispute, a customer steps very close to you, stares intensely and their voice becomes louder. What should you MOST appropriately do?
+
+A) Step closer and raise your voice in return
+B) Step back slightly to create space and speak calmly
+C) Push them away immediately
+D) Turn your back to show you are not intimidated
+
+Answer: B
+Explanation: Invading personal space and raising the voice are signs of potential aggression. Stepping back to a safer distance and keeping a calm tone can help de-escalate the situation while maintaining safety.
+
+---
+Q27 | Difficulty: Medium
+---
+Question: You receive a radio message but do not fully hear the details because of background noise. What is the correct proword to use?
+
+A) "Over"
+B) "Roger"
+C) "Say again"
+D) "Out"
+
+Answer: C
+Explanation: "Say again" is the correct proword to request that the sender repeats all or part of the last message. "Roger" means you have understood, so you should not use it if you did not hear properly.
+
+---
+Q28 | Difficulty: Medium
+---
+Question: A customer complains that one of your colleagues was rude. What is the MOST professional way to respond?
+
+A) Agree and say, "Yes, he's like that with everyone."
+B) Tell them to complain online instead.
+C) Tell them they must have misunderstood your colleague.
+D) Listen, thank them for raising it, and say you'll pass it to management.
+
+Answer: D
+Explanation: You should listen without taking sides, thank the customer for their feedback, and explain that you will pass the complaint to management. You should not criticise your colleague or dismiss the concern.
+
+---
+Q29 | Difficulty: Hard
+---
+Question: You are escorting a customer off the premises for fighting. They are angry but currently co-operating and walking out. Which communication approach is MOST appropriate to maintain safety and professionalism?
+
+A) Ignore them completely and say nothing
+B) Calmly explain why they are being removed and what will happen next
+C) Mock them to show you are in control
+D) Continue arguing with them about who started the fight
+
+Answer: B
+Explanation: When escorting someone off the premises, you should remain calm, professional and clear. Explaining why they are being removed and what will happen next helps manage expectations and reduces the risk of escalation.
+
+---
+Q30 | Difficulty: Hard
+---
+Question: You are dealing with a non-English speaker during an evacuation. They look confused and frightened. Which combination of actions is MOST appropriate?
+
+A) Ignore them and focus on English-speaking customers
+B) Leave them where they are and wait for translation support
+C) Use simple words, clear gestures and demonstrate the direction to move
+D) Speak loudly, point aggressively and push them towards the exit
+
+Answer: C
+Explanation: In an emergency, you must still communicate professionally. Simple words, calm tone and clear gestures or demonstrations are the best way to guide someone who does not understand English well.
+
+---
+Q31 | Difficulty: Hard
+---
+Question: You are writing a statement after a serious incident and realise you forgot a small but important detail. What is the MOST appropriate action?
+
+A) Leave it out to avoid confusion
+B) Make a clearly marked addition or correction and initial it
+C) Rewrite the whole statement and destroy the original
+D) Add the new detail without saying it was added later
+
+Answer: B
+Explanation: Once a statement is signed, it should not be secretly altered. Any necessary correction or addition must be clearly marked and initialled, so it is obvious what was changed and by whom.
+
+---
+Q32 | Difficulty: Hard
+---
+Question: During a busy night, your radio battery is running low and there are no spares immediately available. What should you do FIRST?
+
+A) Swap radios with a colleague without telling anyone
+B) Inform control or your supervisor that your battery is low
+C) Turn off the radio to save the remaining battery
+D) Ignore it and continue working until it dies
+
+Answer: B
+Explanation: Radios are critical for safety and coordination. If your battery is low and spares are not immediately available, you must inform control or your supervisor so they are aware and can manage the risk or arrange a replacement.
+
+---
+Q33 | Difficulty: Hard
+---
+Question: You are dealing with a customer with a learning disability who is struggling to understand the site's policy about leaving and re-entry. Which is the MOST appropriate communication strategy?
+
+A) Refusing to explain again because the queue is long
+B) Using simple language, breaking the information into small steps and checking understanding
+C) Repeating the policy in exactly the same words each time
+D) Telling their friend to explain it for you and walking away
+
+Answer: B
+Explanation: When communicating with someone with a learning disability, use simple, clear language, break information down into smaller steps and regularly check their understanding. Patience and clarity are essential.
+
+---
+Q34 | Difficulty: Hard
+---
+Question: You are at a noisy loading bay outside a large warehouse and must give an important instruction to a colleague across the yard. Which method is MOST appropriate?
+
+A) Shouting across the road
+B) Sending the instruction through a customer
+C) Using your radio and asking them to confirm the message
+D) Mouthing the words and pointing
+
+Answer: C
+Explanation: In a noisy environment and at a distance, a radio is the most reliable channel. You should ask for confirmation to ensure the message has been received and understood, overcoming physical barriers like noise and distance.
+
+---
+Q35 | Difficulty: Hard
+---
+Question: A customer from a culture where direct eye contact is considered rude avoids looking at you while you speak. What is the MOST appropriate response?
+
+A) Assume they are lying and challenge them
+B) Refuse them entry for being disrespectful
+C) Recognise cultural differences and continue speaking respectfully
+D) Demand they look you in the eye
+
+Answer: C
+Explanation: Cultural awareness means understanding that eye contact, personal space and gestures vary between cultures. Avoiding eye contact does not always mean dishonesty or disrespect, so you should remain professional and respectful.
+
+---
+Q36 | Difficulty: Hard
+---
+Question: During a heated dispute, you feel personally insulted by a customer's remarks. What is the MOST appropriate way to maintain professional detachment?
+
+A) Insult them back so they understand how it feels
+B) Remind yourself they are angry at the situation, not you personally
+C) Walk away without taking any further action
+D) Immediately remove them using maximum force
+
+Answer: B
+Explanation: Professional detachment means not taking insults personally. Reminding yourself that the anger is usually about the situation helps you stay calm, objective and in control of your responses.
+
+---
+Q37 | Difficulty: Medium
+---
+Question: You are asked to provide a description of a suspect who left the site. Which elements should be included in a comprehensive description?
+
+A) Only their clothing and direction of travel
+B) Only distinguishing features like tattoos or scars
+C) Height, build, age, hair, clothing, distinguishing features, and direction of travel
+D) Just their name and age if known
+
+Answer: C
+Explanation: A comprehensive description should include all key identifying elements: height, build, age, hair, clothing, any distinguishing features (tattoos, scars, accent), and direction of travel. While different police forces may prefer different sequences, including all these elements ensures others can identify the person.
+
+---
+Q38 | Difficulty: Medium
+---
+Question: Which of the following is the BEST example of paraphrasing a customer's complaint? The customer says: "I've been waiting ages and no one has explained what's going on."
+
+A) "So you've been waiting a long time and no one has told you the reason for the delay, is that right?"
+B) "Calm down, you're overreacting."
+C) "It's busy tonight, what do you expect?"
+D) "You've been waiting, yes?"
+
+Answer: A
+Explanation: Paraphrasing restates the main points in your own words to show you have listened and to confirm understanding. Option B captures both the waiting time and the lack of information.
+
+---
+Q39 | Difficulty: Medium
+---
+Question: In which situation would a CLOSED question be MOST useful for a security guard?
+
+A) When building rapport at the start of a conversation
+B) When checking the exact time an incident occurred
+C) When helping someone describe what they saw
+D) When encouraging a customer to explain a complaint in detail
+
+Answer: B
+Explanation: Closed questions are useful for confirming specific facts, such as times or yes/no answers. Open questions are better when you need full explanations or want to build rapport.
+
+---
+Q40 | Difficulty: Medium
+---
+Question: You are ending a conversation with a customer after agreeing on what will happen next. Which of the following is the BEST example of summarising?
+
+A) "I've told you what will happen, so just wait over there."
+B) "Is that okay with you?"
+C) "Do you understand now?"
+D) "Just to confirm, you'll wait by the side entrance and I'll ask the manager to come and speak with you in a few minutes."
+
+Answer: D
+Explanation: Summarising means briefly restating the key points or agreements at the end of a conversation to ensure both parties are clear about what will happen next.
+
+

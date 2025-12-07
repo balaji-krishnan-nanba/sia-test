@@ -1,0 +1,243 @@
+================================================================================
+UNIT 2, CHAPTER 2.6: INCIDENT RECORDING AND CRIME SCENE PRESERVATION
+================================================================================
+Meta: Total=18 | Easy=7 | Medium=7 | Hard=4 | A=4 | B=4 | C=5 | D=5
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: In the ELBOWS method for incident reporting, what does the 'O' stand for?
+
+A) Observations
+B) Offenders
+C) Outcomes
+D) Officers
+
+Answer: A
+Explanation: In ELBOWS, the 'O' stands for Observations – what you personally saw and heard, and any physical evidence or conditions you noticed. ELBOWS stands for: Event, Location, Brought to attention by, Observations, Witnesses, Subjects.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which of the following is a key legal reason for recording incidents in detail?
+
+A) To provide evidence that can support criminal or civil proceedings
+B) To give management something to read on quiet days
+C) To make the incident sound more dramatic to colleagues
+D) To increase paperwork so staff stay longer on shift
+
+Answer: A
+Explanation: A detailed incident record can be used as evidence in criminal prosecutions and civil claims. It helps protect you and the venue from false allegations and supports your account in legal proceedings.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: When should you normally complete an incident report?
+
+A) As soon as possible after the incident, ideally on the same shift
+B) Only if the police ask for one
+C) At the end of the week, when you have time
+D) The next time you are on duty, even if it is several days later
+
+Answer: A
+Explanation: Incident records should be completed as soon as possible while events are still fresh in your memory. Writing them on the same shift reduces the risk of forgetting important details or confusing incidents.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which of the following statements is the BEST example of factual recording rather than opinion?
+
+A) "The male was acting aggressively and looked dangerous."
+B) "The male probably wanted to start a fight."
+C) "The male seemed like trouble as soon as he arrived."
+D) "The male raised his right fist and shouted, 'I'm going to hit you'."
+
+Answer: D
+Explanation: Option B records exactly what was seen and heard, without guessing motives or using emotional language. The other options include opinions, assumptions or vague descriptions.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which description of clothing is MOST useful in an incident record?
+
+A) "Wearing casual clothes."
+B) "Wearing a dark top and trousers."
+C) "Looked smartly dressed."
+D) "Wearing a blue denim jacket, white T-shirt, black jeans and white trainers."
+
+Answer: D
+Explanation: Descriptions should be specific and detailed. "Blue denim jacket, white T-shirt, black jeans and white trainers" gives a clear picture and helps identify the person. The other options are too vague or subjective.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: You discover a small pool of blood on the floor after an assault inside the venue. What should you AVOID doing before police arrive, unless there is an immediate safety risk?
+
+A) Preventing customers walking through the area
+B) Cleaning up the blood so it looks better for customers
+C) Noting where the blood is and any nearby items
+D) Asking colleagues to help cordon off the area
+
+Answer: B
+Explanation: Blood and other signs of violence can be important evidence. You should not clean them up before police have a chance to examine or photograph the scene, unless there is a serious safety or health risk.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Why should witnesses to an incident be kept separate from each other wherever possible?
+
+A) So they do not become friends
+B) To stop them blaming each other
+C) So the police have fewer people to talk to
+D) To prevent them influencing each other's account of what happened
+
+Answer: D
+Explanation: If witnesses discuss the incident together, they may influence each other's memories and create a "group story". Keeping them separate helps each person give an independent, more reliable account.
+
+---
+Q8 | Difficulty: Medium
+---
+Question: A customer reports being assaulted "on the dance floor". Which of the following is the BEST way to record the location in your incident report?
+
+A) "Inside the club."
+B) "On the dance floor."
+C) "Somewhere near the music."
+D) "On the main dance floor, near the front right corner by the DJ booth."
+
+Answer: D
+Explanation: Location should be recorded as precisely as possible, including the specific area within the venue and any nearby features. "Main dance floor, front right corner by the DJ booth" is clear and can be easily identified later.
+
+---
+Q9 | Difficulty: Medium
+---
+Question: You are working on the front door when a member of bar staff tells you there is a fight in the toilets. Under the ELBOWS method, which heading would you use to record that the bar staff alerted you?
+
+A) Event
+B) Location
+C) Brought to attention by
+D) Subjects
+
+Answer: C
+Explanation: "Brought to attention by" records how you first became aware of the incident (for example, reported by bar staff, customer complaint, CCTV, patrol). This helps show how and when you got involved.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: You want to record the full physical description and name of the main aggressor in your report. Under the ELBOWS headings, where is the MOST appropriate place for this information?
+
+A) Event
+B) Observations
+C) Witnesses
+D) Subjects
+
+Answer: D
+Explanation: In ELBOWS, "Subjects" is where you record details of the people directly involved in the incident, including names (if known), roles (e.g. aggressor, victim) and full physical descriptions.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: Which of the following opening sentences is MOST appropriate for a professional incident statement?
+
+A) "At about 23:30 hours, I was positioned at the main entrance of Club Nova working as a door supervisor."
+B) "Last night I was on the door when this really aggressive bloke suddenly kicked off."
+C) "I was just doing my job when trouble started like it usually does on a Saturday."
+D) "At about half eleven, the suspect started acting up and things escalated."
+
+Answer: A
+Explanation: Option A is written in the first person, uses a precise time in 24-hour format and states your position and location in professional language. The other options use slang, vague times or emotional language.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: After breaking up a fight on the dance floor, you see a knife lying on the floor nearby. The area has been cordoned off and secured. What is the MOST appropriate action?
+
+A) Carefully pick up the knife with your bare hands and place it in a bin out of sight
+B) Leave the knife where it is, keep people away from the area and inform management and the police
+C) Kick the knife under a nearby stage so no one steps on it
+D) Wipe the knife clean with a cloth and give it to the manager
+
+Answer: B
+Explanation: Once an area is secured and cordoned, the knife should be left in place as evidence. Moving or touching it could compromise forensic evidence. Inform police of its exact location. You should avoid touching or moving potential weapons unless absolutely necessary for safety. The best option is to keep the area secure, prevent contamination and inform management and the police so the item can be recovered properly.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: A week after being ejected, a customer claims you injured them and threatens to make a compensation claim. You wrote a detailed report of the incident on the night it happened. How can your incident record BEST help you in this situation?
+
+A) It proves the customer is lying
+B) It provides a detailed, contemporaneous account that can support your version of events in any investigation or civil claim
+C) It allows you to change the details later if needed
+D) It shows management you are willing to use force
+
+Answer: B
+Explanation: A timely, factual report provides an important record of what happened and what you did. It can be used by your employer, insurers and legal representatives to respond to complaints, claims or court proceedings.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: After a disturbance, a group of four friends tell you they all saw what happened but are about to leave. What is the BEST way to manage them as potential witnesses?
+
+A) Ask one of them what happened and tell the others so they can agree a story
+B) Ask them to wait together at the bar and discuss the incident while you call the police
+C) Take each person's name and contact details and, if they are willing to stay, keep them separate and do not discuss what you saw
+D) Let them leave; the police can work out who they are from CCTV later
+
+Answer: C
+Explanation: Witnesses should be identified and their contact details recorded. If they can stay, they should be kept separate and not influenced by your account or each other's discussions. This helps preserve independent evidence.
+
+---
+Q15 | Difficulty: Hard
+---
+Question: You and a colleague have moved an injured customer away from broken glass after a serious assault. Other customers are still walking through the area where there is blood and glass on the floor. What is the BEST next step to preserve the crime scene while waiting for the police?
+
+A) Quickly sweep up the glass and mop up the blood so no one slips
+B) Ask bar staff to carry on working around the area but avoid stepping in the blood
+C) Use colleagues and any available barriers or tape to cordon off the area, stop people entering and note where the blood, glass and any items were
+D) Move all tables and chairs back into their normal positions to keep the walkway clear
+
+Answer: C
+Explanation: Once the injured person is safe, you should protect the scene by preventing access and documenting what you see. Do not clean up blood or move items unnecessarily, as this can destroy or disturb evidence.
+
+---
+Q16 | Difficulty: Hard
+---
+Question: On the smoking terrace, you find a broken bottle which was used as a weapon during a fight. It is lying where people could step on it. What is the MOST appropriate way to deal with the bottle, balancing safety and evidence preservation?
+
+A) Leave the bottle exactly where it is, even if customers may tread on it
+B) Kick the bottle into a corner and leave it there
+C) Carefully move the bottle only as much as necessary to make the area safe, using gloves or holding the edges if possible, note where it was originally found and secure it until it can be handed over
+D) Throw the bottle straight into the general rubbish bin outside the venue
+
+Answer: C
+Explanation: You may need to move an item for safety, but handling should be kept to a minimum. If you do move it, you should note its original position, handle it carefully to reduce contamination, secure it safely and record who has handled it.
+
+---
+Q17 | Difficulty: Hard
+---
+Question: An assault took place in your venue at 23:45 on Saturday. The CCTV system automatically overwrites recordings after 7 days. It is now Thursday evening and the police have not yet attended. What is the MOST appropriate action regarding CCTV?
+
+A) Wait for the police to attend; they will retrieve any footage they need
+B) Make a note in the incident book that CCTV exists and leave it at that
+C) Immediately note the exact time and camera locations, inform management and ensure the relevant footage is saved or backed up before it is overwritten
+D) Turn off the CCTV system to stop it recording over the incident
+
+Answer: C
+Explanation: CCTV is vital evidence. You should act quickly to protect relevant footage by noting the times and cameras and ensuring the recording is saved before it is automatically deleted or overwritten.
+
+---
+Q18 | Difficulty: Hard
+---
+Question: While drafting your statement, you write: "The customer was very aggressive and out of control." Which of the following is the BEST way to rewrite this in line with factual, objective recording?
+
+A) "The customer was very aggressive and clearly wanted a fight."
+B) "The customer raised his fists, shouted loudly, 'I'll smash this place up', and pushed another customer in the chest."
+C) "In my opinion the customer was completely out of control and dangerous."
+D) "The customer was acting crazy and was obviously a threat."
+
+Answer: B
+Explanation: Option B records specific actions and exact words you observed, without guessing intentions or using emotional language. The other options contain opinion, assumptions or vague terms such as "aggressive", "crazy" or "dangerous".
+
+================================================================================
+END OF CHAPTER 2.6
+================================================================================

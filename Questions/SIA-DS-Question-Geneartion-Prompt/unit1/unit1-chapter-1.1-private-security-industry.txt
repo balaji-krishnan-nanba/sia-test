@@ -1,0 +1,430 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 1, CHAPTER 1.1
+THE PRIVATE SECURITY INDUSTRY
+================================================================================
+
+YOUR TASK
+---------
+Generate 45 high-quality Multiple Choice Questions (MCQs) for Chapter 1.1 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+WHAT IS THE SIA?
+----------------
+The Security Industry Authority (SIA) is the UK government body responsible for 
+regulating the private security industry under the Private Security Industry 
+Act 2001. The SIA:
+
+- Issues licences to individuals working in regulated security roles
+- Sets standards for training and qualifications
+- Maintains a public register of approved contractors (ACS)
+- Has powers to prosecute unlicensed operatives and their employers
+- Reports to the Home Office
+
+The SIA does NOT provide training or write exam papers.
+
+WHAT IS A DOOR SUPERVISOR?
+--------------------------
+A Door Supervisor is a licensed security operative who works at licensed 
+premises (pubs, clubs, bars, entertainment venues). They must hold a valid 
+SIA licence to work legally.
+
+THE EXAM
+--------
+Unit 1: Working in the Private Security Industry
+- 72 multiple choice questions in actual exam
+- 110 minutes duration
+- 71% pass mark (51 correct answers required)
+- This chapter (1.1) is one of 6 chapters in Unit 1
+
+================================================================================
+CHAPTER 1.1: THE PRIVATE SECURITY INDUSTRY - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 45
+- Easy (direct recall): 18 questions
+- Medium (application): 18 questions
+- Hard (scenario-based): 9 questions
+
+--------------------------------------------------------------------------------
+TOPIC 1.1.1: THE SECURITY INDUSTRY AUTHORITY (SIA)
+--------------------------------------------------------------------------------
+
+Key Facts:
+- Established under Private Security Industry Act 2001
+- Government body reporting to the Home Office
+- Purpose: regulate private security industry, reduce criminality
+- Came into effect in 2003 (licensing began)
+
+SIA Powers:
+- Issue licences to individuals
+- Set standards for training
+- Prosecute offenders (unlicensed workers, employers)
+- Inspect security companies
+- Revoke licences
+- Maintain public register of licence holders
+
+What SIA Does NOT Do:
+- Does NOT provide training courses
+- Does NOT write exam papers
+- Does NOT employ security operatives
+- Does NOT run security companies
+
+SIA's Aims:
+- Protect the public
+- Raise standards in the industry
+- Reduce criminal activity
+- Ensure only fit and proper persons work in security
+
+--------------------------------------------------------------------------------
+TOPIC 1.1.2: THE PRIVATE SECURITY INDUSTRY ACT 2001
+--------------------------------------------------------------------------------
+
+Key Provisions:
+- Created the SIA
+- Established the licensing regime
+- Defined "regulated activities" requiring a licence
+- Created criminal offences for non-compliance
+
+Regulated Activities (Require SIA Licence):
+- Manned guarding (security guards)
+- Door supervision
+- Close protection (bodyguarding)
+- Cash and valuables in transit
+- Public space surveillance (CCTV)
+- Key holding
+
+Exemptions:
+- In-house security (employees protecting own employer's premises)
+  * BUT only if not contracted out to other companies
+- Certain government roles
+- Volunteer stewards (limited activities)
+
+Penalties for Offences:
+- Working without a licence: up to 5 years imprisonment AND/OR unlimited fine
+- Deploying unlicensed staff: up to 5 years imprisonment AND/OR unlimited fine
+- Using false documents: criminal offence
+- Impersonating SIA official: criminal offence
+
+--------------------------------------------------------------------------------
+TOPIC 1.1.3: LICENCE TYPES
+--------------------------------------------------------------------------------
+
+Door Supervisor (DS):
+- Required for controlling entry to licensed premises
+- Front-line licence (must be displayed)
+
+Security Guard (SG):
+- Guarding premises, property, persons
+- Includes retail security, corporate security
+
+CCTV Operator (Public Space Surveillance - PSS):
+- Monitoring CCTV in public spaces
+- Does NOT apply to private/in-house CCTV
+
+Close Protection (CP):
+- Bodyguarding individuals
+- High-risk personal protection
+
+Cash and Valuables in Transit (CVIT):
+- Transporting cash, valuables, precious items
+- Armoured vehicle crews
+
+Key Holding:
+- Responding to alarm activations
+- Holding keys for client premises
+- Often combined with other roles
+
+Vehicle Immobiliser (VI):
+- Historical licence type
+- Clamping on private land
+- Now largely obsolete due to law changes
+
+--------------------------------------------------------------------------------
+TOPIC 1.1.4: THE SIA LICENCE
+--------------------------------------------------------------------------------
+
+Licence Validity:
+- Valid for 3 years from date of issue
+- Must be renewed before expiry
+- Apply for renewal before licence expires to avoid gap
+
+Licence Display:
+- Must be displayed when working
+- Front-facing (visible to public)
+- In approved armband or holder
+- Cannot be hidden or obscured
+
+Licence Contents:
+- Photograph of holder
+- Name of holder
+- Licence number (unique identifier)
+- Expiry date
+- Licence type/role
+- SIA hologram (security feature)
+
+Licence Number Format:
+- Unique to each licence holder
+- Can be verified on SIA public register
+- Employers can check validity online
+
+Reporting Changes to SIA:
+- Change of name: must report
+- Change of address: must report
+- Criminal convictions: must report
+- Failure to report: can lead to revocation
+
+Lost or Stolen Licence:
+- Report to SIA immediately
+- Apply for replacement
+- Temporary licence may be issued
+- Do not work without valid licence
+
+Licence Conditions:
+- Must not work outside licensed role
+- Must display when working
+- Must report changes
+- Must behave professionally
+
+--------------------------------------------------------------------------------
+TOPIC 1.1.5: CRIMINAL RECORD CHECKS
+--------------------------------------------------------------------------------
+
+DBS (Disclosure and Barring Service):
+- Criminal record check required for all licence applicants
+- Enhanced DBS check for front-line licences
+- Checks spent and unspent convictions
+- Also checks police intelligence (soft information)
+
+What Disqualifies Applicants:
+- Serious violent offences
+- Sexual offences
+- Drug trafficking
+- Fraud and dishonesty
+- Recent relevant offences
+
+Assessment:
+- SIA considers each case individually
+- Considers: nature of offence, time elapsed, rehabilitation
+- Not all convictions automatically disqualify
+- Right to appeal decisions
+
+--------------------------------------------------------------------------------
+TOPIC 1.1.6: APPROVED CONTRACTOR SCHEME (ACS)
+--------------------------------------------------------------------------------
+
+What is ACS:
+- Voluntary scheme for security companies
+- Demonstrates quality and professionalism
+- SIA assesses and approves companies
+- Regular audits and assessments
+
+Benefits for Companies:
+- Demonstrates quality to clients
+- Preferred for government contracts
+- Reduced licence fees for employees
+- Marketing advantage
+- Shows commitment to standards
+
+ACS Standards:
+- Management of operations
+- Staff training and development
+- Fair treatment of employees
+- Quality of service delivery
+- Health and safety compliance
+
+Public Register:
+- All ACS companies listed publicly
+- Clients can verify ACS status
+- Demonstrates credibility
+
+--------------------------------------------------------------------------------
+TOPIC 1.1.7: OFFENCES AND PENALTIES
+--------------------------------------------------------------------------------
+
+Working Without a Licence (Section 3):
+- Criminal offence
+- Up to 5 years imprisonment
+- Unlimited fine
+- Applies to the individual worker
+
+Deploying Unlicensed Staff (Section 5):
+- Criminal offence
+- Up to 5 years imprisonment
+- Unlimited fine
+- Applies to employer/manager
+
+Using False Documents:
+- Criminal offence
+- Forged licence, fake ID
+- Serious penalties
+
+Section 16 Offence:
+- Falsely claiming SIA endorsement or approval
+- Claiming to be "SIA approved" when not
+- Up to £5,000 fine
+- Applies to businesses making false claims
+
+Licence Revocation:
+- SIA can revoke licence at any time
+- Reasons: criminal conviction, misconduct, false information
+- Right to appeal
+
+--------------------------------------------------------------------------------
+TOPIC 1.1.8: PROFESSIONAL STANDARDS
+--------------------------------------------------------------------------------
+
+Expected Conduct:
+- Act with integrity and honesty
+- Treat public with respect
+- Maintain professional appearance
+- Be punctual and reliable
+- Follow employer policies
+- Uphold the law
+
+Responsibilities:
+- Only work within licensed role
+- Display licence when working
+- Report incidents appropriately
+- Maintain skills and knowledge
+- Represent industry positively
+
+Continuous Professional Development:
+- Keep knowledge up to date
+- Attend refresher training
+- Learn from incidents
+- Stay informed of legal changes
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 45
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 18 questions (40%)
+- Medium (application): 18 questions (40%)
+- Hard (scenario-based): 9 questions (20%)
+
+TOPICS TO COVER (ensure all are represented):
+□ SIA role and purpose (5-6 questions)
+□ Private Security Industry Act 2001 (5-6 questions)
+□ Regulated activities (4-5 questions)
+□ Licence types (5-6 questions)
+□ Licence validity and display (4-5 questions)
+□ Reporting changes (3-4 questions)
+□ DBS/criminal record checks (3-4 questions)
+□ Approved Contractor Scheme (4-5 questions)
+□ Offences and penalties (5-6 questions)
+□ Professional standards (3-4 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. No trick questions or double negatives
+5. UK English spelling (licence, behaviour, organisation)
+6. Clear, unambiguous wording
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+Output all questions in this exact format:
+
+================================================================================
+UNIT 1, CHAPTER 1.1: THE PRIVATE SECURITY INDUSTRY
+================================================================================
+
+Question 1 [Easy]
+Under which Act was the Security Industry Authority established?
+
+A) Security Industry Act 1999
+B) Private Security Industry Act 2001
+C) Security Services Act 2003
+D) Home Office Security Act 2001
+
+Correct Answer: B
+
+Explanation: The SIA was established under the Private Security Industry Act 
+2001, which created the regulatory framework for the UK private security 
+industry and gave the SIA its powers to license individuals and regulate 
+the industry.
+
+---
+
+Question 2 [Medium]
+[Question text]
+
+A) [Option A]
+B) [Option B]
+C) [Option C]
+D) [Option D]
+
+Correct Answer: [Letter]
+
+Explanation: [2-3 sentence explanation]
+
+---
+
+[Continue for all 45 questions]
+
+================================================================================
+END OF CHAPTER 1.1 QUESTIONS
+================================================================================
+
+Total Questions: 45
+- Easy: 18
+- Medium: 18
+- Hard: 9
+
+================================================================================
+
+================================================================================
+LEGAL ACCURACY - KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+- SIA established under Private Security Industry Act 2001
+- Licences valid for 3 YEARS (not 1, not 5)
+- Penalty: up to 5 YEARS prison AND/OR UNLIMITED fine
+- SIA does NOT provide training
+- In-house security is EXEMPT (with conditions)
+- Section 16: false endorsement claims (£5,000 fine)
+- ACS is VOLUNTARY, not mandatory
+- Must DISPLAY licence when working
+- Must report changes (name, address, convictions)
+
+COMMON WRONG ANSWERS TO USE AS DISTRACTORS:
+- Licence valid for 1 year or 5 years (wrong - it's 3 years)
+- SIA provides training (wrong - they don't)
+- Maximum £5,000 fine only (wrong - unlimited)
+- ACS is mandatory (wrong - voluntary)
+- All convictions disqualify (wrong - case by case)
+
+================================================================================
+QUALITY CHECKLIST
+================================================================================
+
+Before finalising:
+□ Exactly 45 questions
+□ 18 easy, 18 medium, 9 hard
+□ All topics covered
+□ Only ONE correct answer per question
+□ UK English spelling
+□ No duplicate questions
+□ Explanations are clear and concise
+□ All legal facts are accurate
+
+================================================================================
+END OF PROMPT
+================================================================================

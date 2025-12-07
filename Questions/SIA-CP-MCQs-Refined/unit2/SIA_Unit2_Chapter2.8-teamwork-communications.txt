@@ -1,0 +1,316 @@
+================================================================================
+UNIT 2, CHAPTER 2.8: TEAMWORK AND COMMUNICATIONS
+
+Question 1 [Easy]
+What does "ROGER" mean in radio communications?
+
+A) Send your message
+B) Wait for further instructions
+C) Received and understood
+D) End of transmission
+
+Correct Answer: C
+
+Explanation:
+"Roger" is the standard radio pro-word meaning "received and understood." It tells the sender that their message has been heard and comprehended. It does not mean you will act on it (that’s "Wilco" – will comply) and it does not end the transmission (that’s "Out").
+
+Question 2 [Easy]
+In close protection teamwork, what is the primary shared goal of the team?
+
+A) The safety and security of the principal
+B) Making the operation as convenient as possible for the team
+C) Avoiding any contact with the police
+D) Promoting the security company’s brand
+
+Correct Answer: A
+
+Explanation:
+Whatever the task or environment, a CP team’s shared goal is the safety and security of the principal and the success of the mission. Professional reputation and convenience are secondary to protecting the principal.
+
+Question 3 [Medium]
+During a move from a hotel to the vehicle, your radio suddenly fails. You see a man running towards the principal with a raised bottle. You cannot contact the Team Leader. What is the most appropriate action regarding the chain of command?
+
+A) Wait until the radio is working again before doing anything
+B) Run to find the Team Leader before intervening
+C) Ignore it because you have not been given any new orders
+D) Take immediate protective action and report up the chain once safe
+
+Correct Answer: D
+
+Explanation:
+The chain of command must normally be followed, but it may be broken in an immediate life-threatening situation or when normal channels are unavailable. In this scenario you must act at once to protect the principal, then report your actions through the chain of command as soon as practicable.
+
+Question 4 [Medium]
+Which of the following best represents a logical structure for a close protection operation briefing?
+
+A) Mission – Situation – Execution – Communications – Support
+B) Situation – Mission – Execution – Support – Communications
+C) Support – Mission – Situation – Execution – Communications
+D) Communications – Support – Mission – Execution – Situation
+
+Correct Answer: B
+
+Explanation:
+A common and effective structure is:
+
+Situation – what’s going on
+
+Mission – what we must achieve
+
+Execution – how we will do it
+
+Support – resources, logistics, medical, etc.
+
+Communications – radio procedures, call signs, channels
+
+This ensures the team understands the context before the plan.
+
+Question 5 [Easy]
+For security reasons, how should the principal normally be referred to on the radio?
+
+A) By a pre-agreed code word such as “Package”
+B) By their full name and title
+C) By their surname only
+D) By their job title (e.g. “the CEO”)
+
+Correct Answer: A
+
+Explanation:
+On open or potentially monitored radios, the principal should be referred to using a pre-briefed code word (e.g. “Package”) rather than their real name or obvious title. This provides security and brevity and helps conceal their identity.
+
+Question 6 [Medium]
+While escorting the principal through a car park, you see a team member give a hand signal with their palm facing down, moving in a pressing motion towards the ground. What does this most likely mean?
+
+A) Stop immediately
+B) Get down / take cover
+C) Come towards me
+D) All clear
+
+Correct Answer: B
+
+Explanation:
+A palm down with a pressing motion is commonly used to signal “get down” or “take cover” in close protection work. An open palm facing the recipient with the arm extended would usually indicate stop, and a beckoning motion with palm up would mean come to me.
+
+Question 7 [Medium]
+A newly formed close protection team starts to experience arguments about positions, disagreements over procedures, and challenges to the Team Leader’s decisions. According to team development stages, which phase is this?
+
+A) Forming
+B) Norming
+C) Performing
+D) Storming
+
+Correct Answer: D
+
+Explanation:
+The storming stage is where conflict and tension are most common. Roles are challenged, personalities clash and leadership is tested. If managed well, the team moves on to norming (cooperation and agreed standards) and then performing (high effectiveness).
+
+Question 8 [Easy]
+Which radio call correctly initiates a transmission from “Alpha 2” to “Alpha 1”?
+
+A) “Alpha 2 to Alpha 1, send, out”
+B) “This is Alpha 2 for Alpha 1, send it”
+C) “Alpha 1, this is Alpha 2, over”
+D) “Alpha 2 calling, come in Alpha 1, over and out”
+
+Correct Answer: C
+
+Explanation:
+Standard procedure is: “[Receiver call sign], this is [Sender call sign], over.” So contacting Alpha 1 from Alpha 2 should be: “Alpha 1, this is Alpha 2, over.” This clearly identifies who is being called and who is speaking.
+
+Question 9 [Easy]
+In the close protection chain of command, how do orders and instructions normally flow?
+
+A) Down the chain from senior roles to junior roles
+B) Up the chain from operatives to the Operations Manager
+C) Directly between operatives without involving supervisors
+D) Only between the Operations Manager and the principal
+
+Correct Answer: A
+
+Explanation:
+By design, orders and instructions flow down the chain of command (e.g. Operations Manager → Team Leader → CPOs). Reports and information flow up. This avoids confusion and ensures clear authority and accountability.
+
+Question 10 [Medium]
+You receive the radio message:
+“Alpha 2, this is Alpha 1, move Package to Office 1 now, over.”
+Which reply best confirms that you have received, understood and will carry out the instruction, and ends the exchange?
+
+A) “Alpha 1, Alpha 2, roger, out”
+B) “Alpha 1, Alpha 2, say again, over”
+C) “Alpha 1, Alpha 2, affirmative, over and out”
+D) “Alpha 1, Alpha 2, roger, wilco, out”
+
+Correct Answer: D
+
+Explanation:
+
+Roger = received and understood
+
+Wilco = will comply
+
+Out = end of transmission
+
+So “Roger, Wilco, out” clearly confirms understanding, intent to comply and ends the transmission. “Over and out” is poor procedure, and “Say again” is used when you need the message repeated.
+
+Question 11 [Easy]
+What is the main purpose of a back brief during close protection planning?
+
+A) To allow the principal to change the plan
+B) To confirm a team member’s understanding by having them explain their task back
+C) To criticise mistakes from previous operations
+D) To replace the need for a written briefing
+
+Correct Answer: B
+
+Explanation:
+A back brief is when the person who has been briefed repeats the plan or their role back to the briefer. This confirms understanding, reveals any gaps or misunderstandings and gives an opportunity to clarify before the operation starts.
+
+Question 12 [Medium]
+Your team discovers that a venue security guard has overheard and repeated the radio code word your team uses for the principal. What is the most appropriate response?
+
+A) Ignore it; code words never need changing
+B) Immediately tell the guard the principal’s real name instead
+C) Change the affected code words and re-brief the team as soon as possible
+D) Stop using all code words and use plain language
+
+Correct Answer: C
+
+Explanation:
+If a code word is compromised, it should be changed and the team re-briefed so everyone uses the new terms. Code words should be pre-briefed, not obvious in meaning, and changed if compromised, while still being documented securely.
+
+Question 13 [Hard]
+At a large public event, several security teams share the same radio channel. You notice that the channel is very busy, with long, unnecessary transmissions and overlapping messages. As a CPO, what is the best way to help maintain effective radio communications for your team?
+
+A) Use strict brevity and transmit only essential, concise messages
+B) Increase your speaking volume and repeat messages several times
+C) Add more detail to your transmissions so nothing is missed
+D) Switch to another frequency without informing the Team Leader
+
+Correct Answer: A
+
+Explanation:
+When there is frequency congestion, the best response is to use good radio discipline: short, clear, essential messages only. This keeps the channel free for critical traffic. Shouting or repeating excessively adds to congestion, and changing frequency without coordination can fragment the team’s communications.
+
+Question 14 [Easy]
+During an attack near the venue entrance, you need the principal to take immediate protective action. Which command is most appropriate?
+
+A) “If you wouldn’t mind moving now, please”
+B) “Get down!”
+C) “What do you want to do?”
+D) “Everyone stay calm, it’s probably nothing”
+
+Correct Answer: B
+
+Explanation:
+In an emergency, instructions to the principal must be clear, simple and authoritative. Commands such as “Get down!”, “This way!” or “Stay close!” leave no room for confusion and support rapid compliance under stress.
+
+Question 15 [Hard]
+The principal insists on walking from the hotel to a nearby restaurant without a visible escort, despite a raised threat level and your professional advice to the contrary. They understand the risk but still decide to proceed. What is the most appropriate close protection response?
+
+A) Refuse to continue working for the principal and leave immediately
+B) Obey without comment and make no record of the discussion
+C) Professionally record your advice and their decision, adjust the plan to provide the safest support possible and continue the task
+D) Call the police to overrule the principal’s decision
+
+Correct Answer: C
+
+Explanation:
+The CP team must advise professionally, explain the consequences of ignoring security advice, and then respect that the principal ultimately makes the decision. You should document the advice given and the decision made, then adapt the plan to provide the best protection possible within those constraints.
+
+Question 16 [Medium]
+After an incident involving the principal, you dial 999. When you first speak to the emergency operator, what information is generally the most important to give clearly and accurately at the start of the call?
+
+A) Your full name and company name
+B) The principal’s real name and status
+C) A detailed history of the principal’s diary for the day
+D) The exact location of the incident
+
+Correct Answer: D
+
+Explanation:
+Emergency services need to know where to go before anything else. You should give the exact location (address, postcode, key landmarks) as clearly as possible, then explain what has happened, injuries, any ongoing threat, and your details.
+
+Question 17 [Hard]
+A proposed radio code sheet for a high-risk corporate operation includes:
+
+Call sign “CEO” for the principal
+
+Call sign “Driver” for the chauffeur
+
+“Boss” for the principal in plain speech
+
+The actual company HQ referred to as “Office”
+
+Which change would most improve the security and professionalism of this code system?
+
+A) Replace these with non-obvious, pre-agreed code words and numbers unrelated to real roles, document them securely and brief the whole team
+B) Only change the principal’s call sign and leave everything else the same
+C) Keep the current terms but speak more quietly on the radio
+D) Stop using any call signs and rely on first names instead
+
+Correct Answer: A
+
+Explanation:
+Effective code words and call signs should be pre-briefed, not obviously linked to real identities or locations, known to the whole team and documented securely, and changed if compromised. Using obvious terms like “CEO” or “Boss” provides little security benefit.
+
+Question 18 [Easy]
+Which description best matches a STOP hand signal commonly used in close protection?
+
+A) Palm up, fingers curling towards the body
+B) Open palm raised, facing the recipient, arm extended
+C) Palm down, pressing motion towards the ground
+D) Thumb up or “OK” sign
+
+Correct Answer: B
+
+Explanation:
+A typical stop signal is an open palm raised, facing the person you are signalling, with the arm extended. This is a clear, universally understood instruction to halt movement. Palm down pressing signals get down, and a thumbs-up signals all clear/OK.
+
+Question 19 [Hard]
+After an assault on the principal outside a venue, you call emergency services and then hand over to the police on scene. From a documentation point of view, what should the close protection team ensure is recorded?
+
+A) Only the time of the call and the incident location
+B) Only the names of the police officers who attended
+C) Who made the call, who they spoke to, what information was exchanged, what actions were agreed and any reference numbers
+D) Nothing; once the police are involved, no internal record is needed
+
+Correct Answer: C
+
+Explanation:
+Good practice is to document external communications, including: who called, who they spoke to, what was said, what actions were agreed and any reference or incident numbers. This supports accountability, future debriefs, legal processes and follow-up.
+
+Question 20 [Medium]
+While escorting the principal through a crowded doorway, the Team Leader asks for a non-urgent update over the radio. You cannot reply fully for about 30 seconds because your hands are occupied with the principal and their movement. What is the most appropriate immediate radio response?
+
+A) “Alpha 1, say again, over”
+B) “Alpha 1, standby, over and out”
+C) Remain silent until you are free to give a full answer
+D) “Alpha 1, wait out”
+
+Correct Answer: D
+
+Explanation:
+“Wait out” tells the other station that you cannot respond properly now but will do so after a longer pause. “Wait” is for a short pause; silence can cause confusion; and “over and out” is incorrect procedure. Using “wait out” maintains communication and manages expectations while you focus on the principal.
+
+================================================================================
+END OF CHAPTER 2.8 QUESTIONS
+
+Total Questions: 20
+
+Easy: 8
+
+Medium: 8
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 5 questions (2, 5, 9, 13, 17)
+
+Correct answer B: 5 questions (4, 6, 11, 14, 18)
+
+Correct answer C: 5 questions (1, 8, 12, 15, 19)
+
+Correct answer D: 5 questions (3, 7, 10, 16, 20)
+
+================================================================================

@@ -1,0 +1,594 @@
+================================================================================
+UNIT 1, CHAPTER 1.1: THE PRIVATE SECURITY INDUSTRY
+================================================================================
+Meta: Total=45 | Easy=18 | Medium=18 | Hard=9 | A=11 | B=13 | C=10 | D=11
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Under which Act was the Security Industry Authority established?
+
+A) Private Security Industry Act 2001
+B) Security Industry Act 1999
+C) Security Services Act 2003
+D) Home Office Security Act 2001
+
+Answer: A
+Explanation: The SIA was created by the Private Security Industry Act 2001 to regulate the private security industry in the UK and introduce compulsory licensing.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: The Security Industry Authority is an executive non-departmental public body sponsored by which government department?
+
+A) Home Office
+B) Ministry of Justice
+C) Department for Business and Trade
+D) HM Treasury
+
+Answer: A
+Explanation: The SIA is sponsored by the Home Office and reports to the Home Secretary while remaining an independent regulator of the private security industry.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which statement best describes the main role of the Security Industry Authority?
+
+A) Regulating the private security industry through licensing and enforcement
+B) Running all police operations in the UK
+C) Setting alcohol prices in licensed premises
+D) Issuing premises licences for pubs and clubs
+
+Answer: A
+Explanation: The SIA's core role is to protect the public by regulating the private security industry, mainly through licensing individuals and approving contractors, and taking enforcement action where necessary.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which of the following is NOT a function of the SIA?
+
+A) Issuing licences to individuals in licensable roles
+B) Approving companies under the Approved Contractor Scheme
+C) Taking enforcement action against unlicensed activity
+D) Providing training courses and writing exam papers
+
+Answer: D
+Explanation: The SIA does not provide training or write exam papers; those are handled by training providers and awarding organisations. The SIA sets standards, licenses individuals and companies, and enforces the law.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: What is the main purpose of the Private Security Industry Act 2001?
+
+A) To regulate alcohol sales in pubs and clubs
+B) To regulate the private security industry and establish the SIA
+C) To create new police ranks and powers
+D) To set national wage levels for security staff
+
+Answer: B
+Explanation: The Private Security Industry Act 2001 was introduced to regulate the private security sector, create the SIA and set up the licensing regime for specified security activities.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Which of the following is a licensable "regulated activity" under the Private Security Industry Act 2001?
+
+A) Close protection (bodyguarding)
+B) Serving drinks at the bar
+C) Cleaning the venue after closing
+D) DJing at a nightclub
+
+Answer: A
+Explanation: Close protection is one of the licensable activities, along with door supervision, security guarding, CCTV (public space surveillance), key holding, vehicle immobilisation and CVIT.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Which SIA licence is normally required for controlling entry at pubs, bars and nightclubs when alcohol is being sold?
+
+A) Door Supervisor licence
+B) Security Guard licence
+C) Key Holding licence
+D) Close Protection licence
+
+Answer: A
+Explanation: Door supervision at licensed premises where alcohol is supplied or regulated entertainment is provided requires a Door Supervisor licence.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which SIA licence is usually required for an operator who monitors town-centre CCTV to spot crime and disorder?
+
+A) Public Space Surveillance (CCTV) licence
+B) Key Holding licence
+C) Security Guard licence
+D) Close Protection licence
+
+Answer: A
+Explanation: Monitoring CCTV in public spaces for security purposes is a licensable activity that requires a Public Space Surveillance (CCTV) licence.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: A team transporting large amounts of cash in an armoured vehicle between banks would normally need which SIA licence?
+
+A) Cash and Valuables in Transit licence
+B) Door Supervisor licence
+C) Security Guard licence
+D) Key Holding licence
+
+Answer: A
+Explanation: Transporting cash and valuables in a secure vehicle as a contract for services is a specific licensable activity covered by the Cash and Valuables in Transit (CVIT) licence.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: How long is a front-line SIA Door Supervisor licence normally valid for?
+
+A) 1 year
+B) 2 years
+C) 3 years
+D) 5 years
+
+Answer: C
+Explanation: Most front-line SIA licences, including Door Supervisor, are valid for three years from the date of issue.
+
+---
+Q11 | Difficulty: Easy
+---
+Question: How should a Door Supervisor normally display their SIA licence while working?
+
+A) Kept hidden in a pocket at all times
+B) Locked in the manager's office for safekeeping
+C) Worn on the front of the body where it can be seen
+D) Left at home unless police ask to see it
+
+Answer: C
+Explanation: SIA guidance requires front-line licences to be worn where they are visible to the public (for example on a lanyard or armband), unless there is a specific operational reason for not doing so.
+
+---
+Q12 | Difficulty: Easy
+---
+Question: Which of the following details would NOT normally appear on an SIA licence card?
+
+A) Holder's name
+B) Holder's photograph
+C) Licence number and expiry date
+D) National Insurance number
+
+Answer: D
+Explanation: An SIA licence shows the holder's name, photograph, licence number, expiry date and licence role, but it does not display personal identifiers such as a National Insurance number.
+
+---
+Q13 | Difficulty: Easy
+---
+Question: What is the SIA Approved Contractor Scheme (ACS)?
+
+A) A voluntary quality-assurance scheme for security companies
+B) A compulsory licence for all security staff
+C) A scheme that replaces individual licences
+D) A government insurance scheme for security firms
+
+Answer: A
+Explanation: The ACS is a voluntary scheme for private security companies that meet specified quality standards and are independently assessed, allowing them to be listed on the SIA's register of approved contractors.
+
+---
+Q14 | Difficulty: Easy
+---
+Question: Which statement about the Approved Contractor Scheme (ACS) is correct?
+
+A) All security companies must be ACS approved by law
+B) ACS approval automatically licenses all staff
+C) ACS approval is voluntary but can give a marketing and quality advantage
+D) Only police forces can be ACS approved
+
+Answer: C
+Explanation: ACS approval is voluntary; it does not replace individual licences but allows companies to demonstrate they meet recognised quality standards and may be attractive to clients.
+
+---
+Q15 | Difficulty: Easy
+---
+Question: What is the maximum penalty for working in a licensable security role without a valid SIA licence?
+
+A) A written warning from the SIA only
+B) Up to 6 months in prison and/or an unlimited fine
+C) Community service only with no custodial option
+D) A small fixed penalty notice
+
+Answer: B
+Explanation: Engaging in licensable conduct without a licence is a criminal offence under Section 3 of the Private Security Industry Act 2001. On summary conviction, the maximum penalty is up to 6 months' imprisonment and/or an unlimited fine. On indictment, the penalty is an unlimited fine.
+
+---
+Q16 | Difficulty: Easy
+---
+Question: Section 16 of the Private Security Industry Act 2001 mainly relates to which type of offence?
+
+A) Assaulting a member of the public
+B) Damaging property while on duty
+C) Falsely claiming SIA approval or endorsement
+D) Working too many hours in a week
+
+Answer: C
+Explanation: Section 16 makes it an offence for a business to falsely claim that it is approved by the SIA or to misuse the ACS status, with a possible unlimited fine on conviction.
+
+---
+Q17 | Difficulty: Easy
+---
+Question: Why is a Disclosure and Barring Service (DBS) check carried out as part of an SIA licence application?
+
+A) To check the applicant's credit rating
+B) To check for relevant criminal history and safeguarding concerns
+C) To check whether the applicant pays council tax
+D) To check driving licence points
+
+Answer: B
+Explanation: DBS checks are used to reveal relevant criminal convictions and other information so the SIA can assess whether an applicant is a "fit and proper" person to hold a licence.
+
+---
+Q18 | Difficulty: Easy
+---
+Question: Which of the following best demonstrates the professional standards expected of an SIA licence holder?
+
+A) Ignoring customers who complain
+B) Using threatening language to gain compliance
+C) Acting honestly, treating people with respect and following the law
+D) Sharing incident details on social media
+
+Answer: C
+Explanation: SIA licence holders are expected to act with integrity, treat the public fairly and respectfully, and comply with the law and licence conditions at all times.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: A bar owner asks a friend with no SIA licence to work on the door for one busy night. Who has committed an offence under the Private Security Industry Act 2001?
+
+A) Only the friend
+B) Only the bar owner
+C) Both the friend and the bar owner
+D) No one, because it was only for one night
+
+Answer: C
+Explanation: It is an offence to work in a licensable role without a licence and also an offence for an employer to deploy an unlicensed operative. Both the unlicensed worker and the person using them can be prosecuted.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: A Door Supervisor has moved house but not told the SIA. What should they do to comply with their licence conditions?
+
+A) Wait until the licence is due for renewal before updating details
+B) Only tell their employer, not the SIA
+C) Notify the SIA of the change of address as soon as possible
+D) Do nothing, as address changes are not important
+
+Answer: C
+Explanation: Licence holders must tell the SIA when key details such as name or address change, so records and checks remain accurate; failing to do so can breach licence conditions.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: A Door Supervisor receives a criminal conviction during their 3-year licence period. What is the correct action?
+
+A) Inform the SIA promptly about the conviction
+B) Do nothing unless the police contact the SIA
+C) Only tell their employer at the next appraisal
+D) Hide the conviction to avoid losing the licence
+
+Answer: A
+Explanation: Licence conditions require the holder to notify the SIA of relevant convictions so the SIA can reassess their suitability; hiding convictions may be treated as dishonesty and increase the risk of revocation.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: A Door Supervisor loses their SIA licence badge on a night out. Their next shift is tomorrow. What is the MOST appropriate action?
+
+A) Work the shift as normal because they know their licence number
+B) Borrow a colleague's badge for the night
+C) Inform the SIA and their employer, apply for a replacement and avoid licensable work until sorted
+D) Make their own temporary badge at home
+
+Answer: C
+Explanation: The licence must normally be available for inspection and worn while working; a lost badge should be reported to the SIA and the employer, and the operative should not undertake licensable work until they have proper authorisation again.
+
+---
+Q23 | Difficulty: Medium
+---
+Question: Someone applying for a Door Supervisor licence is worried because they have one minor conviction from many years ago. Which statement best reflects the SIA's approach?
+
+A) Any criminal record automatically disqualifies you
+B) Only violent offences matter, everything else is ignored
+C) The SIA assesses each case individually, considering seriousness and how long ago it was
+D) The SIA does not look at criminal records at all
+
+Answer: C
+Explanation: The SIA uses criminality criteria and considers factors such as the type of offence, its seriousness and how long ago it occurred; not all convictions lead to refusal.
+
+---
+Q24 | Difficulty: Medium
+---
+Question: In SIA terms, what does "in-house" security usually mean?
+
+A) Security staff employed directly by the organisation they protect
+B) Security staff supplied under contract by a private security company
+C) Police officers on overtime
+D) Volunteers working at charity events
+
+Answer: A
+Explanation: "In-house" security staff are directly employed by the company or organisation they protect, rather than supplied under a contract for services by a security provider.
+
+---
+Q25 | Difficulty: Medium
+---
+Question: A training provider tells learners, "The SIA runs our courses and writes the exam papers." Which statement is correct?
+
+A) This is accurate; the SIA trains and examines all candidates
+B) The SIA approves standards and awarding organisations but does not run courses or write exam papers
+C) The SIA only writes the practical exams
+D) The SIA issues certificates but has no role in standards
+
+Answer: B
+Explanation: The SIA sets specifications and approves awarding organisations, but training centres deliver courses and exams; the SIA does not directly teach or examine candidates.
+
+---
+Q26 | Difficulty: Medium
+---
+Question: A venue is choosing between two security companies. One holds ACS approval and one does not. What is the main advantage of choosing the ACS-approved company?
+
+A) It is automatically the cheapest
+B) It is guaranteed never to have problems
+C) It has been independently assessed as meeting recognised quality standards
+D) It does not need to employ licensed staff
+
+Answer: C
+Explanation: ACS approval is a quality mark showing that the company meets specified management and service standards, but it does not remove the need for licensed staff.
+
+---
+Q27 | Difficulty: Medium
+---
+Question: How can a client check whether a security company is currently approved under the SIA's Approved Contractor Scheme?
+
+A) Search the SIA's online Register of Approved Contractors
+B) Ask the local council licensing team
+C) Phone the police station
+D) Ask the company's manager to confirm verbally
+
+Answer: A
+Explanation: The SIA publishes an online register listing all companies that hold ACS status so clients can verify claims of approval.
+
+---
+Q28 | Difficulty: Medium
+---
+Question: A guard is employed under contract to transport cash in secure containers between shops and a bank in an armoured van. Which SIA licence is most appropriate?
+
+A) Door Supervisor licence
+B) Cash and Valuables in Transit licence
+C) Security Guard licence
+D) Key Holding licence
+
+Answer: B
+Explanation: Transporting cash and valuables in a vehicle designed for secure transport as a contract for services is a licensable CVIT activity, requiring a Cash and Valuables in Transit licence.
+
+---
+Q29 | Difficulty: Medium
+---
+Question: A control-room operator monitors CCTV covering the public walkways and entrances of a busy shopping centre to spot crime and anti-social behaviour. Which SIA licence do they need?
+
+A) Key Holding licence
+B) Public Space Surveillance (CCTV) licence
+C) Security Guard licence only
+D) Door Supervisor licence only
+
+Answer: B
+Explanation: Monitoring CCTV of public areas for security purposes requires a CCTV licence, even if the operator stays in a control room.
+
+---
+Q30 | Difficulty: Medium
+---
+Question: A Security Guard licence holder wants to work on a nightclub door checking IDs and refusing entry when necessary. What is the correct legal position?
+
+A) They can work with just a Security Guard licence
+B) They must hold a Door Supervisor licence for that work
+C) They do not need any SIA licence for nightclubs
+D) They can work if the manager signs a permission letter
+
+Answer: B
+Explanation: Door supervision at licensed premises requires a Door Supervisor licence; a Security Guard licence alone is not sufficient.
+
+---
+Q31 | Difficulty: Medium
+---
+Question: During an argument at the door, a Door Supervisor loudly insults a customer's appearance in front of others. Which professional standard is MOST clearly being breached?
+
+A) Maintaining personal appearance
+B) Treating people with respect and courtesy
+C) Only working within a licensed role
+D) Reporting changes of address
+
+Answer: B
+Explanation: Professional conduct demands fair and respectful behaviour; insulting or humiliating comments breach those standards and might lead to complaints or loss of licence.
+
+---
+Q32 | Difficulty: Medium
+---
+Question: A bar advertises itself on flyers as "SIA Approved Venue" simply because it uses SIA-licensed door staff. What is the main legal concern?
+
+A) It is lawful because the staff are licensed
+B) It could be an offence of falsely claiming SIA approval under Section 16
+C) It is only a problem if police object
+D) It is allowed if the door staff agree
+
+Answer: B
+Explanation: Claiming SIA endorsement or approval incorrectly is an offence under Section 16 of the Private Security Industry Act 2001.
+
+---
+Q33 | Difficulty: Medium
+---
+Question: A company with ACS status is found to have an unlicensed security operative working at a site. Which statement best describes the impact of ACS status?
+
+A) ACS status means the company cannot be prosecuted
+B) ACS status guarantees that all staff are licensed
+C) ACS is a voluntary quality mark and does not prevent enforcement action
+D) ACS status automatically transfers the offence to the venue
+
+Answer: C
+Explanation: ACS approval does not provide immunity from prosecution if licence rules are breached; all operatives must still hold valid individual licences.
+
+---
+Q34 | Difficulty: Medium
+---
+Question: A nightclub manager tells Door Supervisors to wear their SIA badges under their jackets because they "don't look cool." What should the Door Supervisors do?
+
+A) Agree, because the manager's wishes override licence conditions
+B) Refuse and explain that licences must normally be worn where visible
+C) Hide the badges but show them if police arrive
+D) Stop wearing the badges altogether
+
+Answer: B
+Explanation: Operational image considerations do not override the requirement that front-line licences are worn visibly; covert or hidden display may only be acceptable with valid operational justification.
+
+---
+Q35 | Difficulty: Medium
+---
+Question: A Door Supervisor licence holder is asked to act as a personal bodyguard for a celebrity for a week. What is the correct position regarding SIA licensing?
+
+A) Their Door Supervisor licence automatically covers close protection
+B) No SIA licence is needed for bodyguard work
+C) They must obtain the appropriate Close Protection licence for that role
+D) They can use their employer's company licence instead
+
+Answer: C
+Explanation: Close protection is a separate licensable role; acting as a bodyguard requires a specific Close Protection licence.
+
+---
+Q36 | Difficulty: Medium
+---
+Question: An employee says, "I don't need my own SIA licence because I work for an ACS-approved company." What is the correct response?
+
+A) They are right; ACS covers all staff
+B) Only managers need individual licences in ACS companies
+C) Every person doing licensable security work must hold their own valid SIA licence
+D) They only need a licence if they change employer
+
+Answer: C
+Explanation: ACS relates to company-level quality standards; each individual performing licensable duties must hold a valid individual SIA licence.
+
+---
+Q37 | Difficulty: Hard
+---
+Question: Which ONE of the following roles definitely requires an SIA Door Supervisor licence for the work described?
+
+A) An in-house supermarket security guard employed directly by the store in an unlicensed supermarket
+B) A volunteer marshal at a charity fun run who gives directions but does not control entry
+C) A person supplied under contract by a security company to control entry at a nightclub where alcohol is being sold
+D) An in-house steward at a certified sports stadium who only shows people to their seats
+
+Answer: C
+Explanation: Door supervision at licensed premises where alcohol is sold requires a Door Supervisor licence when the work is supplied under contract for services by a security company; in-house staff directly employed by the venue may be exempt, while other roles described do not fit the licensable definition.
+
+---
+Q38 | Difficulty: Hard
+---
+Question: A security company supplies staff to manage the entrance to a beer tent at a music festival. The tent is licensed to sell alcohol and has live music. Staff check IDs, refuse entry to drunk customers and control queues. Which SIA licence type should these staff hold?
+
+A) Security Guard licence
+B) Door Supervisor licence
+C) Public Space Surveillance (CCTV) licence
+D) Key Holding licence
+
+Answer: B
+Explanation: Because the work involves guarding entry to licensed premises with alcohol and regulated entertainment, a Door Supervisor licence is required.
+
+---
+Q39 | Difficulty: Hard
+---
+Question: At a large event, a main security contractor uses a smaller sub-contractor, which in turn deploys several unlicensed door staff. Who is MOST clearly committing offences under the Private Security Industry Act 2001?
+
+A) Only the unlicensed door staff
+B) Only the venue owner
+C) The unlicensed staff and their direct employer, with the main contractor and venue also at risk if they knew or should have known
+D) No one, because the sub-contractor, not the staff, signed the contract
+
+Answer: C
+Explanation: The unlicensed operatives and the company that directly deploys them are committing offences; the main contractor and venue may also face enforcement if they knowingly allowed unlicensed staff to be used.
+
+---
+Q40 | Difficulty: Hard
+---
+Question: The SIA discovers that a training provider has been falsifying exam results, meaning some licence holders obtained their licences with bogus qualifications. Which action is the SIA MOST likely to take?
+
+A) Imprison the trainer directly without involving the courts
+B) Suspend or revoke affected licences and consider prosecutions against those responsible
+C) Ignore the issue because licences have already been issued
+D) Transfer all affected staff automatically into the ACS scheme
+
+Answer: B
+Explanation: The SIA can review or revoke licences where concerns arise and may pursue prosecutions for offences under the Act or related criminal law; it cannot themselves imprison individuals without court proceedings.
+
+---
+Q41 | Difficulty: Hard
+---
+Question: A Door Supervisor receives a recent conviction for serious assault but does not tell the SIA. The conviction only comes to light when they apply to renew their licence. Which outcome is MOST likely?
+
+A) Automatic renewal with no questions asked
+B) No effect, because the conviction was off duty
+C) The SIA may refuse renewal or revoke the licence due to the offence and the failure to report it
+D) Only the local council can decide whether they keep their licence
+
+Answer: C
+Explanation: Serious violent offences can render an individual unsuitable to hold a licence, and failing to report convictions breaches licence conditions; the SIA can therefore refuse renewal or revoke the licence.
+
+---
+Q42 | Difficulty: Hard
+---
+Question: A security company sends a lone operative at night to respond to alarm activations at various client offices. The operative keeps sets of keys, unlocks the premises, checks inside and then resets the alarm before leaving. Which SIA licence is MOST appropriate for this role?
+
+A) Door Supervisor licence
+B) Security Guard licence only
+C) Public Space Surveillance (CCTV) licence
+D) Key Holding licence (and possibly Security Guard depending on duties)
+
+Answer: D
+Explanation: Using keys to respond to alarms and gain access to premises is a key holding activity; depending on the remit, a Security Guard licence may also be relevant, but a Key Holding licence is central to this role.
+
+---
+Q43 | Difficulty: Hard
+---
+Question: A week-long festival hires Door Supervisors whose licences are due to expire on day three. They have applied for renewal but the new licence has not yet been granted. What is the correct legal position after the expiry date?
+
+A) They may continue working because they applied before expiry
+B) They may work if the festival organiser agrees in writing
+C) They may work if they are employed in-house rather than by a contractor
+D) They must stop licensable work once the old licence expires until a new one is granted
+
+Answer: D
+Explanation: It is illegal to carry out licensable activities without a current, valid SIA licence. An application or receipt does not allow continued work after expiry.
+
+---
+Q44 | Difficulty: Hard
+---
+Question: Off duty, a Door Supervisor gets involved in a serious violent incident in a pub, leading to a criminal conviction. How can this MOST likely affect their SIA licence?
+
+A) It cannot affect the licence if the incident was off duty
+B) Only their employer can take action, not the SIA
+C) The SIA may review their "fit and proper" status and suspend or revoke the licence
+D) The ACS scheme will automatically protect their licence
+
+Answer: C
+Explanation: The SIA can consider off-duty conduct, especially serious criminal convictions, when assessing continued suitability for a licence, and may suspend or revoke the licence accordingly.
+
+---
+Q45 | Difficulty: Hard
+---
+Question: During an SIA audit of an ACS-approved company, inspectors find poor record-keeping and frequent breaches of licence conditions (for example, staff not displaying licences). Which outcome is MOST likely?
+
+A) The SIA can only remove ACS status and cannot take any other action
+B) Only individual operatives can be prosecuted, never the company
+C) The SIA may require improvements, remove ACS status and/or take enforcement action for licence breaches
+D) The issues are purely for awarding organisations to deal with
+
+Answer: C
+Explanation: The SIA has powers to enforce licence conditions, including removing ACS status, and may take action against the company and/or individuals if breaches are found.
+
+================================================================================
+END OF CHAPTER 1.1
+================================================================================

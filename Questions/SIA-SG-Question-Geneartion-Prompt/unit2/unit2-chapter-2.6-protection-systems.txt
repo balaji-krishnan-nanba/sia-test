@@ -1,0 +1,559 @@
+================================================================================
+SIA SECURITY GUARD - UNIT 2, CHAPTER 2.6
+ELECTRONIC AND PHYSICAL PROTECTION SYSTEMS
+================================================================================
+
+YOUR TASK
+---------
+Generate 30 high-quality Multiple Choice Questions (MCQs) for Chapter 2.6 of 
+the SIA Security Guard Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 7-8 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE EXAM
+--------
+Unit 2: Principles of Working as a Security Officer
+- 60 multiple choice questions in actual exam
+- 90 minutes duration
+- 70% pass mark (42 correct answers required)
+- This chapter (2.6) is one of 7 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Modern security relies heavily on electronic and physical systems. Security 
+officers must understand how these systems work, their capabilities and 
+limitations, and how to respond to activations. Proper use of security 
+systems enhances protection, while failure to understand them can leave 
+premises vulnerable.
+
+================================================================================
+CHAPTER 2.6: PROTECTION SYSTEMS - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 30
+- Easy (direct recall): 12 questions
+- Medium (application): 12 questions
+- Hard (scenario-based): 6 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.1: TYPES OF PROTECTION SYSTEMS
+--------------------------------------------------------------------------------
+
+Electronic Systems:
+- Intruder alarms
+- CCTV (Closed Circuit Television)
+- Access control systems
+- Fire detection and alarm
+- Intercom and communication systems
+- Panic alarms
+
+Physical Protection:
+- Locks and locking systems
+- Fences and barriers
+- Security lighting
+- Safes and secure storage
+- Grilles and shutters
+- Bollards
+
+Integration:
+- Systems often work together
+- Alarms trigger CCTV recording
+- Access control linked to alarms
+- Central monitoring stations
+- Automated responses
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.2: INTRUDER ALARM SYSTEMS
+--------------------------------------------------------------------------------
+
+Purpose:
+- Detect unauthorised entry
+- Deter intruders
+- Alert security/police
+- Provide evidence of breach
+
+Components:
+
+DETECTION DEVICES:
+- PIR (Passive Infrared) - detect body heat/movement
+- Magnetic contacts - detect door/window opening
+- Vibration sensors - detect break-in attempts
+- Glass break detectors - detect breaking glass
+- Pressure mats - detect weight/footsteps
+
+CONTROL PANEL:
+- Brain of the system
+- Receives signals from detectors
+- Triggers alarm
+- Communicates with monitoring station
+- Entry/exit delay settings
+
+SIGNALLING DEVICES:
+- Bells/sirens (audible)
+- Strobe lights (visible)
+- Silent alarms (to monitoring station)
+- Auto-diallers (telephone alert)
+
+Setting and Unsetting:
+- Codes/keys/cards
+- Entry/exit delays
+- Zones (areas of building)
+- Full set vs part set
+- Engineer/service modes
+
+Response to Activation:
+- Don't silence without checking
+- Check premises safely
+- Call police if intruder suspected
+- Reset only when safe
+- Document all activations
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.3: CCTV SYSTEMS
+--------------------------------------------------------------------------------
+
+Purpose:
+- Deter crime
+- Detect incidents
+- Record evidence
+- Monitor activity
+- Support investigations
+
+Components:
+
+CAMERAS:
+- Fixed cameras
+- PTZ (Pan, Tilt, Zoom)
+- Dome cameras
+- Covert cameras
+- Day/night cameras
+- IP (network) cameras
+
+RECORDING SYSTEMS:
+- DVR (Digital Video Recorder)
+- NVR (Network Video Recorder)
+- Cloud storage
+- Hard drives
+- Retention periods
+
+MONITORS:
+- Display screens
+- Control stations
+- Mobile viewing
+- Remote access
+
+CCTV Monitoring:
+- Active vs passive monitoring
+- What to look for
+- Recording incidents
+- Evidence preservation
+- Handover procedures
+
+Legal Considerations:
+- Data Protection Act/GDPR
+- Signage requirements
+- Retention of footage
+- Access to footage
+- Privacy considerations
+
+Evidence:
+- Continuity of evidence
+- Secure storage
+- Export procedures
+- Police requests
+- Court requirements
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.4: ACCESS CONTROL SYSTEMS
+--------------------------------------------------------------------------------
+
+Purpose:
+- Control who enters
+- Record entry/exit
+- Time and attendance
+- Emergency evacuation info
+- Zone restrictions
+
+Types of Systems:
+
+CARD-BASED:
+- Magnetic stripe
+- Proximity cards
+- Smart cards
+- Contact and contactless
+
+KEYPAD/PIN:
+- Numeric codes
+- Can be shared (weakness)
+- Changed regularly
+
+BIOMETRIC:
+- Fingerprint
+- Facial recognition
+- Iris scan
+- Hand geometry
+
+COMBINED:
+- Card plus PIN
+- Biometric plus card
+- Multi-factor authentication
+
+Features:
+- Time restrictions
+- Zone access levels
+- Anti-pass back
+- Audit trails
+- Integration with alarms/CCTV
+
+Common Issues:
+- Lost/stolen cards
+- Forgotten PINs
+- Tailgating
+- Card sharing
+- System failures
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.5: FIRE DETECTION AND ALARM SYSTEMS
+--------------------------------------------------------------------------------
+
+Purpose:
+- Early detection of fire
+- Alert occupants
+- Enable evacuation
+- Minimise damage
+- Save lives
+
+Detection Types:
+
+SMOKE DETECTORS:
+- Ionisation (fast flaming fires)
+- Optical/photoelectric (slow smouldering)
+- Aspirating (very early detection)
+
+HEAT DETECTORS:
+- Fixed temperature
+- Rate of rise
+- Less prone to false alarms
+- Used in kitchens, dusty areas
+
+FLAME DETECTORS:
+- Detect UV or IR from flames
+- Fast response
+- Used in industrial settings
+
+MANUAL CALL POINTS:
+- Break glass units
+- Push button types
+- Located on escape routes
+
+System Types:
+- Conventional (zones)
+- Addressable (individual device ID)
+- Wireless systems
+- Integrated systems
+
+Response to Fire Alarm:
+- Treat as real until confirmed
+- Follow fire procedures
+- Don't silence without authority
+- Evacuate if required
+- Meet fire brigade
+- Investigate with caution
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.6: PHYSICAL SECURITY MEASURES
+--------------------------------------------------------------------------------
+
+Locks and Locking:
+
+MECHANICAL LOCKS:
+- Pin tumbler
+- Lever locks
+- Mortice deadlocks
+- Padlocks
+- Multi-point locking
+
+ELECTRONIC LOCKS:
+- Magnetic locks (mag-locks)
+- Electric strikes
+- Keypad locks
+- Card readers
+
+Lock Standards:
+- BS 3621 (British Standard for locks)
+- Insurance requirements
+- Physical security rating
+
+Barriers and Perimeter:
+
+FENCING:
+- Chain link
+- Palisade
+- Anti-climb features
+- Topped with deterrents
+
+BARRIERS:
+- Vehicle barriers
+- Rising bollards
+- Drop arm barriers
+- Swing gates
+
+HOSTILE VEHICLE MITIGATION:
+- Bollards
+- Planters
+- Barriers
+- Road blocks
+
+Security Lighting:
+- Deters intruders
+- Aids CCTV
+- Staff safety
+- Types: floodlights, PIR-activated
+- Positioning important
+
+Safes and Secure Storage:
+- Cash rating
+- Fire rating
+- Anchor requirements
+- Key/combination control
+- Insurance requirements
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.7: RESPONDING TO SYSTEM ACTIVATIONS
+--------------------------------------------------------------------------------
+
+Alarm Activation Response:
+1. Note time and zone
+2. Assess situation
+3. Check safely (don't enter alone if risk)
+4. Confirm cause
+5. Take appropriate action
+6. Reset or call for assistance
+7. Document fully
+
+False Alarms:
+- Common occurrence
+- Still must respond properly
+- Investigate cause
+- Reduce future false alarms
+- Document
+
+Genuine Activations:
+- Prioritise safety
+- Call emergency services if needed
+- Secure scene
+- Preserve evidence
+- Full documentation
+
+System Faults:
+- Report to supervisor
+- Document fault
+- Alternative measures if needed
+- Don't ignore faults
+- Engineer call-out if required
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.8: SYSTEM MAINTENANCE AND TESTING
+--------------------------------------------------------------------------------
+
+Importance of Testing:
+- Ensure systems work
+- Legal/insurance requirements
+- Identify faults early
+- Maintain readiness
+
+Security Officer Role:
+- Daily visual checks
+- Report faults immediately
+- Know testing schedules
+- Document tests and results
+- Not usually responsible for repairs
+
+What to Check:
+- CCTV images clear
+- Alarms set/unset correctly
+- Access control working
+- Emergency systems functional
+- Physical security intact
+
+Maintenance Records:
+- Log all tests
+- Record faults and repairs
+- Engineer visits
+- Upgrades and changes
+- Required for compliance
+
+--------------------------------------------------------------------------------
+TOPIC 2.6.9: SYSTEM LIMITATIONS
+--------------------------------------------------------------------------------
+
+No System is Perfect:
+- All systems have weaknesses
+- Technology can fail
+- Human element essential
+- Layers of security needed
+
+Common Limitations:
+
+CCTV:
+- Blind spots
+- Poor lighting issues
+- Storage limitations
+- Can't prevent crime (deters/records)
+
+ALARMS:
+- False alarms
+- Bypass possible
+- Response time
+- Power dependency
+
+ACCESS CONTROL:
+- Tailgating
+- Lost cards
+- Credential sharing
+- Technical failures
+
+Human Role:
+- Systems support, don't replace
+- Observation essential
+- Response to activations
+- Maintenance and testing
+- Common sense
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 30
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 12 questions (40%)
+- Medium (application): 12 questions (40%)
+- Hard (scenario-based): 6 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 7-8 questions
+- Correct answer B: 7-8 questions
+- Correct answer C: 7-8 questions
+- Correct answer D: 7-8 questions
+
+TOPICS TO COVER:
+□ Types of protection systems (3-4 questions)
+□ Intruder alarm systems (5-6 questions)
+□ CCTV systems (5-6 questions)
+□ Access control systems (4-5 questions)
+□ Fire detection systems (4-5 questions)
+□ Physical security measures (3-4 questions)
+□ Responding to activations (3-4 questions)
+□ System limitations (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic security officer scenarios
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.6: ELECTRONIC AND PHYSICAL PROTECTION SYSTEMS
+================================================================================
+
+Question 1 [Easy]
+What does PIR stand for in relation to alarm detection devices?
+
+A) Personal Infrared Reader
+B) Passive Infrared
+C) Pressure Indicated Response
+D) Perimeter Intruder Recognition
+
+Correct Answer: B
+
+Explanation: PIR stands for Passive Infrared. These detectors work by 
+sensing changes in infrared (heat) energy, typically detecting body heat 
+from a person moving through the detection area. They are one of the most 
+common types of intruder detection devices.
+
+---
+
+[Continue for all 30 questions]
+
+================================================================================
+END OF CHAPTER 2.6 QUESTIONS
+================================================================================
+
+Total Questions: 30
+- Easy: 12
+- Medium: 12
+- Hard: 6
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+ALARM COMPONENTS:
+- Detection devices (PIR, magnetic contacts, glass break)
+- Control panel
+- Signalling devices (bells, sirens, auto-diallers)
+
+PIR DETECTORS:
+- Passive Infrared
+- Detect body heat/movement
+- Most common motion detector
+
+CCTV:
+- Closed Circuit Television
+- Deter, detect, record, investigate
+- DVR/NVR for recording
+- Legal requirements (signage, data protection)
+
+ACCESS CONTROL:
+- Card, PIN, biometrics
+- Multi-factor more secure
+- Tailgating is a common weakness
+
+FIRE DETECTION:
+- Smoke detectors (ionisation, optical)
+- Heat detectors
+- Manual call points
+- Treat all activations as real
+
+RESPONSE TO ALARM:
+- Don't silence without checking
+- Safety first
+- Document all activations
+
+COMMON DISTRACTORS:
+- CCTV prevents crime (wrong - deters/records)
+- PIR stands for "personal" (wrong - passive)
+- Silence alarm immediately (wrong - check first)
+- Heat detectors for all areas (wrong - specific uses)
+
+================================================================================
+END OF PROMPT
+================================================================================

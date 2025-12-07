@@ -1,0 +1,258 @@
+================================================================================
+UNIT 2, CHAPTER 2.7: INCIDENT MANAGEMENT
+
+Question 1 [Easy]
+During any incident involving the principal, what must a close protection operative treat as the highest priority?
+A) Protecting members of the public
+B) Protecting team equipment and vehicles
+C) Protecting the principal’s safety
+D) Preserving the crime scene
+Correct Answer: C
+Explanation: The priority order in close protection is: principal safety first, then team safety, then others, and finally property. Everything else — including equipment, bystanders, and the crime scene — is secondary to keeping the principal safe.
+
+Question 2 [Easy]
+Which option correctly shows the stages of the OODA loop used in incident decision making?
+A) Observe – Orient – Decide – Act
+B) Observe – Decide – Orient – Act
+C) Orient – Observe – Decide – Act
+D) Observe – Decide – Act – Orient
+Correct Answer: A
+Explanation: The OODA loop is a continuous decision cycle: Observe what is happening, Orient (understand and assess), Decide on the course of action, and Act. CPOs constantly repeat this loop during incidents.
+
+Question 3 [Easy]
+In the context of close protection, what are Immediate Action Drills (IADs) designed to be?
+A) Legal powers that allow CPOs to detain suspects
+B) A set of policies kept in the operations room
+C) Radio codes for communicating with emergency services
+D) Pre‑rehearsed, automatic team responses to specific threats that require no further orders
+Correct Answer: D
+Explanation: IADs are pre‑trained, automatic responses that the team carries out instantly when a particular type of incident occurs. They do not depend on new instructions; they rely on muscle memory and practice.
+
+Question 4 [Easy]
+While walking the principal from the vehicle to a venue entrance, a man suddenly charges towards them from directly ahead. Under the “Contact Front” IAD, what should the team’s primary action be?
+A) Form a circle around the attacker and restrain him at the front
+B) Shield the principal and move them quickly to the rear while the forward element deals with the threat
+C) Push the principal towards the attacker to get them inside the venue entrance
+D) Leave the principal where they are and all team members engage the attacker
+Correct Answer: B
+Explanation: “Contact Front” means the threat is ahead. The team must cover the principal and evacuate to the rear, away from the threat, while any designated team member in front deals with or delays the attacker.
+
+Question 5 [Easy]
+Why is maintaining distance so important when dealing with an attacker armed with an edged weapon?
+A) Because knives are only dangerous at more than 10 metres
+B) Because distance makes it easier to grab the blade safely
+C) Because edged weapons are most effective at close range, so increasing distance reduces the risk to the principal
+D) Because distance makes the attacker more likely to surrender
+Correct Answer: C
+Explanation: Knives and similar weapons are close‑range threats. The more distance you create, the lower the immediate risk to the principal and team. The aim is to cover and evacuate, not to close with the weapon.
+
+Question 6 [Easy]
+A knife suddenly appears in the hand of a person standing close to the principal. What is the MOST appropriate immediate response for the CPO?
+A) Get between the attacker and principal, move the principal away while creating maximum distance from the weapon
+B) Grab the knife hand and attempt to disarm the attacker as the first priority
+C) Ignore the knife and focus only on shouting at bystanders to move away
+D) Step back to call police before taking any other action
+Correct Answer: A
+Explanation: The CPO’s job is to cover and evacuate the principal. That means placing themselves between the threat and the principal and moving the principal away, increasing distance from the knife. Disarming is a last resort if evacuation is impossible.
+
+Question 7 [Easy]
+Which of the following situations most clearly requires an emergency evacuation rather than a planned evacuation?
+A) The principal decides to leave a dinner 15 minutes early
+B) The media schedule changes and the principal must reach the studio sooner
+C) The venue manager asks the group to move rooms for a technical check
+D) A fire alarm sounds and smoke is visible in the corridor outside the function room
+Correct Answer: D
+Explanation: An emergency evacuation is used when there is an immediate threat to life, such as a fire with visible smoke. The other options involve routine or controlled changes that can be handled by planned movement.
+
+Question 8 [Easy]
+In close protection incident management, what is meant by a “fighting withdrawal”?
+A) Standing still and fighting until the threat is completely defeated
+B) Moving away from the threat with the principal while team members provide protection and respond as necessary
+C) Sending the principal ahead alone while the team stays to fight
+D) Leaving the principal in place while the team withdraws to safety
+Correct Answer: B
+Explanation: A fighting withdrawal means withdrawing while under attack, using cover and movement. The team moves the principal away from danger while providing whatever defensive actions are necessary to enable that withdrawal.
+
+Question 9 [Easy]
+At a reception, the principal suddenly collapses and is lying on the floor. What should the CPO do FIRST?
+A) Immediately carry the principal to the convoy vehicle
+B) Begin filling out an incident report so details are not forgotten
+C) Quickly assess what has happened and check for any immediate dangers before starting first aid
+D) Ask the hotel staff to take over while the team returns the principal’s guests to their seats
+Correct Answer: C
+Explanation: In a medical emergency, the CPO should assess the situation and check for dangers before starting first aid. This aligns with first‑aid principles (danger, response, airway, etc.) and ensures the principal and team are not exposed to further risk.
+
+Question 10 [Easy]
+During a fire in a multi‑storey building, what is the safest way for a CPO to evacuate the principal?
+A) Use the nearest safe stairwell and avoid lifts
+B) Use the lift so the principal does not become tired
+C) Wait on the floor until smoke becomes visible, then run for the lift
+D) Send the principal down alone to avoid drawing attention
+Correct Answer: A
+Explanation: Fire procedures state “don’t use lifts” during a fire. The safest method is to escort the principal via the nearest safe stairwell, closing doors where possible to reduce smoke spread.
+
+Question 11 [Medium]
+After a brief unarmed assault on the principal in a hotel lobby, the principal has been moved to a safe room and the attacker has fled. A dropped knife is lying on the floor and several items of property are scattered nearby. What is the BEST action for the CPO regarding the scene?
+A) Pick up the knife using a cloth and place it on a table for the police
+B) Prevent anyone entering the area, avoid touching items, and record observations until police arrive
+C) Collect the principal’s belongings and tidy the area so the hotel can reopen
+D) Move all items into a single pile to make them easier for police to examine
+Correct Answer: B
+Explanation: Post‑incident, the CPO should preserve evidence and maintain scene integrity. That means stopping others entering, not touching potential evidence, and recording details for the report and police, rather than moving or tidying items.
+
+Question 12 [Medium]
+While escorting the principal through a conference centre, the team hears what sounds like gunfire and sees people running towards them in panic. There is a clearly signed exit door leading away from the noise. According to “Run, Hide, Tell” guidance, what should the team do FIRST?
+A) Stay where they are and phone 999 to report the possible shooting
+B) Move the principal into a nearby office, lock the door and wait for instructions
+C) Take cover and try to observe the attacker’s description before moving
+D) Immediately evacuate the principal through the safe exit route, leaving belongings behind
+Correct Answer: D
+Explanation: In an active shooter or terrorist incident, guidance is Run, Hide, Tell. If it is safe to do so, the priority is to run/evacuate away from danger, especially with a principal, and leave reporting (“tell”) until you are in a safe location.
+
+Question 13 [Medium]
+As the principal exits a building, a person 20 metres ahead produces a handgun and points it towards the entrance. What is the MOST appropriate immediate action for the CPO team?
+A) Stand in the open and shout at the gunman to drop the weapon
+B) Rush straight towards the gunman to try to disarm them
+C) Force the principal down and behind solid cover, moving away from the shooter while maintaining protection
+D) Turn the principal around and walk calmly back into the building without changing pace
+Correct Answer: C
+Explanation: With a firearm threat, the priorities are cover and evacuation. The CPO should get the principal low and behind solid cover and move away from the shooter. Engaging the threat directly is only a last resort if it is necessary to enable evacuation.
+
+Question 14 [Medium]
+At an outdoor event, the principal is greeting guests near a road when a car suddenly accelerates and appears to be steering towards the group. What should the CPO do IMMEDIATELY?
+A) Move the principal rapidly sideways out of the vehicle’s path towards the nearest cover
+B) Stand in front of the vehicle and signal it to stop
+C) Move the principal directly towards the approaching vehicle to reach the opposite pavement
+D) Leave the principal where they are and attempt to film the vehicle for evidence
+Correct Answer: A
+Explanation: In a vehicle attack, the quickest way to reduce risk is to move laterally out of the vehicle’s path, not to outrun it in a straight line. The CPO must rapidly move the principal sideways to safety and cover.
+
+Question 15 [Medium]
+The team is walking the principal along a pavement when an aggressive crowd suddenly forms on the left side, moving towards them. The team leader shouts, “Evacuate right!” What does this command require the team to do?
+A) Move the principal towards the crowd to get inside a nearby shop
+B) Shield the principal and move them quickly to the right, away from the threat
+C) Stop in place and form a full 360‑degree cordon around the principal
+D) Split the team, with half going left and half going right to scout routes
+Correct Answer: B
+Explanation: Evacuation commands are directional: “Evacuate right” means move the principal away from the threat to the right, under cover from the team. It is a simple, pre‑agreed phrase to trigger immediate movement.
+
+Question 16 [Medium]
+An argument in a restaurant rapidly escalates into a violent fight close to the principal’s table. The team has a pre‑positioned vehicle waiting at a nearby side entrance and the route to it is currently clear. Which option BEST applies close protection evacuation principles?
+A) Wait until the fight ends to avoid drawing attention to the principal
+B) Ask the principal to finish their meal quickly, then leave via the main entrance
+C) Move the principal to an upstairs private room and remain there until police arrive
+D) Under cover, move the principal via the pre‑planned route to the vehicle and conduct an emergency embus to evacuate to safety
+Correct Answer: D
+Explanation: With a developing threat and a clear route to a ready vehicle, the team should apply emergency evacuation by vehicle: move the principal under cover to the side entrance, perform an emergency embus, and depart along a pre‑planned route.
+
+Question 17 [Medium]
+During a speech, the principal suddenly collapses on stage and appears unresponsive. The area around the stage is crowded but there is no ongoing security threat. What is the MOST appropriate immediate response by the close protection team?
+A) Carry the principal off stage and straight into the convoy without assessment
+B) Focus solely on pushing the audience back and wait for venue medics to arrive
+C) Secure the immediate area around the principal, quickly assess responsiveness and breathing, and direct a team member to call 999
+D) Leave the principal with event staff while the team escorts guests out of the venue
+Correct Answer: C
+Explanation: The team must balance medical response and security. They should secure the area around the principal, perform an initial assessment (response and breathing), and ensure 999 is called, while maintaining protection.
+
+Question 18 [Medium]
+While driving the principal on a motorway, the CPO notices smoke and flames coming from under the bonnet. What is the BEST immediate course of action?
+A) Continue driving until the next service station, where there will be fire extinguishers
+B) Pull over safely, stop the vehicle, evacuate everyone away from it and call emergency services
+C) Stop the vehicle and immediately open the bonnet to see how bad the fire is
+D) Ask the principal to remain inside the vehicle with doors closed to avoid smoke
+Correct Answer: B
+Explanation: For a vehicle fire, the guidance is to stop, evacuate, move away from the vehicle, and call emergency services. Opening the bonnet can worsen the fire, and remaining in or near the vehicle risks injury or explosion.
+
+Question 19 [Medium]
+During an advance route reconnaissance, the CPO observes growing crowds with banners, police officers deploying barriers and media cameras setting up along the planned route. What is the MOST appropriate action?
+A) Recommend changing the route or schedule to avoid the area and reduce risk to the principal
+B) Proceed with the planned route but ask the police to move the protesters
+C) Cancel all movements for the day and instruct the principal to stay at home indefinitely
+D) Ignore the signs, as demonstrations are always peaceful if police are present
+Correct Answer: A
+Explanation: These are classic indicators of civil unrest/protest. The safest option in close protection is avoidance where possible: adjust the route or schedule to keep the principal away from potential disorder.
+
+Question 20 [Medium]
+The principal’s vehicle becomes surrounded by a slow‑moving but increasingly agitated crowd during a demonstration. What should the driver do in line with civil unrest guidance?
+A) Get out and argue with the crowd to clear a path
+B) Sound the horn repeatedly and accelerate hard to break through
+C) Open a window to explain that a VIP is inside and ask for help
+D) Keep doors locked and windows closed, continue moving slowly if safe, and look for an opportunity to leave the area
+Correct Answer: D
+Explanation: When caught in a crowd, the key principles are doors locked, windows up, keep moving slowly if safe, and look for a way to exit the area without provoking the crowd or causing unnecessary injury.
+
+Question 21 [Hard]
+The principal is in a hotel foyer when a loud explosion is heard outside, people start screaming from behind, and a man is seen running towards the entrance from the front. Threats seem to be coming from several directions at once. Which immediate action BEST reflects a “Contact 360” response?
+A) Split the team in all directions to chase down each possible threat
+B) Rush the principal straight out through the main entrance, regardless of what is happening outside
+C) Close in tightly around the principal, move them to the best available cover nearby, and be prepared to fight out or hold until support arrives
+D) Leave the principal with hotel staff and go to investigate the explosion
+Correct Answer: C
+Explanation: “Contact 360” means potential threats in all directions. The team should maximise cover around the principal, move them to the best available nearby protection, and then either fight out or hold for support, rather than running blindly into unknown danger.
+
+Question 22 [Hard]
+During a visit to a shopping centre, the CPO hears multiple gunshots from different areas and sees crowds running in several directions. The exits nearest the principal appear to lead towards the noise, and attackers have not been located. According to guidance for marauding terrorist attacks, what is the MOST appropriate immediate action?
+A) Move the principal towards the sounds of gunfire to help locate the attackers for police
+B) Take the principal into a secure back room or staff area, lock or barricade the door, silence phones and prepare to contact police when safe
+C) Leave the principal in a quiet corner and go alone to gather information on the attackers
+D) Stand in the open to direct panicking shoppers while waiting for armed police to arrive
+Correct Answer: B
+Explanation: In a marauding terrorist attack where running is not clearly safe, the next step is to hide: find cover/concealment, barricade if possible, stay quiet with phones on silent, and then tell (call 999) when it is safe to do so.
+
+Question 23 [Hard]
+In a hotel corridor, a close protection team member collapses with suspected cardiac arrest. The principal is in a nearby suite, ready to depart, protected by the team leader and one other CPO (the casualty). There are no other security resources on site. What is the MOST appropriate response?
+A) All remaining staff focus on resuscitating the team member, leaving the principal alone in the suite
+B) Escort the principal immediately to the vehicle and depart, leaving hotel staff to deal with the collapsed team member
+C) Cancel the principal’s movement and wait in the suite until an ambulance arrives, without giving first aid
+D) Keep one CPO with the principal to maintain protection while the other starts CPR and calls emergency services for the collapsed team member
+Correct Answer: D
+Explanation: The principal remains the priority, but team members are also important. The correct approach is to maintain protection for the principal while another team member provides first aid and calls emergency services for the casualty, rather than abandoning either.
+
+Question 24 [Hard]
+A serious fire breaks out in a high‑rise hotel where the principal is staying on the 15th floor. Smoke is filling the corridor and the escape route to the stairs is blocked by flames. It is not safe to enter the corridor. What should the close protection team do with the principal?
+A) Stay in the room, close doors, block gaps with wet towels or clothing, stay low, and signal to rescuers from the window if possible
+B) Use the lift immediately before it stops working, as it is the quickest way down
+C) Break a window and attempt to climb down the outside of the building using sheets
+D) Move into the smoke‑filled corridor and run for the stairwell as fast as possible
+Correct Answer: A
+Explanation: When escape routes are blocked by fire, the guidance is to shelter in place: close doors, block gaps, stay low to avoid smoke, and signal to rescuers. Using lifts, entering heavy smoke, or climbing outside the building is extremely dangerous.
+
+Question 25 [Hard]
+After an attempted shooting at an outdoor event, the principal has been urgently evacuated to a secure location and appears unharmed but shaken. Police have secured the original scene and request immediate detailed statements from all team members on arrival. What should the team leader prioritise NEXT?
+A) Allow each team member to give separate, informal statements before checking on the principal
+B) Return immediately to the scene to look for additional evidence before speaking to the principal
+C) Ensure the principal’s safety and welfare in the secure location, confirm the team is accounted for, then coordinate formal reporting to police and completion of written incident reports
+D) Refuse to speak to the police under any circumstances to avoid compromising future legal proceedings
+Correct Answer: C
+Explanation: Even post‑incident, the principal’s safety and welfare remain the priority. The team leader must confirm the principal is secure and the team is accounted for, then manage professional liaison with police and formal documentation of the incident.
+
+================================================================================
+END OF CHAPTER 2.7 QUESTIONS
+Total Questions: 25
+
+
+Easy: 10
+
+
+Medium: 10
+
+
+Hard: 5
+
+
+Answer Distribution:
+
+
+Correct answer A: 6 questions
+
+
+Correct answer B: 6 questions
+
+
+Correct answer C: 7 questions
+
+
+Correct answer D: 6 questions
+
+
+================================================================================

@@ -1,0 +1,717 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 1, CHAPTER 1.6
+SEARCH PROCEDURES
+================================================================================
+
+YOUR TASK
+---------
+Generate 22 high-quality Multiple Choice Questions (MCQs) for Chapter 1.6 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 5-6 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE EXAM
+--------
+Unit 1: Principles of Working as a Close Protection Operative
+- 52 multiple choice questions
+- 80 minutes duration
+- 70% pass mark (37 correct answers required)
+- This chapter (1.6) is one of 7 chapters in Unit 1
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Search procedures are essential for identifying threats before they can 
+harm the principal. CPOs must know how to search people, vehicles, and 
+premises systematically and safely. Effective searches can detect weapons,
+explosive devices, tracking equipment, and other threats.
+
+================================================================================
+CHAPTER 1.6: SEARCH PROCEDURES - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 22
+- Easy (direct recall): 9 questions
+- Medium (application): 9 questions
+- Hard (scenario-based): 4 questions
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.1: PRINCIPLES OF SEARCHING
+--------------------------------------------------------------------------------
+
+Purpose of Searching:
+- Detect threats before harm
+- Weapons detection
+- Explosive device detection
+- Tracking device detection
+- Contraband identification
+- Security assurance
+
+Legal Considerations:
+
+CONSENT:
+- Searching requires consent (generally)
+- Or legal authority
+- CPOs have NO special powers
+- Voluntary agreement needed
+- Right to refuse
+
+CONDITIONS OF ENTRY:
+- Private premises can require search
+- Condition of access
+- Consent through acceptance
+- Refuse entry if declined
+
+WITHOUT CONSENT:
+- Only with lawful authority
+- Arrest situations
+- Police powers
+- Emergency (imminent threat)
+
+Professional Standards:
+- Treat with dignity
+- Explain process
+- Same-sex searcher (personal)
+- Witness present
+- Document everything
+
+Search Philosophy:
+- Systematic approach
+- Nothing overlooked
+- Consistent method
+- Time and thoroughness balance
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.2: PERSONAL SEARCHES
+--------------------------------------------------------------------------------
+
+Types of Personal Search:
+
+VISUAL/OBSERVATION:
+- Looking at person
+- Clothing assessment
+- Behaviour observation
+- Bulges or anomalies
+
+PAT-DOWN/FRISK:
+- Physical contact
+- Through clothing
+- Requires consent
+- Same-sex searcher
+
+ELECTRONIC:
+- Metal detectors
+- Hand-held wands
+- Walk-through scanners
+- Non-contact
+
+BAG/BELONGINGS:
+- Personal items
+- Bags and cases
+- Less intrusive
+- Often accepted
+
+Pat-Down Procedure:
+
+PREPARATION:
+- Explain what you're doing
+- Obtain consent
+- Same-sex searcher
+- Witness present
+- Gloves worn
+
+SYSTEMATIC APPROACH:
+- Head to toe
+- Or toe to head
+- Consistent method
+- Nothing missed
+
+TECHNIQUE:
+- Use palms not fingers
+- Firm but not aggressive
+- Check all areas
+- Collar, waistband, socks
+- Inside of arms and legs
+
+AREAS TO CHECK:
+- Head/hair
+- Collar and neck
+- Chest and back
+- Arms (inner and outer)
+- Waistband
+- Groin area (carefully)
+- Legs (inner and outer)
+- Ankles and socks
+- Footwear
+
+If Item Found:
+- Stop immediately
+- Do not handle weapons
+- Call for assistance
+- Isolate person
+- Contact police if necessary
+- Preserve evidence
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.3: VEHICLE SEARCHES
+--------------------------------------------------------------------------------
+
+Why Search Vehicles:
+- Weapon concealment
+- Explosive devices (VBIED)
+- Tracking devices
+- Listening devices
+- Contraband
+
+When to Search:
+- Before principal uses
+- After unattended
+- Routine checks
+- Intelligence received
+- Arriving at secure area
+
+External Search:
+
+APPROACH:
+- From distance first
+- Look for obvious signs
+- Unusual items
+- Damage or tampering
+
+SYSTEMATIC CHECK:
+- Walk around vehicle
+- Underneath (mirrors/camera)
+- Wheel arches
+- Bumpers
+- Exhaust
+
+LOOKING FOR:
+- Unusual packages
+- Wires
+- Tape or attachments
+- Damage to locks
+- Signs of entry
+
+Internal Search:
+
+BEFORE ENTERING:
+- Check door handles
+- Look through windows
+- Check seats visible
+- Any unusual items
+
+INSIDE CHECK:
+- Seats and under
+- Glove compartment
+- Sun visors
+- Door pockets
+- Under floor mats
+- Behind panels
+- Boot/trunk thoroughly
+
+Engine Compartment:
+- Check bonnet latch
+- Open carefully
+- Visual inspection
+- Look for additions
+- Check against baseline
+
+Undercarriage:
+- Use mirror on pole
+- Torch/flashlight
+- Systematic pattern
+- Check attachment points
+- Track normal appearance
+
+Vehicle Search Pattern:
+- Outside → Inside → Engine → Underneath
+- Systematic coverage
+- Document findings
+- Time considerations
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.4: PREMISES AND VENUE SEARCHES
+--------------------------------------------------------------------------------
+
+Purpose:
+- Clear venue before principal
+- Identify threats
+- Remove hazards
+- Establish secure environment
+
+Types of Premises Search:
+
+SWEEP:
+- Quick clearance
+- Prior to arrival
+- Key areas focus
+- Time-limited
+
+DETAILED SEARCH:
+- Thorough examination
+- All areas checked
+- Time-consuming
+- High-threat situations
+
+SPECIALIST SEARCH:
+- Explosive detection dogs
+- Electronic sweeps (TSCM)
+- Professional searchers
+- Police involvement
+
+Search Planning:
+
+BEFORE SEARCH:
+- Floor plans
+- Key areas identified
+- Team allocation
+- Time available
+- Search pattern agreed
+
+RESOURCES:
+- Sufficient personnel
+- Equipment needed
+- Communication
+- Documentation
+
+Areas to Search:
+
+ENTRY/EXIT POINTS:
+- All doors
+- Windows
+- Emergency exits
+- Service entrances
+
+PUBLIC AREAS:
+- Reception
+- Corridors
+- Toilets
+- Waiting areas
+
+ROOMS:
+- Principal will use
+- Adjacent rooms
+- Above and below
+- Storage areas
+
+HIDDEN AREAS:
+- Ceiling voids
+- Under flooring
+- Behind panels
+- Service ducts
+
+Room Search Technique:
+
+1. ENTRY:
+   - Enter carefully
+   - Initial observation
+   - Note layout
+
+2. PERIMETER:
+   - Around the edges
+   - Walls, windows, doors
+   - Floor to ceiling
+
+3. CENTRE:
+   - Move inward
+   - Furniture
+   - Floor area
+
+4. ABOVE:
+   - Ceiling
+   - Light fittings
+   - Vents
+   - Above furniture
+
+Search Pattern:
+- Floor to waist
+- Waist to head
+- Above head to ceiling
+- Systematic and complete
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.5: IED AWARENESS AND THE HOT PROTOCOL
+--------------------------------------------------------------------------------
+
+What is an IED:
+- Improvised Explosive Device
+- Home-made bomb
+- Various forms
+- Concealed in ordinary items
+
+Types of IED:
+
+VEHICLE-BORNE (VBIED):
+- In vehicles
+- Large capacity
+- Major threat
+- Parking security
+
+PERSON-BORNE (PBIED):
+- Suicide bomber
+- Worn on body
+- Direct attack
+- Immediate threat
+
+PACKAGE/OBJECT:
+- Bags, boxes
+- Ordinary appearance
+- Concealed
+- Left unattended
+
+LETTER/MAIL:
+- Through postal system
+- Small explosive
+- Targeted delivery
+
+IED Indicators:
+
+VISUAL:
+- Wires visible
+- Unusual devices
+- Modified containers
+- Batteries
+- Electronic components
+
+CONTEXTUAL:
+- Unattended item
+- No owner nearby
+- Wrong place
+- Unusual location
+
+BEHAVIOURAL:
+- Person leaving item
+- Quick departure
+- Nervous behaviour
+- Oversized clothing
+
+The HOT Protocol:
+
+H - Has it been HIDDEN or is it obviously concealed?
+O - Is it OBVIOUSLY suspicious?
+T - Is it TYPICAL for this location?
+
+If answers suggest concern → REPORT, DO NOT TOUCH
+
+Actions if Suspicious Item Found:
+
+DO NOT:
+- Touch it
+- Move it
+- Use radio near it
+- Allow others near
+- Panic
+
+DO:
+- Move away calmly
+- Clear the area
+- Report immediately
+- Call police
+- Establish cordon
+- Wait for experts
+
+Cordon Distances:
+- Minimum 100 metres for small
+- 200-400 metres for VBIED
+- Police will advise
+- Consider shrapnel, glass
+- Evacuate principal first
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.6: TECHNICAL SURVEILLANCE COUNTERMEASURES (TSCM)
+--------------------------------------------------------------------------------
+
+What is TSCM:
+- Sweeping for bugs/devices
+- Electronic detection
+- Physical search
+- Protecting conversations
+
+When TSCM Required:
+- High-value principals
+- Sensitive discussions
+- Intelligence indicates threat
+- New/unfamiliar premises
+- Regular basis for some
+
+Types of Devices to Find:
+
+AUDIO:
+- Microphones
+- Transmitters
+- Recording devices
+- Phone taps
+
+VISUAL:
+- Hidden cameras
+- Pinhole cameras
+- Recording devices
+
+TRACKING:
+- GPS devices
+- On vehicles
+- In belongings
+
+TSCM Methods:
+
+PHYSICAL SEARCH:
+- Visual inspection
+- Systematic search
+- Common hiding places
+
+ELECTRONIC SWEEP:
+- RF detection
+- Non-linear junction detection
+- Spectrum analysis
+- Specialist equipment
+
+TELEPHONE ANALYSIS:
+- Line testing
+- Handset inspection
+- VoIP security
+
+Professional TSCM:
+- Specialist companies
+- Trained operatives
+- Expensive equipment
+- Regular sweeps
+- Reporting and advice
+
+CPO Role in TSCM:
+- Awareness of need
+- Basic visual checks
+- Recognise indicators
+- Commission professionals
+- Implement findings
+
+--------------------------------------------------------------------------------
+TOPIC 1.6.7: SEARCH DOCUMENTATION AND REPORTING
+--------------------------------------------------------------------------------
+
+Why Document:
+- Legal record
+- Evidence if needed
+- Accountability
+- Pattern identification
+- Quality assurance
+
+What to Document:
+
+SEARCH RECORD:
+- Date and time
+- Location
+- Who searched
+- Method used
+- Findings
+- Action taken
+
+ITEM FOUND:
+- Description
+- Location found
+- Who found
+- Action taken
+- Chain of custody
+
+REFUSED SEARCH:
+- Who refused
+- What was explained
+- Action taken
+- Entry denied/allowed
+
+Reporting:
+- Immediate verbal report
+- Written record
+- Team Leader informed
+- Client notification if needed
+- Police if criminal
+
+Evidence Handling:
+- Minimise handling
+- Preserve condition
+- Chain of custody
+- Photograph if possible
+- Secure storage
+
+Post-Search:
+- Debrief
+- Lessons learned
+- Procedure review
+- Equipment check
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 22
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 9 questions (40%)
+- Medium (application): 9 questions (40%)
+- Hard (scenario-based): 4 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 5-6 questions
+- Correct answer B: 5-6 questions
+- Correct answer C: 5-6 questions
+- Correct answer D: 5-6 questions
+
+TOPICS TO COVER:
+□ Principles of searching (2-3 questions)
+□ Personal searches (4-5 questions)
+□ Vehicle searches (4-5 questions)
+□ Premises searches (3-4 questions)
+□ IED awareness and HOT protocol (4-5 questions)
+□ TSCM (2-3 questions)
+□ Documentation (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 1, CHAPTER 1.6: SEARCH PROCEDURES
+================================================================================
+
+Question 1 [Easy]
+What does HOT stand for when assessing a suspicious item?
+
+A) Hostile, Obvious, Threatening
+B) Hidden, Obviously suspicious, Typical for location
+C) Handle, Observe, Tell
+D) Hazardous, Out of place, Threatening
+
+Correct Answer: B
+
+Explanation: HOT stands for: Has it been Hidden? Is it Obviously suspicious? 
+Is it Typical for this location? This protocol helps assess whether an 
+unattended item warrants concern. If the answers suggest it's hidden, 
+obviously suspicious, or not typical, it should be reported without touching.
+
+---
+
+[Continue for all 22 questions]
+
+================================================================================
+END OF CHAPTER 1.6 QUESTIONS
+================================================================================
+
+Total Questions: 22
+- Easy: 9
+- Medium: 9
+- Hard: 4
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+HOT PROTOCOL:
+- H = Has it been HIDDEN?
+- O = Is it OBVIOUSLY suspicious?
+- T = Is it TYPICAL for this location?
+
+PERSONAL SEARCH REQUIREMENTS:
+- Consent required
+- Same-sex searcher
+- Witness present
+- Systematic approach
+- Treat with dignity
+
+PERSONAL SEARCH ORDER:
+- Head to toe OR toe to head
+- Consistent method
+- Nothing missed
+
+VEHICLE SEARCH ORDER:
+- Outside → Inside → Engine → Underneath
+- Use mirror for undercarriage
+- Check wheel arches, bumpers, exhaust
+
+ROOM SEARCH PATTERN:
+- Floor to waist
+- Waist to head
+- Above head to ceiling
+- Perimeter then centre
+
+IED TYPES:
+- VBIED (Vehicle-Borne)
+- PBIED (Person-Borne)
+- Package/Object
+- Letter/Mail
+
+IF SUSPICIOUS ITEM FOUND:
+- DO NOT touch
+- DO NOT use radio near it
+- Move away calmly
+- Clear the area
+- Report immediately
+- Call police
+
+TSCM:
+- Technical Surveillance Countermeasures
+- Sweeping for bugs/devices
+- Specialist service
+- Regular for high-value principals
+
+LEGAL AUTHORITY TO SEARCH:
+- CPOs have NO special powers
+- Consent required
+- Or conditions of entry
+- Or lawful arrest
+
+COMMON DISTRACTORS:
+- CPOs can search without consent (wrong - need consent)
+- Move suspicious items to safe place (wrong - DO NOT touch)
+- HOT = Handle, Observe, Tell (wrong)
+- Use radio to report suspicious item (wrong - radio can trigger IED)
+- Search from top down only (wrong - either direction, consistent)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "Before the principal enters a vehicle that has been unattended..."
+- "A suspicious package is found in the venue. The CPO should..."
+- "When conducting a personal search, the CPO must ensure..."
+- "Using the HOT protocol, an unattended briefcase in a toilet should..."
+- "The vehicle search should be conducted in what order..."
+- "If a person refuses to be searched as a condition of entry..."
+- "TSCM should be conducted when..."
+
+================================================================================
+END OF PROMPT
+================================================================================

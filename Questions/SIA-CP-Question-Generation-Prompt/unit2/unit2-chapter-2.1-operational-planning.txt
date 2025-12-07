@@ -1,0 +1,721 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 2, CHAPTER 2.1
+OPERATIONAL PLANNING
+================================================================================
+
+YOUR TASK
+---------
+Generate 25 high-quality Multiple Choice Questions (MCQs) for Chapter 2.1 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 6-7 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE EXAM
+--------
+Unit 2: Working as a Close Protection Operative
+- 30 multiple choice questions
+- 45 minutes duration
+- 70% pass mark (21 correct answers required)
+- This chapter (2.1) is one of 8 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Operational planning is the foundation of successful CP operations. Proper 
+planning prevents poor performance. CPOs must understand how to plan 
+operations systematically, write operational orders, conduct briefings, 
+and develop contingency plans for when things go wrong.
+
+================================================================================
+CHAPTER 2.1: OPERATIONAL PLANNING - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 25
+- Easy (direct recall): 10 questions
+- Medium (application): 10 questions
+- Hard (scenario-based): 5 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.1: THE PLANNING CYCLE
+--------------------------------------------------------------------------------
+
+Why Planning Matters:
+- Ensures mission success
+- Reduces risk to principal
+- Coordinates team efforts
+- Prepares for contingencies
+- Professional standard
+
+The Planning Process:
+
+1. RECEIVE THE TASK:
+   - Client brief
+   - Principal requirements
+   - Dates and locations
+   - Resources available
+   - Budget constraints
+
+2. GATHER INFORMATION:
+   - Principal profile
+   - Threat assessment
+   - Venue information
+   - Route options
+   - Local intelligence
+
+3. ANALYSE:
+   - Risk assessment
+   - Resource requirements
+   - Timeline development
+   - Options comparison
+   - Constraints identified
+
+4. DEVELOP PLAN:
+   - Concept of operations
+   - Detailed tasks
+   - Timings
+   - Communications
+   - Contingencies
+
+5. PRODUCE ORDERS:
+   - Written operational order
+   - Maps and diagrams
+   - Contact details
+   - Distribution
+
+6. BRIEF THE TEAM:
+   - Deliver briefing
+   - Confirm understanding
+   - Issue orders
+   - Equipment check
+   - Questions
+
+7. EXECUTE:
+   - Implement plan
+   - Monitor progress
+   - Adapt as needed
+   - Communicate changes
+
+8. REVIEW:
+   - Debrief
+   - Lessons learned
+   - Documentation
+   - Improvements identified
+
+Time Available:
+- Planning takes time
+- More complex = more time
+- Last minute = risk
+- Ongoing operations = continuous planning
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.2: OPERATIONAL ORDERS (OP ORDERS)
+--------------------------------------------------------------------------------
+
+Purpose of Op Orders:
+- Document the plan
+- Communicate to team
+- Reference during operation
+- Accountability
+- Legal record
+
+Standard Format - Five Paragraph Order:
+
+1. SITUATION:
+   - Background
+   - Principal details
+   - Threat assessment
+   - Friendly forces (who's helping)
+   - Attachments/detachments
+
+2. MISSION:
+   - Clear statement
+   - What we will do
+   - When and where
+   - Purpose/effect
+
+3. EXECUTION:
+   - Concept of operations
+   - Detailed tasks
+   - Coordinating instructions
+   - Timings
+   - Actions on
+
+4. SERVICE SUPPORT:
+   - Equipment
+   - Dress code
+   - Transport
+   - Medical
+   - Meals/accommodation
+
+5. COMMAND AND SIGNALS:
+   - Chain of command
+   - Communications plan
+   - Radio frequencies
+   - Call signs
+   - Code words
+   - Reporting
+
+Writing Clear Orders:
+- Simple language
+- Unambiguous
+- Task, conditions, standards
+- Who, what, when, where, why
+- Measurable outcomes
+
+Distribution:
+- Need to know basis
+- Secure handling
+- Confirmed receipt
+- Updates distributed
+- Version control
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.3: STANDARD OPERATING PROCEDURES (SOPs)
+--------------------------------------------------------------------------------
+
+What are SOPs:
+- Pre-agreed procedures
+- Routine situations
+- No orders needed
+- Team knows automatically
+- Consistency
+
+Purpose of SOPs:
+- Speed of response
+- Reduced communication
+- Consistency
+- Training standard
+- Professional operations
+
+Types of SOPs:
+
+MOVEMENT SOPs:
+- Formation drills
+- Vehicle procedures
+- Route changes
+- Arrival/departure
+
+EMERGENCY SOPs:
+- Contact drills
+- Evacuation
+- Medical emergency
+- Fire
+
+COMMUNICATION SOPs:
+- Radio procedures
+- Reporting format
+- Check times
+- Code words
+
+ADMINISTRATIVE SOPs:
+- Shift changes
+- Equipment checks
+- Documentation
+- Handover
+
+SOP vs Op Order:
+- SOP = how we always do it
+- Op Order = specific to this task
+- SOPs reduce Op Order length
+- Reference SOPs in orders
+- "IAW SOP" (In Accordance With)
+
+Developing SOPs:
+- Based on best practice
+- Team input
+- Tested and refined
+- Documented
+- Trained regularly
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.4: EMERGENCY OPERATING PROCEDURES (EOPs)
+--------------------------------------------------------------------------------
+
+What are EOPs:
+- Response to emergencies
+- Pre-planned actions
+- Immediate implementation
+- Life-threatening situations
+
+Difference from SOPs:
+- SOP = routine operations
+- EOP = emergency response
+- EOP activated by trigger
+- Often time-critical
+- Higher stress
+
+Types of EOPs:
+
+ATTACK EOP:
+- Armed attack
+- Unarmed attack
+- Vehicle attack
+- IED/bomb
+
+MEDICAL EOP:
+- Principal medical emergency
+- Team member injury
+- Bystander emergency
+- Evacuation to hospital
+
+FIRE/EVACUATION EOP:
+- Building fire
+- Emergency evacuation
+- Assembly points
+- Principal safety
+
+VEHICLE EOP:
+- Accident
+- Ambush
+- Vehicle failure
+- Route blocked
+
+COMMUNICATION EOP:
+- Radio failure
+- Lost contact
+- Emergency signals
+- Rally points
+
+EOP Components:
+- Trigger (what activates it)
+- Immediate actions
+- Roles and responsibilities
+- Communication
+- Recovery/continuation
+
+Transitioning SOP to EOP:
+- Recognition of trigger
+- Clear communication
+- Immediate action
+- Team coordination
+- Principal safety priority
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.5: CONTINGENCY PLANNING
+--------------------------------------------------------------------------------
+
+What is Contingency Planning:
+- Planning for "what if"
+- Alternative actions
+- When plan fails
+- Unexpected events
+
+Why Contingencies Matter:
+- No plan survives contact
+- Things go wrong
+- Adaptability required
+- Reduces reaction time
+- Professional standard
+
+Types of Contingencies:
+
+ROUTE CONTINGENCIES:
+- Primary route blocked
+- Traffic problems
+- Accident ahead
+- Alternate routes
+
+VENUE CONTINGENCIES:
+- Venue compromised
+- Change of location
+- Security breach
+- Weather impact
+
+PERSONNEL CONTINGENCIES:
+- Team member illness
+- Injury during operation
+- Principal unavailable
+- Resource shortage
+
+THREAT CONTINGENCIES:
+- Elevated threat
+- Specific intelligence
+- Surveillance detected
+- Attack imminent
+
+MEDICAL CONTINGENCIES:
+- Hospital locations
+- Medical facilities
+- Doctor on call
+- Medication needs
+
+"Actions On" Planning:
+- Actions on attack
+- Actions on accident
+- Actions on medical emergency
+- Actions on fire
+- Actions on lost comms
+
+Contingency Documentation:
+- Part of Op Order
+- Briefed to team
+- Locations known
+- Contact numbers ready
+- Equipment prepared
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.6: BRIEFINGS
+--------------------------------------------------------------------------------
+
+Purpose of Briefings:
+- Communicate plan
+- Ensure understanding
+- Coordinate team
+- Confirm readiness
+- Opportunity for questions
+
+Types of Briefings:
+
+INITIAL BRIEF:
+- Full operation overview
+- Complete Op Order
+- All team members
+- Detailed information
+
+CONFIRMATORY BRIEF:
+- Before execution
+- Confirm key points
+- Any changes
+- Final questions
+- Equipment check
+
+UPDATE BRIEF:
+- During operation
+- New information
+- Plan changes
+- Continuing guidance
+
+SPECIALIST BRIEF:
+- Specific roles
+- Technical information
+- Individual tasks
+- Coordination points
+
+Briefing Structure:
+
+OPENING:
+- Get attention
+- State purpose
+- Outline structure
+
+BODY:
+- Situation
+- Mission
+- Execution
+- Support
+- Communications
+
+CLOSING:
+- Summary key points
+- Confirm understanding
+- Questions
+- Time check
+- Synchronise watches
+
+Briefing Techniques:
+- Clear and confident
+- Logical sequence
+- Visual aids (maps, diagrams)
+- Check understanding
+- Allow questions
+- Written backup
+
+Common Briefing Errors:
+- Too much detail
+- Unclear priorities
+- No questions allowed
+- Running over time
+- Assuming understanding
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.7: DEBRIEFINGS
+--------------------------------------------------------------------------------
+
+Purpose of Debriefings:
+- Review operation
+- Identify lessons
+- Improve future ops
+- Team feedback
+- Documentation
+
+When to Debrief:
+- After every operation
+- After significant incidents
+- At shift change
+- Periodic reviews
+- Training exercises
+
+Debrief Structure:
+
+1. WHAT WAS PLANNED:
+   - Original objectives
+   - Tasks assigned
+   - Expected outcomes
+
+2. WHAT HAPPENED:
+   - Actual events
+   - Sequence of actions
+   - Deviations from plan
+
+3. WHY:
+   - Reasons for success
+   - Causes of problems
+   - External factors
+
+4. LESSONS LEARNED:
+   - What worked well
+   - What needs improvement
+   - Recommendations
+
+5. ACTIONS:
+   - Changes to implement
+   - Training needs
+   - SOP updates
+   - Follow-up required
+
+Debrief Principles:
+- No blame culture
+- Honest assessment
+- Everyone contributes
+- Focus on improvement
+- Document outcomes
+
+Hot Debrief:
+- Immediately after
+- Quick key points
+- While fresh
+- Brief format
+
+Cold Debrief:
+- Later, more formal
+- Full analysis
+- Written record
+- More objective
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.8: COORDINATION AND LIAISON
+--------------------------------------------------------------------------------
+
+Internal Coordination:
+- Within CP team
+- Role clarity
+- Communication channels
+- Handover procedures
+- Shift patterns
+
+External Liaison:
+
+POLICE:
+- Notification of movements
+- Escort requests
+- Intelligence sharing
+- Emergency response
+
+VENUE SECURITY:
+- Advance coordination
+- Access arrangements
+- Communication links
+- Emergency procedures
+
+CLIENT STAFF:
+- Personal assistants
+- Domestic staff
+- Drivers (non-CP)
+- Family members
+
+OTHER AGENCIES:
+- Event organisers
+- Hotel security
+- Airport liaison
+- Medical services
+
+Coordination Meetings:
+- Pre-operation
+- During long operations
+- Multi-agency
+- Document outcomes
+
+Information Sharing:
+- Need to know basis
+- Secure channels
+- Timely updates
+- Confirmed receipt
+
+Liaison Officer Role:
+- Single point of contact
+- Coordination responsibility
+- Information management
+- Relationship building
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 25
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 10 questions (40%)
+- Medium (application): 10 questions (40%)
+- Hard (scenario-based): 5 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 6-7 questions
+- Correct answer B: 6-7 questions
+- Correct answer C: 6-7 questions
+- Correct answer D: 6-7 questions
+
+TOPICS TO COVER:
+□ The planning cycle (3-4 questions)
+□ Operational orders format (4-5 questions)
+□ SOPs (3-4 questions)
+□ EOPs (3-4 questions)
+□ Contingency planning (3-4 questions)
+□ Briefings (3-4 questions)
+□ Debriefings (2-3 questions)
+□ Coordination and liaison (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.1: OPERATIONAL PLANNING
+================================================================================
+
+Question 1 [Easy]
+What is the FIRST step in the planning cycle for a close protection operation?
+
+A) Analyse the information
+B) Receive the task
+C) Develop the plan
+D) Brief the team
+
+Correct Answer: B
+
+Explanation: The planning cycle begins with receiving the task from the 
+client. This includes understanding the principal's requirements, dates, 
+locations, and resources available. Only after receiving the task can 
+information gathering, analysis, and plan development begin.
+
+---
+
+[Continue for all 25 questions]
+
+================================================================================
+END OF CHAPTER 2.1 QUESTIONS
+================================================================================
+
+Total Questions: 25
+- Easy: 10
+- Medium: 10
+- Hard: 5
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+PLANNING CYCLE (8 stages):
+1. Receive the task
+2. Gather information
+3. Analyse
+4. Develop plan
+5. Produce orders
+6. Brief the team
+7. Execute
+8. Review
+
+FIVE PARAGRAPH ORDER:
+1. Situation
+2. Mission
+3. Execution
+4. Service Support
+5. Command and Signals
+
+SOP vs EOP:
+- SOP = Standard Operating Procedures (routine)
+- EOP = Emergency Operating Procedures (emergencies)
+- SOP is HOW we always do things
+- EOP is WHAT we do in emergencies
+
+BRIEFING STRUCTURE:
+- Opening (attention, purpose, outline)
+- Body (situation, mission, execution, support, signals)
+- Closing (summary, questions, time check)
+
+DEBRIEF STRUCTURE:
+1. What was planned
+2. What happened
+3. Why
+4. Lessons learned
+5. Actions
+
+"ACTIONS ON":
+- Pre-planned responses
+- Actions on attack
+- Actions on medical
+- Actions on fire
+- Actions on lost comms
+
+CONTINGENCY PLANNING:
+- Route alternatives
+- Venue alternatives
+- Personnel backup
+- Medical facilities
+
+COMMON DISTRACTORS:
+- Planning starts with analysis (wrong - starts with receiving task)
+- SOPs are for emergencies (wrong - that's EOPs)
+- Op Order has 3 paragraphs (wrong - 5 paragraphs)
+- Debriefs only after problems (wrong - after every operation)
+- Contingencies are optional (wrong - essential)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "When writing an Operational Order, the MISSION paragraph should..."
+- "The difference between an SOP and an EOP is..."
+- "During the briefing, the Team Leader should..."
+- "When planning contingencies for a route..."
+- "The purpose of a debrief is to..."
+- "In the planning cycle, information gathering comes..."
+- "IAW SOP means..."
+
+================================================================================
+END OF PROMPT
+================================================================================

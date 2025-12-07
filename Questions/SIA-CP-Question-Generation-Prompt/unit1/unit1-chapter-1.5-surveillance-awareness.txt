@@ -1,0 +1,731 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 1, CHAPTER 1.5
+SURVEILLANCE AWARENESS
+================================================================================
+
+YOUR TASK
+---------
+Generate 25 high-quality Multiple Choice Questions (MCQs) for Chapter 1.5 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 6-7 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE EXAM
+--------
+Unit 1: Principles of Working as a Close Protection Operative
+- 52 multiple choice questions
+- 80 minutes duration
+- 70% pass mark (37 correct answers required)
+- This chapter (1.5) is one of 7 chapters in Unit 1
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Attackers conduct surveillance before attacking. If CPOs can detect 
+surveillance, they can disrupt attacks at an early stage. Understanding 
+surveillance methods allows CPOs to identify when principals are being 
+watched and take appropriate countermeasures.
+
+================================================================================
+CHAPTER 1.5: SURVEILLANCE AWARENESS - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 25
+- Easy (direct recall): 10 questions
+- Medium (application): 10 questions
+- Hard (scenario-based): 5 questions
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.1: TYPES OF SURVEILLANCE
+--------------------------------------------------------------------------------
+
+Categories of Surveillance:
+
+OVERT SURVEILLANCE:
+- Visible and known
+- Deterrent effect
+- CCTV cameras
+- Uniformed security
+- Not covert
+
+COVERT SURVEILLANCE:
+- Hidden and secret
+- Target unaware
+- Information gathering
+- Usually by law enforcement
+- RIPA regulated
+
+Surveillance Methods:
+
+STATIC SURVEILLANCE:
+- Fixed observation point
+- Watching location
+- Building/address focus
+- Limited mobility
+- Less likely to be detected
+
+MOBILE SURVEILLANCE:
+- Following the target
+- On foot or vehicle
+- Adapts to movement
+- Multiple operatives
+- Higher detection risk
+
+TECHNICAL SURVEILLANCE:
+- Electronic devices
+- Tracking devices
+- Listening devices
+- Camera systems
+- Drone surveillance
+
+Surveillance Purposes in Hostile Context:
+
+RECONNAISSANCE:
+- Learning routines
+- Identifying vulnerabilities
+- Route mapping
+- Timing observations
+
+CONFIRMATION:
+- Verifying target identity
+- Confirming presence
+- Final check before attack
+
+DOCUMENTATION:
+- Evidence gathering
+- Photography/video
+- Pattern recording
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.2: RECOGNISING SURVEILLANCE INDICATORS
+--------------------------------------------------------------------------------
+
+Behavioural Indicators:
+
+REPEATED SIGHTINGS:
+- Same person, different locations
+- Different times
+- Following pattern
+- Too coincidental
+
+OUT OF PLACE:
+- Doesn't fit environment
+- Wrong clothing/appearance
+- No obvious purpose
+- Loitering
+
+UNUSUAL BEHAVIOUR:
+- Watching without apparent reason
+- Quick looks away when noticed
+- Using devices to film/photograph
+- Communication (radio, phone) when target moves
+
+POOR TRADECRAFT:
+- Obvious concealment
+- Quick movements to follow
+- Breaking into run
+- Nervous behaviour
+
+Environmental Indicators:
+
+VEHICLES:
+- Repeated sightings
+- Parked with occupants
+- Following at consistent distance
+- Pulling over when you stop
+
+LOCATIONS:
+- Good view of target premises
+- Natural surveillance points
+- Café with window view
+- Parked vehicle positions
+
+TIMING:
+- Present at key times
+- Arrival and departure
+- Regular schedule observation
+
+Technical Indicators:
+
+DEVICES:
+- Cameras/phones pointed
+- Unusual equipment
+- Drones overhead
+- Unknown devices on vehicles
+
+DIGITAL:
+- Social media monitoring
+- Location tracking
+- Information gathering online
+
+Third Party Awareness:
+- Being watched indirectly
+- Through employees/staff
+- Service personnel
+- Delivery drivers
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.3: COUNTER-SURVEILLANCE
+--------------------------------------------------------------------------------
+
+Definition:
+- Active measures to detect surveillance
+- Identifying hostile watchers
+- Confirming suspicions
+- Intelligence gathering on surveillants
+
+Counter-Surveillance vs Anti-Surveillance:
+- Counter = detecting surveillance (finding them)
+- Anti = preventing surveillance (stopping them)
+
+Counter-Surveillance Techniques:
+
+STATIC OBSERVATION:
+- Watching for watchers
+- From concealed position
+- Note suspicious individuals
+- Document observations
+
+SURVEILLANCE DETECTION ROUTE (SDR):
+- Deliberate route
+- Includes checkpoints
+- Multiple turns
+- Forces surveillance to reveal itself
+- Observation opportunities
+
+TRIGGER POINTS:
+- Locations where surveillance must act
+- Narrow passages
+- Turns
+- Choke points
+
+TEAM DEPLOYMENT:
+- Multiple observers
+- Different positions
+- Communication
+- Identification of same person
+
+What to Look For:
+
+VEHICLE SURVEILLANCE:
+- Same vehicle repeatedly
+- Following at distance
+- Pulling over when you do
+- Occupied parked vehicles
+
+FOOT SURVEILLANCE:
+- Same person twice
+- Following on foot
+- Passing information
+- Communication devices
+
+STATIC POSTS:
+- People watching premises
+- Vehicles with view
+- Unusual presence
+
+Documentation:
+- Time and location
+- Description of person
+- Vehicle details
+- Photographs if safe
+- Report to TL
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.4: ANTI-SURVEILLANCE MEASURES
+--------------------------------------------------------------------------------
+
+Definition:
+- Measures to prevent being surveilled
+- Making surveillance difficult
+- Protecting principal's movements
+- Denying information to hostiles
+
+Key Anti-Surveillance Principles:
+
+UNPREDICTABILITY:
+- Vary routines
+- Change routes
+- Alter timings
+- Don't establish patterns
+
+AWARENESS:
+- Constant vigilance
+- Environmental scanning
+- Baseline understanding
+- Anomaly detection
+
+SPEED OF MOVEMENT:
+- Reduce exposure time
+- Efficient transitions
+- Minimise static periods
+
+INFORMATION CONTROL:
+- Limit published schedules
+- Control social media
+- Staff confidentiality
+- Need-to-know basis
+
+Practical Measures:
+
+ROUTE VARIATION:
+- Multiple routes planned
+- Random selection
+- Time variation
+- Method variation (vehicle/foot)
+
+SCHEDULE VARIATION:
+- Departure times
+- Arrival times
+- Break patterns
+- Avoid predictability
+
+APPEARANCE VARIATION:
+- Vehicle changes
+- Clothing changes
+- Appearance alterations
+
+OPERATIONAL SECURITY:
+- Secure communications
+- Counter-technical surveillance
+- Electronic sweeps
+- Communication discipline
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.5: SURVEILLANCE DETECTION ROUTES (SDR)
+--------------------------------------------------------------------------------
+
+What is an SDR:
+- Pre-planned route
+- Designed to identify surveillance
+- Includes observation opportunities
+- Forces watchers to reveal themselves
+
+SDR Components:
+
+CHECKPOINTS:
+- Pre-selected observation points
+- Team members positioned
+- Watch for followers
+- Report findings
+
+TRIGGER POINTS:
+- Locations forcing surveillance action
+- Must follow to maintain contact
+- Narrow passages
+- Single access points
+
+TURNS AND CHANGES:
+- Direction changes
+- Multiple turns
+- Surveillance must react
+- Reveals followers
+
+CHOKEPOINTS:
+- Limited routes
+- Must use same path
+- Easy to observe
+- Identifies surveillance
+
+STAIRWELLS/ELEVATORS:
+- Limited options
+- Forces commitment
+- Easy to verify following
+
+Planning an SDR:
+- Know the area
+- Select checkpoints
+- Position observers
+- Communication plan
+- Abort plan
+
+Running an SDR:
+- Act naturally
+- Don't alert surveillance
+- Maintain pace
+- Use checkpoints
+- Report findings
+
+After Surveillance Detected:
+- Report immediately
+- Document details
+- Do not confront
+- Alter plans
+- Increase security posture
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.6: SURVEILLANCE TEAMS AND METHODS
+--------------------------------------------------------------------------------
+
+How Surveillance Teams Operate:
+
+TEAM COMPOSITION:
+- Multiple operatives
+- Different appearances
+- Vehicle and foot capability
+- Communication equipped
+
+TEAM ROLES:
+
+COMMANDER:
+- Overall control
+- Deployment decisions
+- Communication hub
+
+EYEBALL:
+- Direct observation
+- Has target in sight
+- Reports position
+
+BACKUP:
+- Ready to take over
+- Follows eyeball
+- Fresh face
+
+STATIC POSTS:
+- Fixed positions
+- Key locations
+- Report movements
+
+TRIGGER:
+- Alerts team to movement
+- Starting positions
+- Early warning
+
+Handover Techniques:
+- Passing target between operatives
+- Rotating eyeball
+- Avoiding detection
+- Fresh faces maintained
+
+Surveillance Methods:
+
+FOOT FOLLOW:
+- On foot
+- Close proximity possible
+- Urban environment
+- Multiple operatives rotate
+
+VEHICLE FOLLOW:
+- By car
+- Highways/main roads
+- Multiple vehicles
+- Communication essential
+
+STATIC:
+- Fixed positions
+- Watching locations
+- Less detection risk
+- Limited mobility
+
+TECHNICAL:
+- Electronic tracking
+- Audio devices
+- Cameras
+- Drones
+
+Understanding Methods Helps:
+- Identify surveillance type
+- Appropriate countermeasures
+- Know what to look for
+- Effective detection
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.7: TECHNICAL SURVEILLANCE
+--------------------------------------------------------------------------------
+
+Types of Technical Surveillance:
+
+TRACKING DEVICES:
+- GPS trackers
+- On vehicles
+- In belongings
+- Real-time location
+
+AUDIO DEVICES:
+- Listening bugs
+- Room monitoring
+- Phone interception
+- Recording devices
+
+VISUAL DEVICES:
+- Hidden cameras
+- Long-lens photography
+- Drone surveillance
+- CCTV exploitation
+
+ELECTRONIC:
+- Phone/email monitoring
+- Computer access
+- Wi-Fi interception
+- Social media tracking
+
+Indicators of Technical Surveillance:
+
+TRACKING:
+- Unknown devices on vehicle
+- Battery drain on phone
+- Accurate knowledge of movements
+
+AUDIO:
+- Interference on phones
+- Unknown devices found
+- Third parties know conversations
+
+VISUAL:
+- Photographs appearing
+- Detailed knowledge of activities
+- Drones observed
+
+Countermeasures:
+
+VEHICLE SWEEPS:
+- Regular inspection
+- Electronic detection
+- Professional TSCM
+
+PREMISES SWEEPS:
+- Technical Surveillance Countermeasures (TSCM)
+- Electronic sweep
+- Physical search
+- Professional service
+
+COMMUNICATION SECURITY:
+- Encrypted communications
+- Secure devices
+- Need-to-know principle
+- No sensitive info on open channels
+
+ELECTRONIC HYGIENE:
+- Secure passwords
+- Social media discipline
+- Software updates
+- Awareness training
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.8: RESPONDING TO SURVEILLANCE
+--------------------------------------------------------------------------------
+
+When Surveillance Detected:
+
+IMMEDIATE ACTIONS:
+1. Confirm detection
+2. Report to TL immediately
+3. Document details
+4. Do NOT confront surveillant
+5. Continue naturally if possible
+
+Operational Response:
+
+ASSESS:
+- Level of threat
+- Type of surveillance
+- Purpose (criminal, media, etc.)
+- Immediate danger?
+
+REPORT:
+- Full details
+- Description
+- Location
+- Vehicle registration
+- Photos if safe
+
+ADAPT:
+- Change plans if needed
+- Increase security posture
+- Consider cancellation
+- Alternative routes
+
+Do Not:
+- Confront surveillants
+- Make obvious that detected
+- Panic
+- Continue without reporting
+- Ignore findings
+
+Escalation:
+- Report to police if criminal
+- Client notification
+- Increased resources
+- Professional investigation
+- Legal options
+
+Long-term Response:
+- Pattern analysis
+- Investigation
+- Increased countermeasures
+- Principal briefing
+- Possible lifestyle changes
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 25
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 10 questions (40%)
+- Medium (application): 10 questions (40%)
+- Hard (scenario-based): 5 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 6-7 questions
+- Correct answer B: 6-7 questions
+- Correct answer C: 6-7 questions
+- Correct answer D: 6-7 questions
+
+TOPICS TO COVER:
+□ Types of surveillance (3-4 questions)
+□ Recognising surveillance indicators (4-5 questions)
+□ Counter-surveillance (4-5 questions)
+□ Anti-surveillance measures (3-4 questions)
+□ Surveillance Detection Routes (3-4 questions)
+□ Surveillance team methods (3-4 questions)
+□ Technical surveillance (3-4 questions)
+□ Responding to surveillance (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 1, CHAPTER 1.5: SURVEILLANCE AWARENESS
+================================================================================
+
+Question 1 [Easy]
+What is the difference between counter-surveillance and anti-surveillance?
+
+A) Counter-surveillance is illegal, anti-surveillance is legal
+B) Counter-surveillance detects watchers, anti-surveillance prevents watching
+C) Counter-surveillance is passive, anti-surveillance is active
+D) There is no difference, they are the same thing
+
+Correct Answer: B
+
+Explanation: Counter-surveillance refers to active measures to DETECT if 
+you are being watched (finding the watchers). Anti-surveillance refers to 
+measures to PREVENT being watched (making surveillance difficult). Counter 
+is about detection; anti is about prevention.
+
+---
+
+[Continue for all 25 questions]
+
+================================================================================
+END OF CHAPTER 1.5 QUESTIONS
+================================================================================
+
+Total Questions: 25
+- Easy: 10
+- Medium: 10
+- Hard: 5
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+COUNTER vs ANTI SURVEILLANCE:
+- Counter-surveillance = DETECTING surveillance (finding watchers)
+- Anti-surveillance = PREVENTING surveillance (stopping them watching)
+
+SURVEILLANCE TYPES:
+- Static (fixed observation point)
+- Mobile (following target)
+- Technical (electronic devices)
+- Overt (visible) vs Covert (hidden)
+
+SURVEILLANCE DETECTION ROUTE (SDR):
+- Pre-planned route
+- Includes checkpoints
+- Forces surveillance to reveal itself
+- Trigger points and chokepoints
+
+SURVEILLANCE INDICATORS:
+- Repeated sightings (same person, different places)
+- Out of place behaviour
+- Following movements
+- Communication when target moves
+- Vehicles with occupants watching
+
+ANTI-SURVEILLANCE MEASURES:
+- Vary routines (UNPREDICTABILITY)
+- Change routes
+- Alter timings
+- Control information
+
+SURVEILLANCE TEAM ROLES:
+- Commander (overall control)
+- Eyeball (direct observation)
+- Backup (ready to take over)
+- Trigger (alerts team to movement)
+
+WHEN SURVEILLANCE DETECTED:
+1. Confirm detection
+2. Report to TL immediately
+3. Document details
+4. Do NOT confront
+5. Continue naturally
+
+TECHNICAL SURVEILLANCE:
+- Tracking devices (GPS)
+- Audio devices (bugs)
+- Visual devices (cameras)
+- TSCM (Technical Surveillance Countermeasures)
+
+COMMON DISTRACTORS:
+- Confront surveillants when detected (wrong - do NOT confront)
+- Counter-surveillance prevents surveillance (wrong - that's anti)
+- Static surveillance follows target (wrong - that's mobile)
+- SDR should be run obviously (wrong - act naturally)
+- One sighting confirms surveillance (wrong - need pattern)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "A CPO notices the same person at two different locations today..."
+- "When running a Surveillance Detection Route, the CPO should..."
+- "A vehicle appears to be following at a consistent distance..."
+- "To prevent surveillance, the CPO should..."
+- "The 'eyeball' in a surveillance team is responsible for..."
+- "After confirming surveillance, the CPO's FIRST action should be..."
+- "Which measure is an example of ANTI-surveillance?"
+
+================================================================================
+END OF PROMPT
+================================================================================

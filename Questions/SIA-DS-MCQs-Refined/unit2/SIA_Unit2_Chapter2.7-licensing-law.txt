@@ -1,0 +1,399 @@
+================================================================================
+UNIT 2, CHAPTER 2.7: LICENSING LAW
+================================================================================
+Meta: Total=30 | Easy=12 | Medium=12 | Hard=6 | A=8 | B=7 | C=8 | D=7
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Which piece of legislation is the main law covering the sale of alcohol in England and Wales?
+
+A) Licensing Act 2003
+B) Licensing (Alcohol) Regulations 2010
+C) Alcohol Control Act 1998
+D) Public Order Act 1986
+
+Answer: A
+Explanation: The Licensing Act 2003 is the primary legislation covering the sale and supply of alcohol, regulated entertainment and late-night refreshment in England and Wales.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: How many licensing objectives are there under the Licensing Act 2003?
+
+A) Four
+B) Two
+C) Three
+D) Five
+
+Answer: A
+Explanation: There are four licensing objectives: prevention of crime and disorder, public safety, prevention of public nuisance, and protection of children from harm.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which of the following is a licensing objective?
+
+A) Maximising venue profits
+B) Improving local transport links
+C) Promotion of tourism
+D) Prevention of public nuisance
+
+Answer: D
+Explanation: Prevention of public nuisance is one of the four licensing objectives and includes issues such as noise, litter and disturbance to local residents.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: A premises licence mainly authorises:
+
+A) A specific premises to carry out licensable activities
+B) An individual to sell alcohol anywhere in England and Wales
+C) The police to close a premises permanently
+D) The fire service to set capacity limits
+
+Answer: A
+Explanation: A premises licence authorises specific premises to carry out licensable activities such as selling alcohol, providing entertainment and late-night refreshment, subject to conditions.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which type of licence is held by an individual and allows them to authorise the sale of alcohol?
+
+A) Club premises certificate
+B) Temporary event notice
+C) Premises licence
+D) Personal licence
+
+Answer: D
+Explanation: A personal licence is held by an individual and authorises them to sell or authorise the sale of alcohol at licensed premises.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Since 2015, for how long is a personal licence normally valid (unless revoked)?
+
+A) 5 years
+B) 10 years
+C) Until age 60
+D) For life
+
+Answer: D
+Explanation: Personal licences granted after the change in law in 2015 are generally valid for life unless surrendered, suspended or revoked.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: What does Challenge 25 require staff to do?
+
+A) Ask for ID from everyone buying alcohol
+B) Refuse alcohol to anyone under 25
+C) Only accept passports as ID
+D) Ask for ID if a customer appears under 25
+
+Answer: D
+Explanation: Under Challenge 25, if a person appears to be under 25, they must be asked to provide acceptable ID to prove they are over 18 before being sold alcohol.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which of the following is generally an acceptable form of ID for proving age?
+
+A) Passport
+B) Library card with photo
+C) Supermarket loyalty card
+D) Gym membership card
+
+Answer: A
+Explanation: Acceptable ID normally includes a passport, photocard driving licence, military ID or PASS-accredited proof-of-age card.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which section of the Licensing Act 2003 makes it an offence to sell alcohol to a person who is drunk?
+
+A) Section 141
+B) Section 140
+C) Section 146
+D) Section 149
+
+Answer: A
+Explanation: Section 141 of the Licensing Act 2003 makes it an offence to sell alcohol to a person who is drunk or to knowingly allow such a sale.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: What is the usual maximum number of people allowed at an event covered by a Temporary Event Notice (TEN)?
+
+A) 199
+B) 299
+C) 399
+D) 499
+
+Answer: D
+Explanation: A TEN can cover events of up to 499 people at any one time, including staff and performers.
+
+---
+Q11 | Difficulty: Easy
+---
+Question: Which of the following is a mandatory condition for all premises licences supplying alcohol?
+
+A) Free snacks must be provided
+B) A Challenge 18 policy must be used
+C) Customers must leave by midnight
+D) Free tap water must be available on request
+
+Answer: D
+Explanation: One of the mandatory conditions is that free tap water for customers must be provided on request where it is reasonably available.
+
+---
+Q12 | Difficulty: Easy
+---
+Question: What does the "P" for "Protection of children from harm" mainly aim to prevent?
+
+A) Under-age drinking and child exploitation
+B) Overcrowding in smoking areas
+C) Late-night food sales
+D) Noise from delivery vehicles
+
+Answer: A
+Explanation: Protection of children from harm focuses on preventing under-age drinking and protecting children from physical, moral or psychological harm, including exploitation.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: A customer appears to be about 19 years old and asks to enter a nightclub that operates a Challenge 25 policy. As a door supervisor, what should you do?
+
+A) Allow entry without asking for ID
+B) Ask for acceptable ID to confirm age
+C) Refuse entry automatically
+D) Let them in but ban them from buying alcohol
+
+Answer: B
+Explanation: Under Challenge 25, anyone who appears under 25 should be asked for acceptable ID before being allowed to purchase or access alcohol. Door supervisors help enforce this at the door.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: You are working at a bar that uses Challenge 21. A customer who appears to be under 21 orders alcohol but has no ID. What should happen?
+
+A) Serve them if they insist they are over 18
+B) Serve them one drink only
+C) Refuse the sale of alcohol
+D) Ask another customer to confirm their age
+
+Answer: C
+Explanation: Under Challenge 21, if a customer appears under 21 and cannot produce acceptable ID proving they are over 18, the sale of alcohol must be refused.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: Which statement about the Designated Premises Supervisor (DPS) is correct?
+
+A) There can be several DPSs named on one premises licence
+B) The DPS must be on the premises at all times
+C) The DPS does not need to consent to being named
+D) The DPS must hold a personal licence
+
+Answer: D
+Explanation: The DPS must hold a personal licence and be named on the premises licence. There can only be one DPS per premises, and they must consent to being named.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: You suspect a customer is drunk: their speech is slurred and they are unsteady on their feet. They attempt to buy more alcohol at the bar. What does Section 141 require?
+
+A) They can be served one last drink
+B) They must be refused service of alcohol
+C) They must be allowed a drink if they have paid to enter
+D) They can be served if with friends
+
+Answer: B
+Explanation: Section 141 makes it an offence to sell alcohol to someone who is drunk. Staff must refuse further alcohol and door supervisors may need to manage the situation safely.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: A 17-year-old is in a restaurant with their parents and orders a beer with a table meal. What is the correct legal position?
+
+A) This is allowed if the beer is bought by an adult and consumed with the meal
+B) This is never allowed under any circumstances
+C) This is allowed only if the 17-year-old buys the beer themselves
+D) This is allowed but only after 11pm
+
+Answer: A
+Explanation: A 16- or 17-year-old may drink beer, wine or cider with a table meal if: (1) purchased by an accompanying adult aged 18+, (2) in premises licensed for table meals, (3) in an area set aside for table meals. This does NOT apply in bars without table service.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: Which of the following would normally be considered an "irresponsible promotion" under mandatory licensing conditions?
+
+A) Offering soft drinks at a discount
+B) "All you can drink for £20" deals
+C) Charging entry fee on weekends
+D) Offering small measures of spirits
+
+Answer: B
+Explanation: Promotions that encourage excessive drinking, such as unlimited alcohol for a fixed price, are banned as irresponsible promotions under the mandatory conditions.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: A premises licence for a bar includes a condition that no under-18s are allowed on the premises after 9pm. A group arrives at 9:30pm including a 17-year-old. As a door supervisor, what should you do?
+
+A) Allow all of them in
+B) Allow them in but note it in the incident log
+C) Refuse entry to the 17-year-old and explain the licence condition
+D) Allow them in if they promise not to drink
+
+Answer: C
+Explanation: Licence conditions must be followed. If the licence prohibits under-18s after 9pm, the 17-year-old must be refused entry, even if they say they will not drink.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: Which of the following BEST describes the role of a door supervisor in preventing public nuisance?
+
+A) Checking staff are paid correctly
+B) Controlling noise and behaviour as customers leave
+C) Monitoring the venue's stock deliveries
+D) Writing the premises licence
+
+Answer: B
+Explanation: Preventing public nuisance includes minimising noise and disturbance to local residents. Door supervisors help by managing customer behaviour at exits and dispersing crowds quietly.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: Section 146 of the Licensing Act 2003 mainly deals with which offence?
+
+A) Selling alcohol to a person who is drunk
+B) Allowing disorderly conduct
+C) Selling alcohol to a child (under 18)
+D) Allowing a child to consume alcohol
+
+Answer: C
+Explanation: Section 146 makes it an offence to sell alcohol to a child (a person under 18). This can result in heavy fines and licence reviews.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: Which of the following would normally fall under "regulated entertainment" and may require a licence?
+
+A) Playing quiet background music from the radio in a shop
+B) A film showing for the public in a bar
+C) Private singing in a staff room
+D) Watching television at home
+
+Answer: B
+Explanation: Films shown to the public are a form of regulated entertainment and usually require appropriate authorisation under a premises licence or other permission.
+
+---
+Q23 | Difficulty: Medium
+---
+Question: Who can request a review of a premises licence if there are concerns about crime, disorder or nuisance?
+
+A) Only the police
+B) Only the licensing authority
+C) Any "interested party", such as police, residents or environmental health
+D) Only the DPS
+
+Answer: C
+Explanation: A range of interested parties, including local residents, responsible authorities like police or environmental health, can request a review of a premises licence.
+
+---
+Q24 | Difficulty: Medium
+---
+Question: A door supervisor notices a customer repeatedly buying drinks for a very drunk friend. Which offence might the sober customer be committing?
+
+A) Section 140 – allowing disorderly conduct
+B) Section 141 – sale to a drunk person
+C) Section 142 – obtaining alcohol for a drunk person
+D) Section 146 – sale of alcohol to a child
+
+Answer: C
+Explanation: Section 142 makes it an offence to obtain alcohol for a person who is drunk. Door supervisors should intervene and inform bar staff.
+
+---
+Q25 | Difficulty: Hard
+---
+Question: You are working at a busy nightclub. A man who appears under 25 approaches the door with a PASS-accredited card, but the photo does not closely resemble him and the card looks damaged. What is the MOST appropriate action?
+
+A) Allow entry because the card shows he is over 18
+B) Allow entry but warn him not to drink alcohol
+C) Refuse entry or alcohol and explain that the ID is not acceptable
+D) Allow entry if friends confirm his age
+
+Answer: C
+Explanation: Even with a PASS card, the photo must clearly match the person and the card must not be damaged or altered. If you are not satisfied with the ID, you should treat it as no ID and refuse entry or alcohol.
+
+---
+Q26 | Difficulty: Hard
+---
+Question: At 1:30am a group of noisy customers leave the venue shouting and singing in the street, disturbing local residents. What is the BEST way for door supervisors to support the licensing objective of prevention of public nuisance?
+
+A) Ignore them once they are off the premises
+B) Shout louder to drown them out
+C) Politely encourage them to quieten down and move away from residential areas
+D) Immediately call the police for all noisy customers
+
+Answer: C
+Explanation: Door supervisors should take reasonable steps to manage customers' behaviour as they leave, encouraging them to keep the noise down and move on quickly to reduce public nuisance.
+
+---
+Q27 | Difficulty: Hard
+---
+Question: Police officers arrive during trading hours and ask to enter the premises to check compliance with licensing conditions. What should a door supervisor do?
+
+A) Refuse entry unless they have a warrant
+B) Allow entry as police have powers to enter licensed premises during licensable activities
+C) Only allow entry if the DPS is present
+D) Ask the officers to come back after closing time
+
+Answer: B
+Explanation: Police have powers to enter licensed premises without a warrant while licensable activities are taking place, to check compliance and investigate offences. Door supervisors should co-operate fully.
+
+---
+Q28 | Difficulty: Hard
+---
+Question: A group including two 15-year-olds attempts to enter a late-night bar with a premises licence that restricts entry to over-18s only. Their adult friends insist they will supervise them and the 15-year-olds will not drink alcohol. What is the correct response?
+
+A) Allow entry if they promise not to drink
+B) Allow entry only until 11pm
+C) Refuse entry to the under-18s in line with the premises licence
+D) Allow entry if they have written consent from parents
+
+Answer: C
+Explanation: Where the premises licence or venue policy specifies over-18s only, under-18s must be refused entry, regardless of adult supervision or promises not to drink.
+
+---
+Q29 | Difficulty: Hard
+---
+Question: You are on the door when a customer who was previously asked to leave for aggressive behaviour tries to re-enter and refuses to go away when instructed. Which offence may they be committing?
+
+A) Section 143 – failure to leave licensed premises
+B) Section 141 – sale to a drunk person
+C) Section 146 – sale of alcohol to a child
+D) Section 147A – persistently selling to children
+
+Answer: A
+Explanation: Section 143 makes it an offence for a person to knowingly fail to leave licensed premises when requested by the licence holder, their staff, or a police constable.
+
+---
+Q30 | Difficulty: Hard
+---
+Question: A venue has repeatedly sold alcohol to under-18s on test purchases within a three-month period. Which of the following consequences is MOST likely under Section 147A?
+
+A) The DPS will automatically go to prison
+B) A closure notice or licence review for persistently selling to children
+C) Only a verbal warning will be given
+D) The personal licence will automatically last only 10 years
+
+Answer: B
+Explanation: Section 147A deals with persistently selling alcohol to children (two or more offences within three months) and can lead to closure notices and serious action against the premises licence.
+
+================================================================================
+END OF CHAPTER 2.7
+================================================================================

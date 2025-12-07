@@ -1,0 +1,514 @@
+================================================================================
+UNIT 2, CHAPTER 2.4: ACCESS AND EGRESS CONTROL
+Question 1 [Easy]
+
+Which is the MAIN security benefit of having an access control system on a site?
+
+A) To speed up deliveries to the premises
+B) To prevent unauthorised people entering the premises
+C) To reduce the workload of reception staff
+D) To remove the need for any CCTV
+
+Correct Answer: B
+
+Explanation:
+The core purpose of access control is to stop unauthorised people from entering the site. Other benefits such as improved efficiency or a professional image are secondary to this key security function.
+
+Question 2 [Easy]
+
+How does an effective access control system help during an emergency evacuation?
+
+A) It lets visitors bypass the assembly point
+B) It keeps all doors locked in a fire
+C) It provides a record of who is on site
+D) It replaces the need for a fire alarm
+
+Correct Answer: C
+
+Explanation:
+Access control systems help keep an accurate record of who has entered the site. This information supports roll calls and accountability during an evacuation, helping ensure everyone is safely accounted for.
+
+Question 3 [Easy]
+
+Which of the following is a BUSINESS benefit of good access control?
+
+A) Increased customer confidence and a professional image
+B) Reduced need to comply with health and safety rules
+C) Elimination of all incidents of theft
+D) Removal of the need for insurance
+
+Correct Answer: A
+
+Explanation:
+Good access control reassures customers and visitors that the business takes security seriously, which supports a professional image and customer confidence. It does not remove legal or insurance requirements.
+
+Question 4 [Easy]
+
+A PIN code used to open a secure door is an example of:
+
+A) Something you have
+B) Something you are
+C) Multi-factor authentication
+D) Something you know
+
+Correct Answer: D
+
+Explanation:
+A PIN is knowledge-based information and is therefore “something you know”. “Something you have” refers to physical items like cards, and “something you are” refers to biometrics.
+
+Question 5 [Easy]
+
+Which of the following is an example of “something you HAVE” in access control?
+
+A) An access card
+B) A password
+C) A fingerprint scan
+D) A security question
+
+Correct Answer: A
+
+Explanation:
+“Something you have” is a physical item used for access, such as an access card, key, fob, or token. Passwords and security questions are “something you know”, and fingerprints are “something you are”.
+
+Question 6 [Easy]
+
+Which of these is an example of a BIOMETRIC access control method?
+
+A) PIN code
+B) Visitor badge
+C) Fingerprint reader
+D) Mechanical key
+
+Correct Answer: C
+
+Explanation:
+Biometrics rely on unique physical traits, such as fingerprints, facial recognition, or iris scans. A fingerprint reader is therefore a biometric device.
+
+Question 7 [Medium]
+
+A site requires staff to present a card to a reader and then enter a PIN to open a secure door. What type of access control is this?
+
+A) Single-factor authentication
+B) Token-only access
+C) Biometric authentication
+D) Multi-factor authentication
+
+Correct Answer: D
+
+Explanation:
+Multi-factor authentication combines two or more methods, such as something you have (a card) and something you know (a PIN). This gives higher security than using just one factor.
+
+Question 8 [Easy]
+
+Which of the following details is MOST commonly recorded in a visitor sign-in book?
+
+A) The visitor’s home telephone number
+B) The visitor’s full name
+C) The visitor’s date of birth
+D) The visitor’s passport number
+
+Correct Answer: B
+
+Explanation:
+Basic visitor records usually include the visitor’s full name, who they are visiting, and the time of arrival. Sensitive personal data such as passport number or date of birth is not normally required.
+
+Question 9 [Easy]
+
+Before issuing a visitor badge, what should the security officer do?
+
+A) Take the visitor’s car keys
+B) Verify the visitor’s identity and who they are visiting
+C) Ask the visitor to sign a long legal contract
+D) Escort the visitor directly to the staff canteen
+
+Correct Answer: B
+
+Explanation:
+Visitor identity must be verified and checked against expected visitor lists or confirmed by the host before a badge is issued. This ensures only authorised visitors are allowed on site.
+
+Question 10 [Medium]
+
+A visitor arrives who is NOT on the expected visitor list. What is the MOST appropriate action for the security officer?
+
+A) Refuse entry immediately and tell them to leave
+B) Allow them in as long as they sign the visitor book
+C) Contact the host or relevant department to confirm the visit before allowing entry
+D) Allow entry if the visitor appears polite and well dressed
+
+Correct Answer: C
+
+Explanation:
+If a visitor is not on the expected list, the security officer should verify their visit with the host or relevant department. Only once authorised should access be granted, in line with site procedures.
+
+Question 11 [Easy]
+
+When escorting a visitor around the premises, what is the MAIN responsibility of the escort?
+
+A) To ensure the visitor only enters authorised areas
+B) To answer all of the visitor’s technical questions
+C) To make sure the visitor signs company contracts
+D) To check staff identity passes at the same time
+
+Correct Answer: A
+
+Explanation:
+The escort is responsible for maintaining control of the visitor and ensuring they do not enter unauthorised or sensitive areas. Other tasks are secondary to this security role.
+
+Question 12 [Medium]
+
+At the end of your shift you notice that two visitor badges have not been returned and the visitors have not signed out. What should you do FIRST?
+
+A) Ignore it because your shift is finished
+B) Throw the badges away and close reception
+C) Mark the visitors as “left site” in the log and go home
+D) Check the visitor log, try to confirm whether they have left, and report the issue to control or your supervisor
+
+Correct Answer: D
+
+Explanation:
+Unreturned badges and missing sign-out entries are a security and safety concern. You should check the visitor records, attempt to account for the visitors, and report the situation so it can be investigated.
+
+Question 13 [Easy]
+
+Which of the following is a common PHYSICAL barrier used to control vehicle access to a site?
+
+A) Fire exit door
+B) Visitor badge printer
+C) Rising traffic barrier
+D) Internal office door
+
+Correct Answer: C
+
+Explanation:
+Rising barriers are typical physical controls at vehicle entry points. They help regulate and monitor vehicles entering and leaving the premises.
+
+Question 14 [Medium]
+
+A delivery lorry arrives at the gate, but you have no record of an expected delivery. What is the MOST appropriate action?
+
+A) Allow the lorry in but keep the engine running
+B) Ask for delivery documentation and contact the relevant department to confirm the delivery before granting access
+C) Refuse all deliveries that are not on the list
+D) Tell the driver to unload at the roadside
+
+Correct Answer: B
+
+Explanation:
+Unexpected deliveries should be checked carefully. The security officer should examine the documentation and confirm with the relevant department before granting access, following site procedures.
+
+Question 15 [Medium]
+
+Under normal site procedures, when may a security officer carry out a vehicle search?
+
+A) Only when there is consent or clear contractual authority to do so
+B) Whenever the officer is curious
+C) Only if the driver has a foreign number plate
+D) Never, under any circumstances
+
+Correct Answer: A
+
+Explanation:
+Vehicle searches must be authorised by site policy and the law. This usually means having contractual authority (e.g. driver has agreed in advance) and/or the driver’s consent, and following a systematic procedure.
+
+Question 16 [Easy]
+
+Which detail is MOST important to record when a delivery vehicle enters the site?
+
+A) The driver’s favourite route
+B) The weather conditions
+C) The driver’s shoe size
+D) The vehicle registration number
+
+Correct Answer: D
+
+Explanation:
+Recording the vehicle registration helps identify the vehicle and link it to the driver, delivery documents, and any incidents that may occur while the vehicle is on site.
+
+Question 17 [Easy]
+
+What is the MAIN purpose of a key register?
+
+A) To list all visitors to the site
+B) To record which keys exist and who has been issued with them
+C) To replace the visitor log
+D) To store confidential company letters
+
+Correct Answer: B
+
+Explanation:
+A key register tracks all keys and records who has been issued with each key and when. This supports accountability and helps manage security risks if keys are lost or misused.
+
+Question 18 [Easy]
+
+A member of staff reports that they have lost a key to a secure area. What should happen FIRST?
+
+A) Do nothing until the next audit
+B) Replace all door frames in the building
+C) Report the loss immediately to the supervisor or control
+D) Quietly get another key cut without telling anyone
+
+Correct Answer: C
+
+Explanation:
+Lost keys are a serious security risk. The loss must be reported immediately so the risk can be assessed, locks changed if necessary, and the incident properly recorded and investigated.
+
+Question 19 [Medium]
+
+Why should master keys be strictly controlled and issued to only a few authorised people?
+
+A) Because they can open multiple doors and therefore create a higher security risk if misused or lost
+B) Because they are cheaper to replace than ordinary keys
+C) Because they are easier for visitors to borrow
+D) Because they are not recorded in the key register
+
+Correct Answer: A
+
+Explanation:
+Master keys provide access to many areas. If lost or misused, they can seriously compromise security. They must therefore be tightly controlled, logged, and usually stored securely.
+
+Question 20 [Easy]
+
+Which statement about safe combinations or security codes is MOST correct?
+
+A) They should be shared with anyone who asks
+B) They should only be given to people who have a genuine need to know
+C) They should never be changed once set
+D) They must always be written on the safe door
+
+Correct Answer: B
+
+Explanation:
+Combinations and codes must be limited to authorised people who genuinely need access. They should be changed regularly and kept secure, not written where others can see them.
+
+Question 21 [Medium]
+
+You see someone attempting to follow closely behind an authorised person through a controlled door without using their own access card. What should you do?
+
+A) Ignore it because the door is already open
+B) Assume they are a visitor and let them in
+C) Shut the door quickly in their face
+D) Politely challenge them and ask them to use their own authorised method of entry
+
+Correct Answer: D
+
+Explanation:
+Following someone through a door without using your own credentials is called tailgating or piggybacking and is a security risk. The security officer should challenge politely and insist on proper access procedures.
+
+Question 22 [Medium]
+
+An agitated visitor begins to raise their voice at reception because they have been kept waiting. What is the BEST first response?
+
+A) Raise your voice back to show control
+B) Immediately threaten to call the police
+C) Stay calm, speak slowly and professionally, and try to de-escalate the situation
+D) Walk away and leave the visitor alone
+
+Correct Answer: C
+
+Explanation:
+When dealing with aggression, the officer should remain calm, use de‑escalation techniques, and maintain professionalism. Escalating the situation or abandoning the visitor is poor practice.
+
+Question 23 [Hard]
+
+A contractor who has been refused access for lack of authorisation becomes increasingly argumentative at the gate. They are not yet violent but are attracting attention. What is the MOST appropriate course of action?
+
+A) Remain calm, clearly explain the reason for refusal, follow site policy, and request support from your supervisor or control if the situation continues
+B) Allow them in this time to avoid confrontation
+C) Physically remove them from the area immediately
+D) Ignore them and focus only on other vehicles
+
+Correct Answer: A
+
+Explanation:
+The officer must be polite but firm, explain the refusal, follow site rules, and escalate for support if needed. Letting them in or using unnecessary force would breach procedure and could increase risk.
+
+Question 24 [Medium]
+
+You discover a person in a restricted area who is not wearing a pass and whom you do not recognise. What should you do?
+
+A) Shout at them and order them to leave the building
+B) Identify yourself as security, ask for identification, and escort them to reception or another safe area in line with procedures
+C) Lock them in the room and call the police
+D) Assume they are a new employee and walk away
+
+Correct Answer: B
+
+Explanation:
+The correct approach is to challenge calmly, verify identity, and escort the person as appropriate. This maintains safety and ensures that only authorised people remain in restricted areas.
+
+Question 25 [Hard]
+
+You notice someone loitering near the perimeter fence, appearing to take an unusual interest in CCTV cameras and access gates. What is the BEST response?
+
+A) Confront them aggressively and demand their phone
+B) Ignore them unless they climb the fence
+C) Run outside alone and physically detain them
+D) Observe from a safe distance, note their description and behaviour, report to control, and follow local procedures (including calling police if necessary)
+
+Correct Answer: D
+
+Explanation:
+Suspicious behaviour should be observed and reported. The officer should record details and follow procedures rather than confronting aggressively or putting themselves at unnecessary risk.
+
+Question 26 [Medium]
+
+The fire service arrives at the site in response to an alarm. What should the security officer do?
+
+A) Ask them to wait until management arrives
+B) Refuse access until all staff have evacuated
+C) Allow them prompt access, direct them to the incident area, and provide relevant site information
+D) Keep all gates closed until the alarm is reset
+
+Correct Answer: C
+
+Explanation:
+Emergency services must always be allowed prompt access. The security officer should assist them by opening routes, providing information, and directing them to the incident, while maintaining safety.
+
+Question 27 [Hard]
+
+The site has gone into lockdown due to a serious incident nearby. A contractor insists on leaving immediately to get to another job. What should you do?
+
+A) Explain the lockdown, follow the site’s lockdown procedures, and prevent entry or exit until an authorised all‑clear is given
+B) Let them leave because they are not staff
+C) Lock them in a room without explanation
+D) Ignore the lockdown and allow everyone to move freely
+
+Correct Answer: A
+
+Explanation:
+Lockdown procedures aim to protect people by restricting movement in and out. The officer must follow these instructions, explain them clearly, and wait for an authorised all‑clear before allowing movement.
+
+Question 28 [Medium]
+
+In a power failure, what would a “fail‑safe” door lock usually do?
+
+A) Lock more securely to prevent any movement
+B) Unlock to allow safe escape in an emergency
+C) Stay exactly as it was before the power cut
+D) Explode the locking mechanism
+
+Correct Answer: B
+
+Explanation:
+Fail‑safe locks are designed to unlock when power fails, allowing people to exit safely during an emergency. Fail‑secure locks, in contrast, remain locked when power is lost.
+
+Question 29 [Hard]
+
+As people leave at the end of a shift, you notice an employee carrying a large, company‑owned laptop bag that has not been recorded as issued. Company policy allows bag checks on exit with consent. What should you do?
+
+A) Grab the bag and search it immediately
+B) Ignore it because they are an employee
+C) Politely explain the exit‑check policy, request consent to inspect the bag, and follow procedures for recording any search
+D) Call the police straight away without speaking to the person
+
+Correct Answer: C
+
+Explanation:
+Exit control aims to deter theft while respecting rights and policy. The officer should explain the policy, obtain consent or act under contractual authority, and document any search.
+
+Question 30 [Hard]
+
+During a routine patrol, you find a fire exit door locked with a padlock to “stop thieves using it”. What should you do?
+
+A) Leave it locked because it reduces theft
+B) Only unlock it during office hours
+C) Ignore it and focus on your patrol route
+D) Remove or arrange removal of the lock immediately if safe to do so, ensure the door is usable, and report the breach of safety procedures
+
+Correct Answer: D
+
+Explanation:
+Fire exits must NEVER be locked or obstructed. The lock must be removed so the exit can be used in an emergency, and the issue reported as a serious safety and security breach.
+
+Question 31 [Medium]
+
+What is the MAIN purpose of an “anti‑pass back” feature in an electronic access control system?
+
+A) To stop a card being used to enter again without first being used to exit, helping prevent card sharing and keeping an accurate occupancy count
+B) To block all visitors from entering
+C) To allow cards to be used by multiple people
+D) To unlock fire exits during normal working hours
+
+Correct Answer: A
+
+Explanation:
+Anti‑pass back prevents users from re‑entering an area until they have recorded an exit. This discourages passing cards back to others and helps maintain accurate records of who is inside.
+
+Question 32 [Medium]
+
+Which of the following BEST demonstrates good data protection practice for visitor records?
+
+A) Leaving visitor logs open on the reception desk all day
+B) Discussing visitor details loudly in public areas
+C) Storing visitor records securely and ensuring only authorised people can access them
+D) Publishing yesterday’s visitor list on a notice board
+
+Correct Answer: C
+
+Explanation:
+Data protection requires that personal information (such as visitor names and times) is kept secure and only accessed by authorised persons. Logs should not be freely visible or shared unnecessarily.
+
+Question 33 [Hard]
+
+A person claiming to be from a government agency asks you for copies of visitor logs for the last three months. You were not informed of this request in advance. What is the BEST action?
+
+A) Hand over all records immediately to avoid trouble
+B) Check their identification, inform control or your supervisor, and follow company policy and legal requirements before releasing any information
+C) Refuse to speak to them under any circumstances
+D) Destroy the records so they cannot be misused
+
+Correct Answer: B
+
+Explanation:
+Visitor logs are personal data. The officer must verify the person’s identity, notify management or control, and follow company policy and legal requirements (such as GDPR) before sharing any information.
+
+Question 34 [Medium]
+
+Which is a key ADVANTAGE of using an electronic visitor management system compared with a paper sign‑in book?
+
+A) It never needs updating
+B) It does not need data protection
+C) It works without any power
+D) It allows quick searching and reporting on who has visited the site
+
+Correct Answer: D
+
+Explanation:
+Electronic systems allow quick searches and reports (for example, who is currently on site or who visited on a specific date). They still require data protection and usually rely on power and backups.
+
+Question 35 [Hard]
+
+During an evacuation, you discover that one page is missing from the printed visitor log for today, meaning some visitors may not be listed. What should you do?
+
+A) Immediately inform the senior person in charge (e.g. fire warden or emergency services), explain the gap in the records, and use all other available information to help account for people
+B) Guess the missing names and write them in
+C) Ignore it and assume everyone has left
+D) Tell visitors not to mention they were in the building
+
+Correct Answer: A
+
+Explanation:
+Accurate records are vital for life safety. The officer must be honest about any gaps, inform those in charge, and use all other available information (staff, hosts, electronic records) to help account for everyone.
+
+================================================================================
+END OF CHAPTER 2.4 QUESTIONS
+
+Total Questions: 35
+
+Easy: 14
+
+Medium: 14
+
+Hard: 7
+
+Answer Distribution:
+
+Correct answer A: 9 questions
+
+Correct answer B: 9 questions
+
+Correct answer C: 9 questions
+
+Correct answer D: 8 questions
+
+================================================================================

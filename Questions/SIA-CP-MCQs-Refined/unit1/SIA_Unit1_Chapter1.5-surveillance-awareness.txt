@@ -1,0 +1,256 @@
+================================================================================
+UNIT 1, CHAPTER 1.5: SURVEILLANCE AWARENESS
+Question 1 [Easy]
+What is the difference between counter-surveillance and anti-surveillance?
+A) There is no difference, they are the same thing
+B) Counter-surveillance is illegal, anti-surveillance is legal
+C) Counter-surveillance is passive, anti-surveillance is active
+D) Counter-surveillance detects watchers, anti-surveillance prevents watching
+Correct Answer: D
+Explanation:
+In this syllabus, counter-surveillance is about actively trying to DETECT if surveillance is taking place – finding the watchers. Anti-surveillance is about PREVENTING or making it difficult for anyone to watch effectively – varying routines, controlling information and denying useful intelligence.
+
+Question 2 [Easy]
+Which of the following is an example of overt surveillance?
+A) A concealed GPS tracker attached to a vehicle
+B) A plain-clothes operative using a hidden camera
+C) A uniformed security officer patrolling outside a venue
+D) A covert listening device hidden in a meeting room
+Correct Answer: C
+Explanation:
+Overt surveillance is visible and known about. Uniformed security and visible cameras act as a deterrent, not as secret information-gathering tools. Hidden devices and plain-clothes watchers are examples of covert surveillance.
+
+Question 3 [Easy]
+Static surveillance is best described as:
+A) Using a GPS device to track the principal's vehicle
+B) Observing from a fixed point overlooking a location
+C) Following the principal on foot through a shopping centre
+D) Monitoring the principal’s social media activity
+Correct Answer: B
+Explanation:
+Static surveillance uses a fixed observation point overlooking a location (e.g. a building or entrance). The operative remains in one place, which reduces movement and can make them less likely to be detected than mobile followers.
+
+Question 4 [Easy]
+Which statement about mobile surveillance is correct?
+A) It involves following the target on foot or in vehicles
+B) It is always less likely to be detected than static surveillance
+C) It cannot be used in urban environments
+D) It is carried out only using technical devices
+Correct Answer: A
+Explanation:
+Mobile surveillance means following the target – on foot, in vehicles or using other transport – adapting to the principal’s movement. It often involves multiple operatives and has a higher risk of detection than static surveillance.
+
+Question 5 [Easy]
+Which of the following is a form of technical surveillance?
+A) Watching the principal from a café window
+B) A uniformed guard standing at the entrance
+C) Following the principal on foot
+D) Fitting a GPS tracker to the principal’s vehicle
+Correct Answer: D
+Explanation:
+Technical surveillance uses electronic devices such as GPS trackers, listening devices, hidden cameras or drones to gather information. A tracker on the vehicle gives real-time location information about the principal’s movements.
+
+Question 6 [Easy]
+In a hostile context, reconnaissance during surveillance is primarily carried out in order to:
+A) Verify that the principal is present before launching an attack
+B) Provide evidence in court after an incident
+C) Learn the principal’s routines, routes and vulnerabilities
+D) Confirm that surveillance devices are working correctly
+Correct Answer: C
+Explanation:
+Reconnaissance is about learning routines and identifying vulnerabilities: which routes are used, at what times, where security is weak and where an attack could be attempted. Confirmation is the final identity/presence check just before an attack.
+
+Question 7 [Easy]
+Which of the following is the clearest example of a repeated-sighting surveillance indicator?
+A) A delivery driver entering the building once
+B) The same person seen near the principal’s hotel in the morning and at the restaurant in the evening
+C) Staff greeting the principal by name at a regular venue
+D) A person reading a newspaper in a hotel lobby
+Correct Answer: B
+Explanation:
+Seeing the same person in different locations and at different times connected to the principal is a key surveillance indicator. One sighting is usually nothing; a pattern of sightings becomes suspicious and should be noted.
+
+Question 8 [Easy]
+Which situation BEST illustrates “out of place” behaviour that might indicate surveillance?
+A) A tourist taking photos at a landmark attraction
+B) A uniformed receptionist behind the hotel front desk
+C) A jogger wearing running kit in a park in the morning
+D) A person in heavy winter clothing loitering outside a nightclub on a warm evening
+Correct Answer: D
+Explanation:
+Someone who does not fit the environment – wrong clothing, no obvious reason to be there, loitering – can be “out of place”. That doesn’t prove surveillance, but it is a warning sign for the CPO to observe and record.
+
+Question 9 [Easy]
+A Surveillance Detection Route (SDR) is best described as:
+A) A last-minute route change made by the principal
+B) A route used only for emergency evacuation
+C) A route chosen solely to get the principal to the venue as quickly as possible
+D) A pre-planned route designed to force any surveillance to reveal itself
+Correct Answer: D
+Explanation:
+An SDR is pre-planned to include turns, choke points, trigger points and observation opportunities. Its purpose is to force any surveillance to react, making it more likely to be spotted by the protection team.
+
+Question 10 [Easy]
+Within a surveillance team, the “eyeball” is the operative who:
+A) Remains at a static post far from the target
+B) Commands the team and makes deployment decisions
+C) Monitors technical equipment such as trackers and cameras
+D) Maintains direct visual contact with the target and reports their position
+Correct Answer: D
+Explanation:
+The eyeball has the target in sight and provides live updates on direction, speed and actions. Other team members support or take over, but the eyeball is the one with direct observation.
+
+Question 11 [Medium]
+A CPO on a shopping trip with a principal notices the same man first outside the hotel, later inside a bookshop near the principal, and again standing by the car park exit as they leave. The man appears to be on his phone each time. What is the MOST appropriate interpretation?
+A) It confirms the man is a journalist
+B) It is normal public behaviour and can be safely ignored
+C) It is a repeated-sighting indicator that may suggest hostile surveillance
+D) It proves the man is part of the principal’s security team
+Correct Answer: C
+Explanation:
+Seeing the same person in several locations linked to the principal in one day is a repeated-sighting indicator. It doesn’t prove intent, but it should be treated as possible hostile surveillance, carefully observed and reported.
+
+Question 12 [Medium]
+During a week-long detail, the CPO repeatedly sees the same parked vehicle with an occupant inside, positioned with a clear view of the principal’s residence at morning departure and evening return. What should the CPO do FIRST?
+A) Discreetly record the vehicle details and timings and report the pattern to the team leader
+B) Ask the principal to speak directly to the driver of the vehicle
+C) Ignore the vehicle unless it follows the convoy
+D) Immediately confront the occupant and demand identification
+Correct Answer: A
+Explanation:
+The correct professional response is to observe, document and report. Recording time, location, vehicle description and registration and passing this to the team leader supports a calm, intelligence-led response – not confrontation.
+
+Question 13 [Medium]
+When planning movements for a high-profile principal, which option is the BEST example of an anti-surveillance measure?
+A) Publishing the principal’s schedule to all staff to avoid confusion
+B) Asking the principal to post “check-in” photos from each venue on social media
+C) Planning several viable routes and varying both departure times and routes at short notice
+D) Using the same route every day so the driver becomes very familiar with it
+Correct Answer: C
+Explanation:
+Anti-surveillance aims to prevent or frustrate surveillance. Varying routes and timings makes it difficult for hostiles to establish patterns. Using the same route and broadcasting schedules or social media posts all help surveillance, not stop it.
+
+Question 14 [Medium]
+Which of the following locations would be MOST suitable as a trigger point within a Surveillance Detection Route (SDR)?
+A) A dual carriageway with multiple slip roads
+B) A narrow one-way street leading to a single car park entrance
+C) A motorway service area with several entrances and exits
+D) A busy open square with many exit routes and heavy footfall
+Correct Answer: B
+Explanation:
+A trigger point is a place where any surveillance must act to maintain contact – limited choices, restricted routes, and easy observation. A narrow one-way street with a single destination forces followers to commit, making them easier to spot.
+
+Question 15 [Medium]
+A principal comments that an unknown blogger always seems to know where they have been, even when trips are unannounced and nothing is posted online. The CPO also notices the principal’s phone battery draining unusually quickly. What is the MOST likely concern from a surveillance awareness perspective?
+A) Poor phone signal in the area
+B) Staff gossiping about the principal’s movements
+C) Possible technical surveillance using a tracking or monitoring application
+D) Normal background data use on the phone
+Correct Answer: C
+Explanation:
+Unusual battery drain combined with highly accurate knowledge of movements suggests possible technical surveillance, such as a tracking app or compromised device. This should trigger checks, possible TSCM support and tighter electronic security.
+
+Question 16 [Medium]
+As part of counter-surveillance, a team member is placed in a café opposite the principal’s office with instructions to “watch for watchers”. Which description BEST fits this role?
+A) Anti-surveillance, because it prevents anyone from watching the office
+B) Static counter-surveillance observation, looking for individuals watching the premises
+C) Technical surveillance, because they may use a camera
+D) Static surveillance, because they are monitoring the principal directly
+Correct Answer: B
+Explanation:
+This is counter-surveillance: “watching those who are watching you”. The operative is in a static concealed position, looking for people who appear to be observing the principal or premises, not the principal themselves.
+
+Question 17 [Medium]
+A hotel receptionist quietly tells the CPO that a man has repeatedly visited the lobby over several days, asking when the principal will return and sitting where he can see the entrance. The receptionist is not part of the security team. This is an example of:
+A) Anti-surveillance being carried out by the hotel
+B) Technical surveillance using third-party devices
+C) Third-party awareness revealing possible hostile surveillance
+D) Standard customer service and should be ignored
+Correct Answer: C
+Explanation:
+Third-party awareness occurs when staff or other people notice suspicious interest in the principal and pass that information to the CPO. This is valuable intelligence pointing to possible hostile reconnaissance.
+
+Question 18 [Medium]
+Which action by a CPO MOST directly supports anti-surveillance through information control?
+A) Advising the principal not to publish real-time location updates on social media
+B) Asking staff to tell their friends about the principal’s visit so they can be ready
+C) Driving slightly faster than the traffic flow at all times
+D) Encouraging the principal to give media interviews about their travel plans
+Correct Answer: A
+Explanation:
+Anti-surveillance includes controlling information so potential hostiles cannot easily track movements. Preventing real-time social media posting reduces the amount of location and timing data available to anyone conducting digital surveillance.
+
+Question 19 [Medium]
+While escorting a principal through a city centre, the CPO notices that different individuals seem to take turns appearing near the principal at street corners, but none stay close for long. What surveillance method does this pattern MOST likely indicate?
+A) Lone static surveillance from a fixed observation point
+B) A mobile surveillance team handing over the “eyeball” between operatives
+C) A technical surveillance operation only using tracking devices
+D) Random public movement with no pattern
+Correct Answer: B
+Explanation:
+Surveillance teams often rotate the eyeball and use handovers so that one person is not seen near the principal all the time. Different people appearing at points along the route suggests an organised mobile surveillance team.
+
+Question 20 [Medium]
+During a journey, a CPO running an SDR becomes confident that a particular vehicle is following the principal’s car. The principal is calm and unaware. What is the MOST appropriate immediate response?
+A) Brake suddenly to see if the following vehicle also brakes
+B) Inform the team leader, continue to act naturally and start documenting the suspected vehicle
+C) Pull over and confront the driver of the following vehicle
+D) Tell the principal immediately in a loud voice so they can decide what to do
+Correct Answer: B
+Explanation:
+Once surveillance is suspected, the CPO should avoid confrontation, keep the principal calm, inform the team leader, and document indicators (registration, occupants, timings). Any further plan (route change, escalation, police) comes from the TL, not impulsive actions.
+
+Question 21 [Hard]
+Over a three-day business trip, a CPO notes the following:
+Day 1: A man in a blue jacket stands outside the hotel entrance as the principal departs.
+Day 2: The same man sits alone in a café opposite the principal’s meeting venue, leaving shortly after the principal departs.
+Day 3: The man is seen at the airport terminal near the check-in area for the principal’s flight.
+Which assessment is MOST appropriate?
+A) The man is likely an undercover police officer and can be ignored
+B) Surveillance can only be confirmed if the man is seen following the vehicle on the road
+C) The pattern strongly suggests organised hostile surveillance and must be reported and documented
+D) The sightings are purely coincidental because the man never comes close to the principal
+Correct Answer: C
+Explanation:
+Multiple repeated sightings in different locations directly linked to the principal, across several days, is a strong surveillance indicator. The CPO must treat this seriously, document fully and report through the chain of command.
+
+Question 22 [Hard]
+A CPO is running a pre-planned SDR on foot with the principal. Which behaviour is MOST consistent with good practice when conducting the SDR?
+A) Walking unusually slowly to force anyone following to overtake
+B) Following the planned route naturally, using pre-identified checkpoints and trigger points to discreetly observe for followers
+C) Frequently looking over their shoulder and pointing out anyone who looks suspicious
+D) Making last-minute unplanned deviations from the SDR whenever they feel uncomfortable
+Correct Answer: B
+Explanation:
+An SDR must be run so it appears normal and relaxed to anyone watching. The CPO should follow the pre-planned route, using known checkpoints and trigger points to quietly observe. Obvious checking and random changes risk alerting any surveillance.
+
+Question 23 [Hard]
+During a technical sweep of a meeting room before a confidential briefing, a contractor discovers a concealed audio device under the conference table. The principal is due to arrive in 10 minutes. What is the BEST course of action for the CPO?
+A) Leave the device in place but continue with the meeting to avoid alarming the principal
+B) Do not touch the device, inform the team leader and appropriate authorities immediately, and move the briefing to a more secure location
+C) Remove and destroy the device on the spot so it cannot be used again
+D) Ignore the device because it might belong to the venue staff
+Correct Answer: B
+Explanation:
+A concealed listening device represents active technical surveillance and potential evidence of criminal activity. The CPO must NOT touch the device (risk of evidence contamination, possible booby-trap, forensic considerations). The correct response is to preserve the scene, immediately notify the team leader and appropriate authorities (TSCM/police), and relocate the briefing to protect the principal's information security.
+
+Question 24 [Hard]
+After several weeks of suspected hostile reconnaissance, a vehicle attack narrowly fails outside the principal’s office. The investigation confirms that attackers had mapped the principal’s routine for months. From a surveillance awareness perspective, which LONG-TERM measure would MOST help reduce the risk of similar attacks in future?
+A) Installing more decorative lighting outside the office
+B) Introducing sustained route, schedule and appearance variation supported by strict information control
+C) Asking the principal to wear body armour on all journeys
+D) Having the principal personally check for suspicious vehicles every morning
+Correct Answer: B
+Explanation:
+The attackers exploited predictable routines. Long-term, the best measure is anti-surveillance: unpredictability (routes, timings, appearance) and strong information control. This denies future hostiles the consistent patterns they depend on.
+
+Question 25 [Hard]
+On a journey to a public event, the close protection team confirms through counter-surveillance that a hostile surveillance team is actively tracking the principal using both vehicles and static observers at key junctions. There is no immediate attack, but the pattern is clear. What is the MOST appropriate operational response?
+A) Ignore the surveillance as there has been no attack yet
+B) Immediately cancel all future engagements for the principal indefinitely
+C) Quietly report full details to the team leader, increase security posture, adjust the plan (including possible route or venue changes) and ensure the principal is protected without confronting the surveillants
+D) Stop the convoy and detain any suspected surveillants until the police arrive
+Correct Answer: C
+Explanation:
+Once hostile surveillance is confirmed, the team should escalate security, adapt plans (routes, timings, venue or even cancellation if necessary), and feed intelligence to the team leader and, if appropriate, the police. Direct confrontation is discouraged unless directed and lawful.
+

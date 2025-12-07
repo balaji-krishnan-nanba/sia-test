@@ -1,0 +1,516 @@
+================================================================================
+SIA SECURITY GUARD - UNIT 2, CHAPTER 2.4
+ACCESS AND EGRESS CONTROL
+================================================================================
+
+YOUR TASK
+---------
+Generate 35 high-quality Multiple Choice Questions (MCQs) for Chapter 2.4 of 
+the SIA Security Guard Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 8-9 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE EXAM
+--------
+Unit 2: Principles of Working as a Security Officer
+- 60 multiple choice questions in actual exam
+- 90 minutes duration
+- 70% pass mark (42 correct answers required)
+- This chapter (2.4) is one of 7 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Controlling who enters and leaves a site is fundamental to security. 
+Security officers must manage access points effectively to prevent 
+unauthorised entry, theft, and security breaches while maintaining smooth 
+flow for legitimate visitors. Poor access control can compromise the 
+entire security of a premises.
+
+================================================================================
+CHAPTER 2.4: ACCESS AND EGRESS CONTROL - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 35
+- Easy (direct recall): 14 questions
+- Medium (application): 14 questions
+- Hard (scenario-based): 7 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.1: PURPOSE OF ACCESS CONTROL
+--------------------------------------------------------------------------------
+
+Primary Objectives:
+- Prevent unauthorised entry
+- Control movement within site
+- Protect people, property, and information
+- Maintain record of who is on site
+- Enable evacuation accountability
+- Deter and detect security threats
+
+Security Benefits:
+- Only authorised persons gain access
+- Accountability for those on site
+- Audit trail of movements
+- Quick identification of strangers
+- Protection of sensitive areas
+- Evidence for investigations
+
+Business Benefits:
+- Professional image
+- Customer confidence
+- Insurance compliance
+- Health and safety compliance
+- Asset protection
+- Time and attendance (some systems)
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.2: TYPES OF ACCESS CONTROL
+--------------------------------------------------------------------------------
+
+Physical Barriers:
+- Gates and fences
+- Turnstiles
+- Barriers (vehicle)
+- Doors (manual and automatic)
+- Bollards
+- Mantrap/airlock systems
+
+Identification Methods:
+
+SOMETHING YOU HAVE:
+- Access cards/key cards
+- Key fobs
+- Tokens
+- Physical keys
+- Visitor badges
+
+SOMETHING YOU KNOW:
+- PIN codes
+- Passwords
+- Security questions
+
+SOMETHING YOU ARE (Biometrics):
+- Fingerprint
+- Facial recognition
+- Iris/retina scan
+- Hand geometry
+- Voice recognition
+
+Multi-Factor Authentication:
+- Combines two or more methods
+- E.g., card + PIN
+- Higher security
+- Reduces risk of unauthorised access
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.3: VISITOR MANAGEMENT
+--------------------------------------------------------------------------------
+
+Pre-Arrival:
+- Pre-registration systems
+- Expected visitor lists
+- Host notification
+- Security briefing requirements
+
+Reception Process:
+- Greeting visitor professionally
+- Verifying identity
+- Checking against expected list
+- Contacting host/sponsor
+- Issuing visitor badge
+- Explaining site rules
+- Signing in
+
+Information to Record:
+- Full name
+- Company/organisation
+- Vehicle registration (if applicable)
+- Time of arrival
+- Person being visited
+- Badge number issued
+- Signature
+
+Escorting Visitors:
+- When escort required
+- Responsibilities of escort
+- Areas visitor can/cannot access
+- Maintaining control
+- Return to reception
+
+Departure Process:
+- Signing out
+- Returning visitor badge
+- Recording departure time
+- Any items to return
+
+Types of Visitors:
+- Business visitors
+- Contractors
+- Delivery personnel
+- Maintenance workers
+- Emergency services
+- Inspectors/auditors
+- General public (if applicable)
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.4: VEHICLE ACCESS CONTROL
+--------------------------------------------------------------------------------
+
+Vehicle Entry Points:
+- Barriers (automatic/manual)
+- Gates
+- Bollards
+- Manned checkpoints
+- ANPR (Automatic Number Plate Recognition)
+
+Checking Vehicles:
+- Verify driver authorisation
+- Check vehicle against records
+- Visual inspection (if required)
+- Delivery documentation
+- Purpose of visit
+
+Vehicle Passes/Permits:
+- Staff parking permits
+- Contractor passes
+- Delivery permits
+- Visitor parking allocation
+- Temporary access
+
+Vehicle Search:
+- Only with consent or contractual authority
+- Systematic approach
+- Include boot, interior, load
+- Document any search
+- Witness if possible
+
+Delivery Vehicles:
+- Verify delivery expected
+- Check documentation
+- Direct to appropriate area
+- Record details
+- Loading/unloading supervision
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.5: KEY HOLDING AND KEY CONTROL
+--------------------------------------------------------------------------------
+
+Importance of Key Control:
+- Keys provide access
+- Lost keys = security risk
+- Tracking accountability
+- Preventing unauthorised copies
+
+Key Register:
+- All keys logged
+- Who has which keys
+- Issue and return times
+- Signatures required
+- Regular audits
+
+Key Issue Procedures:
+- Verify authorisation
+- Record details
+- Confirm return time
+- Store securely when returned
+
+Lost Keys:
+- Report immediately
+- Assess security risk
+- Consider lock changes
+- Document incident
+- Investigate circumstances
+
+Master Keys:
+- Higher security level
+- Limited issue
+- Strict accountability
+- Secure storage
+- Emergency access only
+
+Safe Combination/Code Management:
+- Need-to-know basis
+- Regular changes
+- Secure recording
+- Authority to change
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.6: DEALING WITH DIFFICULT SITUATIONS
+--------------------------------------------------------------------------------
+
+Refusal of Entry:
+- Be polite but firm
+- Explain reason (if appropriate)
+- Follow site policy
+- Document refusal
+- Report to supervisor
+- Avoid confrontation
+
+Tailgating/Piggybacking:
+- Following authorised person through
+- Security risk
+- Challenge politely
+- Request proper entry procedure
+- Report attempts
+
+Persons Without Authorisation:
+- Identify yourself as security
+- Ask for identification
+- Determine purpose
+- Escort to reception if appropriate
+- Report and document
+
+Suspicious Behaviour:
+- Observe and note details
+- Report to control
+- Monitor from safe distance
+- Call police if necessary
+- Do not confront if dangerous
+
+Aggressive Visitors:
+- Remain calm and professional
+- Use de-escalation techniques
+- Do not escalate situation
+- Call for backup
+- Police if necessary
+- Document everything
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.7: EMERGENCY ACCESS
+--------------------------------------------------------------------------------
+
+Emergency Services:
+- Always allow access
+- Direct to incident location
+- Provide site information
+- Accompany if possible
+- Record arrival and departure
+
+Emergency Evacuation:
+- Know who is on site
+- Visitor log for accountability
+- Assembly point procedures
+- Account for all persons
+- Report to emergency services
+
+Lock-Down Procedures:
+- Secure all access points
+- Prevent entry and exit
+- Follow specific protocols
+- Wait for all-clear
+- Communication essential
+
+Power Failure:
+- Fail-safe vs fail-secure
+- Emergency procedures
+- Manual overrides
+- Battery backup systems
+- Maintain security
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.8: EGRESS (EXIT) CONTROL
+--------------------------------------------------------------------------------
+
+Purpose of Exit Control:
+- Prevent theft
+- Monitor who leaves
+- Ensure all visitors sign out
+- Security checks
+- Record keeping
+
+Exit Checks:
+- Badge return
+- Property checks (if policy)
+- Bag searches (with consent)
+- Visitor sign-out
+- Contractor equipment check
+
+Fire Exit Security:
+- Must not be locked
+- Must be accessible at all times
+- Alarmed doors acceptable
+- Regular checks
+- No obstructions
+
+Controlled Exit Points:
+- Reduce opportunities for theft
+- Funnels exit traffic
+- Staff and visitor separation
+- Receipt checking (retail)
+
+Anti-Pass Back:
+- Prevents card being passed back
+- Must use card to exit before re-entry
+- Enhances security
+- Accurate occupancy count
+
+--------------------------------------------------------------------------------
+TOPIC 2.4.9: DOCUMENTATION AND RECORDS
+--------------------------------------------------------------------------------
+
+Visitor Logs:
+- Legal requirement in many cases
+- Emergency evacuation tool
+- Evidence of who was on site
+- Audit trail
+- Data protection compliance
+
+Electronic vs Paper Systems:
+- Electronic: faster, searchable, reports
+- Paper: backup, no power needed
+- Often both used
+- Both require accuracy
+
+Data Protection:
+- Collect minimum necessary
+- Secure storage
+- Retention period
+- Disposal when no longer needed
+- Access to records controlled
+- GDPR compliance
+
+Record Retention:
+- Follow company policy
+- Typically 6-12 months for visitor logs
+- Longer for incident-related
+- Secure destruction when expired
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 35
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 14 questions (40%)
+- Medium (application): 14 questions (40%)
+- Hard (scenario-based): 7 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 8-9 questions
+- Correct answer B: 8-9 questions
+- Correct answer C: 8-9 questions
+- Correct answer D: 8-9 questions
+
+TOPICS TO COVER:
+□ Purpose of access control (3-4 questions)
+□ Types of access control (4-5 questions)
+□ Visitor management (5-6 questions)
+□ Vehicle access control (4-5 questions)
+□ Key holding and control (4-5 questions)
+□ Dealing with difficult situations (4-5 questions)
+□ Emergency access (3-4 questions)
+□ Egress control (3-4 questions)
+□ Documentation and records (3-4 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic security officer scenarios
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.4: ACCESS AND EGRESS CONTROL
+================================================================================
+
+Question 1 [Easy]
+What is the PRIMARY purpose of access control in a security environment?
+
+A) To slow down visitors entering the building
+B) To prevent unauthorised entry to the premises
+C) To provide employment for security staff
+D) To create a professional reception area
+
+Correct Answer: B
+
+Explanation: The primary purpose of access control is to prevent unauthorised 
+entry to the premises. While access control may provide other benefits such 
+as a professional image, its core function is security - ensuring only 
+authorised persons can enter and controlling movement within the site.
+
+---
+
+[Continue for all 35 questions]
+
+================================================================================
+END OF CHAPTER 2.4 QUESTIONS
+================================================================================
+
+Total Questions: 35
+- Easy: 14
+- Medium: 14
+- Hard: 7
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+ACCESS CONTROL METHODS:
+- Something you HAVE (card, key, badge)
+- Something you KNOW (PIN, password)
+- Something you ARE (biometrics)
+
+VISITOR MANAGEMENT:
+- Verify identity
+- Contact host
+- Issue badge
+- Sign in/out
+- Escort if required
+
+KEY CONTROL:
+- All keys logged
+- Secure storage
+- Issue and return recorded
+- Lost keys reported immediately
+
+TAILGATING:
+- Following authorised person through
+- Major security risk
+- Must be challenged
+
+EMERGENCY SERVICES:
+- Always allow access
+- Direct to incident
+- Record arrival
+
+FIRE EXITS:
+- Must NEVER be locked
+- Must be accessible at all times
+- Alarmed doors acceptable
+
+COMMON DISTRACTORS:
+- Can refuse entry to emergency services (wrong - always allow)
+- Fire exits can be locked during non-business hours (wrong - never locked)
+- Visitors don't need to sign out (wrong - must sign out)
+- Can search vehicles without consent (wrong - need consent)
+
+================================================================================
+END OF PROMPT
+================================================================================

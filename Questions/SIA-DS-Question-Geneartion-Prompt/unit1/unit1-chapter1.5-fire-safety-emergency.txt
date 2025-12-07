@@ -1,0 +1,832 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 1, CHAPTER 1.5
+FIRE SAFETY AND EMERGENCY PROCEDURES
+================================================================================
+
+YOUR TASK
+---------
+Generate 55 high-quality Multiple Choice Questions (MCQs) for Chapter 1.5 of 
+Unit 1 of the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+Take your time. Quality over speed.
+
+================================================================================
+SECTION 1: BACKGROUND CONTEXT
+================================================================================
+
+WHAT IS THE SIA?
+----------------
+The Security Industry Authority (SIA) is the UK government body responsible for 
+regulating the private security industry. Door Supervisors must hold a valid 
+SIA licence to work legally.
+
+THE EXAM STRUCTURE
+------------------
+Unit 1: Working in the Private Security Industry
+- 72 multiple choice questions in the actual exam
+- 110 minutes duration
+- 71% pass mark (51 correct answers required)
+
+This chapter (1.5) focuses on fire safety, emergency procedures, and 
+counter-terrorism awareness - critical knowledge for door supervisors who 
+are often first responders in emergency situations.
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Door supervisors are frequently the first to:
+- Discover a fire
+- Respond to emergencies
+- Coordinate evacuations
+- Liaise with emergency services
+- Notice suspicious behaviour (terrorism)
+
+Getting this right saves lives. Getting it wrong costs lives.
+
+================================================================================
+SECTION 2: CHAPTER 1.5 SYLLABUS - COMPLETE BREAKDOWN
+================================================================================
+
+CHAPTER 1.5: FIRE SAFETY AND EMERGENCY PROCEDURES
+-------------------------------------------------
+QUESTIONS REQUIRED: 55
+(22 easy, 22 medium, 11 hard)
+
+TOPICS YOU MUST COVER:
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.1: FIRE SAFETY LEGISLATION
+--------------------------------------------------------------------------------
+Regulatory Reform (Fire Safety) Order 2005:
+- Primary fire safety legislation in England and Wales
+- Applies to ALL non-domestic premises
+- Replaced many previous fire safety laws
+- Risk-based approach
+- Enforced by Fire and Rescue Services
+
+Key Concepts:
+
+THE RESPONSIBLE PERSON:
+- Has duties under the Order
+- Usually the employer, owner, or occupier
+- Or anyone with control of premises
+- May be multiple responsible persons
+- Door supervisor is NOT usually the responsible person
+- But must follow their instructions
+
+Duties of Responsible Person:
+- Carry out fire risk assessment
+- Implement fire safety measures
+- Maintain fire safety measures
+- Develop emergency plan
+- Provide fire safety training
+- Appoint competent persons for fire safety
+
+FIRE RISK ASSESSMENT:
+- Legal requirement
+- Identify fire hazards
+- Identify people at risk
+- Evaluate, remove, reduce risks
+- Record (if 5+ employees)
+- Review regularly
+
+Fire Authority Powers:
+- Inspect premises
+- Issue enforcement notices
+- Issue prohibition notices (close premises)
+- Prosecute for breaches
+- Penalties: fines, imprisonment
+
+Door Supervisor Fire Duties:
+- Know the fire evacuation procedure
+- Know location of fire exits and equipment
+- Act on discovering fire
+- Assist with evacuation
+- Prevent re-entry
+- Liaise with fire service
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.2: THE FIRE TRIANGLE
+--------------------------------------------------------------------------------
+The three elements needed for fire:
+
+        HEAT
+         /\
+        /  \
+       /    \
+      /______\
+   FUEL      OXYGEN
+
+HEAT (Ignition Source):
+- Naked flames
+- Electrical equipment
+- Sparks
+- Friction
+- Hot surfaces
+- Smoking materials
+
+FUEL (Combustible Material):
+- Paper, cardboard, wood
+- Textiles (curtains, furniture)
+- Plastics
+- Flammable liquids
+- Gases
+- Waste materials
+
+OXYGEN:
+- Air (approximately 21% oxygen)
+- Some chemical oxidising agents
+- Always present in normal environment
+
+Principle:
+- Fire requires ALL THREE elements
+- Remove ANY ONE element = fire cannot burn
+- Basis of fire prevention and firefighting
+
+Prevention - Remove Elements:
+- Control ignition sources (no smoking, electrical safety)
+- Reduce fuel (housekeeping, safe storage)
+- Cannot easily remove oxygen from environment
+
+Extinguishing - Remove Elements:
+- Cooling (removes heat) - water
+- Smothering (removes oxygen) - foam, CO2
+- Starving (removes fuel) - fire breaks
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.3: CLASSES OF FIRE
+--------------------------------------------------------------------------------
+CLASS A - ORDINARY COMBUSTIBLES:
+- Solid materials
+- Wood, paper, cloth, plastics, rubber
+- Most common type of fire
+- Usually leave ash
+- Memory: A = Ash
+
+CLASS B - FLAMMABLE LIQUIDS:
+- Petrol, diesel, oil
+- Paints, solvents, spirits
+- Burn on surface of liquid
+- Memory: B = Barrels (of liquid)
+
+CLASS C - FLAMMABLE GASES:
+- Propane, butane
+- Natural gas, methane
+- Acetylene
+- MUST isolate gas supply
+- Memory: C = Cylinders (gas)
+
+CLASS D - COMBUSTIBLE METALS:
+- Magnesium, sodium, potassium
+- Aluminium powder
+- Titanium
+- Rare, specialist extinguishers needed
+- Memory: D = Dangerous metals
+
+CLASS F - COOKING OILS AND FATS:
+- Chip pan fires
+- Deep fat fryers
+- Kitchen oils
+- Very high temperature
+- Specific extinguisher required
+- Memory: F = Fat Fryers
+
+ELECTRICAL FIRES:
+- Not a class of its own
+- Fires INVOLVING electrical equipment
+- Must switch off electricity first if safe
+- Then treat as underlying class
+- Some extinguishers safe on electrical
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.4: FIRE EXTINGUISHER TYPES
+--------------------------------------------------------------------------------
+WATER (RED LABEL):
+- Colour: All red body
+- Use on: CLASS A only
+- Action: COOLING - removes heat
+- Never use on: Electrical, flammable liquids, cooking fats
+- Danger: Water conducts electricity, spreads liquid fires, 
+  causes explosion with fat fires
+
+FOAM (CREAM/BEIGE LABEL):
+- Colour: Red body with cream band
+- Use on: CLASS A and CLASS B
+- Action: SMOTHERING and COOLING
+- Creates foam blanket over fire
+- Never use on: Chip pan fires
+- Some rated for electrical use (check label)
+
+CO2 - CARBON DIOXIDE (BLACK LABEL):
+- Colour: Red body with black band
+- Use on: CLASS B and ELECTRICAL fires
+- Action: SMOTHERING - displaces oxygen
+- Leaves no residue
+- Warning: Horn gets extremely cold (-70°C)
+- Warning: Fire may re-ignite (no cooling effect)
+- Warning: Limited use in open air
+
+DRY POWDER (BLUE LABEL):
+- Colour: Red body with blue band
+- Use on: CLASS A, B, C and ELECTRICAL
+- Most versatile extinguisher
+- Action: Chemical reaction interrupts combustion
+- Warning: Creates visibility problems (powder cloud)
+- Warning: Does not cool - fire may re-ignite
+- Warning: Powder is irritant - not for enclosed spaces
+- Never use on: Chip pan fires
+
+WET CHEMICAL (YELLOW LABEL):
+- Colour: Red body with yellow band
+- Use on: CLASS F (cooking oils/fats)
+- Also effective on: CLASS A
+- Action: SAPONIFICATION - creates soap layer, COOLING
+- ONLY extinguisher for chip pan/deep fat fryer fires
+- Specifically designed for commercial kitchens
+- Memory: Yellow = Cooking (think of yellow oil/butter)
+
+COLOUR MEMORY AID:
+| Type | Label Colour | Think... |
+|------|--------------|----------|
+| Water | Red (all red) | Red = danger (only Class A) |
+| Foam | Cream | Cream foam |
+| CO2 | Black | Black = no oxygen (smothers) |
+| Powder | Blue | Blue powder |
+| Wet Chemical | Yellow | Yellow cooking oil |
+
+CRITICAL RULE - CHIP PAN FIRES:
+- ONLY use WET CHEMICAL (yellow)
+- NEVER use water (explosion)
+- NEVER use foam (ineffective)
+- NEVER use CO2 (ineffective)
+- NEVER use powder (ineffective)
+- If no wet chemical: DO NOT fight - evacuate
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.5: FIRE PREVENTION
+--------------------------------------------------------------------------------
+Housekeeping:
+- Remove rubbish and waste regularly
+- Keep escape routes clear
+- Don't let combustibles accumulate
+- Store flammables properly
+- Keep fire doors closed
+
+Electrical Safety:
+- Regular PAT testing
+- Don't overload sockets
+- Check for damaged cables
+- Switch off when not in use
+- Report faults immediately
+
+Smoking Control:
+- Designated smoking areas only
+- Proper ash disposal
+- Away from flammable materials
+- No smoking signs displayed
+
+Arson Prevention:
+- Secure premises
+- Control access
+- Remove external rubbish
+- Lighting around building
+- CCTV coverage
+
+Storage of Flammables:
+- Proper flammable storage cabinets
+- Away from ignition sources
+- Labelled correctly
+- Minimal quantities
+- Fire-resistant areas
+
+Hot Work Permits:
+- Written permission for welding, grinding, etc.
+- Fire watch during and after
+- Clear area of combustibles
+- Fire extinguisher on standby
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.6: FIRE DETECTION AND WARNING SYSTEMS
+--------------------------------------------------------------------------------
+Types of Detectors:
+
+SMOKE DETECTORS:
+- Ionisation: best for fast, flaming fires
+- Optical (photoelectric): best for slow, smouldering fires
+- Multi-sensor: combination for wider detection
+
+HEAT DETECTORS:
+- Fixed temperature: activate at set temperature
+- Rate of rise: activate on rapid temperature increase
+- Less prone to false alarms than smoke detectors
+
+Manual Call Points:
+- "Break glass" points
+- Positioned at exits and on escape routes
+- Allows anyone to raise alarm
+- Typically red with green "break glass" element
+
+Fire Alarm Systems:
+- Conventional: zone-based indication
+- Addressable: individual detector identification
+- Two-stage: alert then evacuate
+- Voice alarm: verbal instructions
+
+Visual and Tactile Alarms:
+- For deaf and hard of hearing
+- Flashing beacons
+- Vibrating devices
+- Required in accessible venues
+
+Testing:
+- Weekly alarm tests (scheduled)
+- Monthly detector tests
+- Annual professional inspection
+- Records must be kept
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.7: EMERGENCY EVACUATION PROCEDURES
+--------------------------------------------------------------------------------
+Fire Action Notices:
+- Displayed prominently
+- Show: what to do on discovering fire
+- Show: what to do on hearing alarm
+- Show: assembly point location
+
+On Discovering a Fire:
+1. Raise the alarm (shout, break glass point)
+2. Call Fire Service (or ensure called) - 999
+3. Fight fire ONLY if safe and trained
+4. Evacuate if fire cannot be controlled
+5. Close doors behind you
+
+On Hearing Fire Alarm:
+1. Leave by nearest exit
+2. Do NOT use lifts
+3. Do NOT stop to collect belongings
+4. Go to assembly point
+5. Do NOT re-enter building
+
+Escape Routes:
+- Clearly signed (green running man)
+- Free from obstruction
+- Fire doors on routes
+- Emergency lighting
+- Must lead to place of safety
+
+Emergency Lighting:
+- Activates on power failure
+- Illuminates escape routes
+- Minimum duration requirements
+- Regularly tested
+
+Assembly Points:
+- Safe distance from building
+- Known to all staff
+- Roll call conducted
+- Stay until dismissed
+
+Door Supervisor Role in Evacuation:
+- Know procedure before shift starts
+- Know all fire exits
+- Direct people calmly to exits
+- Check areas are clear
+- Assist anyone needing help
+- Prevent re-entry
+- Report to assembly point
+- Inform fire service of any missing persons
+- Liaise with fire service on arrival
+
+PEEPs - Personal Emergency Evacuation Plans:
+- For people with disabilities
+- Individual plan for how they evacuate
+- May need assistance
+- Refuge areas (protected waiting areas)
+- Door supervisors may be assigned to assist
+- Know who needs help and where they are
+
+Evacuation vs Invacuation:
+- Evacuation: leave the building
+- Invacuation: stay inside, move to safe area
+- Used when outside is more dangerous
+- Chemical release, terrorism
+- Follow instructions of emergency services
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.8: COUNTER-TERRORISM AWARENESS
+--------------------------------------------------------------------------------
+UK Threat Level System:
+- Set by Joint Terrorism Analysis Centre (JTAC)
+- Applies to international terrorism
+
+| Level | Meaning |
+|-------|---------|
+| LOW | Attack unlikely |
+| MODERATE | Attack possible but not likely |
+| SUBSTANTIAL | Attack is likely |
+| SEVERE | Attack is highly likely |
+| CRITICAL | Attack is expected imminently |
+
+Current threat level can be checked at MI5 website.
+
+ACT (Action Counters Terrorism):
+- Public awareness campaign
+- Encourages vigilance and reporting
+- "See it. Say it. Sorted."
+- Report suspicious activity
+
+Hostile Reconnaissance:
+- Terrorists gather information before attack
+- Watching and photographing venues
+- Testing security responses
+- Noting staff routines
+- Identifying vulnerabilities
+
+Signs of Hostile Reconnaissance:
+- Photographing security features (cameras, doors)
+- Filming without apparent reason
+- Sketching or note-taking about building
+- Asking unusual questions about security
+- Testing security (probing boundaries)
+- Timing security patrols
+- Repeat visits without clear purpose
+- Observing from unusual positions
+
+Suspicious Packages/Items:
+Use HOT principle:
+- H: HIDDEN - is it hidden or deliberately concealed?
+- O: OBVIOUSLY suspicious - does it look out of place?
+- T: TYPICAL - is it typical for this area?
+
+If something seems wrong, report it.
+
+Response to Suspicious Item:
+- Do NOT touch it
+- Do NOT use mobile phones nearby
+- Move people away
+- Report immediately (management/police)
+- Cordon off area if possible
+- Wait for specialist response
+
+Suspicious Vehicles:
+- Parked unusually close to building
+- Left for extended period
+- Heavy loading (sitting low)
+- Unusual or no number plates
+- Driver leaves quickly
+- Contains unusual items
+
+RUN HIDE TELL:
+Response to terrorist attack (firearms/weapons):
+
+RUN:
+- Escape if you can
+- Leave belongings
+- Encourage others but don't let them slow you
+- Consider best route - is it safe?
+- Don't run towards gunfire
+
+HIDE:
+- If you can't run, hide
+- Find cover from gunfire
+- Turn off phone sounds
+- Barricade doors
+- Be very quiet
+- Move away from door
+- Be aware of exits
+
+TELL:
+- When safe, call 999
+- Give location
+- Number of attackers if known
+- Descriptions
+- Direction of travel
+- Weapons seen
+- Casualties
+
+Armed Police Response:
+- Keep hands visible
+- Don't make sudden movements
+- Don't point or scream
+- Follow their instructions exactly
+- They may treat you as threat initially
+- Don't hold anything that could be weapon
+
+Reporting Terrorism Concerns:
+- Anti-Terrorist Hotline: 0800 789 321
+- Police: 999 (emergency) or 101 (non-emergency)
+- Confidential
+- "It's probably nothing but..."
+
+Project Griffin:
+- Police-led counter-terrorism awareness
+- Free training for security professionals
+- Information sharing
+- Community partnership
+
+Project Argus:
+- Counter-terrorism exercise programme
+- For businesses and organisations
+- Tests emergency response
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.9: BOMB THREATS
+--------------------------------------------------------------------------------
+Receiving a Bomb Threat Call:
+
+STAY CALM - keep the caller talking
+
+If possible, signal to a colleague to:
+- Call police
+- Listen in
+- Trace the call
+
+ASK:
+- Where is the bomb?
+- When will it go off?
+- What does it look like?
+- What kind of bomb is it?
+- What will make it explode?
+- Did you place the bomb?
+- Why?
+- What is your name?
+- What is your address?
+
+LISTEN FOR:
+- Caller's voice (male/female, age, accent)
+- Speech (fast/slow, calm/agitated)
+- Background sounds (traffic, music, voices)
+- Manner (nervous, laughing, serious)
+
+RECORD:
+- Exact words used
+- Time of call
+- Duration
+- Number called (displayed?)
+
+After Call:
+- Report immediately to management
+- Call police if not already done
+- Write down everything while fresh
+
+Evacuation Decision:
+- Usually made by senior management with police
+- NOT the door supervisor's decision alone
+- May be full evacuation
+- May be controlled movement away from area
+- May be shelter in place
+
+Search:
+- If authorised and trained
+- DO NOT touch suspicious items
+- Report findings immediately
+
+--------------------------------------------------------------------------------
+TOPIC 1.5.10: OTHER EMERGENCY PROCEDURES
+--------------------------------------------------------------------------------
+Medical Emergencies:
+- Call for first aider
+- Call ambulance if serious (999)
+- Clear space around casualty
+- Don't move unless immediate danger
+- Provide clear access for paramedics
+
+Gas Leak:
+- Do NOT operate switches (sparks)
+- Evacuate immediately
+- Call gas emergency (0800 111 999)
+- Do not re-enter
+
+Power Failure:
+- Emergency lighting activates
+- Remain calm
+- Prevent panic
+- Assist evacuation if required
+- Check emergency exits accessible
+
+Flood:
+- Evacuate if necessary
+- Avoid electrical equipment
+- Turn off utilities if safe
+- Call emergency services if serious
+
+Major Incident:
+- Any incident requiring special arrangements
+- Multiple casualties
+- Large scale evacuation
+- Multi-agency response
+- Follow instructions of emergency services
+
+Door Supervisor Role in Major Incident:
+- Assist emergency services
+- Control access
+- Manage crowds
+- Provide information
+- Preserve evidence
+- Document observations
+- Welfare of staff and customers
+
+================================================================================
+SECTION 3: QUESTION REQUIREMENTS
+================================================================================
+
+TOTAL: 55 QUESTIONS FOR THIS CHAPTER
+
+DIFFICULTY DISTRIBUTION:
+------------------------
+Easy (40%):   22 questions - Direct recall of facts
+Medium (40%): 22 questions - Application to situations
+Hard (20%):   11 questions - Complex scenarios
+
+QUESTION RULES:
+---------------
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Clear, unambiguous wording
+
+================================================================================
+SECTION 4: OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 1, CHAPTER 1.5: FIRE SAFETY AND EMERGENCY PROCEDURES
+================================================================================
+
+Question 1 [Easy]
+Which colour label identifies a CO2 (carbon dioxide) fire extinguisher?
+
+A) Red
+B) Cream
+C) Black
+D) Blue
+
+Correct Answer: C
+
+Explanation: CO2 extinguishers have a black label on a red body. The colour 
+coding is: Red (all red) = Water, Cream = Foam, Black = CO2, Blue = Dry 
+Powder, Yellow = Wet Chemical.
+
+---
+
+Question 2 [Easy]
+What are the three elements of the fire triangle?
+
+A) Heat, fuel, and water
+B) Heat, fuel, and oxygen
+C) Flames, smoke, and oxygen
+D) Ignition, combustion, and fuel
+
+Correct Answer: B
+
+Explanation: The fire triangle consists of heat (ignition source), fuel 
+(combustible material), and oxygen. Removing any one element will prevent 
+fire from starting or will extinguish an existing fire.
+
+---
+
+Question 3 [Medium]
+A fire breaks out in a commercial kitchen deep fat fryer. Which extinguisher 
+should be used?
+
+A) Water (red label)
+B) CO2 (black label)
+C) Dry powder (blue label)
+D) Wet chemical (yellow label)
+
+Correct Answer: D
+
+Explanation: Class F fires (cooking oils and fats) should ONLY be tackled 
+with a wet chemical extinguisher (yellow label). Water causes explosive 
+steam and fat splatter, and other extinguishers are ineffective or dangerous 
+on cooking oil fires.
+
+---
+
+[Continue with remaining 52 questions...]
+
+================================================================================
+END OF CHAPTER 1.5 QUESTIONS
+================================================================================
+
+Total Questions: 55
+- Easy: 22
+- Medium: 22
+- Hard: 11
+
+================================================================================
+
+================================================================================
+SECTION 5: LEGAL ACCURACY - CRITICAL POINTS
+================================================================================
+
+GET THESE RIGHT:
+
+FIRE TRIANGLE:
+- Heat, Fuel, Oxygen (not water, not smoke)
+
+FIRE CLASSES:
+- A = Ordinary combustibles (solids)
+- B = Flammable liquids
+- C = Flammable gases
+- D = Combustible metals
+- F = Cooking oils/fats
+
+EXTINGUISHER COLOURS:
+- Water = Red (all red)
+- Foam = Cream
+- CO2 = Black
+- Dry Powder = Blue
+- Wet Chemical = Yellow
+
+CRITICAL - CHIP PAN FIRES:
+- ONLY wet chemical (yellow)
+- NEVER water (explosion)
+
+UK THREAT LEVELS (in order):
+1. LOW
+2. MODERATE
+3. SUBSTANTIAL
+4. SEVERE
+5. CRITICAL
+
+RUN HIDE TELL:
+- In that order
+- For terrorist attack response
+
+ANTI-TERRORIST HOTLINE:
+- 0800 789 321
+
+HOT PRINCIPLE (suspicious items):
+- Hidden
+- Obviously suspicious
+- Typical for the area?
+
+================================================================================
+SECTION 6: TOPICS CHECKLIST
+================================================================================
+
+Ensure at least one question covers each:
+
+□ Fire Safety Order 2005
+□ Responsible person definition
+□ Fire risk assessment requirement
+□ Fire triangle - all three elements
+□ Class A fires
+□ Class B fires
+□ Class C fires
+□ Class F fires
+□ Electrical fires (not a class)
+□ Water extinguisher - colour and use
+□ Foam extinguisher - colour and use
+□ CO2 extinguisher - colour and use
+□ Dry powder extinguisher - colour and use
+□ Wet chemical extinguisher - colour and use
+□ What NOT to use on electrical
+□ What NOT to use on chip pans
+□ Fire prevention measures
+□ Smoke detectors
+□ Heat detectors
+□ Manual call points
+□ Fire alarm testing
+□ Fire action notices
+□ On discovering fire procedure
+□ On hearing alarm procedure
+□ Escape routes
+□ Emergency lighting
+□ Assembly points
+□ PEEPs for disabled persons
+□ Evacuation vs invacuation
+□ UK threat levels (all 5)
+□ ACT awareness
+□ Hostile reconnaissance
+□ HOT principle
+□ RUN HIDE TELL
+□ Anti-terrorist hotline number
+□ Bomb threat call handling
+□ What to ask caller
+□ Project Griffin/Argus
+
+================================================================================
+FINAL INSTRUCTION
+================================================================================
+
+Generate all 55 questions now, following this exact format.
+
+This is a critical life-safety chapter. Ensure questions test:
+- Knowledge that could save lives (evacuation, extinguisher types)
+- Recognition of threats (suspicious behaviour, packages)
+- Correct response (RUN HIDE TELL, not confronting attackers)
+
+Fire extinguisher knowledge is heavily tested - ensure comprehensive coverage 
+of which extinguisher for which fire type.
+
+================================================================================
+END OF PROMPT
+================================================================================

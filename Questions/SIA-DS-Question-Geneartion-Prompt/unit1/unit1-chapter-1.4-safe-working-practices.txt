@@ -1,0 +1,594 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 1, CHAPTER 1.4
+SAFE WORKING PRACTICES
+================================================================================
+
+YOUR TASK
+---------
+Generate 45 high-quality Multiple Choice Questions (MCQs) for Chapter 1.4 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+This chapter covers health and safety requirements for security operatives. 
+Door supervisors work in potentially hazardous environments and must understand 
+risk assessment, safe working practices, lone working, and incident reporting.
+
+THE EXAM
+--------
+Unit 1: Working in the Private Security Industry
+- 72 multiple choice questions in actual exam
+- 110 minutes duration
+- 71% pass mark (51 correct answers required)
+- This chapter (1.4) is one of 6 chapters in Unit 1
+
+================================================================================
+CHAPTER 1.4: SAFE WORKING PRACTICES - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 45
+- Easy (direct recall): 18 questions
+- Medium (application): 18 questions
+- Hard (scenario-based): 9 questions
+
+--------------------------------------------------------------------------------
+TOPIC 1.4.1: HEALTH AND SAFETY AT WORK ACT 1974 (HASAWA)
+--------------------------------------------------------------------------------
+
+Overview:
+- Primary health and safety legislation in UK
+- Creates duties for employers AND employees
+- Enforced by Health and Safety Executive (HSE)
+- Criminal penalties for breaches
+
+SECTION 2 - Employer's Duties to Employees:
+"Every employer shall ensure, so far as is reasonably practicable, the 
+health, safety and welfare at work of all their employees."
+
+This includes:
+- Safe plant and equipment
+- Safe systems of work
+- Safe handling, storage, transport of articles and substances
+- Adequate information, instruction, training, supervision
+- Safe workplace with safe access and egress
+- Adequate welfare facilities
+
+SECTION 3 - Employer's Duty to Non-Employees:
+- Must not endanger persons not employed
+- Includes customers, visitors, contractors, public
+- Must conduct business in a way that doesn't put others at risk
+
+SECTION 7 - Employee's Duties:
+Every employee shall:
+- Take reasonable care for their own health and safety
+- Take reasonable care for others who may be affected by their acts/omissions
+- Cooperate with employer on health and safety matters
+- Not misuse anything provided for health and safety
+
+SECTION 8 - General Duty:
+- No person shall intentionally or recklessly interfere with or misuse 
+  anything provided for health, safety or welfare
+
+"Reasonably Practicable":
+- Weighing cost/difficulty against level of risk
+- Higher risk = more expected to be done
+- Not absolute duty - what is reasonable in circumstances
+- Cost includes time, money, effort
+- Consider likelihood and severity of harm
+
+--------------------------------------------------------------------------------
+TOPIC 1.4.2: RISK ASSESSMENT
+--------------------------------------------------------------------------------
+
+Legal Requirement:
+- Required by Management of Health and Safety at Work Regulations 1999
+- Must be "suitable and sufficient"
+- Must be recorded (if 5+ employees)
+- Must be reviewed regularly
+
+Definition:
+- Systematic examination of work activities
+- Identifies what could cause harm
+- Evaluates likelihood and severity
+- Determines appropriate control measures
+
+The 5 Steps of Risk Assessment:
+
+STEP 1: IDENTIFY THE HAZARDS
+- Walk around the workplace
+- Think about what could cause harm
+- Ask employees about problems
+- Check manufacturer's instructions
+- Review accident records
+
+STEP 2: DECIDE WHO MIGHT BE HARMED AND HOW
+- Employees
+- Customers/visitors
+- Contractors
+- Vulnerable groups (young, elderly, disabled, pregnant)
+- How might they be harmed?
+
+STEP 3: EVALUATE RISKS AND DECIDE ON PRECAUTIONS
+- Compare against legal standards
+- Consider what is already in place
+- Can hazard be eliminated?
+- Can risk be reduced?
+- Hierarchy of controls
+
+STEP 4: RECORD FINDINGS AND IMPLEMENT
+- Write down significant findings
+- Identify who needs to take action
+- Implement control measures
+- Communicate to relevant people
+
+STEP 5: REVIEW AND UPDATE
+- Regular review (at least annually)
+- After any incident or near-miss
+- When work changes
+- When new information available
+
+Hazard vs Risk:
+- HAZARD: Something with potential to cause harm
+  Examples: wet floor, broken glass, aggressive person
+- RISK: Likelihood that harm will occur AND severity of that harm
+  Combines probability and consequence
+
+Dynamic Risk Assessment:
+- Ongoing, real-time assessment
+- Used when situations change rapidly
+- Continuous monitoring and adjustment
+- Particularly relevant to security work
+- "Reading the room" for threats
+
+--------------------------------------------------------------------------------
+TOPIC 1.4.3: CONTROL MEASURES - HIERARCHY OF CONTROL
+--------------------------------------------------------------------------------
+
+When controlling risks, follow this hierarchy (most effective first):
+
+1. ELIMINATION:
+- Remove the hazard completely
+- Most effective control
+- Example: remove trip hazard, ban glass containers
+
+2. SUBSTITUTION:
+- Replace with something less hazardous
+- Example: use plastic glasses instead of glass
+
+3. ENGINEERING CONTROLS:
+- Physical measures to reduce risk
+- Example: install barriers, improve lighting, CCTV
+
+4. ADMINISTRATIVE CONTROLS:
+- Policies and procedures
+- Training and information
+- Signage and warnings
+- Changing how work is done
+- Example: two-person patrols, regular check-ins
+
+5. PERSONAL PROTECTIVE EQUIPMENT (PPE):
+- Last resort, not first choice
+- Protects the individual, not the hazard
+- Example: high-vis vest, stab vest, gloves
+
+PPE Requirements:
+- Employer must provide suitable PPE free of charge
+- PPE must fit properly and be suitable for the risk
+- Employee must use PPE as instructed
+- Employee must report defects
+- Employer must maintain and replace PPE
+
+Types of PPE for Security:
+- High-visibility clothing
+- Protective footwear
+- Stab vests (in some roles)
+- Gloves (for searches, first aid, handling)
+- Communication equipment
+- Torch/flashlight
+
+--------------------------------------------------------------------------------
+TOPIC 1.4.4: SAFE SYSTEMS OF WORK
+--------------------------------------------------------------------------------
+
+Definition:
+- Formal procedure for carrying out tasks safely
+- Combines equipment, people, materials, environment
+- Documented and communicated
+
+Standard Operating Procedures (SOPs):
+- Written instructions for routine tasks
+- Step-by-step guidance
+- Ensure consistency
+- Reference document for training
+
+Examples for Security:
+- Patrol procedures
+- Search procedures
+- Incident response
+- Emergency evacuation
+- Radio protocols
+- Handover procedures
+
+Training and Competence:
+- Workers must be trained in safe methods
+- Competence = training + experience + knowledge
+- Supervision until competent
+- Refresher training as needed
+
+Information and Instruction:
+- Clear information about risks
+- Instruction on safe working
+- Warning signs and labels
+- Emergency procedures
+
+--------------------------------------------------------------------------------
+TOPIC 1.4.5: LONE WORKING
+--------------------------------------------------------------------------------
+
+Definition:
+- Working without close or direct supervision
+- Working in isolation from colleagues
+- Common in security industry
+
+Increased Risks:
+- Violence and aggression
+- Medical emergencies with no assistance
+- Accidents with no one to help
+- Delayed emergency response
+- Mental health/stress
+
+Employer's Duties:
+- Assess risks to lone workers
+- Implement control measures
+- Provide training
+- Establish communication procedures
+- Review arrangements regularly
+
+Control Measures for Lone Working:
+
+COMMUNICATION:
+- Regular check-in procedures (e.g., every 30 minutes)
+- Two-way radio or mobile phone
+- Panic alarm / personal safety device
+- GPS tracking (with consent)
+- Buddy system
+
+PROCEDURES:
+- Known itinerary
+- Reporting arrival and departure
+- Escalation procedures if contact lost
+- Clear instructions on what to do
+
+RESTRICTIONS:
+- Avoid certain tasks when alone
+- Avoid certain times when alone
+- Avoid certain locations when alone
+- Knowing when to withdraw
+
+TRAINING:
+- Conflict avoidance
+- Emergency procedures
+- First aid
+- Risk awareness
+
+Employee Responsibilities:
+- Follow check-in procedures
+- Report concerns
+- Withdraw from dangerous situations
+- Not take unnecessary risks
+- Carry communication equipment
+
+When to Withdraw:
+- Situation beyond your capability
+- Immediate danger
+- Unable to maintain safety
+- Better to lose contact than life
+
+--------------------------------------------------------------------------------
+TOPIC 1.4.6: WORKING TIME REGULATIONS 1998
+--------------------------------------------------------------------------------
+
+Maximum Working Week:
+- Average of 48 hours per week (calculated over 17 weeks)
+- Can opt out in writing (voluntary)
+- Opt out can be cancelled with 7 days notice
+- Young workers (under 18): maximum 8 hours/day, 40 hours/week
+
+Rest Breaks:
+- 20 minutes if working more than 6 hours
+- Uninterrupted break
+- Can be taken away from workstation
+
+Daily Rest:
+- 11 consecutive hours rest in each 24-hour period
+- Between finishing one shift and starting next
+
+Weekly Rest:
+- 24 hours uninterrupted rest per week, OR
+- 48 hours uninterrupted rest per fortnight
+
+Night Workers:
+- Average 8 hours in any 24-hour period
+- Free health assessment before starting night work
+- Regular health assessments
+
+Implications for Security Workers:
+- Many work long hours / multiple jobs
+- Must manage own working time
+- Fatigue increases risk
+- Employer must monitor where practical
+- Worker should inform employer of other work
+
+--------------------------------------------------------------------------------
+TOPIC 1.4.7: RIDDOR 2013 - REPORTING REQUIREMENTS
+--------------------------------------------------------------------------------
+
+RIDDOR = Reporting of Injuries, Diseases and Dangerous Occurrences 
+Regulations 2013
+
+Purpose:
+- Enables HSE to investigate serious incidents
+- Identifies patterns and trends
+- Informs policy and guidance
+- Enforces health and safety law
+
+What Must Be Reported:
+
+DEATHS:
+- Any death arising from work activity
+- Report: IMMEDIATELY by phone, then written within 10 DAYS
+
+SPECIFIED INJURIES:
+- Fractures (except fingers, thumbs, toes)
+- Amputations
+- Permanent loss of sight or reduction of sight
+- Crush injuries to head or torso
+- Serious burns (covering more than 10% of body)
+- Scalping requiring hospital treatment
+- Unconsciousness from head injury or asphyxia
+- Any injury requiring immediate hospital admission for more than 24 hours
+- Report: IMMEDIATELY by phone, then written within 10 DAYS
+
+OVER-7-DAY INCAPACITATION:
+- Injury not in specified list BUT
+- Causes worker to be away/unable to do full duties for MORE than 7 
+  consecutive days (not counting day of accident)
+- Report: Within 15 DAYS
+
+NON-WORKER INJURIES:
+- Members of public/customers taken directly to hospital
+- As a result of work activity
+- Report: Within 10 DAYS
+
+OCCUPATIONAL DISEASES:
+- When doctor diagnoses and linked to work
+- Includes: certain respiratory diseases, skin diseases, etc.
+- Report: When diagnosed
+
+DANGEROUS OCCURRENCES:
+- Near-misses with potential for serious harm
+- Even if no one injured
+- Examples: collapse of structure, fire, explosion
+- Report: Within 10 DAYS
+
+How to Report:
+- Online: www.hse.gov.uk/riddor
+- Telephone: for fatalities and specified injuries only
+- Form F2508
+
+Who Reports:
+- The "responsible person" - usually employer
+- Not the individual employee's duty
+- But employee should report incidents to employer
+
+Record Keeping:
+- Keep records for at least 3 YEARS
+- Include: date, details of injured, nature of injury, circumstances
+- Available for HSE inspection
+
+--------------------------------------------------------------------------------
+TOPIC 1.4.8: WORKPLACE HAZARDS FOR SECURITY OPERATIVES
+--------------------------------------------------------------------------------
+
+Violence and Aggression:
+- Most significant hazard for door supervisors
+- Verbal abuse, threats, physical assault
+- Control: training, conflict management, communication, backup
+
+Manual Handling:
+- Moving equipment, assisting injured
+- Risk of back injuries
+- Control: training, mechanical aids, team lifting
+
+Slips, Trips and Falls:
+- Wet floors, cables, uneven surfaces, poor lighting
+- Control: housekeeping, lighting, signage, footwear
+
+Working at Night:
+- Reduced visibility
+- Higher crime rates
+- Fatigue
+- Control: lighting, communication, rest breaks
+
+Weather Exposure:
+- Cold, rain, heat
+- Hypothermia, hyperthermia
+- Control: shelter, clothing, rotation, hydration
+
+Fatigue:
+- Long shifts, shift patterns, multiple jobs
+- Impairs judgement and reactions
+- Control: rest breaks, shift limits, sleep hygiene
+
+Stress:
+- Demanding environment
+- Dealing with conflict
+- Irregular hours
+- Control: support, training, supervision, breaks
+
+Blood-borne Infections:
+- Needle stick injuries
+- Contact with blood (fights, first aid)
+- Bites
+- Control: gloves, training, safe disposal, vaccination
+
+Crowds:
+- Crushing, trampling
+- Limited movement
+- Control: capacity limits, barriers, monitoring
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 45
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 18 questions (40%)
+- Medium (application): 18 questions (40%)
+- Hard (scenario-based): 9 questions (20%)
+
+TOPICS TO COVER (ensure all are represented):
+□ HASAWA sections 2, 3, 7, 8 (6-8 questions)
+□ "Reasonably practicable" meaning (2-3 questions)
+□ Risk assessment 5 steps (5-6 questions)
+□ Hazard vs risk distinction (2-3 questions)
+□ Dynamic risk assessment (2-3 questions)
+□ Hierarchy of control (4-5 questions)
+□ PPE requirements (3-4 questions)
+□ Lone working risks and controls (4-5 questions)
+□ Working Time Regulations (4-5 questions)
+□ RIDDOR reporting requirements (6-8 questions)
+□ Workplace hazards specific to security (3-4 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. No trick questions or double negatives
+5. UK English spelling
+6. Clear, unambiguous wording
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+Output all questions in this exact format:
+
+================================================================================
+UNIT 1, CHAPTER 1.4: SAFE WORKING PRACTICES
+================================================================================
+
+Question 1 [Easy]
+Under RIDDOR, an injury causing a worker to be incapacitated for more than 
+7 consecutive days must be reported within:
+
+A) 24 hours
+B) 10 days
+C) 15 days
+D) 30 days
+
+Correct Answer: C
+
+Explanation: Under RIDDOR 2013, over-7-day injuries must be reported within 
+15 days of the incident. Deaths and specified injuries require immediate 
+notification followed by written report within 10 days.
+
+---
+
+Question 2 [Medium]
+[Question text]
+
+A) [Option A]
+B) [Option B]
+C) [Option C]
+D) [Option D]
+
+Correct Answer: [Letter]
+
+Explanation: [2-3 sentence explanation]
+
+---
+
+[Continue for all 45 questions]
+
+================================================================================
+END OF CHAPTER 1.4 QUESTIONS
+================================================================================
+
+Total Questions: 45
+- Easy: 18
+- Medium: 18
+- Hard: 9
+
+================================================================================
+
+================================================================================
+LEGAL ACCURACY - KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+HASAWA SECTIONS:
+- Section 2: Employer duty to EMPLOYEES
+- Section 3: Employer duty to NON-EMPLOYEES
+- Section 7: EMPLOYEE duties
+- Section 8: Don't interfere with safety equipment
+
+RIDDOR TIMEFRAMES:
+- Deaths/specified injuries: IMMEDIATELY + 10 DAYS written
+- Over-7-day injuries: 15 DAYS
+- Dangerous occurrences: 10 DAYS
+- Non-worker to hospital: 10 DAYS
+
+RIDDOR RECORDS: Keep for 3 YEARS
+
+WORKING TIME:
+- Maximum 48 hours average per week
+- Rest break: 20 minutes if shift over 6 hours
+- Daily rest: 11 hours between shifts
+- Weekly rest: 24 hours (or 48 per fortnight)
+
+HIERARCHY OF CONTROL (in order):
+1. Elimination
+2. Substitution
+3. Engineering controls
+4. Administrative controls
+5. PPE (last resort)
+
+HAZARD VS RISK:
+- Hazard = potential to cause harm
+- Risk = likelihood x severity
+
+COMMON DISTRACTORS:
+- Records kept 5 years (wrong - 3 years for RIDDOR)
+- 48 hours to report deaths (wrong - immediately)
+- PPE is first choice (wrong - last resort)
+- 30-minute rest break (wrong - 20 minutes)
+- 8 hours between shifts (wrong - 11 hours)
+
+================================================================================
+QUALITY CHECKLIST
+================================================================================
+
+Before finalising:
+□ Exactly 45 questions
+□ 18 easy, 18 medium, 9 hard
+□ All topics covered
+□ Only ONE correct answer per question
+□ UK English spelling
+□ No duplicate questions
+□ Explanations are clear and concise
+□ All legal facts are accurate
+
+================================================================================
+END OF PROMPT
+================================================================================

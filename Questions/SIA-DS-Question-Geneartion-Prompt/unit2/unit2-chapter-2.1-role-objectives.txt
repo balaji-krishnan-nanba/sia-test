@@ -1,0 +1,340 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 2, CHAPTER 2.1
+ROLE AND OBJECTIVES OF A DOOR SUPERVISOR
+================================================================================
+
+YOUR TASK
+---------
+Generate 15 high-quality Multiple Choice Questions (MCQs) for Chapter 2.1 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+WHAT IS UNIT 2?
+---------------
+Unit 2 focuses specifically on the role and responsibilities of a Door 
+Supervisor working at licensed premises. While Unit 1 covers general security 
+industry knowledge, Unit 2 is about the specific skills, laws, and procedures 
+that door supervisors need in their daily work.
+
+THE EXAM
+--------
+Unit 2: Working as a Door Supervisor
+- 50 multiple choice questions in actual exam
+- 75 minutes duration
+- 70% pass mark (35 correct answers required)
+- Also includes practical assessment (not covered by these questions)
+- This chapter (2.1) is one of 10 chapters in Unit 2
+
+WHERE DOOR SUPERVISORS WORK
+---------------------------
+- Nightclubs and bars
+- Pubs with entertainment
+- Live music venues
+- Sporting events
+- Festivals
+- Private events
+- Some retail premises
+
+================================================================================
+CHAPTER 2.1: ROLE AND OBJECTIVES - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 15
+- Easy (direct recall): 6 questions
+- Medium (application): 6 questions
+- Hard (scenario-based): 3 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.1: PRIMARY ROLE OF A DOOR SUPERVISOR
+--------------------------------------------------------------------------------
+
+Core Purpose:
+- Create and maintain a SAFE environment
+- Safety is the PRIMARY objective - above profit or customer numbers
+- Protect customers, staff, and the public
+- Represent the venue professionally
+
+First Point of Contact:
+- Often the first person customers meet
+- Set the tone for customer experience
+- Balance security with customer service
+- Professional and welcoming demeanour
+
+Deterrent Effect:
+- Visible security presence deters crime
+- Professional appearance enhances deterrent
+- Reputation of venue and door team matters
+- Consistent, fair approach
+
+Dual Role:
+- Security professional AND customer service representative
+- Not just "bouncers" - professional operatives
+- Must balance firmness with friendliness
+- Protect while being welcoming
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.2: CORE RESPONSIBILITIES
+--------------------------------------------------------------------------------
+
+Controlling Access:
+- Managing entry and exit points
+- Ensuring only authorised persons enter
+- Checking tickets/guest lists where applicable
+- Monitoring who enters and leaves
+
+Verifying Age and Identity:
+- Checking ID for age verification
+- Challenge 25 policy (ask if looks under 25)
+- Acceptable ID: passport, driving licence, PASS card
+- Spotting fake or altered ID
+
+Enforcing Venue Policies:
+- Dress codes
+- Behaviour standards
+- No drugs policy
+- Capacity limits
+- Banned individuals
+
+Monitoring Customer Behaviour:
+- Observing for signs of trouble
+- Identifying intoxication
+- Spotting drug use/dealing
+- Recognising vulnerability
+
+Responding to Incidents:
+- Dealing with altercations
+- Managing ejections
+- First aid situations
+- Supporting colleagues
+
+Assisting with Evacuations:
+- Fire evacuation procedures
+- Emergency response
+- Directing customers to exits
+- Preventing re-entry
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.3: ADMISSION POLICIES
+--------------------------------------------------------------------------------
+
+Dress Codes:
+- Venue sets dress code policy
+- Must be applied consistently
+- Cannot be discriminatory (Equality Act)
+- Explain policy politely when refusing
+
+Capacity Limits:
+- Legal maximum occupancy
+- Set by fire risk assessment
+- NEVER exceed capacity
+- One-in-one-out when full
+- Criminal offence to exceed
+
+Refusal of Entry:
+- Right to refuse without giving reason
+- But must not discriminate
+- Common legitimate reasons:
+  * Intoxication
+  * Previous trouble/banned
+  * Dress code
+  * Capacity full
+  * Underage
+  * Aggressive behaviour
+- Document refusals if problems anticipated
+
+Banned Individuals:
+- Maintain banned list
+- Photos if available
+- Share intelligence with other venues
+- Reasons for banning documented
+
+Discrimination Awareness:
+- Cannot refuse based on protected characteristics
+- Age, disability, race, religion, sex, sexual orientation, etc.
+- Dress codes must not indirectly discriminate
+- Consistent application is key
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.4: TEAMWORK
+--------------------------------------------------------------------------------
+
+Communication with Colleagues:
+- Clear and professional
+- Radio communication protocols
+- Hand signals where appropriate
+- Brief and debrief
+
+Briefings and Debriefings:
+- Before shift: venue status, expected issues, VIPs
+- After shift: incidents, concerns, handover
+- Learning from each shift
+
+Handover Procedures:
+- Information about ongoing situations
+- Persons of concern
+- Incidents occurred
+- Status of venue
+
+Supporting Colleagues:
+- Back up when needed
+- Don't leave colleague alone in conflict
+- Coordinate response
+- Maintain coverage of venue
+
+Division of Roles:
+- Front door team
+- Inside/floor team
+- Roaming supervisors
+- Know your position and stay there unless necessary
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.5: WORKING WITH EXTERNAL AGENCIES
+--------------------------------------------------------------------------------
+
+Police Liaison:
+- Build positive relationships
+- Share relevant intelligence
+- Report serious incidents
+- Cooperate with investigations
+
+Emergency Services:
+- Know when to call 999
+- Provide clear information
+- Clear access for responders
+- Assist as directed
+
+Local Authority:
+- Licensing officers may visit
+- Cooperate fully
+- Know licence conditions
+
+Door Supervisor Schemes:
+- Pubwatch / Clubwatch
+- Share intelligence between venues
+- Banned lists shared
+- Best practice sharing
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.6: VENUE KNOWLEDGE
+--------------------------------------------------------------------------------
+
+Essential Knowledge:
+- Layout of entire premises
+- All fire exits and escape routes
+- Location of fire extinguishers
+- First aid kit locations
+- CCTV coverage
+- Emergency procedures
+- Capacity limits
+
+--------------------------------------------------------------------------------
+TOPIC 2.1.7: PROFESSIONALISM
+--------------------------------------------------------------------------------
+
+Appearance and Uniform:
+- Clean, pressed uniform
+- Good personal hygiene
+- Professional grooming
+- SIA licence displayed correctly
+
+Conduct:
+- Remain alert and vigilant
+- No alcohol or drugs on duty
+- Stay at designated position
+- Professional language
+- Punctuality and reliability
+
+Confidentiality:
+- Customer information
+- Venue security measures
+- Incident details
+- Only share on need-to-know basis
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 15
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 6 questions (40%)
+- Medium (application): 6 questions (40%)
+- Hard (scenario-based): 3 questions (20%)
+
+TOPICS TO COVER:
+□ Primary role and purpose (2-3 questions)
+□ Core responsibilities (2-3 questions)
+□ Admission policies (2-3 questions)
+□ Teamwork and communication (2-3 questions)
+□ Working with external agencies (2 questions)
+□ Venue knowledge (1-2 questions)
+□ Professionalism (2 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic door supervisor scenarios
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.1: ROLE AND OBJECTIVES OF A DOOR SUPERVISOR
+================================================================================
+
+Question 1 [Easy]
+What is the PRIMARY role of a door supervisor at a licensed premises?
+
+A) To maximise profits for the venue
+B) To create a safe environment for customers and staff
+C) To refuse entry to as many people as possible
+D) To catch criminals and make citizen's arrests
+
+Correct Answer: B
+
+Explanation: The primary role of a door supervisor is to create and maintain 
+a safe environment for customers, staff, and the public. While supporting 
+the venue's business is part of the job, safety is always the overriding 
+priority.
+
+---
+
+[Continue for all 15 questions]
+
+================================================================================
+END OF CHAPTER 2.1 QUESTIONS
+================================================================================
+
+Total Questions: 15
+- Easy: 6
+- Medium: 6
+- Hard: 3
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+- Safety is the PRIMARY objective
+- NEVER exceed capacity limits (criminal offence)
+- Right to refuse entry but cannot discriminate
+- Maintain position coverage during incidents
+- Display SIA licence correctly
+- Professional conduct at all times
+
+================================================================================
+END OF PROMPT
+================================================================================

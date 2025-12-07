@@ -1,0 +1,822 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 4, CHAPTER 4.3
+RECOGNISING SUSPICIOUS ACTIVITY
+================================================================================
+
+YOUR TASK
+---------
+Generate 20 high-quality Multiple Choice Questions (MCQs) for Chapter 4.3 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 5 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE UNIT
+--------
+Unit 4: Terror Threat Awareness for Close Protection
+- Assessment: Portfolio-based
+- Chapters: 5
+- Practice Questions: 102 total
+- This chapter (4.3) is one of 5 chapters in Unit 4
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Early recognition of suspicious activity can prevent terrorist attacks.
+CPOs are uniquely positioned to observe hostile reconnaissance against
+principals. Understanding what to look for, how to assess behaviour, and
+how to report concerns is essential for protective security.
+
+================================================================================
+CHAPTER 4.3: RECOGNISING SUSPICIOUS ACTIVITY - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 20
+- Easy (direct recall): 8 questions
+- Medium (application): 8 questions
+- Hard (scenario-based): 4 questions
+
+--------------------------------------------------------------------------------
+TOPIC 4.3.1: HOSTILE RECONNAISSANCE
+--------------------------------------------------------------------------------
+
+What is Hostile Reconnaissance:
+- Surveillance by hostile actors
+- Gathering information for attack
+- Identifying vulnerabilities
+- Testing security measures
+- Planning attack
+
+Why Recognise It:
+- Terrorists MUST conduct surveillance
+- Detection can prevent attack
+- Disrupts hostile planning cycle
+- Opportunity to report
+- Protect principal
+
+Who Conducts Hostile Reconnaissance:
+
+TERRORIST OPERATIVES:
+- May be trained
+- Multiple visits
+- Detailed observations
+- Specific targets
+
+ASSOCIATES:
+- Not the attackers
+- May be unwitting
+- Gathering information
+- Less obvious
+
+SELF-RADICALISED:
+- Lone actors
+- Less sophisticated
+- Opportunistic
+- Variable behaviour
+
+When It Occurs:
+- Days, weeks, or months before attack
+- Multiple sessions
+- Different times
+- Different observers possible
+
+What They Observe:
+
+ABOUT TARGET:
+- Routines and patterns
+- Security measures
+- Vulnerabilities
+- Access points
+- Escape routes
+
+ABOUT SECURITY:
+- Number of personnel
+- Reaction times
+- Equipment used
+- Gaps in coverage
+- Response protocols
+
+--------------------------------------------------------------------------------
+TOPIC 4.3.2: SURVEILLANCE INDICATORS
+--------------------------------------------------------------------------------
+
+Behavioural Indicators:
+
+OBSERVATION BEHAVIOUR:
+- Taking photographs/video
+- Filming security measures
+- Making notes/sketches
+- Using binoculars
+- Extended watching
+
+OUT OF PLACE:
+- Doesn't fit environment
+- No apparent purpose
+- Unusual clothing
+- Wrong demographic
+
+INTEREST IN SECURITY:
+- Questions about security
+- Interest in CCTV
+- Questions about response
+- Testing reactions
+
+REPEATED PRESENCE:
+- Same person multiple times
+- Different days
+- Same observation point
+- Pattern of visits
+
+NERVOUSNESS:
+- Avoiding eye contact
+- Leaving when challenged
+- Excessive sweating
+- Fidgeting
+
+Physical Indicators:
+
+EQUIPMENT:
+- Cameras
+- Binoculars
+- Notebooks
+- Measuring devices
+- Recording equipment
+
+VEHICLES:
+- Parked observation
+- Slow driving
+- Repeated passes
+- Unusual parking location
+
+POSITIONS:
+- Good vantage points
+- Near entry/exit
+- Overlooking target
+- Clear line of sight
+
+Context Matters:
+- Not all indicators are hostile
+- Consider environment
+- Tourist areas different
+- Business context
+- Multiple indicators more concerning
+
+The "FOUR D's" of Suspicious Behaviour:
+
+DISCOVER:
+- Notice the behaviour
+- Pay attention
+- Trust instincts
+
+DESCRIBE:
+- What exactly seen
+- Details matter
+- Specific observations
+
+DOCUMENT:
+- Record information
+- Time and date
+- Location
+
+DELIVER:
+- Report to appropriate authority
+- Use correct channels
+- Timely reporting
+
+--------------------------------------------------------------------------------
+TOPIC 4.3.3: ASSESSING BEHAVIOUR
+--------------------------------------------------------------------------------
+
+Baseline Behaviour:
+- What's normal for location
+- Typical activities
+- Expected people
+- Regular patterns
+
+Identifying Anomalies:
+- Deviation from normal
+- Unexpected behaviour
+- Out of place activity
+- Unusual interest
+
+Assessment Questions:
+
+WHO:
+- Who is this person?
+- Do they belong here?
+- Have you seen them before?
+
+WHAT:
+- What are they doing?
+- What equipment do they have?
+- What are they observing?
+
+WHERE:
+- Where are they positioned?
+- Why that location?
+- What can they see?
+
+WHEN:
+- What time is it?
+- Is this normal for this time?
+- How long have they been there?
+
+WHY:
+- What's their apparent purpose?
+- Does the explanation make sense?
+- Could there be another reason?
+
+Indicators of Legitimate Activity:
+- Identification/uniform
+- Expected behaviour
+- Normal for environment
+- Cooperative when approached
+- Reasonable explanation
+
+Indicators of Hostile Activity:
+- Evasion when noticed
+- No credible explanation
+- Focus on security measures
+- Repeated unexplained presence
+- Multiple suspicious indicators
+
+Avoiding Assumptions:
+- Don't profile unfairly
+- Focus on behaviour
+- Not appearance alone
+- Consider context
+- Objectivity required
+
+Trust Your Instincts:
+- If something feels wrong
+- Professional intuition
+- Experience matters
+- Better to report
+- Err on side of caution
+
+--------------------------------------------------------------------------------
+TOPIC 4.3.4: SURVEILLANCE DETECTION
+--------------------------------------------------------------------------------
+
+What is Surveillance Detection:
+- Actively looking for surveillance
+- Identifying watchers
+- Part of CP operations
+- Proactive security
+
+Surveillance Detection Route (SDR):
+- Pre-planned route
+- Designed to identify surveillance
+- Multiple checkpoints
+- Forces followers to reveal themselves
+- Team or individual operation
+
+SDR Elements:
+
+TRIGGER POINTS:
+- Locations that force surveillance to act
+- Decision points
+- Exposure opportunities
+
+CHECKPOINTS:
+- Observation points
+- Allow detection
+- Natural stopping points
+
+UNNATURAL FEATURES:
+- U-turns
+- Double-backs
+- Unusual moves
+- Forces surveillance to react
+
+Counter-Surveillance:
+- Actively DETECTING surveillance
+- Looking for watchers
+- Part of protective measures
+- Team operation
+
+Counter-Surveillance Team Roles:
+
+TRIGGER:
+- Alerts team
+- Monitors specific point
+- First detection
+
+EYEBALL:
+- Direct observation
+- Maintains visual
+- Primary observer
+
+BACKUP:
+- Supports eyeball
+- Provides coverage
+- Continuity
+
+Anti-Surveillance:
+- PREVENTING surveillance
+- Making it harder to watch
+- Varies routines
+- Unpredictability
+
+Anti-Surveillance Measures:
+- Vary routes
+- Change timings
+- Alter methods
+- Reduce predictability
+- Control information
+
+Counter vs Anti Surveillance:
+- COUNTER = detecting (finding watchers)
+- ANTI = preventing (stopping them watching)
+- Both important
+- Different purposes
+
+--------------------------------------------------------------------------------
+TOPIC 4.3.5: REPORTING SUSPICIOUS ACTIVITY
+--------------------------------------------------------------------------------
+
+Why Report:
+- Intelligence picture building
+- May prevent attack
+- Pattern recognition
+- Assists authorities
+- Professional duty
+
+What to Report:
+- Behaviour observed
+- Physical descriptions
+- Vehicle details
+- Location
+- Time and duration
+- Direction of travel
+- Any interaction
+
+How to Report:
+
+IMMEDIATE THREAT:
+- Call 999
+- Emergency response
+- Imminent danger
+
+NON-IMMEDIATE:
+- Anti-Terrorist Hotline
+- 0800 789 321
+- Confidential
+- 24 hours
+
+ONLINE:
+- gov.uk reporting
+- Police websites
+- Crimestoppers
+
+INTERNAL:
+- Team Leader
+- Operations Manager
+- Client security
+- Document in logs
+
+ACT Campaign:
+- Action Counters Terrorism
+- Public awareness campaign
+- Encourages reporting
+- "Trust your instincts"
+- Any suspicion, report it
+
+The Reporting Principle:
+- "Communities defeat terrorism"
+- Every piece of information helps
+- May seem minor but valuable
+- Don't self-edit
+- Let experts assess
+
+What NOT to Do:
+- Don't confront hostile surveillance
+- Don't follow suspected persons
+- Don't take excessive risks
+- Don't investigate yourself
+- Report and observe safely
+
+Recording Information:
+
+DESCRIPTION:
+- Gender, age, ethnicity
+- Height, build
+- Hair colour/style
+- Facial features
+- Clothing
+- Distinguishing features
+
+VEHICLE:
+- Registration number
+- Make and model
+- Colour
+- Damage/modifications
+- Number of occupants
+
+BEHAVIOUR:
+- Specific actions
+- Duration
+- Direction
+- Equipment used
+- Interaction with others
+
+--------------------------------------------------------------------------------
+TOPIC 4.3.6: SUSPICIOUS ITEMS AND PACKAGES
+--------------------------------------------------------------------------------
+
+What Makes an Item Suspicious:
+
+LOCATION:
+- Out of place
+- Hidden
+- Unattended
+- Near target
+
+APPEARANCE:
+- Unusual construction
+- Wires visible
+- Heavy for size
+- Leaking
+- Unusual smell
+
+CONTEXT:
+- Left quickly
+- No owner identified
+- Deliberately placed
+- Near security
+
+HOT Protocol:
+
+H - HIDDEN:
+- Has it been hidden?
+- Under something?
+- Out of sight?
+- Concealed deliberately?
+
+O - OBVIOUSLY SUSPICIOUS:
+- Wires visible?
+- Unusual shape?
+- Ticking sounds?
+- Strange appearance?
+
+T - TYPICAL:
+- Typical for this location?
+- Does it belong here?
+- Normal to see this?
+- Expected item?
+
+If Item is Suspicious:
+
+DO:
+- Move away calmly
+- Clear the area
+- Report immediately
+- Call police
+- Cordon if possible
+
+DO NOT:
+- Touch it
+- Move it
+- Use radio near it
+- Put anything on it
+- Allow others near
+
+Evacuation:
+- Move people away
+- Minimum 100m for small items
+- Further for larger items
+- Account for people
+- Wait for authorities
+
+Suspicious Vehicles:
+- Parked unusually
+- Abandoned
+- Near target
+- Heavy/low suspension
+- Strong smell (fertiliser)
+- Wires visible
+
+Mail/Package Bombs:
+
+INDICATORS:
+- Unexpected package
+- No return address
+- Excessive postage
+- Misspelled name
+- Oily stains
+- Strange odour
+- Rigid envelope
+- Protruding wires
+
+RESPONSE:
+- Do not open
+- Do not shake
+- Put down gently
+- Leave area
+- Call police
+
+--------------------------------------------------------------------------------
+TOPIC 4.3.7: SUSPICIOUS BEHAVIOUR AT VENUES
+--------------------------------------------------------------------------------
+
+Pre-Event Reconnaissance:
+- Advance visits
+- Photography of venue
+- Questions to staff
+- Interest in security
+- Timing events
+
+During Events:
+
+SUSPICIOUS BEHAVIOUR:
+- Not engaging with event
+- Watching security
+- Alone but attentive
+- Multiple phone use
+- Photography of security
+
+ABANDONED ITEMS:
+- Bags left unattended
+- Items under seats
+- Packages near exits
+- Items near crowds
+
+POST-EVENT:
+- Remaining after event
+- Unusual interest in clearing
+- Photography of post-event
+- Following VIPs
+
+Venue Staff Coordination:
+- Brief staff on indicators
+- Reporting protocols
+- Communication channels
+- Response procedures
+- Information sharing
+
+Crowd Indicators:
+- Unusual gathering
+- People avoiding area
+- Running without cause
+- Panic spreading
+- Screaming
+
+CPO Response at Venues:
+- Constant awareness
+- Report to venue security
+- Principal evacuation plan
+- Communication with team
+- Don't assume venue security
+
+--------------------------------------------------------------------------------
+TOPIC 4.3.8: INFORMATION SECURITY
+--------------------------------------------------------------------------------
+
+Why Information Matters:
+- Terrorists need information
+- Prevents hostile planning
+- Protects principal
+- Operational security
+
+Information Terrorists Seek:
+
+ABOUT PRINCIPAL:
+- Routines
+- Locations
+- Family details
+- Travel patterns
+- Vulnerabilities
+
+ABOUT OPERATIONS:
+- Security arrangements
+- Team composition
+- Equipment
+- Procedures
+- Weaknesses
+
+Sources of Information:
+
+SOCIAL MEDIA:
+- Principal's posts
+- Family posts
+- Staff posts
+- Location tagging
+- Schedule reveals
+
+OBSERVATION:
+- Direct watching
+- Photography
+- Following
+- Timing
+
+ELICITATION:
+- Asking questions
+- Friendly conversation
+- Fake identities
+- Social engineering
+
+Protecting Information:
+
+OPERATIONAL SECURITY:
+- Need to know basis
+- Limit sharing
+- Secure communications
+- Document security
+
+SOCIAL MEDIA:
+- Advise principal
+- Family awareness
+- Staff policies
+- Location services
+
+PERSONAL SECURITY:
+- Don't discuss work
+- Protect documents
+- Secure communications
+- Awareness of elicitation
+
+Elicitation Warning Signs:
+- Unusual interest
+- Probing questions
+- Flattery for information
+- Alcohol and questions
+- Claims of shared contacts
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 20
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 8 questions (40%)
+- Medium (application): 8 questions (40%)
+- Hard (scenario-based): 4 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 5 questions
+- Correct answer B: 5 questions
+- Correct answer C: 5 questions
+- Correct answer D: 5 questions
+
+TOPICS TO COVER:
+□ Hostile reconnaissance (3-4 questions)
+□ Surveillance indicators (3-4 questions)
+□ Assessing behaviour (2-3 questions)
+□ Counter vs anti surveillance (2-3 questions)
+□ Reporting suspicious activity (3-4 questions)
+□ Suspicious items and HOT protocol (3-4 questions)
+□ Information security (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 4, CHAPTER 4.3: RECOGNISING SUSPICIOUS ACTIVITY
+================================================================================
+
+Question 1 [Easy]
+What is the Anti-Terrorist Hotline number in the UK?
+
+A) 999
+B) 101
+C) 0800 789 321
+D) 111
+
+Correct Answer: C
+
+Explanation: The Anti-Terrorist Hotline number is 0800 789 321. This is a 
+confidential line available 24 hours for reporting suspicious activity 
+that doesn't require an immediate emergency response. For immediate 
+threats, call 999. This line is part of the ACT (Action Counters 
+Terrorism) campaign encouraging the public to report suspicious activity.
+
+---
+
+[Continue for all 20 questions]
+
+================================================================================
+END OF CHAPTER 4.3 QUESTIONS
+================================================================================
+
+Total Questions: 20
+- Easy: 8
+- Medium: 8
+- Hard: 4
+
+Answer Distribution:
+- Correct answer A: 5 questions
+- Correct answer B: 5 questions
+- Correct answer C: 5 questions
+- Correct answer D: 5 questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+HOSTILE RECONNAISSANCE:
+- Surveillance by hostile actors
+- Part of attack planning
+- Must occur before attack
+- Detection can prevent attack
+
+COUNTER vs ANTI SURVEILLANCE:
+- COUNTER = DETECTING surveillance (finding watchers)
+- ANTI = PREVENTING surveillance (stopping them watching)
+
+HOT PROTOCOL:
+- H = Has it been HIDDEN?
+- O = Is it OBVIOUSLY suspicious?
+- T = Is it TYPICAL for this location?
+
+ANTI-TERRORIST HOTLINE:
+- 0800 789 321
+- Confidential
+- 24 hours
+- Non-emergency reporting
+
+ACT CAMPAIGN:
+- Action Counters Terrorism
+- "Trust your instincts"
+- Encourages public reporting
+
+SURVEILLANCE INDICATORS:
+- Photography/filming of security
+- Repeated presence
+- Unusual interest in security
+- Questions about procedures
+- Note-taking
+- Out of place behaviour
+
+IF SUSPICIOUS ITEM FOUND:
+- DO NOT touch
+- DO NOT use radio nearby
+- Move away calmly
+- Clear area
+- Call police
+
+SURVEILLANCE DETECTION ROUTE (SDR):
+- Pre-planned route
+- Forces surveillance to reveal itself
+- Trigger points and checkpoints
+- Unnatural features
+
+WHAT TO REPORT:
+- Description of person
+- Vehicle details
+- Behaviour observed
+- Time and location
+- Direction of travel
+
+COMMON DISTRACTORS:
+- Counter-surveillance prevents watching (wrong - that's anti-surveillance)
+- Anti-Terrorist Hotline is 999 (wrong - that's emergency)
+- Confront hostile surveillance (wrong - report, don't confront)
+- Touch suspicious item to examine (wrong - never touch)
+- HOT means Hot Object Test (wrong - Hidden, Obviously suspicious, Typical)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "A CPO notices the same person photographing the principal's residence 
+   on multiple days. This is an example of..."
+- "The difference between counter-surveillance and anti-surveillance is..."
+- "Using the HOT protocol, 'T' stands for..."
+- "When reporting suspicious activity non-urgently, a CPO should call..."
+- "If a suspicious package is discovered, the CPO should..."
+- "Which of the following is an indicator of hostile reconnaissance?"
+- "A Surveillance Detection Route is designed to..."
+
+================================================================================
+END OF PROMPT
+================================================================================

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Loading Test</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .test-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .success { color: #10b981; }
+        .error { color: #ef4444; }
+        .info { color: #3b82f6; }
+        button {
+            background: #3b82f6;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        button:hover {
+            background: #2563eb;
+        }
+        pre {
+            background: #f9fafb;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        .status {
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        .status.success {
+            background: #d1fae5;
+            border: 1px solid #10b981;
+        }
+        .status.error {
+            background: #fee2e2;
+            border: 1px solid #ef4444;
+        }
+    </style>
+</head>
+<body>
+    <h1>Quiz Question Loading Test</h1>
+    <p class="info">This page tests if questions can be loaded from JSON files.</p>
+
+    <div class="test-card">
+        <h2>Test 1: Fetch door-supervisor.json</h2>
+        <button onclick="testFetch('door-supervisor')">Run Test</button>
+        <div id="test1-result"></div>
+    </div>
+
+    <div class="test-card">
+        <h2>Test 2: Fetch security-guard.json</h2>
+        <button onclick="testFetch('security-guard')">Run Test</button>
+        <div id="test2-result"></div>
+    </div>
+
+    <div class="test-card">
+        <h2>Test 3: Fetch cctv-operator.json</h2>
+        <button onclick="testFetch('cctv-operator')">Run Test</button>
+        <div id="test3-result"></div>
+    </div>
+
+    <div class="test-card">
+        <h2>Test 4: Fetch close-protection.json</h2>
+        <button onclick="testFetch('close-protection')">Run Test</button>
+        <div id="test4-result"></div>
+    </div>
+
+    <script>
+        async function testFetch(examType) {
+            const resultDiv = document.getElementById(`test${getTestNumber(examType)}-result`);
+            resultDiv.innerHTML = '<p class="info">Loading...</p>';
+
+            try {
+                const url = `/data/questions/${examType}.json`;
+                console.log(`Fetching: ${url}`);
+
+                const response = await fetch(url);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+
+                const questions = await response.json();
+
+                // Verify first question structure
+                const firstQuestion = questions[0];
+                const hasRequiredFields = firstQuestion.id &&
+                    firstQuestion.question &&
+                    firstQuestion.options &&
+                    firstQuestion.correctAnswer;
+
+                resultDiv.innerHTML = `
+                    <div class="status success">
+                        <p class="success"><strong>✓ Success!</strong></p>
+                        <p>Total questions: <strong>${questions.length}</strong></p>
+                        <p>First question ID: ${firstQuestion.id}</p>
+                        <p>Has required fields: ${hasRequiredFields ? 'Yes' : 'No'}</p>
+                    </div>
+                    <details>
+                        <summary>Show first question</summary>
+                        <pre>${JSON.stringify(firstQuestion, null, 2)}</pre>
+                    </details>
+                `;
+
+                console.log(`✓ ${examType}: Loaded ${questions.length} questions`);
+                console.log('First question:', firstQuestion);
+
+            } catch (error) {
+                resultDiv.innerHTML = `
+                    <div class="status error">
+                        <p class="error"><strong>✗ Failed!</strong></p>
+                        <p>Error: ${error.message}</p>
+                    </div>
+                    <pre>${error.stack || error}</pre>
+                `;
+                console.error(`✗ ${examType} failed:`, error);
+            }
+        }
+
+        function getTestNumber(examType) {
+            const map = {
+                'door-supervisor': 1,
+                'security-guard': 2,
+                'cctv-operator': 3,
+                'close-protection': 4
+            };
+            return map[examType];
+        }
+
+        // Auto-run first test
+        window.addEventListener('load', () => {
+            setTimeout(() => testFetch('door-supervisor'), 500);
+        });
+    </script>
+</body>
+</html>

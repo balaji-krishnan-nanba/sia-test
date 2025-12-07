@@ -213,19 +213,6 @@ export function PracticePage() {
     navigate(`/quiz?${params.toString()}`);
   };
 
-  /**
-   * Start practice for all chapters in a unit
-   */
-  const startUnitPractice = (unitId: string) => {
-    if (!examSlug) return;
-
-    const params = new URLSearchParams({
-      exam: examSlug,
-      unit: unitId,
-    });
-
-    navigate(`/quiz?${params.toString()}`);
-  };
 
   /**
    * Render progress bar
@@ -329,7 +316,7 @@ export function PracticePage() {
           </div>
           <h1 className="text-3xl font-bold text-gray-900 mb-2">Practice by Unit & Chapter</h1>
           <p className="text-gray-600">
-            Choose a specific chapter to practice or practice all chapters in a unit
+            Select a chapter below to practice questions from that specific topic
           </p>
         </div>
 
@@ -345,57 +332,10 @@ export function PracticePage() {
                   className="p-6 cursor-pointer hover:bg-gray-50 transition-colors"
                   onClick={() => toggleUnit(unit.unitId)}
                 >
-                  <div className="flex items-start justify-between">
-                    <div className="flex-1">
-                      <div className="flex items-center gap-2 mb-2">
-                        {isExpanded ? (
-                          <svg
-                            className="h-5 w-5 text-gray-400"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                          >
-                            <path
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                              strokeWidth={2}
-                              d="M19 9l-7 7-7-7"
-                            />
-                          </svg>
-                        ) : (
-                          <svg
-                            className="h-5 w-5 text-gray-400"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke="currentColor"
-                          >
-                            <path
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                              strokeWidth={2}
-                              d="M9 5l7 7-7 7"
-                            />
-                          </svg>
-                        )}
-                        <h2 className="text-xl font-semibold text-gray-900">
-                          Unit {unit.unitNumber}: {unit.unitTitle}
-                        </h2>
-                      </div>
-                      <p className="text-sm text-gray-600 ml-7">
-                        {unit.questionCount} questions · {unit.chapters.length} chapters
-                      </p>
-                    </div>
-                    <Button
-                      variant="primary"
-                      size="sm"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        startUnitPractice(unit.unitId);
-                      }}
-                      className="ml-4"
-                    >
+                  <div className="flex items-center gap-3">
+                    {isExpanded ? (
                       <svg
-                        className="h-4 w-4 mr-1 inline-block"
+                        className="h-5 w-5 text-gray-400 flex-shrink-0"
                         fill="none"
                         viewBox="0 0 24 24"
                         stroke="currentColor"
@@ -404,17 +344,35 @@ export function PracticePage() {
                           strokeLinecap="round"
                           strokeLinejoin="round"
                           strokeWidth={2}
-                          d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"
+                          d="M19 9l-7 7-7-7"
                         />
+                      </svg>
+                    ) : (
+                      <svg
+                        className="h-5 w-5 text-gray-400 flex-shrink-0"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                      >
                         <path
                           strokeLinecap="round"
                           strokeLinejoin="round"
                           strokeWidth={2}
-                          d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                          d="M9 5l7 7-7 7"
                         />
                       </svg>
-                      Practice All
-                    </Button>
+                    )}
+                    <div className="flex-1">
+                      <h2 className="text-xl font-semibold text-gray-900">
+                        Unit {unit.unitNumber}: {unit.unitTitle}
+                      </h2>
+                      <p className="text-sm text-gray-600 mt-1">
+                        {unit.questionCount} questions · {unit.chapters.length} chapters
+                      </p>
+                    </div>
+                    <span className="text-sm text-gray-400">
+                      {isExpanded ? 'Click to collapse' : 'Click to expand'}
+                    </span>
                   </div>
                 </div>
 
@@ -438,14 +396,33 @@ export function PracticePage() {
                               </p>
                             </div>
                             <Button
-                              variant="ghost"
+                              variant="primary"
                               size="sm"
                               onClick={(e) => {
                                 e.stopPropagation();
                                 startChapterPractice(unit.unitId, chapter.chapterId);
                               }}
                             >
-                              Start
+                              <svg
+                                className="h-4 w-4 mr-1 inline-block"
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                              >
+                                <path
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
+                                  strokeWidth={2}
+                                  d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"
+                                />
+                                <path
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
+                                  strokeWidth={2}
+                                  d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                                />
+                              </svg>
+                              Practice
                             </Button>
                           </div>
 
@@ -471,8 +448,19 @@ export function PracticePage() {
 
         {/* Help Text */}
         <div className="mt-8 text-center text-sm text-gray-500">
-          <p>Click on a unit to expand and see chapters</p>
-          <p>Click on a chapter to start practicing</p>
+          <p>Click on a unit to expand and see its chapters</p>
+          <p>Click the <strong>Practice</strong> button on any chapter to start</p>
+        </div>
+
+        {/* Mock Test Info */}
+        <div className="mt-6 p-4 bg-blue-50 rounded-lg border border-blue-200">
+          <h3 className="font-semibold text-blue-900 mb-2">How Mock Tests Work</h3>
+          <ul className="text-sm text-blue-800 space-y-1">
+            <li>• <strong>10 pre-defined mock tests</strong> are available for each exam</li>
+            <li>• Each test uses <strong>seeded randomization</strong> - the same test number always generates the same questions</li>
+            <li>• Questions are <strong>balanced across units</strong> with 40% easy, 40% medium, 20% hard difficulty</li>
+            <li>• Your progress is saved locally and to your account</li>
+          </ul>
         </div>
       </div>
     </div>

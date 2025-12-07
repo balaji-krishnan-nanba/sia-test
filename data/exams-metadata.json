@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2025-12-07T15:13:49.528Z",
+  "exams": [
+    {
+      "id": "door-supervisor",
+      "code": "DS",
+      "title": "Door Supervisor",
+      "totalQuestions": 692,
+      "difficulty": {
+        "easy": 279,
+        "medium": 267,
+        "hard": 146
+      }
+    },
+    {
+      "id": "security-guard",
+      "code": "SG",
+      "title": "Security Guard",
+      "totalQuestions": 299,
+      "difficulty": {
+        "easy": 120,
+        "medium": 120,
+        "hard": 59
+      }
+    },
+    {
+      "id": "cctv-operator",
+      "code": "CCTV",
+      "title": "CCTV Operator",
+      "totalQuestions": 296,
+      "difficulty": {
+        "easy": 119,
+        "medium": 119,
+        "hard": 58
+      }
+    },
+    {
+      "id": "close-protection",
+      "code": "CP",
+      "title": "Close Protection",
+      "totalQuestions": 852,
+      "difficulty": {
+        "easy": 342,
+        "medium": 345,
+        "hard": 165
+      }
+    }
+  ],
+  "totalQuestions": 2139,
+  "overallDifficulty": {
+    "easy": 860,
+    "medium": 851,
+    "hard": 428
+  }
+}

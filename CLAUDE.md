@@ -1,5 +1,9 @@
 # Project Configuration
 
+> **Note:** For project-specific documentation (business model, technical specification, architecture, etc.), see the `/docs` directory. This file contains generic workflow rules and AI agent guidelines.
+
+---
+
 ## 🧠 ULTRATHINK REQUIREMENTS
 
 **CRITICAL: ULTRATHINK is MANDATORY for ALL operations.**

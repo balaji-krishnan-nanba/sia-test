@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Question Loading Test</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; max-width: 800px; margin: 0 auto; }
+        .success { color: green; font-weight: bold; }
+        .error { color: red; font-weight: bold; }
+        pre { background: #f5f5f5; padding: 10px; overflow: auto; }
+    </style>
+</head>
+<body>
+    <h1>🧪 Question Loading Diagnostic Test</h1>
+    <div id="status">Testing...</div>
+    <div id="results"></div>
+
+    <script>
+        async function testQuestionLoading() {
+            const status = document.getElementById('status');
+            const results = document.getElementById('results');
+
+            try {
+                status.innerHTML = '⏳ Fetching questions...';
+
+                const response = await fetch('/data/questions/door-supervisor.json');
+
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+
+                const questions = await response.json();
+
+                status.innerHTML = `<span class="success">✅ SUCCESS!</span>`;
+                results.innerHTML = `
+                    <h2>Results:</h2>
+                    <ul>
+                        <li><strong>Total Questions:</strong> ${questions.length}</li>
+                        <li><strong>File Size:</strong> ${(JSON.stringify(questions).length / 1024).toFixed(2)} KB</li>
+                        <li><strong>First Question ID:</strong> ${questions[0]?.id}</li>
+                        <li><strong>First Question:</strong> ${questions[0]?.question?.substring(0, 100)}...</li>
+                    </ul>
+                    <h3>Sample Question Data:</h3>
+                    <pre>${JSON.stringify(questions[0], null, 2)}</pre>
+
+                    <h3>All Question IDs (first 10):</h3>
+                    <ul>
+                        ${questions.slice(0, 10).map(q => `<li>${q.id} - ${q.difficulty}</li>`).join('')}
+                    </ul>
+                `;
+            } catch (error) {
+                status.innerHTML = `<span class="error">❌ FAILED</span>`;
+                results.innerHTML = `
+                    <h2>Error:</h2>
+                    <pre>${error.message}\n\n${error.stack}</pre>
+                `;
+            }
+        }
+
+        testQuestionLoading();
+    </script>
+</body>
+</html>

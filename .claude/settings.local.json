@@ -3,7 +3,22 @@
     "allow": [
       "Bash(find:*)",
       "Bash(done)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(npm create:*)",
+      "Bash(node /Users/nandhinisankar/Desktop/Balaji/projects/sia-door-supervisor/scripts/parse-questions.js:*)",
+      "Bash(npm install:*)",
+      "Bash(node -e:*)",
+      "Bash(cat:*)",
+      "Bash(npm run type-check:*)",
+      "Bash(tree:*)",
+      "Bash(wc:*)",
+      "Bash(npm run dev:*)",
+      "Bash(git check-ignore:*)",
+      "Bash(npm run build:*)",
+      "Bash(curl:*)",
+      "*",
+      "Bash(npm run lint:*)",
+      "Bash(npx tsc:*)"
     ],
     "deny": [],
     "ask": []

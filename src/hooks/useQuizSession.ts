@@ -144,10 +144,12 @@ export function useQuizSession(
     const timeSpent = Math.floor((Date.now() - questionStartTime) / 1000);
     setQuizQuestions((prev) => {
       const updated = [...prev];
-      updated[currentIndex] = {
-        ...updated[currentIndex],
-        timeSpent: (updated[currentIndex].timeSpent || 0) + timeSpent,
-      };
+      if (updated[currentIndex]) {
+        updated[currentIndex] = {
+          ...updated[currentIndex],
+          timeSpent: (updated[currentIndex].timeSpent || 0) + timeSpent,
+        };
+      }
       return updated;
     });
   }, [currentIndex, questionStartTime]);
@@ -185,16 +187,20 @@ export function useQuizSession(
       if (isCompleted) return;
 
       const question = quizQuestions[currentIndex];
+      if (!question) return;
+
       const correctAnswer = question.options.find((opt) => opt.isCorrect)?.id || '';
       const isCorrect = checkAnswer(question.id, answerId, correctAnswer);
 
       setQuizQuestions((prev) => {
         const updated = [...prev];
-        updated[currentIndex] = {
-          ...updated[currentIndex],
-          userAnswer: answerId,
-          isCorrect,
-        };
+        if (updated[currentIndex]) {
+          updated[currentIndex] = {
+            ...updated[currentIndex],
+            userAnswer: answerId,
+            isCorrect,
+          };
+        }
         return updated;
       });
     },
@@ -234,10 +240,12 @@ export function useQuizSession(
 
     setQuizQuestions((prev) => {
       const updated = [...prev];
-      updated[currentIndex] = {
-        ...updated[currentIndex],
-        flaggedForReview: !updated[currentIndex].flaggedForReview,
-      };
+      if (updated[currentIndex]) {
+        updated[currentIndex] = {
+          ...updated[currentIndex],
+          flaggedForReview: !updated[currentIndex].flaggedForReview,
+        };
+      }
       return updated;
     });
   }, [currentIndex, isCompleted]);

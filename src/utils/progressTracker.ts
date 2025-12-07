@@ -5,7 +5,7 @@
 import { supabase } from '@/lib/supabase';
 import type { QuestionAttempt } from './scorer';
 import type { SIAQualification } from '@/types/question';
-import type { UserProgress, QualificationProgress } from '@/types/progress';
+import type { UserProgress } from '@/types/progress';
 
 /**
  * Streak data
@@ -131,7 +131,7 @@ async function updateDailyActivity(userId: string, attempt: QuestionAttempt): Pr
  */
 export async function getUserProgress(
   userId: string,
-  examSlug: string
+  _examSlug: string
 ): Promise<UserProgress | null> {
   // Check cache first
   const cached = progressCache.get(userId);

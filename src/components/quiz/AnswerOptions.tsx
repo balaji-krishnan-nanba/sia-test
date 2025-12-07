@@ -33,7 +33,9 @@ export const AnswerOptions = React.memo<AnswerOptionsProps>(({
       if (['1', '2', '3', '4'].includes(key)) {
         const index = parseInt(key) - 1;
         const answer = optionKeys[index];
-        onSelect(answer);
+        if (answer) {
+          onSelect(answer);
+        }
       } else if (optionKeys.includes(key.toUpperCase() as 'A' | 'B' | 'C' | 'D')) {
         onSelect(key.toUpperCase());
       }

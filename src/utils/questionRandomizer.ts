@@ -36,8 +36,8 @@ function shuffle<T>(array: T[]): T[] {
   const shuffled = [...array];
   for (let i = shuffled.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
-    const temp = shuffled[i];
-    shuffled[i] = shuffled[j];
+    const temp = shuffled[i]!;
+    shuffled[i] = shuffled[j]!;
     shuffled[j] = temp;
   }
   return shuffled;
@@ -208,7 +208,7 @@ export async function generateMockExam(
       let selected = 0;
 
       while (selected < target && selectedQuestions.length < count) {
-        const currentUnit = units[unitIndex % units.length];
+        const currentUnit = units[unitIndex % units.length]!;
         const unitQuestions = questionsByUnit.get(currentUnit)!;
 
         if (unitQuestions.length > 0) {
@@ -346,13 +346,13 @@ export function getQuestionStats(questions: Question[]): {
     if (!stats.byUnit[q.unitId]) {
       stats.byUnit[q.unitId] = 0;
     }
-    stats.byUnit[q.unitId]++;
+    stats.byUnit[q.unitId]!++;
 
     // Count by chapter
     if (!stats.byChapter[q.chapterId]) {
       stats.byChapter[q.chapterId] = 0;
     }
-    stats.byChapter[q.chapterId]++;
+    stats.byChapter[q.chapterId]!++;
   });
 
   return stats;

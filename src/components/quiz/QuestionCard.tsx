@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Card } from '../ui/Card';
 import { DifficultyBadge } from '../ui/Badge';
 import { AnswerOptions } from './AnswerOptions';

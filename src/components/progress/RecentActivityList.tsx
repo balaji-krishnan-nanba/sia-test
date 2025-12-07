@@ -104,7 +104,7 @@ export const RecentActivityList = React.memo<RecentActivityListProps>(({
 
       {/* Activity List */}
       <div className="space-y-4">
-        {displayActivities.map((activity, index) => {
+        {displayActivities.map((activity) => {
           const accuracy = activity.questionsAnswered > 0
             ? Math.round((activity.correctAnswers / activity.questionsAnswered) * 100)
             : 0;

@@ -44,12 +44,12 @@ export function validateEmail(email: string): boolean {
   const [localPart, domain] = trimmedEmail.split('@');
 
   // Local part should not exceed 64 characters
-  if (localPart.length > 64) {
+  if (localPart!.length > 64) {
     return false;
   }
 
   // Domain should not exceed 253 characters
-  if (domain.length > 253) {
+  if (domain!.length > 253) {
     return false;
   }
 

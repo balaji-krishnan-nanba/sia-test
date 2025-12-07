@@ -78,7 +78,7 @@ export function useMockExam(examSlug: ExamSlug, userId?: string): UseMockExamRes
 
   // Timer state
   const [timeElapsed, setTimeElapsed] = useState(0);
-  const [isPaused, setIsPaused] = useState(false);
+  const [isPaused, _setIsPaused] = useState(false);
 
   // Storage for timer state
   const storageKey = `${STORAGE_KEYS.MOCK_EXAM_STATE}_${examSlug}_timer`;

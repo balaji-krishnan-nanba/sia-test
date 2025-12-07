@@ -62,7 +62,7 @@ export const MockExamHistoryTable = React.memo<MockExamHistoryTableProps>(({
     if (scores.length < 2) return { trend: 'stable', icon: '−' };
 
     const avgChange = scores.slice(0, -1).reduce((sum, score, i) =>
-      sum + (score - scores[i + 1]), 0) / (scores.length - 1);
+      sum + (score - (scores[i + 1] ?? 0)), 0) / (scores.length - 1);
 
     if (avgChange > 5) return { trend: 'improving', icon: '↗' };
     if (avgChange < -5) return { trend: 'declining', icon: '↘' };

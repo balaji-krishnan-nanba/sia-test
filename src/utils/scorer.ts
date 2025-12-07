@@ -181,16 +181,16 @@ export function getPerformanceStats(attempts: QuestionAttempt[]): PerformanceSta
     if (!unitStats[attempt.unitId]) {
       unitStats[attempt.unitId] = { total: 0, correct: 0, accuracy: 0 };
     }
-    unitStats[attempt.unitId].total++;
+    unitStats[attempt.unitId]!.total++;
     if (attempt.isCorrect) {
-      unitStats[attempt.unitId].correct++;
+      unitStats[attempt.unitId]!.correct++;
     }
   });
 
   // Calculate accuracy for each unit
   Object.keys(unitStats).forEach((unitId) => {
     const stats = unitStats[unitId];
-    if (stats.total > 0) {
+    if (stats && stats.total > 0) {
       stats.accuracy = Math.round((stats.correct / stats.total) * 100 * 100) / 100;
     }
   });

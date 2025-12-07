@@ -11,7 +11,7 @@
  * - Review mode to see all answers
  */
 
-import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useNavigate, useSearchParams, useParams } from 'react-router-dom';
 import { useAuth } from '@/contexts/AuthContext';
 import { generateMockExam } from '@/utils/questionRandomizer';
@@ -26,7 +26,7 @@ import { Button } from '@/components/ui/Button';
 import { Modal } from '@/components/ui/Modal';
 import { Card } from '@/components/ui/Card';
 import { Spinner } from '@/components/ui/Spinner';
-import type { Question } from '@/types/question';
+import type { Question, SIAQualification } from '@/types/question';
 
 // Exam constants
 const TOTAL_QUESTIONS = 50;
@@ -87,14 +87,14 @@ export function MockExamPage() {
 
   // Timer
   const [isTimerRunning, setIsTimerRunning] = useState(false);
-  const [timeRemaining, setTimeRemaining] = useState(TIME_LIMIT_SECONDS);
+  const [_timeRemaining, setTimeRemaining] = useState(TIME_LIMIT_SECONDS);
   const [startTime, setStartTime] = useState<number | null>(null);
 
   // Modals
   const [showNavigator, setShowNavigator] = useState(false);
   const [showSubmitConfirm, setShowSubmitConfirm] = useState(false);
   // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  const [showExitWarning, setShowExitWarning] = useState(false);
+  const [_showExitWarning, _setShowExitWarning] = useState(false);
 
   // Results
   const [examResults, setExamResults] = useState<{
@@ -179,6 +179,8 @@ export function MockExamPage() {
     if (examState !== 'in-progress') return;
 
     const currentQuestion = questions[currentQuestionIndex];
+    if (!currentQuestion) return;
+
     const currentAnswer = answers.get(currentQuestion.id);
 
     if (currentAnswer) {
@@ -200,6 +202,8 @@ export function MockExamPage() {
     setFlaggedQuestions(newFlagged);
 
     const currentQuestion = questions[currentQuestionIndex];
+    if (!currentQuestion) return;
+
     const currentAnswer = answers.get(currentQuestion.id);
     if (currentAnswer) {
       setAnswers(new Map(answers.set(currentQuestion.id, {
@@ -337,7 +341,7 @@ export function MockExamPage() {
         });
 
         await saveMockExamResult(user.id, {
-          qualification: examCode,
+          qualification: examCode as SIAQualification,
           score: results.percentage,
           passingScore: PASSING_SCORE,
           totalQuestions: TOTAL_QUESTIONS,

@@ -49,7 +49,7 @@ function LoadingFallback() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/sia-test">
       <AuthProvider>
         <Suspense fallback={<LoadingFallback />}>
           <Routes>

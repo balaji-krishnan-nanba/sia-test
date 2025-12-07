@@ -92,7 +92,7 @@ export async function loadExamQuestions(examSlug: ExamSlug): Promise<Question[]>
   }
 
   try {
-    const fetchUrl = `/data/questions/${examSlug}.json`;
+    const fetchUrl = `${import.meta.env.BASE_URL}data/questions/${examSlug}.json`;
     console.log(`[questionLoader] Fetching questions from: ${fetchUrl}`);
 
     // Import the JSON file dynamically

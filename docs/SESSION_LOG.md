@@ -1,5 +1,40 @@
 # Session Log
 
+## Session: 2025-12-07 (GitHub Pages Deployment Setup)
+
+### 🎯 Session Goals
+- Deploy the application to GitHub Pages
+- Set up automated CI/CD workflow
+
+### ✅ Completed
+
+#### 1. Vite Configuration for GitHub Pages
+- [x] Added `base: '/sia-test/'` to vite.config.ts for subdirectory deployment
+
+#### 2. GitHub Actions Workflow
+- [x] Created `.github/workflows/deploy.yml` with:
+  - Build job: checkout → setup Node.js 20 → install → build → upload artifact
+  - Deploy job: deploy to GitHub Pages environment
+- [x] Triggers: push to main, push to deployment branch, manual workflow_dispatch
+
+#### 3. Push to Deployment Branch
+- [x] Committed changes to `claude/deploy-github-pages-01Wyy65ZsMHGogJ1Pz1zCvoo`
+- [x] Pushed to origin
+
+### 📁 Files Created/Modified
+**Created:**
+- `.github/workflows/deploy.yml` - GitHub Pages deployment workflow
+
+**Modified:**
+- `vite.config.ts` - Added base path for GitHub Pages
+
+### 💡 Notes for Next Session
+- Enable GitHub Pages in repository settings (Settings → Pages → Source: GitHub Actions)
+- The deployment URL will be: `https://balaji-krishnan-nanba.github.io/sia-test/`
+- Merge the deployment branch to main for production deployment
+
+---
+
 ## Session: 2025-12-07 (Complete App Redesign - Focused on Value)
 
 ### 🎯 Session Goals

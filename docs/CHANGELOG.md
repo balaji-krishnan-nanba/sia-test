@@ -17,6 +17,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [2025-12-07] - GitHub Pages Deployment
+
+### Added
+- **GitHub Actions Workflow**: `.github/workflows/deploy.yml` for automated GitHub Pages deployment
+- **Deployment triggers**: Push to `main` or `claude/deploy-github-pages-*` branches
+- **Concurrent deployment protection**: Only one deployment runs at a time
+
+### Changed
+- **vite.config.ts**: Added `base: '/sia-test/'` for GitHub Pages subdirectory deployment
+
+### Technical
+- Uses `actions/upload-pages-artifact@v3` and `actions/deploy-pages@v4`
+- Node.js 20 LTS for build environment
+- Automatic artifact caching via npm
+
+---
+
 ## [2025-12-07] - Bug Fix - Navigation & Quiz Page Issues
 
 ### Fixed

@@ -7,12 +7,13 @@
 ## Table of Contents
 
 1. [Deployment Overview](#deployment-overview)
-2. [Environment Setup](#environment-setup)
-3. [Supabase Setup](#supabase-setup)
-4. [Stripe Setup](#stripe-setup)
-5. [Vercel Deployment](#vercel-deployment)
-6. [Domain Configuration](#domain-configuration)
-7. [Post-Deployment Checklist](#post-deployment-checklist)
+2. [GitHub Pages Deployment](#github-pages-deployment)
+3. [Environment Setup](#environment-setup)
+4. [Supabase Setup](#supabase-setup)
+5. [Stripe Setup](#stripe-setup)
+6. [Vercel Deployment](#vercel-deployment)
+7. [Domain Configuration](#domain-configuration)
+8. [Post-Deployment Checklist](#post-deployment-checklist)
 
 ---
 
@@ -28,6 +29,83 @@
 ```
 Git Push → GitHub → Vercel (auto-deploy) → Live
 ```
+
+---
+
+## GitHub Pages Deployment
+
+**Recommended for static/demo deployment without backend services.**
+
+### Deployment URL
+```
+https://balaji-krishnan-nanba.github.io/sia-test/
+```
+
+### Setup Steps
+
+#### 1. Enable GitHub Pages in Repository Settings
+
+1. Go to repository on GitHub
+2. Settings → Pages
+3. Source: **GitHub Actions** (NOT "Deploy from a branch")
+4. Save
+
+#### 2. Workflow Configuration
+
+The workflow is already configured in `.github/workflows/deploy.yml`:
+
+```yaml
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - claude/deploy-github-pages-*
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+```
+
+#### 3. Trigger Deployment
+
+**Option A: Push to main branch**
+```bash
+git checkout main
+git merge claude/deploy-github-pages-01Wyy65ZsMHGogJ1Pz1zCvoo
+git push origin main
+```
+
+**Option B: Manual trigger**
+1. Go to Actions tab in GitHub
+2. Select "Deploy to GitHub Pages" workflow
+3. Click "Run workflow"
+
+#### 4. Verify Deployment
+
+1. Go to Actions tab
+2. Check workflow run status
+3. Once complete, visit: `https://balaji-krishnan-nanba.github.io/sia-test/`
+
+### Vite Configuration
+
+The `vite.config.ts` is configured with:
+```typescript
+export default defineConfig({
+  base: '/sia-test/',  // GitHub Pages subdirectory
+  // ...
+})
+```
+
+### Limitations
+
+- **No Server-Side Features**: GitHub Pages is static hosting only
+- **No Supabase Backend**: Database features require external setup
+- **No Stripe Integration**: Payment processing needs server environment
+- **Suitable For**: Demo, preview, static content testing
 
 ---
 

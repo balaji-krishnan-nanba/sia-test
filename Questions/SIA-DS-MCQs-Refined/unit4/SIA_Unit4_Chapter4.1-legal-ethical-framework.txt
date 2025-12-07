@@ -1,0 +1,397 @@
+================================================================================
+UNIT 4, CHAPTER 4.1: LEGAL AND ETHICAL FRAMEWORK FOR PHYSICAL INTERVENTION
+================================================================================
+Meta: Total=30 | Easy=12 | Medium=12 | Hard=6 | A=8 | B=7 | C=7 | D=8
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Under SIA guidance and UK law, when is it appropriate for a door supervisor to use physical intervention?
+
+A) To quickly enforce house rules so the venue runs smoothly
+B) As a last resort when there is an immediate threat and no reasonable alternative
+C) Whenever a customer is rude or insulting
+D) To show authority as soon as someone refuses a request
+
+Answer: B
+Explanation: Physical intervention should only be used as a last resort, when communication and other options have failed or are impractical, the threat is immediate, and there is no reasonable alternative. This reflects SIA guidance that physical intervention greatly increases risk and must only be used when absolutely necessary.
+
+---
+Q2 | Difficulty: Medium
+---
+Question: Two customers are arguing loudly near the bar. There is shouting but no threats or physical contact yet. As a door supervisor, what is the most appropriate first response?
+
+A) Turn the music up so the argument is less noticeable
+B) Use communication and conflict management to try to calm the situation
+C) Call the police and stand back without doing anything else
+D) Immediately grab both customers and eject them from the premises
+
+Answer: B
+Explanation: Physical intervention is not yet necessary because there is no immediate violence or imminent attack. The correct approach at this stage is to use communication and de-escalation skills to reduce tension, keeping physical intervention as a last resort.
+
+---
+Q3 | Difficulty: Medium
+---
+Question: Which situation BEST illustrates a lawful use of force to remove a trespasser from private premises?
+
+A) A customer is quietly finishing their drink at closing time and has not been asked to leave, but staff grab them and push them outside
+B) A banned customer is walking along the public pavement outside, so staff run out, grab them and pull them into the venue to "deal with them"
+C) A customer complains angrily about the price of drinks, so staff immediately drag them out without warning
+D) A customer has been told clearly that their permission to remain is withdrawn, given a reasonable chance to leave, and now refuses while trying to push past staff to re-enter a restricted area
+
+Answer: D
+Explanation: Once permission to be on the premises is withdrawn and the person is given a reasonable opportunity to leave but refuses, they become a trespasser. Using minimum necessary force to remove them can then be lawful, especially where they are trying to force their way into a restricted area.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which of the following is NOT a lawful reason to use physical force?
+
+A) Prevention of crime
+B) Teaching someone a lesson for being rude
+C) Defence of another person
+D) Self-defence
+
+Answer: B
+Explanation: Force can be lawful for self-defence, defence of others, prevention of crime, lawful arrest or lawful ejection of a trespasser. Using force as punishment or to "teach someone a lesson" is unlawful and would likely be viewed as assault.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which piece of legislation states that "a person may use such force as is reasonable in the circumstances in the prevention of crime, or in effecting or assisting in the lawful arrest of offenders or suspected offenders or of persons unlawfully at large"?
+
+A) Police and Criminal Evidence Act 1984, Section 24A
+B) Criminal Law Act 1967, Section 3
+C) Health and Safety at Work etc. Act 1974
+D) Criminal Justice and Immigration Act 2008, Section 76
+
+Answer: B
+Explanation: Section 3 of the Criminal Law Act 1967 allows any person to use reasonable force in the prevention of crime or in effecting or assisting a lawful arrest.
+
+---
+Q6 | Difficulty: Medium
+---
+Question: A man starts punching another customer on the dancefloor. You intervene and use reasonable force to separate them and hold the attacker until the police arrive. What is the best legal justification for your use of force?
+
+A) You are entitled to make the attacker apologise to the victim
+B) You can use any force you like because the venue licence allows it
+C) You have a right to punish the attacker for breaking house rules
+D) You are using reasonable force in defence of another person and in the prevention of crime
+
+Answer: D
+Explanation: You are acting to protect another person from assault (defence of others) and to prevent a crime from continuing. This falls under common law self-defence/defence of others and Section 3 Criminal Law Act 1967 (prevention of crime).
+
+---
+Q7 | Difficulty: Medium
+---
+Question: Which situation MOST clearly allows a door supervisor to make a lawful citizen's arrest under Section 24A of the Police and Criminal Evidence Act 1984?
+
+A) A customer refuses to leave the smoking area at closing time but is calm and not threatening
+B) A customer accidentally drops and breaks a plastic glass, then laughs about it
+C) A customer is swearing at bar staff but has made no threats or attempts to assault anyone
+D) You see a man pick up another customer's phone from a table, hide it in his pocket and head quickly for the exit
+
+Answer: D
+Explanation: Theft is an indictable offence. Section 24A PACE 1984 allows any person to arrest someone committing or suspected of committing an indictable offence, BUT only when certain necessity conditions are met: (a) to prevent physical injury to self or others, (b) to prevent loss/damage to property, (c) to prevent the person making off before police arrive, (d) to protect a child or vulnerable person. Simply seeing a crime is not enough - you must also meet a necessity condition. In this case, preventing the person making off before police arrive is the necessity condition.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: In relation to use of force, what does "necessary" mainly mean?
+
+A) The force is what you would usually use in training
+B) The force is needed because there is an immediate threat and no reasonable alternative
+C) The force is what your manager would prefer you to use
+D) The force is painful enough to end the conflict quickly
+
+Answer: B
+Explanation: "Necessary" means that, in the circumstances as you saw them, there was an immediate need to act and no reasonable, safer alternative (such as withdrawing, calling for support or using further communication). If force is not truly needed, it cannot be justified.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which option BEST describes proportionate force?
+
+A) Using as much force as you are physically capable of
+B) Using more force than the offender to show you are in control
+C) Using the same level of force as your colleague
+D) Matching the level of force to the level of threat and using the minimum needed to achieve the lawful aim
+
+Answer: D
+Explanation: Proportionate force means the level of force used is no more than necessary for the threat faced or lawful objective, and is reduced as soon as the threat decreases. Excessive or continuing force after the threat has passed will usually be unlawful.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: Which statement about reasonable force is MOST accurate?
+
+A) It is judged only by what CCTV footage looks like afterwards
+B) Any force is reasonable if you were angry or upset at the time
+C) It is judged on the circumstances as you honestly believed them to be, and what an ordinary person would see as reasonable in those circumstances
+D) It only applies if you are smaller than the other person
+
+Answer: C
+Explanation: Section 76 of the Criminal Justice and Immigration Act 2008 explains that reasonable force is judged in the circumstances as the person using force honestly believed them to be, but also by an objective standard of what would be reasonable to an ordinary person in those circumstances.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: Which factor is LEAST relevant when deciding whether the force you used was reasonable?
+
+A) Whether the person later complains about you on social media
+B) Whether weapons appeared to be present
+C) The seriousness of the threat as you believed it at the time
+D) Your honest belief about what might happen if you did not act
+
+Answer: A
+Explanation: Reasonableness is judged on factors such as the seriousness of the threat, presence of weapons, vulnerability, numbers involved and your honest perception of the risk at the time. Later publicity or social media complaints do not determine whether your use of force was reasonable.
+
+---
+Q12 | Difficulty: Hard
+---
+Question: An aggressive customer swings a punch at you. You block it and, with a colleague, guide him to the floor and restrain his arms and legs. After a short struggle he stops resisting, apologises and says he will leave quietly, but you keep the restraint on him and slap him several times "so he doesn't come back". At what point does your use of force clearly become unlawful?
+
+A) When you restrain his arms and legs while he is still actively resisting
+B) When you block the punch and guide him to the floor
+C) When he stops resisting and you continue to restrain and strike him as punishment
+D) The whole incident is unlawful from the very beginning
+
+Answer: C
+Explanation: Force used in self-defence and to control an actively resisting attacker can be lawful if necessary, reasonable and proportionate. Once the person is no longer a threat, continued restraint or violence becomes unnecessary, disproportionate and punitive, so the force becomes unlawful at that point.
+
+---
+Q13 | Difficulty: Easy
+---
+Question: Which statement about duty of care during physical intervention is correct?
+
+A) Duty of care ends as soon as the person becomes aggressive
+B) Only the venue manager has a duty of care, not individual door supervisors
+C) You owe a duty of care to the person you are restraining, even if they have been violent
+D) You only have a duty of care if the person asks for help
+
+Answer: C
+Explanation: Door supervisors owe a continuing duty of care to anyone they deal with, including aggressive individuals being restrained. You must take reasonable steps to protect their welfare, monitor their condition and get medical help if needed.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: You and a colleague are holding a very intoxicated customer face-down on the floor. He suddenly stops struggling and you notice his breathing sounds laboured and his face looks discoloured. What should you do FIRST?
+
+A) Immediately release or adjust the restraint to open his airway, check his responsiveness and call for medical help
+B) Tell bar staff to get a mop because he may be sick
+C) Ignore the change and wait for police to arrive
+D) Hold the restraint tighter in case he is pretending
+
+Answer: A
+Explanation: Duty of care and Article 2 (right to life) require you to prioritise life and health. If there are signs of medical distress during restraint, you must release or adjust the hold (if safe), open the airway, give first aid within your competence and call an ambulance.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: Which group BEST illustrates people to whom you have an enhanced duty of care during physical intervention?
+
+A) Fit, sober adults in their twenties
+B) People who are regulars at the venue
+C) Customers wearing expensive clothing
+D) Elderly people, pregnant women and people with disabilities
+
+Answer: D
+Explanation: Elderly people, pregnant women, disabled people, those with medical conditions, mental health issues or intoxication are more vulnerable to harm. They may need modified techniques and extra monitoring to keep the intervention as safe as possible.
+
+---
+Q16 | Difficulty: Easy
+---
+Question: Which statement about pre-emptive force is correct?
+
+A) You must always wait to be hit before you can act
+B) You may act pre-emptively if you honestly believe an attack is imminent and your response is necessary and proportionate
+C) Pre-emptive force is always unlawful
+D) Pre-emptive force is lawful only if your manager gives permission first
+
+Answer: B
+Explanation: The law does not require you to wait to be struck. If you have an honestly held belief that an attack is imminent, you may use reasonable and proportionate force to prevent it, as recognised in self-defence case law and Section 76 CJIA 2008.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: In which situation would a pre-emptive strike be MOST likely to be judged lawful?
+
+A) A banned customer is sitting quietly at the bar drinking a soft drink
+B) A customer stands very close, clenches his fists, looks at your jaw, swears that he is going to "smash your face in" and draws his arm back to punch
+C) A customer shouts insults at you from across the room but makes no move towards you
+D) A customer posted a bad online review last week, so you decide you will "sort him out" when he next comes in
+
+Answer: B
+Explanation: Here there are strong indicators of an imminent attack: target glances, clenched fists, threatening words and drawing the arm back. A pre-emptive strike or other intervention could be lawful if it is necessary and proportionate to prevent the attack. Options C and D are pre-meditated or lack an imminent threat; option A is verbal abuse only.
+
+---
+Q18 | Difficulty: Easy
+---
+Question: Which of the following is a potential criminal consequence of using unlawful force?
+
+A) A civil claim for compensation
+B) Prosecution for offences such as assault or Actual Bodily Harm (ABH)
+C) Loss of your SIA licence
+D) A disciplinary hearing at work
+
+Answer: B
+Explanation: Using unlawful force can lead to criminal charges such as common assault, battery, ABH, GBH or even manslaughter in serious cases, potentially resulting in a criminal record and imprisonment. The other options are civil, professional or employment consequences.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: After an incident, the person you restrained sues you personally, claiming that you used excessive force and caused injury. What type of legal action is this?
+
+A) Criminal prosecution
+B) SIA enforcement action
+C) Civil claim for damages/compensation
+D) Internal disciplinary procedure
+
+Answer: C
+Explanation: A claim for compensation for injury or distress is a civil matter, usually brought in the county court or High Court. It may result in you and/or your employer having to pay damages and legal costs if the court finds the force used was unlawful.
+
+---
+Q20 | Difficulty: Hard
+---
+Question: A door supervisor uses a neck restraint on a struggling customer during an ejection. The customer loses consciousness. Despite this, the supervisor keeps the pressure on for some time. The customer later dies and CCTV shows that the restraint continued after the customer stopped resisting. What is the MOST serious criminal offence the supervisor could potentially face?
+
+A) Manslaughter
+B) Failure to display SIA licence
+C) Common assault
+D) Drunk and disorderly
+
+Answer: A
+Explanation: Where unlawful and excessive force leads to a person's death, the person using that force could face a charge of manslaughter (or, in extreme cases, murder). This shows the potentially life-changing consequences of failing to use only necessary, reasonable and proportionate force and of ignoring duty of care.
+
+---
+Q21 | Difficulty: Easy
+---
+Question: Who is primarily responsible for justifying the decision to use physical intervention?
+
+A) The DJ, as they control the crowd atmosphere
+B) The venue owner
+C) The door supervisor who used the force
+D) The police officer who attends afterwards
+
+Answer: C
+Explanation: Each individual is personally accountable for the force they use. You cannot rely on "just following orders" as a defence. You must be able to explain and justify your own decisions if questioned by management, the SIA, police or a court.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: Immediately after a physical intervention incident, what is the BEST way to complete your written report?
+
+A) First agree a single version of events with your colleagues, then all write the same wording
+B) Wait a few days so you have time to calm down and forget the stressful details
+C) Let your manager write it for you and just sign it
+D) Write your own independent account as soon as possible while the incident is fresh in your mind
+
+Answer: D
+Explanation: Reports should be completed as soon as practicable, while memories are fresh, and should be your own independent account. This strengthens your credibility and provides accurate evidence if the incident is reviewed later, sometimes years afterwards.
+
+---
+Q23 | Difficulty: Hard
+---
+Question: After a difficult restraint, several colleagues suggest watching the CCTV and then "tidying up" your statements together so they all match and leave out anything that looks bad. What is the MOST appropriate response?
+
+A) Agree, because matching statements will look more professional
+B) Politely refuse and write your own honest, independent account of what you saw, did and believed
+C) Watch the CCTV, then add details that make you look better and remove anything that might cause trouble
+D) Let your manager write one group statement and sign it with the others
+
+Answer: B
+Explanation: You are personally accountable for your actions and your statement must be honest and independent. Altering accounts to "fit" CCTV or to hide mistakes can seriously damage your credibility and may itself be viewed as dishonest or misleading if investigated.
+
+---
+Q24 | Difficulty: Easy
+---
+Question: Which article of the Human Rights Act 1998 prohibits torture and inhuman or degrading treatment?
+
+A) Article 2
+B) Article 8
+C) Article 3
+D) Article 5
+
+Answer: C
+Explanation: Article 3 of the European Convention on Human Rights (brought into UK law by the Human Rights Act 1998) states that no one shall be subjected to torture or to inhuman or degrading treatment or punishment. It is an absolute right, with no exceptions.
+
+---
+Q25 | Difficulty: Hard
+---
+Question: Door supervisors handcuff a mildly drunk but non-violent customer after an argument, then lock him in a small storeroom for 40 minutes "to teach him a lesson", without calling police. Which human right is MOST likely to have been breached?
+
+A) Article 5 - Right to liberty and security
+B) Article 3 - Prohibition of torture
+C) Article 2 - Right to life
+D) Article 8 - Respect for private and family life
+
+Answer: A
+Explanation: Handcuffing someone and locking them in a room for 40 minutes as punishment is primarily a breach of Article 5 (right to liberty) as it constitutes unlawful detention/false imprisonment. While Article 3 (degrading treatment) could also potentially apply depending on conditions, the primary and most clear breach is Article 5.
+
+---
+Q26 | Difficulty: Easy
+---
+Question: Which option BEST reflects an ethical approach to physical intervention?
+
+A) Treating the person with dignity, using the minimum force necessary to keep everyone safe
+B) Using maximum force so the person remembers not to cause trouble again
+C) Humiliating the person in front of their friends to deter others
+D) Ignoring the person's distress because they "brought it on themselves"
+
+Answer: A
+Explanation: Ethical practice involves respect for persons, doing good (beneficence), avoiding unnecessary harm (non-maleficence) and acting fairly. Using minimum necessary force while preserving the person's dignity meets both legal and professional ethical standards.
+
+---
+Q27 | Difficulty: Medium
+---
+Question: Two customers get into a pushing match. One is a regular you know well; the other is a stranger. You decide to physically remove only the stranger and allow the regular to stay, even though both behaved similarly. Which ethical principle are you MOST at risk of breaching?
+
+A) Justice (fair and consistent treatment)
+B) Beneficence (doing good)
+C) Respect for persons
+D) Non-maleficence (doing no harm)
+
+Answer: A
+Explanation: Justice is about treating people fairly and consistently, without discrimination or favouritism. Treating two people differently when their behaviour is equally unacceptable is ethically problematic and can damage professional standards and public trust.
+
+---
+Q28 | Difficulty: Easy
+---
+Question: What is meant by dynamic risk assessment?
+
+A) Asking the DJ to check risks while you focus on the bar
+B) Ongoing assessment of risks during an incident, constantly reassessing and adapting your response
+C) A fixed plan written before your shift that must not be changed
+D) A written risk assessment done once a year by head office
+
+Answer: B
+Explanation: Dynamic risk assessment is a continuous process during an incident: observing the person, environment, your resources and the developing situation, then adjusting your tactics (including whether to use or stop using force) as things change.
+
+---
+Q29 | Difficulty: Hard
+---
+Question: You plan to escort a customer out for aggressive behaviour. As you approach, you see that he is older than you thought, walking with a crutch and appears unsteady. At the same time, a group of his friends begins to gather nearby, shouting in support. What is the BEST example of good dynamic risk assessment?
+
+A) Stick to your original plan and grab him firmly, ignoring the crutch and the crowd
+B) Immediately abandon all action and walk away, regardless of any ongoing risk to others
+C) Reassess the risks, attempt further verbal de-escalation, call for colleague support and adapt your approach to take account of his vulnerability and the surrounding crowd
+D) Ask his friends to record the incident so you have evidence later
+
+Answer: C
+Explanation: Dynamic risk assessment means you constantly reassess when new information appears - here, the customer's vulnerability and the gathering crowd. A sensible response is to seek support, adjust the tactic (for example, less physical contact, more communication) and consider whether physical intervention is still necessary or safe.
+
+---
+Q30 | Difficulty: Hard
+---
+Question: You are the only door supervisor at the front door when three men start fighting just inside the entrance. One has a broken bottle in his hand, there is a crowd gathering, and your radio battery has just died. Police are on the way but not yet on scene. Which option BEST shows good use of dynamic risk assessment and professional judgement?
+
+A) Lock the doors and walk away so you do not get involved
+B) Step back to a safer position, shout clear instructions, encourage people to move away, try to use your voice to break up the fight and look for safe opportunities to intervene when the risks reduce
+C) Rush straight into the middle of the fight and grab whoever you can
+D) Pick the smallest person and restrain them to show you are in control
+
+Answer: B
+Explanation: Good dynamic risk assessment considers numbers, weapons, your own capability and lack of immediate support. Charging in alone against three men, including one with a weapon, is high risk. Creating distance, using communication to reduce risk, protecting bystanders and waiting for safer opportunities or additional support is more appropriate and still fulfils your duty to protect life and prevent crime as far as reasonably possible.
+
+

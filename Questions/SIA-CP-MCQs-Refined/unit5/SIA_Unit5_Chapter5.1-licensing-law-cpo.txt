@@ -1,0 +1,324 @@
+================================================================================
+UNIT 5, CHAPTER 5.1: ROLE OF DOOR SUPERVISOR FOR CPOs
+
+Question 1 [Easy]
+Why is a licensed Close Protection Operative (CPO) normally allowed to work as a door supervisor at licensed premises without holding a separate door supervision licence?
+
+A) Because door supervision is voluntary and does not require an SIA licence
+B) Because the SIA Close Protection licence includes entitlement (licence integration) to carry out licensable door supervision activities
+C) Because CPOs are considered in‑house staff and therefore exempt
+D) Because the venue’s Designated Premises Supervisor can “loan” their personal licence to the CPO
+
+Correct Answer: B
+
+Explanation:
+Under SIA “licence integration”, a valid Close Protection licence can be used where a Door Supervisor licence would normally be required, as long as the CPO is doing licensable door supervision activities. 
+Get Licensed
++1
+ The CPO still has to meet the same professional and legal standards as any other licensed door supervisor.
+
+Question 2 [Medium]
+A CPO is between close protection contracts and is offered weekend work on the door of a busy nightclub, controlling entry and checking IDs. What is the MOST important check he should make before accepting the work?
+
+A) Confirm that his SIA Close Protection licence is current and that the work involves licensable door supervision activities at a licensed premises
+B) Confirm that his first aid certificate has more than 12 months left before expiry
+C) Make sure the venue has public liability insurance, as this replaces the need for any SIA licence
+D) Check whether the venue is in his local council area; his licence is only valid in the issuing region
+
+Correct Answer: A
+
+Explanation:
+To work lawfully as a door supervisor, he must hold a valid front‑line SIA licence that covers the licensable activity — in this case a current CP licence that can be used for door supervision work at licensed premises. 
+GOV.UK
++2
+Get Licensed
++2
+ Public liability insurance and other factors are important, but they do not replace the legal requirement for an appropriate SIA licence.
+
+Question 3 [Easy]
+Which of the following best describes a primary responsibility of a door supervisor?
+
+A) Setting the price of drinks and entry tickets
+B) Writing the venue’s licensing policy
+C) Managing access to the venue, including ID checks, capacity control and enforcing admission conditions
+D) Providing entertainment on stage when performers are late
+
+Correct Answer: C
+
+Explanation:
+Door supervisors are primarily responsible for access control, including checking age and ID, enforcing admission policies (such as dress code) and helping to maintain safe capacity levels at the venue, alongside broader safety and security duties.
+
+Question 4 [Medium]
+A CPO working as a door supervisor refuses entry to a customer who appears heavily intoxicated. The customer becomes loud and abusive in the queue. What is the MOST appropriate immediate response?
+
+A) Ignore the behaviour and allow the customer to enter to avoid holding up the queue
+B) Physically grab the customer straight away and drag them away from the door
+C) Threaten to “get them banned everywhere” if they do not leave immediately
+D) Use calm communication to explain the refusal, move the person away from the queue if possible, and only consider reasonable force if they refuse to leave and pose a risk
+
+Correct Answer: D
+
+Explanation:
+Professional conflict management starts with calm, clear communication and repositioning the person away from the main queue if possible. Reasonable force should only be used if necessary — for example, if they refuse to leave and present a risk to safety or licensing objectives.
+
+Question 5 [Medium]
+During a busy night the venue manager tells the CPO acting as door supervisor to “forget the numbers” and keep letting people in, even though the legal capacity has already been reached. What should the CPO do?
+
+A) Explain that exceeding the licensed capacity is unsafe and may breach licensing and fire safety rules, stop further entry and record the conversation in the incident log
+B) Do as instructed because the manager is responsible for any consequences, not security staff
+C) Allow extra people in but tell them to stay away from the dance floor
+D) Lock the doors from the inside so that no one can see the overcrowding from outside
+
+Correct Answer: A
+
+Explanation:
+The CPO has a duty to support public safety and licensing objectives, including staying within the venue’s capacity limits. Allowing overcrowding increases risk and may breach the premises licence, so the correct response is to refuse further entry, explain why, and document the issue.
+
+Question 6 [Easy]
+Which of the following is one of the four licensing objectives under the Licensing Act 2003 that door supervisors help to support?
+
+A) Maximising alcohol sales for the premises licence holder
+B) The prevention of crime and disorder
+C) Ensuring customers leave five‑star online reviews
+D) Guaranteeing that no accidents ever occur on the premises
+
+Correct Answer: B
+
+Explanation:
+The Licensing Act 2003 sets out four objectives: prevention of crime and disorder, public safety, prevention of public nuisance, and protection of children from harm. 
+Royal Greenwich
++1
+ Door supervisors play a key role in supporting all of these, particularly the prevention of crime and disorder and public safety.
+
+Question 7 [Medium]
+At a large bar, several people work on a Saturday night. Which ONE of the following roles MUST normally hold a front‑line SIA licence?
+
+A) The bar‑back who collects empty glasses and restocks fridges but never deals with disorder
+B) The DJ who plays music and occasionally makes announcements about drinks offers
+C) The door supervisor who controls entry and helps to prevent disorder at the entrance
+D) The kitchen porter who works in the basement and has no contact with the public
+
+Correct Answer: C
+
+Explanation:
+Anyone whose job includes guarding against disorder or damage at licensed premises, such as door supervisors controlling entry, is carrying out licensable activity and must hold an appropriate front‑line SIA licence. 
+Legislation.gov.uk
++2
+RIFT Refunds
++2
+ Bar staff, DJs and kitchen staff only need an SIA licence if their role includes licensable security duties.
+
+Question 8 [Hard]
+A CPO working as a door supervisor sees a man repeatedly punch another customer inside the venue, causing visible injury. The attacker tries to leave, and the police have said they are several minutes away. Under s24A of the Police and Criminal Evidence Act 1984 (citizen’s arrest), which condition BEST justifies the CPO arresting the attacker?
+
+A) The attacker has behaved rudely towards staff and should be punished
+B) Any disorder in a licensed premises automatically allows a citizen’s arrest
+C) The attacker has committed any offence, even if it is minor and non‑indictable
+D) The CPO reasonably suspects an indictable offence has been committed, believes it is not reasonably practicable for a constable to make the arrest immediately, and considers arrest necessary to prevent the attacker causing injury or escaping
+
+Correct Answer: D
+
+Explanation:
+Section 24A PACE allows “any person” to arrest someone only for an indictable offence, where it is not reasonably practicable for a constable to make the arrest, and where arrest is necessary (for example, to prevent injury, loss or escape). 
+Legislation.gov.uk
++2
+Peoplesafe
++2
+ The CPO must still use only reasonable force and prioritise safety.
+
+Question 9 [Easy]
+How should a CPO display their SIA licence when carrying out door supervision duties at a venue?
+
+A) On the outside of their outer clothing with the front of the licence clearly visible to the public while working
+B) In a wallet in their back pocket, to be shown only if someone asks
+C) Clipped to the inside of their jacket, picture facing their body
+D) Left in the staff room so it cannot be lost or damaged
+
+Correct Answer: A
+
+Explanation:
+It is a condition of a front‑line SIA licence that it is worn where the front can be seen at all times while undertaking licensable conduct — typically on the outside of outer clothing using a clip or lanyard. 
+Double Check Security Group
++4
+GOV.UK
++4
+GOV.UK
++4
+
+Question 10 [Medium]
+What is the main purpose of the SIA Approved Contractor Scheme (ACS) from the perspective of clients and venues?
+
+A) To guarantee that every member of staff in an ACS company will never make a mistake
+B) To provide a quality mark showing that a security company meets higher standards and is committed to continuous improvement
+C) To replace the need for individual SIA licences for staff who work for ACS companies
+D) To allow companies to enforce their own laws instead of UK law
+
+Correct Answer: B
+
+Explanation:
+The ACS is a voluntary quality‑assurance scheme for security companies. It recognises businesses that meet higher standards of performance and management, giving clients confidence in the service they provide. 
+Legislation.gov.uk
++1
+ It does not remove the need for individual staff to hold SIA licences.
+
+Question 11 [Hard]
+While working a busy club door, a CPO sees another door supervisor using racist language towards a customer and pushing them unnecessarily. The duty manager says, “Leave it, we don’t write this sort of thing down.” According to SIA standards of behaviour and reporting responsibilities, what is the MOST appropriate action for the CPO?
+
+A) Ignore the incident because challenging colleagues could damage team relationships
+B) Publicly shout at the colleague in front of customers to show disapproval, then walk away
+C) Ensure the customer is safe, then record a factual incident report and escalate the concern through the venue’s procedures and, if necessary, to the employer/SIA
+D) Record the incident on their personal phone and post it on social media to shame the colleague
+
+Correct Answer: C
+
+Explanation:
+The SIA expects licence holders to act with integrity, avoid discrimination and report serious misconduct or improper behaviour. 
+Security Industry Authority Blog
++1
+ The CPO should protect the customer, record events factually, and escalate through proper channels rather than ignore it or deal with it unprofessionally.
+
+Question 12 [Easy]
+Which venue and time combination is MOST likely to present higher risk and require robust door supervision?
+
+A) A small family restaurant serving lunch with no alcohol licence
+B) A quiet hotel lounge serving coffee mid‑morning
+C) A village pub on a weekday lunchtime with mainly regular elderly customers
+D) A large city‑centre nightclub with alcohol, loud music and a full dance floor at 01:30 on a Saturday night
+
+Correct Answer: D
+
+Explanation:
+Late‑night city‑centre nightclubs with alcohol, loud music, large crowds and late closing times typically present higher risks of disorder, intoxication and accidents. This environment demands strong door supervision and close attention to safety, capacity and conflict management.
+
+Question 13 [Medium]
+A CPO is supervising the entrance to a licensed music venue that has a legal capacity of 500. The clicker shows 495 people inside when a group of 20 arrives with valid tickets. What is the MOST appropriate way to manage entry?
+
+A) Allow the whole group to enter immediately because they have tickets, then close the doors
+B) Let in the 20 people and reset the clicker to 500 to keep the numbers looking correct
+C) Refuse entry to everyone in the group and tell them to complain to the council
+D) Explain the capacity limit, allow only a small number in as others leave (one‑in/one‑out), and keep an accurate count to stay within 500
+
+Correct Answer: D
+
+Explanation:
+The legal capacity limit must be respected to protect public safety and comply with licensing and fire regulations. The correct approach is to explain the situation, operate a one‑in/one‑out system and maintain accurate counts, even if customers have tickets.
+
+Question 14 [Easy]
+Before starting a new door supervision assignment at a client’s venue, what document will MOST help a CPO understand site‑specific rules and emergency procedures?
+
+A) The assignment instructions or site post orders for that venue
+B) A map of all licensed premises in the local area
+C) The CPO’s own CV and training certificates
+D) A copy of last year’s national crime statistics
+
+Correct Answer: A
+
+Explanation:
+Assignment instructions (post orders) set out site‑specific rules, roles, emergency procedures, contact details and any special instructions. They are essential reading for a CPO taking on door supervision duties at a new venue.
+
+Question 15 [Hard]
+A CPO is protecting a VIP who owns a nightclub and is also supervising the club’s door team. The VIP tells the CPO to “let my 17‑year‑old nephew in, don’t bother with ID – he’s family.” The premises has a strict over‑18 policy and the nephew clearly looks under 18. What is the MOST appropriate response?
+
+A) Allow the nephew in without challenge because the VIP is the client and owns the venue
+B) Politely explain that admitting an under‑18 would breach licensing and venue policy, refuse entry and, if necessary, suggest an alternative arrangement that keeps within the law
+C) Let the nephew in but ask him to stay away from the bar area
+D) Let the nephew in but make him promise not to tell anyone his age
+
+Correct Answer: B
+
+Explanation:
+Door supervisors must support the licensing objective of protecting children from harm and comply with age‑restriction conditions, regardless of who owns the venue or who the client is. 
+Royal Greenwich
++1
+ The CPO must refuse entry politely and look for lawful alternatives instead of bending the rules.
+
+Question 16 [Easy]
+Which behaviour at the door is MOST likely to create a good first impression and reduce the risk of conflict later in the night?
+
+A) Avoiding eye contact and saying as little as possible to customers
+B) Standing with folded arms and staring at people as they approach
+C) Greeting customers politely, using open body language and being clear but respectful when explaining entry requirements
+D) Making jokes about customers’ appearance while checking their ID
+
+Correct Answer: C
+
+Explanation:
+Good customer service at the door involves polite greetings, open and non‑threatening body language, and clear, respectful communication about entry requirements. This helps set a positive tone, supports the venue’s reputation and can reduce conflict.
+
+Question 17 [Medium]
+A customer complains that they were refused entry for wearing trainers while others inside seem to be wearing similar footwear. They are angry but not abusive. What is the BEST way for a CPO acting as door supervisor to handle this?
+
+A) Tell them it’s none of their business and close the door
+B) Argue with them about fashion choices until they give up
+C) Ignore the complaint and walk away so the queue keeps moving
+D) Listen without interrupting, explain the dress code and any genuine reasons for the decision, apologise if there has been inconsistency and refer them to a manager if they want to take it further
+
+Correct Answer: D
+
+Explanation:
+Effective complaint handling involves listening, showing respect, explaining policies and being honest about any inconsistency. Offering escalation to a manager when appropriate helps maintain professionalism and protects the venue’s reputation.
+
+Question 18 [Easy]
+Which THREE principles should guide a CPO’s use of force when carrying out door supervision duties?
+
+A) Force must be necessary, proportionate and based on the CPO’s honest belief at the time
+B) Force should be quick, forceful and designed to teach the person a lesson
+C) Force can be used whenever a customer refuses to follow instructions, even if there is no risk
+D) Force is acceptable as long as no one films it on CCTV
+
+Correct Answer: A
+
+Explanation:
+UK law on self‑defence and prevention of crime requires that any force used is necessary in the circumstances, proportionate to the threat and based on an honest belief at the time, not hindsight. 
+GOV.UK
++1
+ The aim is to protect people and prevent crime, not to punish.
+
+Question 19 [Medium]
+A customer has been verbally warned twice for aggressive behaviour towards others on the dance floor but continues to start arguments. What is the MOST appropriate next step for the CPO acting as door supervisor?
+
+A) Immediately apply a neck restraint and carry the customer outside
+B) Explain that they are now required to leave, escort them towards the exit using trained low‑risk escorting techniques if needed, and avoid unnecessary force
+C) Wait until they actually hit someone before doing anything
+D) Push them hard to the ground in front of their friends to make an example
+
+Correct Answer: B
+
+Explanation:
+After clear warnings, the next step is usually to require the person to leave and, if necessary, use trained, low‑risk escorting techniques to guide them out with minimum force. This helps prevent escalation and supports licensing objectives while respecting legal limits on use of force.
+
+Question 20 [Hard]
+Several door supervisors, including a CPO, have restrained a very agitated customer on the ground after a serious fight. The person is face‑down with their hands held behind their back. Which action should be the CPO’s PRIORITY to reduce the risk of harm and meet their duty of care?
+
+A) Keep as much weight as possible on the person’s back so they cannot move at all
+B) Leave the person face‑down and walk away once the fight has stopped
+C) Move the person to a safer position as soon as possible (avoiding pressure on the torso or neck), monitor their breathing and level of response, and request medical help if there are any concerns
+D) Apply additional holds such as chokeholds or pain‑compliance pressure points until the police arrive
+
+Correct Answer: C
+
+Explanation:
+After restraint, the priority is the person’s safety: avoid positions and pressure that could cause positional asphyxia, monitor their welfare and seek medical help if there is any doubt. Force should be the minimum necessary and never used as punishment.
+
+================================================================================
+END OF CHAPTER 5.1 QUESTIONS
+
+Total Questions: 20
+
+Easy: 8
+
+Medium: 8
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 5 questions (2, 5, 9, 14, 18)
+
+Correct answer B: 5 questions (1, 6, 10, 15, 19)
+
+Correct answer C: 5 questions (3, 7, 11, 16, 20)
+
+Correct answer D: 5 questions (4, 8, 12, 13, 17)
+
+================================================================================

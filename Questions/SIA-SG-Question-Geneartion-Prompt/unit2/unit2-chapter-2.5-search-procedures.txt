@@ -1,0 +1,507 @@
+================================================================================
+SIA SECURITY GUARD - UNIT 2, CHAPTER 2.5
+SEARCH PROCEDURES
+================================================================================
+
+YOUR TASK
+---------
+Generate 30 high-quality Multiple Choice Questions (MCQs) for Chapter 2.5 of 
+the SIA Security Guard Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 7-8 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE EXAM
+--------
+Unit 2: Principles of Working as a Security Officer
+- 60 multiple choice questions in actual exam
+- 90 minutes duration
+- 70% pass mark (42 correct answers required)
+- This chapter (2.5) is one of 7 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Security officers may need to conduct searches of persons, bags, and vehicles 
+to prevent theft, detect prohibited items, and maintain security. However, 
+searches must be conducted legally and with respect for individuals' rights. 
+Understanding the legal basis for searches and proper procedures protects 
+both the security officer and the organisation from legal liability.
+
+================================================================================
+CHAPTER 2.5: SEARCH PROCEDURES - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 30
+- Easy (direct recall): 12 questions
+- Medium (application): 12 questions
+- Hard (scenario-based): 6 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.1: LEGAL BASIS FOR SEARCHES
+--------------------------------------------------------------------------------
+
+No General Power to Search:
+- Security officers have NO automatic right to search
+- Not police - no statutory search powers
+- Must have legal basis
+
+Legal Basis Options:
+
+1. CONSENT:
+- Person agrees to be searched
+- Must be freely given
+- Can be withdrawn at any time
+- Most common basis for security
+
+2. CONTRACTUAL CONDITION:
+- Condition of entry to premises
+- Condition of employment
+- Signage makes this clear
+- E.g., "Bags may be searched"
+
+3. CITIZEN'S ARREST:
+- After lawful arrest
+- Limited to search for evidence
+- Only for indictable offences
+- Incidental to arrest
+
+Search Without Consent:
+- Generally NOT permitted
+- Amounts to assault
+- Civil and criminal liability
+- Only exception: search incidental to arrest
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.2: TYPES OF SEARCHES
+--------------------------------------------------------------------------------
+
+Bag/Property Searches:
+- Most common type
+- With consent
+- Check bags, parcels, briefcases
+- Look for stolen goods or prohibited items
+- Less intrusive than personal search
+
+Personal Searches:
+- More intrusive
+- Requires clear consent
+- Same gender searcher where possible
+- Limited to pat-down or outer clothing
+- Private area if requested
+- Witness should be present
+
+Vehicle Searches:
+- Driver's consent required
+- Or contractual condition (staff car parks)
+- Check boot, interior, load area
+- Systematic approach
+- Witness recommended
+
+Premises Searches:
+- Looking for intruders
+- Checking for contraband
+- After incident/alarm
+- Following security breach
+- During patrol duties
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.3: CONSENT-BASED SEARCHES
+--------------------------------------------------------------------------------
+
+Obtaining Consent:
+- Explain purpose of search
+- Ask clearly for permission
+- Wait for response
+- Accept refusal
+- No coercion or pressure
+
+What Constitutes Consent:
+- Clear agreement
+- Voluntary (not forced)
+- Informed (person understands)
+- Can be verbal or written
+- Implied consent (entering despite signs)
+
+Withdrawal of Consent:
+- Person can withdraw consent at any time
+- Must stop search immediately
+- Cannot continue against their will
+- May have consequences (refusal of entry)
+
+Consequences of Refusal:
+- Can refuse entry to premises
+- Can require person to leave
+- Cannot force search
+- Document refusal
+- Report to supervisor
+
+Recording Consent:
+- Document that consent was given
+- Useful for any later dispute
+- Not always practical (busy situations)
+- Electronic systems can help
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.4: CONDUCTING SEARCHES PROFESSIONALLY
+--------------------------------------------------------------------------------
+
+Before the Search:
+- Identify yourself
+- Explain reason for search
+- Obtain consent
+- Offer private area (personal searches)
+- Offer same-gender searcher
+
+During the Search:
+- Be professional and respectful
+- Systematic approach
+- Don't touch person more than necessary
+- Explain what you're doing
+- Maintain dignity
+
+After the Search:
+- Thank the person (if nothing found)
+- Deal with findings appropriately
+- Document the search
+- Allow person to continue or address issues
+
+Privacy and Dignity:
+- Offer private area for personal search
+- Minimise embarrassment
+- Respect cultural/religious considerations
+- Same gender where possible
+- Professional language and manner
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.5: SAME-GENDER SEARCHING
+--------------------------------------------------------------------------------
+
+General Principle:
+- Personal searches by same gender
+- Protects both parties
+- Reduces allegations
+- Professional standard
+
+When Required:
+- All personal (pat-down) searches
+- Any search involving touching person
+- Where there's any doubt
+
+Exceptions:
+- Bag searches don't require same gender
+- Urgent safety situations (rare)
+- Person's preference (with agreement)
+
+If Same Gender Not Available:
+- Wait until available
+- Or don't conduct personal search
+- Limit to bag/property only
+- Document reason
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.6: SEARCHING VULNERABLE PERSONS
+--------------------------------------------------------------------------------
+
+Vulnerable Persons Include:
+- Children (under 18)
+- Elderly persons
+- Persons with disabilities
+- Persons with mental health conditions
+- Persons who are intoxicated
+- Persons who don't speak English
+
+Special Considerations:
+- Extra care and sensitivity
+- Appropriate adult if searching minor
+- Clear communication
+- Allow extra time
+- Consider not searching if not essential
+- Alternative methods if possible
+
+Children:
+- Under 18 requires extra consideration
+- Parental/guardian consent preferred
+- Appropriate adult present
+- Same gender essential
+- Consider necessity carefully
+
+Communication Difficulties:
+- Use simple language
+- Demonstrate if helpful
+- Write it down
+- Use interpreter if available
+- Extra patience
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.7: FINDING PROHIBITED ITEMS
+--------------------------------------------------------------------------------
+
+Types of Prohibited Items:
+- Weapons (knives, firearms, etc.)
+- Stolen goods
+- Drugs
+- Alcohol (if prohibited on site)
+- Contraband specific to venue
+
+Immediate Response:
+- Stay calm
+- Secure the item (if safe)
+- Do not return to person
+- Detain person if appropriate
+- Call for assistance
+
+Handling Found Items:
+- Minimum handling
+- Don't contaminate evidence
+- Place in bag/container
+- Label clearly
+- Secure storage
+
+Weapons:
+- Personal safety priority
+- Do not touch if dangerous
+- Call police immediately
+- Clear area if necessary
+- Do not give back
+
+Drugs:
+- Seize drugs (do not return)
+- Minimum handling
+- Secure as evidence
+- Contact police
+- Document thoroughly
+
+Stolen Goods:
+- Retain goods
+- Identify owner if possible
+- Report to police
+- Evidence for prosecution
+- Document chain of custody
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.8: DOCUMENTATION OF SEARCHES
+--------------------------------------------------------------------------------
+
+What to Record:
+- Date and time
+- Location
+- Reason for search
+- Person's details (if known)
+- Description of person
+- Consent given (how)
+- What was searched
+- What was found (or nothing found)
+- Actions taken
+- Witnesses
+- Searcher's details
+
+Importance of Records:
+- Evidence if disputed
+- Protection against allegations
+- Legal compliance
+- Investigation support
+- Training and improvement
+
+Search Registers:
+- Central log of all searches
+- May be required by policy
+- Random search tracking
+- Trend analysis
+
+Incident Reports:
+- Required if items found
+- If person detained
+- If any issues during search
+- If search refused and consequences
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.9: SEARCH EQUIPMENT AND TECHNOLOGY
+--------------------------------------------------------------------------------
+
+Metal Detectors:
+- Walk-through portals
+- Handheld wands
+- Detect metal objects
+- Quick screening method
+- May still need physical search
+
+X-Ray Machines:
+- Bag and parcel screening
+- See contents without opening
+- Common in high-security venues
+- Trained operator required
+
+Body Scanners:
+- Advanced imaging
+- Detect concealed items
+- Privacy considerations
+- Usually at airports/high security
+
+Search Aids:
+- Gloves (hygiene and evidence)
+- Mirrors (checking underneath)
+- Torches (visibility)
+- Evidence bags
+- Labels and markers
+
+--------------------------------------------------------------------------------
+TOPIC 2.5.10: RIGHTS AND COMPLAINTS
+--------------------------------------------------------------------------------
+
+Rights of Person Being Searched:
+- To refuse consent (with consequences)
+- To know reason for search
+- To same gender searcher (personal search)
+- To privacy where possible
+- To complain if dissatisfied
+- To be treated with dignity
+
+Handling Complaints:
+- Listen to complaint
+- Don't be defensive
+- Explain procedure followed
+- Report to supervisor
+- Document complaint
+- Follow company procedure
+
+Allegations of Misconduct:
+- Take seriously
+- Report immediately
+- Preserve any evidence
+- Cooperate with investigation
+- Written statement may be required
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 30
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 12 questions (40%)
+- Medium (application): 12 questions (40%)
+- Hard (scenario-based): 6 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 7-8 questions
+- Correct answer B: 7-8 questions
+- Correct answer C: 7-8 questions
+- Correct answer D: 7-8 questions
+
+TOPICS TO COVER:
+□ Legal basis for searches (4-5 questions)
+□ Types of searches (3-4 questions)
+□ Consent-based searches (4-5 questions)
+□ Conducting searches professionally (4-5 questions)
+□ Same-gender searching (3-4 questions)
+□ Vulnerable persons (3-4 questions)
+□ Finding prohibited items (4-5 questions)
+□ Documentation (2-3 questions)
+□ Rights and complaints (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic security officer scenarios
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.5: SEARCH PROCEDURES
+================================================================================
+
+Question 1 [Easy]
+What is the MOST common legal basis for a security officer to conduct 
+a search?
+
+A) Statutory power under PACE
+B) Common law duty
+C) Consent of the person being searched
+D) Reasonable suspicion
+
+Correct Answer: C
+
+Explanation: Consent is the most common legal basis for searches by security 
+officers. Unlike police, security officers have no statutory power to search. 
+Consent must be freely given and can be withdrawn at any time. Without 
+consent, a search may constitute assault.
+
+---
+
+[Continue for all 30 questions]
+
+================================================================================
+END OF CHAPTER 2.5 QUESTIONS
+================================================================================
+
+Total Questions: 30
+- Easy: 12
+- Medium: 12
+- Hard: 6
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+LEGAL BASIS:
+- Security officers have NO automatic right to search
+- CONSENT is primary basis
+- Or contractual condition of entry
+- Can search after lawful arrest
+
+CONSENT:
+- Must be freely given
+- Can be withdrawn at any time
+- No coercion or pressure
+- If refused, cannot search
+
+SAME-GENDER:
+- Required for personal searches
+- Protects both parties
+- Professional standard
+
+FINDING ITEMS:
+- Do not return weapons or drugs
+- Seize and secure
+- Minimum handling
+- Call police
+
+DOCUMENTATION:
+- Record all searches
+- Evidence if disputed
+- Protection against allegations
+
+COMMON DISTRACTORS:
+- Security officers have power to search anyone (wrong - need consent)
+- Can search without consent if suspicious (wrong - still need consent)
+- Must return property if person requests (wrong - not weapons/drugs)
+- Same-gender not needed for bag searches (correct - but needed for personal)
+
+================================================================================
+END OF PROMPT
+================================================================================

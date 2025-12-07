@@ -1,0 +1,404 @@
+================================================================================
+UNIT 7, CHAPTER 7.1: LEGAL AND ETHICAL FRAMEWORK FOR PHYSICAL INTERVENTION
+
+Question 1 [Easy]
+Which three principles must be satisfied for the use of force by a close protection operative to be lawful?
+
+A) Speed, surprise, and aggression
+B) Necessity, proportionality, and honest belief
+C) Authority, control, and domination
+D) Training, experience, and equipment
+
+Correct Answer: B
+
+Explanation: Lawful force in UK self-defence and prevention-of-crime situations is judged mainly on necessity (was force needed), proportionality (was it the minimum reasonable force for the threat), and honest belief (what you genuinely believed at the time, even if later shown to be mistaken).
+
+Question 2 [Easy]
+Which piece of legislation gives a statutory power for “a person to use such force as is reasonable in the circumstances in the prevention of crime or in effecting or assisting a lawful arrest”?
+
+A) Common law of self-defence
+B) Criminal Justice and Immigration Act 2008
+C) Criminal Law Act 1967, Section 3
+D) Police and Criminal Evidence Act 1984, Section 24A
+
+Correct Answer: C
+
+Explanation: Section 3 of the Criminal Law Act 1967 allows any person to use reasonable force to prevent crime or to effect/assist a lawful arrest. 
+Points2Prove
++1
+ Common law self‑defence still exists alongside it, but Section 3 is the key statutory power.
+
+Question 3 [Easy]
+In relation to use of force, what does “honest belief” mean?
+
+A) What you genuinely believed was happening at the time, even if later shown to be wrong
+B) What an independent witness thinks was happening
+C) What your team leader told you was happening
+D) What CCTV later proves actually happened
+
+Correct Answer: A
+
+Explanation: Honest belief is a subjective test: the law looks at what you genuinely believed at the time, based on the information and circumstances you perceived, not what was actually happening in hindsight. If that belief was honestly held, your actions are judged against those perceived circumstances, even if you were mistaken. 
+bsdgb.co.uk
+
+Question 4 [Easy]
+Which legislation specifically gives powers of arrest without warrant to “persons other than constables” (citizen’s arrest)?
+
+A) Criminal Justice and Immigration Act 2008, Section 76
+B) Criminal Law Act 1967, Section 3
+C) Human Rights Act 1998, Schedule 1
+D) Police and Criminal Evidence Act (PACE) 1984, Section 24A
+
+Correct Answer: D
+
+Explanation: The power of citizen’s arrest is set out in Section 24A of PACE 1984, which allows “a person other than a constable” to arrest, in limited circumstances, for indictable offences. 
+Legislation.gov.uk
++2
+Points2Prove
++2
+
+Question 5 [Easy]
+Under Section 47 of the Offences Against the Person Act 1861, what is the maximum sentence for Actual Bodily Harm (ABH)?
+
+A) 6 months’ imprisonment
+B) 2 years’ imprisonment
+C) 5 years’ imprisonment
+D) Life imprisonment
+
+Correct Answer: C
+
+Explanation: ABH (s.47 OAPA 1861) is an either‑way offence with a maximum sentence of 5 years’ imprisonment on indictment. 
+Sentencing Council
++1
+
+Question 6 [Easy]
+Which description best fits common assault?
+
+A) Any assault that causes serious long‑term injury
+B) Threatening someone or making unwanted physical contact without causing injury
+C) Any assault committed with a weapon
+D) Any assault that results in a broken bone
+
+Correct Answer: B
+
+Explanation: Common assault covers causing someone to fear immediate unlawful violence and/or minor unwanted touching that does not cause injury (injury will usually move it into ABH). It can be committed by words, gestures, or light contact such as a push or poke.
+
+Question 7 [Easy]
+Which European Convention on Human Rights article (incorporated into UK law by the Human Rights Act 1998) protects the right to life, making issues like positional asphyxia a key concern during restraint?
+
+A) Article 2
+B) Article 3
+C) Article 5
+D) Article 8
+
+Correct Answer: A
+
+Explanation: Article 2 protects the right to life, requiring the state and its agents (including licensed operatives working under regulation) to avoid unlawful killing and to act to protect life where possible. This makes safe restraint and monitoring for signs of medical distress a critical duty.
+
+Question 8 [Easy]
+Why should incident notes and reports about a physical intervention be made as soon as possible after the event?
+
+A) To ensure the police cannot change their version of events
+B) So the client can edit the report before it is submitted
+C) To avoid having to give a later statement in court
+D) Because contemporaneous notes made while memories are fresh are more accurate and reliable
+
+Correct Answer: D
+
+Explanation: One key principle of reporting is that it should be contemporaneous—done as soon as practicable while events are still fresh in your mind. This supports accuracy and credibility and can protect you legally if your actions are later scrutinised.
+
+Question 9 [Medium]
+In which situation does the use of physical force MOST clearly meet the principle of necessity?
+
+A) You grab a compliant guest’s arm tightly just to move them faster through a corridor
+B) You push a rude but non‑threatening customer backwards to “teach him some respect”
+C) You physically grab and move a man who is repeatedly punching your principal and does not stop when told
+D) You restrain a person who has already walked away and calmed down
+
+Correct Answer: C
+
+Explanation: Force is necessary when there is an immediate need to act and no realistic, safer alternative (such as walking away or continued verbal de‑escalation). Stopping a man actively punching your principal is a clear example. Using force to hurry someone, punish rudeness, or restrain someone who has already calmed down is not necessary.
+
+Question 10 [Medium]
+A drunk man raises a glass bottle and steps towards your colleague, shouting that he is going to “smash” him. Before he swings, you deliver a controlled strike to the man’s arm, causing him to drop the bottle. Which statement BEST explains why this pre‑emptive action can be lawful?
+
+A) Because security officers are always allowed to hit first if they feel disrespected
+B) Because you honestly and reasonably believed an immediate attack was about to happen, so pre‑emptive force was necessary and proportionate
+C) Because any force is lawful if the other person is drunk
+D) Because your employer’s policy allows “first‑strike” tactics
+
+Correct Answer: B
+
+Explanation: The law does not require you to wait to be hit. If you honestly believe an attack is imminent, you may act pre‑emptively, provided the force used is necessary and proportionate to the threat. Using a controlled strike to disarm a raised bottle can meet this test.
+
+Question 11 [Medium]
+A guest suddenly grabs your principal’s arm and pulls them towards a side exit. The guest is unarmed and roughly the same size as you. Which response is the MOST proportionate?
+
+A) Striking the guest repeatedly to the head with a baton
+B) Applying a choke hold until the guest stops moving
+C) Taking the guest to the floor and kneeling with full body weight on their neck
+D) Breaking the guest’s grip and using a simple escort hold to move them away, releasing as soon as they stop resisting
+
+Correct Answer: D
+
+Explanation: Proportionality means using the minimum level of force needed to deal with the threat. Here, breaking the grip and using a simple escort, then releasing when the guest complies, is proportionate. The other options use severe or potentially lethal force and would almost certainly be excessive.
+
+Question 12 [Medium]
+Under PACE 1984 Section 24A, a citizen’s arrest can only be made for indictable (or either‑way) offences. In which situation would a citizen’s arrest NOT be permitted under this requirement?
+
+A) A man is simply drunk and disorderly outside a bar but has not committed any indictable offence
+B) A suspect punches a victim, breaking their nose, then runs off
+C) A shoplifter is seen leaving a store with several high‑value items hidden in a bag
+D) A vandal is caught smashing a car windscreen with a brick
+
+Correct Answer: A
+
+Explanation: Section 24A allows arrest by “any person” only where an indictable offence has been committed or is being committed. 
+Legislation.gov.uk
++2
+Points2Prove
++2
+ Offences such as theft, ABH and significant criminal damage are indictable/either‑way. Simple “drunk and disorderly” is a summary-only offence and does not qualify for a citizen’s arrest on its own.
+
+Question 13 [Medium]
+Which of the following is a lawful reason under PACE 1984 Section 24A for deciding that a citizen’s arrest is necessary?
+
+A) To ensure the suspect can be questioned later without a solicitor
+B) To punish the suspect for being rude or abusive
+C) To prevent the suspect causing injury, damage to property or escaping before the police arrive
+D) To check whether the suspect is banned from the venue
+
+Correct Answer: C
+
+Explanation: One of the statutory necessity tests for a citizen’s arrest is to prevent physical injury, loss or damage to property, or the suspect’s escape, or to ascertain their name and address. 
+Legislation.gov.uk
++1
+ Arrest for punishment, convenience, or to avoid providing proper legal safeguards is unlawful.
+
+Question 14 [Medium]
+During a confrontation, an operative unjustifiably punches a man in the face with a heavy ring after only minor verbal abuse. The man’s jaw is broken in two places and he requires surgery. If the force is found to be unlawful, which offence is the operative MOST likely to be investigated for?
+
+A) Common assault
+B) Grievous Bodily Harm (GBH)
+C) Actual Bodily Harm (ABH)
+D) No offence, because he is a licensed security operative
+
+Correct Answer: B
+
+Explanation: Serious injuries such as broken bones typically fall into Grievous Bodily Harm (GBH) under sections 18 or 20 of the Offences Against the Person Act 1861, depending on intent. 
+Wikipedia
++2
+VHS Fletchers Solicitors
++2
+ ABH usually involves less serious injuries like cuts and bruises, while common assault involves no injury. Being licensed does not excuse unlawful force.
+
+Question 15 [Medium]
+You and a colleague are restraining a violently resisting subject on the ground. The subject suddenly says, “I can’t breathe,” and their face is turning red. What is your priority?
+
+A) Immediately adjust or reduce the restraint to protect their airway while maintaining safety
+B) Assume they are pretending and maintain the same restraint
+C) Tighten the hold to regain control more quickly
+D) Ignore the complaint and focus on completing paperwork
+
+Correct Answer: A
+
+Explanation: You have a duty of care to everyone, including aggressors. Articles 2 and 3 (right to life and prohibition of inhuman or degrading treatment) mean you must avoid creating medical emergencies such as positional asphyxia. The priority is to protect life: adjust or reduce the restraint, check breathing, and call medical help if needed.
+
+Question 16 [Medium]
+After a physical intervention, which type of report will BEST help demonstrate that your use of force was lawful?
+
+A) A report that only lists the injuries suffered by the subject
+B) A report that mainly gives your opinions about the subject’s attitude and character
+C) A report based only on what colleagues told you afterwards
+D) A factual, chronological account describing what you perceived, the threat, why force was necessary, what force you used, when it started and stopped, and the outcome
+
+Correct Answer: D
+
+Explanation: Good reporting should be factual, chronological, complete and contemporaneous. Recording what you perceived, the threat, your options, the force used and when it ceased helps show necessity, proportionality and honest belief if your actions are later challenged.
+
+Question 17 [Medium]
+If an operative uses clearly unlawful force and injures someone, which combination of consequences is MOST accurate?
+
+A) They may lose their licence but cannot be prosecuted if they were on duty
+B) They can be prosecuted but cannot be sued for damages
+C) They may face criminal charges, civil claims for compensation, and professional action such as loss of their SIA licence
+D) The only likely consequence is a warning from their employer
+
+Correct Answer: C
+
+Explanation: Unlawful force can lead to criminal prosecution (e.g. assault, ABH, GBH), civil claims for damages, and professional sanctions such as SIA licence suspension or revocation and loss of employment. These consequences can be long‑term and career‑ending.
+
+Question 18 [Hard]
+You are protecting a client in a shopping centre. A store detective runs past and shouts, “Stop him, he’s stealing!” pointing at a man running with a bag. You honestly believe a theft has just occurred and grab the man, holding him against a wall. Minutes later, CCTV shows he was innocent and had simply run to catch a bus. He complains of assault. Which statement BEST describes your legal position?
+
+A) Your actions may still be lawful if your honest belief that a theft had occurred was genuine and your use of force was necessary and proportionate to prevent what you believed was a crime
+B) Your actions are automatically unlawful because force is only lawful if a crime actually occurred
+C) Your actions are always lawful because security staff can use force whenever shop staff ask them to
+D) Your actions are automatically unlawful because citizen’s arrest is never allowed for suspected theft
+
+Correct Answer: A
+
+Explanation: Both self‑defence and prevention‑of‑crime powers are judged on the circumstances as you honestly believed them to be at the time. 
+Wikipedia
++1
+ If you genuinely and reasonably believed a theft (an indictable offence) was in progress and used only necessary, proportionate force to stop escape, your actions may still be lawful even though you were mistaken. Theft can support a citizen’s arrest, so option D is wrong. 
+Peoplesafe
++1
+
+Question 19 [Hard]
+During an incident, you and a colleague take a man to the ground after he punches your principal. Within seconds he stops resisting and lies still, hands visible. You decide to keep a painful wrist lock on for several minutes “to teach him a lesson”, even though he is no longer trying to escape or fight. Which statement is MOST accurate?
+
+A) The force remains lawful because he started the violence
+B) The force becomes unlawful because it is no longer necessary or proportionate once the threat and risk of escape have passed
+C) The force is lawful as long as you warn him first
+D) The force is lawful as long as you write a detailed report afterwards
+
+Correct Answer: B
+
+Explanation: Force must be necessary and proportionate at every moment. Once the subject has stopped resisting and no longer poses an immediate threat or escape risk, continuing to apply pain for punishment is excessive and likely unlawful. Lawful force is protective, not punitive.
+
+Question 20 [Hard]
+Several operatives restrain a man face‑down on the floor using techniques contrary to their training, placing body weight across his upper back and neck. The man stops breathing and later dies. They did not intend to kill or seriously harm him, but the restraint is found to have been dangerous and unnecessary. Which serious offence are they MOST likely to be investigated for?
+
+A) Common assault
+B) GBH with intent (Section 18 OAPA 1861)
+C) Manslaughter
+D) No offence, because there was no intention to kill
+
+Correct Answer: C
+
+Explanation: Where death results from an unlawful and dangerous act or from gross negligence, the likely charge is manslaughter. The fact they did not intend to kill does not prevent a manslaughter investigation; the dangerous and unnecessary restraint causing death is the key issue.
+
+Question 21 [Hard]
+After a difficult restraint, your manager says: “Don’t mention the kicks in your report — just say he fell. We don’t want trouble.” What should you do?
+
+A) Follow instructions; your employer is responsible for what is written
+B) Write a very brief, vague report so there is nothing to criticise
+C) Ask a colleague to write the report and sign it in your name
+D) Refuse to falsify the account and complete an accurate, honest, factual report of what you saw and did
+
+Correct Answer: D
+
+Explanation: You are personally accountable for your actions and your reporting. Falsifying or omitting key facts can itself be misconduct and may undermine your legal defence. Professional ethics, integrity and legal standards require a truthful, factual, complete report, even if it reveals mistakes or excessive force. “Following orders” is not a legal defence.
+
+================================================================================
+END OF CHAPTER 7.1 QUESTIONS
+
+Total Questions: 21
+
+Easy: 8
+
+Medium: 9
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 5 questions (Q3, Q7, Q12, Q15, Q18)
+
+Correct answer B: 5 questions (Q1, Q6, Q10, Q14, Q19)
+
+Correct answer C: 6 questions (Q2, Q5, Q9, Q13, Q17, Q20)
+
+Correct answer D: 5 questions (Q4, Q8, Q11, Q16, Q21)
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+
+MUST GET CORRECT:
+
+THREE KEY PRINCIPLES FOR LAWFUL FORCE:
+
+NECESSITY – force must be needed, no other option
+
+PROPORTIONALITY – force matches threat level
+
+HONEST BELIEF – based on genuine perception at time
+
+LEGAL SOURCES FOR USE OF FORCE:
+
+Common Law (self-defence)
+
+Criminal Law Act 1967 Section 3 
+Points2Prove
++1
+
+Criminal Justice and Immigration Act 2008
+
+CITIZEN'S ARREST REQUIREMENTS (S.24A PACE): 
+Legislation.gov.uk
++2
+Points2Prove
++2
+
+Indictable offence (not summary)
+
+Reasonable grounds to believe person guilty
+
+Impracticable for constable to arrest
+
+Necessary to prevent injury/damage/escape or to obtain name/address
+
+PRE-EMPTIVE ACTION:
+
+Legal if attack imminent
+
+Don’t have to wait to be hit
+
+Must still be proportionate
+
+Based on honest belief
+
+HONEST BELIEF:
+
+Subjective test (YOUR belief)
+
+Can be mistaken but still lawful
+
+Must be genuinely held
+
+Judged on what YOU believed, not reality 
+bsdgb.co.uk
+
+GBH (GRIEVOUS BODILY HARM):
+
+Section 20 (without intent) = up to 5 years
+
+Section 18 (with intent) = up to life imprisonment 
+Wikipedia
++1
+
+CONSEQUENCES OF UNLAWFUL FORCE:
+
+Criminal prosecution
+
+Civil liability (sued for damages)
+
+SIA licence revocation
+
+Loss of employment
+
+REPORT PRINCIPLES:
+
+Factual (no opinions)
+
+Chronological (in order)
+
+Complete (all details)
+
+Contemporaneous (as soon as possible)
+
+COMMON DISTRACTORS:
+
+Any offence allows citizen’s arrest (wrong – indictable only)
+
+Must wait to be hit before acting (wrong – pre‑emptive allowed)
+
+Proportionality means equal force (wrong – it means reasonable in the circumstances)
+
+Following orders is a defence (wrong – individual responsibility)
+
+Honest belief must be correct (wrong – can be mistaken)
+
+================================================================================
+END OF CHAPTER 7.1 MATERIAL

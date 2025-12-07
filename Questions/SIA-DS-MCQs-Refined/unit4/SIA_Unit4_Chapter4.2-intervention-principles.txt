@@ -1,0 +1,334 @@
+================================================================================
+UNIT 4, CHAPTER 4.2: PHYSICAL INTERVENTION PRINCIPLES
+================================================================================
+Meta: Total=25 | Easy=10 | Medium=10 | Hard=5 | A=5 | B=8 | C=6 | D=6
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: In the interview stance, how should you position your body in relation to a potentially aggressive person?
+
+A) At a 45-degree angle, one foot slightly behind the other
+B) Directly square-on, feet together
+C) Side-on at 90 degrees, both feet in line
+D) With your back turned to avoid eye contact
+
+Answer: A
+Explanation: The interview stance places you at about a 45-degree angle with one foot slightly behind the other, giving better balance, a smaller target area, and making your posture less confrontational while still ready to move.
+
+---
+Q2 | Difficulty: Medium
+---
+Question: You are speaking to a frustrated customer. They are becoming louder but not yet physically aggressive. Which of the following best describes an appropriate stance?
+
+A) Standing square-on, weight on front foot, arms folded
+B) Standing very close, leaning in with hands in pockets
+C) Standing at 45 degrees, arm's-length plus away, hands visible at chest height
+D) Standing several metres away, turned side-on and looking away
+
+Answer: C
+Explanation: A 45-degree angle with a reactionary gap (arm's length plus), hands visible at chest height, and balanced weight is a non-aggressive but ready stance that allows you to communicate and still react if needed.
+
+---
+Q3 | Difficulty: Medium
+---
+Question: A guest keeps stepping into your personal space while shouting. To maintain a safe reactionary gap, you should:
+
+A) Stay where you are so you don't appear scared
+B) Step closer to show confidence
+C) Gently, continuously adjust backwards while maintaining eye contact and a 45-degree angle
+D) Turn your back and walk off without looking
+
+Answer: C
+Explanation: Maintaining a reactionary gap means adjusting distance as the person moves, staying balanced and angled. Moving slightly back while staying engaged allows time to react or disengage if the threat increases.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Why is it generally safer not to position yourself directly in front of a potentially aggressive person?
+
+A) It makes you look less confident
+B) It makes them more likely to listen
+C) It makes it easier for them to grab your radio
+D) It reduces their ability to strike you easily and keeps you off their centre line
+
+Answer: D
+Explanation: Standing directly in front of someone puts you on their centre line and makes you an easy target. Being slightly off to the side reduces the chance of a direct attack and improves your tactical positioning.
+
+---
+Q5 | Difficulty: Medium
+---
+Question: Two angry customers are arguing near a staircase. To position yourself tactically, you should:
+
+A) Stand between them and the stairs, with your back to the steps
+B) Stand where you can see both of them, with a clear exit route and away from the edge of the stairs
+C) Stand directly behind the more aggressive one so they cannot see you
+D) Stand in the corner so they have to come to you
+
+Answer: B
+Explanation: Good tactical positioning avoids hazards (like stairs), keeps both people in view, and maintains an exit route so you aren't trapped or pushed into danger.
+
+---
+Q6 | Difficulty: Hard
+---
+Question: You are dealing with a group of three intoxicated males becoming aggressive in a crowded bar. Which positioning strategy is MOST tactically sound?
+
+A) Stand alone directly in front of the loudest person while the others move behind you
+B) Move so your back is against a wall, where you can see all three and the main exit, and call for support
+C) Step into the middle of the group to show control
+D) Turn sideways and focus only on the person shouting at you
+
+Answer: B
+Explanation: With multiple potential threats, you should avoid being surrounded, keep all in view, and protect your back (for example, using a wall) while maintaining awareness of exits and summoning backup early. While having a wall behind you prevents being surrounded, ensure you still have awareness of exit routes. The wall position is acceptable here because you're calling for support and the priority is preventing encirclement by multiple threats.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Which of the following is the BEST example of an effective verbal command during an intervention?
+
+A) "STOP!" said clearly and loudly, followed by simple instructions like "Step back."
+B) "Just pack it in, mate, you're doing my head in!"
+C) Repeating quietly, "Calm down, calm down," under your breath
+D) Shouting quickly and continuously so they can't talk
+
+Answer: A
+Explanation: Verbal commands should be short, clear, and loud enough to be heard, telling the person what to do (e.g. "Step back") rather than just venting frustration.
+
+---
+Q8 | Difficulty: Medium
+---
+Question: A man is refusing to leave the premises but is not yet physically violent. Which verbal approach is MOST appropriate before considering physical intervention?
+
+A) "Leave now or I'll throw you down the stairs."
+B) "You're an idiot, just go home."
+C) "Sir, you need to leave now. If you don't stop, I will have to restrain you and ask the police to attend."
+D) Silent stare to show you are serious
+
+Answer: C
+Explanation: You should clearly instruct what you want them to do and warn of consequences if they do not comply, demonstrating that force would be a last resort and giving them a chance to leave.
+
+---
+Q9 | Difficulty: Medium
+---
+Question: You and a colleague are escorting a resistant customer out using an approved escort hold. What should your communication with the person mainly focus on?
+
+A) Telling them they're being stupid and should be ashamed
+B) Giving technical descriptions of the hold you're using
+C) Reassuring them and explaining what is happening and what they can do to be released
+D) Staying completely silent so they don't know what you'll do next
+
+Answer: C
+Explanation: During restraint or escort, continuous communication should explain what is happening (e.g. "We're walking to the exit now") and offer a pathway to de-escalation ("If you calm down, we can let go"), which can reduce resistance.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: In a team physical intervention, what is the primary role of the observer/communicator?
+
+A) Applying the main restraint
+B) Controlling the legs at all times
+C) Standing back and doing nothing
+D) Monitoring the subject's condition and communicating with others (e.g. radio, crowd management)
+
+Answer: D
+Explanation: The observer/communicator monitors breathing and overall condition, communicates with staff or emergency services, manages the crowd, and helps document the incident.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: During a restraint, the primary controller is holding the subject's upper body. What is the MOST appropriate role for the secondary controller?
+
+A) Shouting instructions at the subject
+B) Controlling the subject's limbs and supporting the primary controller's instructions
+C) Moving away to deal with other customers
+D) Standing in front of the crowd filming for evidence
+
+Answer: B
+Explanation: The secondary controller supports the primary controller by helping control limbs, preventing escape, and following the lead of the primary controller's commands.
+
+---
+Q12 | Difficulty: Hard
+---
+Question: A fight breaks out near the entrance. Three members of your team respond. To use teamwork safely and effectively, which approach is BEST?
+
+A) All three rush in at once without speaking so they can react quickly
+B) One person clearly takes charge, assigns roles, and the third team member manages crowd and calls for backup
+C) Each person grabs whoever is nearest to them and moves them in different directions
+D) Everyone focuses only on the most aggressive person and ignores bystanders
+
+Answer: B
+Explanation: Effective teamwork requires clear leadership, defined roles (e.g. primary, secondary, observer), and coordination, including someone monitoring the wider situation and calling for further assistance if needed.
+
+---
+Q13 | Difficulty: Easy
+---
+Question: What does "non-pain compliance" mainly refer to in the context of physical intervention?
+
+A) Using as much pain as possible to gain quick control
+B) Controlling a person by deliberately causing joint pain
+C) Refusing to use any physical contact
+D) Controlling a person through balance, leverage, and positioning rather than deliberately causing pain
+
+Answer: D
+Explanation: Non-pain compliance means achieving control without deliberately inflicting pain, using methods like balance, leverage, and body positioning, and is generally more appropriate and defensible for security staff.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: A heavily intoxicated customer is unsteady but not aggressive. You need to move him outside. Which approach BEST fits a non-pain compliance strategy?
+
+A) Applying a painful wrist lock to make him move faster
+B) Guiding him with an open-hand escort, using your body position and balance to support and steer him
+C) Pushing him firmly in the back towards the exit
+D) Grabbing him by the neck of his shirt and dragging him out
+
+Answer: B
+Explanation: A non-pain compliance escort uses gentle guidance, support, balance, and positioning (e.g. open-hand escort) to move someone safely without intentionally causing pain.
+
+---
+Q15 | Difficulty: Easy
+---
+Question: Where is a person's centre of gravity generally located?
+
+A) Around their belly button area
+B) In their chest
+C) At their knees
+D) In their shoulders
+
+Answer: A
+Explanation: The centre of gravity is roughly around the belly button area. Controlling movement around this point helps you affect a person's balance.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: You are smaller than the aggressive customer you are escorting. To control them effectively without relying on strength, you should focus on:
+
+A) Trying to out-muscle them in a test of strength
+B) Using leverage at their joints and controlling their balance and direction of movement
+C) Standing as tall as possible to intimidate them
+D) Pulling on their clothing as hard as you can
+
+Answer: B
+Explanation: Using leverage (e.g. at wrist, elbow, shoulder) and controlling their balance and direction allows a smaller person to control a larger person more effectively than relying on raw strength.
+
+---
+Q17 | Difficulty: Easy
+---
+Question: Which list shows the stages of the force continuum in the correct order (lowest to highest)?
+
+A) Presence - Verbal - Soft control - Hard control - Defensive strikes
+B) Verbal - Presence - Hard control - Soft control - Defensive strikes
+C) Soft control - Presence - Verbal - Hard control - Defensive strikes
+D) Presence - Soft control - Verbal - Defensive strikes - Hard control
+
+Answer: A
+Explanation: The typical graduated response runs: Presence, Verbal, Soft control, Hard control, and then Defensive strikes, increasing in level of force.
+
+---
+Q18 | Difficulty: Easy
+---
+Question: Gently guiding someone towards the exit with an open hand on their upper arm is BEST described as which level on the force continuum?
+
+A) Presence
+B) Verbal
+C) Soft control
+D) Hard control
+
+Answer: C
+Explanation: Guiding and escorting with open hands and minimal force falls under soft control, where the aim is to direct movement with minimal physical pressure.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: A customer is shouting abuse and refusing to leave but has not attempted to strike anyone. You have given clear verbal warnings. What is the MOST appropriate next level of force?
+
+A) Immediate defensive strikes to the head
+B) Move straight to a full take-down on the floor
+C) Escalate from verbal to soft control, using an escort hold if necessary
+D) Ignore the behaviour and hope it stops
+
+Answer: C
+Explanation: After presence and verbal measures have failed, it may be appropriate to move to soft control, such as an escort hold, provided it is proportionate and necessary based on the threat.
+
+---
+Q20 | Difficulty: Hard
+---
+Question: A customer suddenly swings a bottle at another guest. There is no time for extended verbal negotiation. According to the force continuum principles, your response should:
+
+A) Always start at presence and slowly work up, regardless of the threat
+B) Immediately leave the area because the risk is too high
+C) Use maximum force possible because they used a weapon
+D) Move directly to a higher level of force (e.g. hard control or defensive moves to prevent serious harm), using the minimum force necessary
+
+Answer: D
+Explanation: The force continuum is not strictly linear. You may need to enter at a higher level when there is an immediate serious threat, but the response must still be proportionate and the minimum force necessary to protect people.
+
+---
+Q21 | Difficulty: Hard
+---
+Question: During a violent incident, you notice you are focusing only on the person in front of you and not hearing your colleague's shouts. Later you recall very little of what was said. This MOST likely shows:
+
+A) You didn't care enough about the incident
+B) Normal stress effects such as tunnel vision and auditory exclusion
+C) Evidence that you are unfit to work in security
+D) That you deliberately ignored your colleague
+
+Answer: B
+Explanation: Under high stress, people can experience tunnel vision and auditory exclusion, making them focus narrowly and miss sounds or wider cues. Recognising this helps you train and plan to counter these effects.
+
+---
+Q22 | Difficulty: Hard
+---
+Question: You are trained to use the OODA loop (Observe, Orient, Decide, Act). During an incident, you rush to restrain someone without properly assessing that there is a safer option. Which part of the OODA loop did you MOSTLY fail to use effectively?
+
+A) Observe
+B) Orient
+C) Decide
+D) Act
+
+Answer: B
+Explanation: The ORIENT phase is where you process and analyse what you have observed to identify available options and their implications. Failing to recognise that a safer option existed indicates a failure to properly ORIENT - you did not analyse the situation fully before deciding to act. While observation gathers information, orientation is where you make sense of it and identify tactical choices.
+
+---
+Q23 | Difficulty: Easy
+---
+Question: Which of the following is the BEST example of an appropriate reason to disengage from a physical intervention?
+
+A) The person has calmed down and the immediate threat is over
+B) The person has insulted you personally
+C) You are angry and want a break
+D) You haven't used all the techniques you know yet
+
+Answer: A
+Explanation: You should disengage when the objective is achieved or the threat is neutralised. Continuing to use force beyond that point is unnecessary and harder to justify.
+
+---
+Q24 | Difficulty: Easy
+---
+Question: Which of the following is an example of a suitable post-intervention action after a physical restraint?
+
+A) Leaving without telling anyone what happened
+B) Only discussing it informally with friends
+C) Posting a detailed description on social media
+D) Completing documentation, preserving evidence if needed, and carrying out welfare checks
+
+Answer: D
+Explanation: After an intervention, it is important to record the incident accurately, preserve any relevant evidence, and ensure welfare checks and debriefs are carried out as part of professional practice.
+
+---
+Q25 | Difficulty: Medium
+---
+Question: A customer is loudly arguing with bar staff about a refund but is standing still with arms by their sides. When should you consider moving from verbal management to a physical intervention?
+
+A) As soon as they raise their voice
+B) When other customers start watching
+C) Immediately, to show you are in charge
+D) Only when they attempt or clearly threaten physical harm and lesser options are failing
+
+Answer: D
+Explanation: Timing is critical. Acting too early can be unnecessary and unjustified, while acting too late increases risk. Physical intervention should only be used when there is a clear threat and other options (like verbal de-escalation) are not working, and your response is proportionate to the threat.
+
+================================================================================
+END OF CHAPTER 4.2
+================================================================================

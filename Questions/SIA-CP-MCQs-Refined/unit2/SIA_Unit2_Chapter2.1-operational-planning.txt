@@ -1,0 +1,325 @@
+================================================================================
+UNIT 2, CHAPTER 2.1: OPERATIONAL PLANNING
+
+Question 1 [Easy]
+What is the FIRST step in the planning cycle for a close protection operation?
+
+A) Analyse the information
+B) Receive the task
+C) Develop the plan
+D) Brief the team
+
+Correct Answer: B
+
+Explanation: The planning cycle begins when the team receives the task from the client. This includes understanding the principal’s requirements, dates, locations, resources and budget. Only after the task is received can the team move on to information gathering, analysis and plan development.
+
+Question 2 [Easy]
+In the planning cycle, at which stage is a detailed risk assessment normally carried out?
+
+A) Analyse
+B) Gather information
+C) Develop plan
+D) Review
+
+Correct Answer: A
+
+Explanation: A detailed risk assessment is part of the Analyse stage. Once information has been gathered about the principal, venues, routes and threats, it is analysed to assess risk, identify resource requirements, build a timeline and compare options.
+
+Question 3 [Medium]
+A team leader has been tasked to protect a principal attending a conference in another city. He starts by collecting the principal’s profile, venue floor plans, route options and local intelligence from police and venue security. Which stage of the planning cycle is he mainly carrying out?
+
+A) Review
+B) Develop plan
+C) Gather information
+D) Execute
+
+Correct Answer: C
+
+Explanation: The team leader is collecting information about the principal, venue, routes and local environment, which is the Gather information stage. No decisions are being made yet; he is building the information base needed for later analysis and planning.
+
+Question 4 [Hard]
+After a one-week protection task, the team leader brings the team together to compare what was planned with what actually happened, identify what worked well, discuss problems and record improvements for future operations. Which stage of the planning cycle does this activity belong to?
+
+A) Execute
+B) Gather information
+C) Produce orders
+D) Review
+
+Correct Answer: D
+
+Explanation: This is the Review stage of the planning cycle. It involves debriefing, capturing lessons learned, documenting findings and identifying improvements to plans, SOPs and training for future operations.
+
+Question 5 [Easy]
+Which of the following shows the FIVE PARAGRAPHS of a standard operational order in the correct sequence?
+
+A) Situation, Mission, Execution, Service Support, Command and Signals
+B) Mission, Situation, Execution, Service Support, Command and Signals
+C) Situation, Execution, Mission, Service Support, Command and Signals
+D) Mission, Execution, Service Support, Command and Signals, Debrief
+
+Correct Answer: A
+
+Explanation: The standard five-paragraph operational order format is: Situation, Mission, Execution, Service Support, Command and Signals. This gives a clear, logical structure for communicating the plan to the team.
+
+Question 6 [Medium]
+When writing the Mission paragraph of an operational order for a CP task, what should it primarily contain?
+
+A) Detailed timings and coordinating instructions
+B) Background to the principal’s visit and threat history
+C) A clear statement of who will do what, when, where and why
+D) Dress code and vehicle allocation for the task
+
+Correct Answer: C
+
+Explanation: The Mission paragraph gives a clear, concise statement of what is to be achieved. It should answer “who, what, when, where and why” so that every operative understands the purpose and objective of the operation.
+
+Question 7 [Medium]
+In which paragraph of an operational order would you MOST likely include details of vehicles, dress code, medical support, and meals/accommodation?
+
+A) Mission
+B) Execution
+C) Command and Signals
+D) Service Support
+
+Correct Answer: D
+
+Explanation: The Service Support paragraph covers logistics and administration, including equipment, dress, transport, medical arrangements, and meals/accommodation for the team and principal.
+
+Question 8 [Hard]
+Following an incident where a member of the public was injured during an emergency evacuation, the team leader is asked in court how the team were instructed to act on the day. He produces the written operational order that was issued before the task. Which MAIN purpose of an operational order is being demonstrated here?
+
+A) To speed up routine drills without the need for briefings
+B) To provide an accountable legal record of the plan and instructions
+C) To allow each operative to design their own plan during the task
+D) To replace the need for any debriefing after the operation
+
+Correct Answer: B
+
+Explanation: One purpose of an operational order is to provide a documented record of the plan and instructions. This supports accountability and can be important evidence if the operation is reviewed or scrutinised later.
+
+Question 9 [Easy]
+What is the PRIMARY purpose of Standard Operating Procedures (SOPs) in a close protection team?
+
+A) To provide pre-agreed ways of carrying out routine tasks so the team acts consistently
+B) To set out emergency actions for terrorist attacks and ambushes
+C) To replace the need for any operational orders
+D) To provide company HR policies for all staff
+
+Correct Answer: A
+
+Explanation: SOPs are pre-agreed procedures for routine situations, such as movement drills, comms checks and administrative tasks. They ensure consistency, speed of response and reduced need for detailed instructions in the op order.
+
+Question 10 [Medium]
+While reading a CP operational order, you see the instruction: “Arrivals and departures will be carried out IAW SOP.” What does “IAW SOP” mean in this context?
+
+A) In addition, write a separate operations plan
+B) If all else fails, stop the operation
+C) In accordance with Standard Operating Procedures
+D) Immediately actioned without supervision
+
+Correct Answer: C
+
+Explanation: “IAW SOP” means “In accordance with Standard Operating Procedures”. It tells the team to follow the pre-agreed, trained routine rather than requiring the order to describe every step in detail.
+
+Question 11 [Hard]
+A CP company is revising its contact drills because past operations with other agencies have shown confusion over signals and movements. The team leader is tasked with developing new SOPs. Which approach BEST reflects good practice when developing SOPs?
+
+A) Make them as complex as possible so every scenario is covered
+B) Keep them secret from the team until a real incident occurs
+C) Base them only on previous mistakes and ignore proven best practice
+D) Develop them from best practice, test them, refine them, document them and train them regularly
+
+Correct Answer: D
+
+Explanation: Effective SOPs are built from best practice, with input from the team. They must be tested and refined, formally documented and practised regularly so that responses become automatic and consistent.
+
+Question 12 [Easy]
+Which statement BEST describes an Emergency Operating Procedure (EOP) in close protection?
+
+A) A routine procedure for normal movements between venues
+B) A pre-planned set of immediate actions for life-threatening situations, triggered by specific events
+C) An informal set of notes written after a debrief
+D) Another name for an operational order
+
+Correct Answer: B
+
+Explanation: EOPs are pre-planned emergency responses. They are activated by a specific trigger (e.g. shots fired, fire alarm, vehicle ambush) and lay out immediate actions, roles and communications to protect life and maintain control.
+
+Question 13 [Medium]
+At a hotel, an operator hears over the radio: “Code Black, Code Black,” which has been briefed as the signal for an armed attack on the principal. The team immediately implements the attack drill. In terms of EOP components, what is “Code Black” in this example?
+
+A) The immediate action
+B) The recovery phase
+C) The trigger that activates the EOP
+D) The designated rally point
+
+Correct Answer: C
+
+Explanation: In an EOP, the trigger is what activates the procedure. “Code Black” in this case is the agreed signal that tells the team to move from normal SOPs into the emergency attack EOP.
+
+Question 14 [Medium]
+During a road move, the principal’s vehicle is struck from behind at low speed in traffic and is no longer driveable. There is no immediate sign of an attack. Which type of EOP is MOST relevant at this point?
+
+A) Vehicle EOP for accidents and vehicle failure
+B) Fire/Evacuation EOP
+C) Medical EOP for bystanders
+D) Communication EOP for radio failure
+
+Correct Answer: A
+
+Explanation: The immediate problem is a vehicle incident and loss of mobility, so the Vehicle EOP (covering accidents, ambush and vehicle failure) should be applied, including moving the principal to a replacement vehicle and clearing the area if necessary.
+
+Question 15 [Easy]
+In a CP context, what does contingency planning mainly involve?
+
+A) Writing the final version of the primary plan
+B) Planning in advance for “what if” situations and alternatives if the main plan fails
+C) Making sure the team’s clothing matches the client’s brand
+D) Conducting a debrief at the end of the task
+
+Correct Answer: B
+
+Explanation: Contingency planning is about planning for “what if” scenarios—identifying alternative routes, venues, resources and actions so that the team can respond quickly if the original plan is disrupted or fails.
+
+Question 16 [Medium]
+A team is due to move the principal from a hotel to a conference centre. The primary route passes major roadworks and a busy junction. The team leader sends a recce vehicle to identify and mark two alternative routes, which are then included in the op order. What type of contingency is this?
+
+A) Venue contingency
+B) Threat contingency
+C) Personnel contingency
+D) Route contingency
+
+Correct Answer: D
+
+Explanation: Planning alternative ways of getting from A to B in case the main route is blocked or unsafe is a route contingency. It reduces reaction time if there is traffic, an accident, or a deliberate blockage.
+
+Question 17 [Hard]
+On an overseas assignment, the team leader identifies two suitable hospitals near the principal’s hotel, confirms that one has an English-speaking doctor, and records contact numbers and directions in the op order. The principal’s medical history and medication list are also prepared. What type of contingency is this?
+
+A) Personnel contingency
+B) Route contingency
+C) Medical contingency
+D) Threat contingency
+
+Correct Answer: C
+
+Explanation: This is a medical contingency. It ensures that, if there is a medical emergency involving the principal, team or others, the team already knows where to go and who to contact, reducing delay in treatment.
+
+Question 18 [Easy]
+What is the MAIN purpose of the initial briefing before a close protection operation?
+
+A) To communicate the full plan so all team members understand the situation, mission and their tasks
+B) To replace the need for a written operational order
+C) To allow team members to socialise with the client before the task
+D) To conduct the final debrief for the operation
+
+Correct Answer: A
+
+Explanation: The initial briefing presents the complete operation overview, usually following the op order structure. It ensures that all team members understand the situation, mission, execution plan, support arrangements and communications.
+
+Question 19 [Easy]
+Which of the following is normally included in the closing of a CP briefing?
+
+A) A detailed threat assessment and venue description
+B) A summary of key points and an opportunity for questions
+C) The full explanation of situation, mission and execution
+D) The distribution of maps and diagrams only
+
+Correct Answer: B
+
+Explanation: The closing of a briefing should summarise key points, confirm understanding, allow questions, check timing and, where necessary, synchronise watches so that the team starts the task aligned.
+
+Question 20 [Medium]
+Immediately before leaving the safe house, the team leader gathers the team for a short talk to confirm timings, routes, “actions on”, and any last-minute changes. He checks equipment and invites any final questions. What type of briefing is this?
+
+A) Initial briefing
+B) Update briefing
+C) Specialist briefing
+D) Confirmatory briefing
+
+Correct Answer: D
+
+Explanation: A confirmatory briefing takes place just before execution. It focuses on confirming key points, highlighting any changes, checking readiness and equipment, and ensuring everyone is clear on their roles.
+
+Question 21 [Easy]
+Which statement about debriefings in close protection is MOST accurate?
+
+A) They are only required if something goes badly wrong
+B) They should mainly be used to identify who is to blame
+C) They should review what was planned, what happened, why, and what lessons can be learned
+D) They replace the need for written records after operations
+
+Correct Answer: C
+
+Explanation: A structured debrief looks at what was planned, what happened, why it happened that way, lessons learned and actions required. The focus is on improvement, not blame, and it should be done after every operation.
+
+Question 22 [Medium]
+After a long day protecting a VIP at a public event, the team returns to the base and the leader runs a 10‑minute discussion while events are still fresh. They capture key points and issues, with a more detailed review planned next week. What type of debrief is this?
+
+A) Formal debrief
+B) Hot debrief
+C) Cold debrief
+D) Legal debrief
+
+Correct Answer: B
+
+Explanation: A hot debrief is a quick, immediate debrief held straight after the operation or incident. A cold debrief is more detailed and usually held later, when there has been time to reflect and gather information.
+
+Question 23 [Easy]
+Within a CP team, why is clear internal coordination so important?
+
+A) So every operative understands their role, communication channels and handover procedures
+B) So the police do not need to be involved in planning
+C) So the team’s clothing always matches
+D) So the client never sees any members of the security team
+
+Correct Answer: A
+
+Explanation: Internal coordination ensures that team members understand their roles, responsibilities, communication channels, handover procedures and shift patterns, which is essential for a safe and efficient operation.
+
+Question 24 [Medium]
+For a high-profile awards ceremony in a large hotel, one senior CPO is appointed as liaison officer. On the morning of the event, she meets venue security, event organisers and the local police representative to agree access routes, parking, radio channels and emergency procedures. What is her PRIMARY function in this role?
+
+A) Conducting the full threat assessment alone
+B) Carrying out all physical searches of the venue
+C) Providing medical cover for the principal
+D) Acting as a single point of contact to coordinate information and arrangements with external agencies
+
+Correct Answer: D
+
+Explanation: The liaison officer’s role is to act as a single point of contact, managing coordination and information sharing between the CP team and external parties such as police, venue security and event organisers.
+
+Question 25 [Hard]
+During a multi-day conference, the CP team initially uses an informal messaging group to share updates with venue security and client staff. Sensitive details begin to appear in the chat, and there is confusion about who has seen important messages. The team leader decides to move to secure radio channels and formal written updates sent only to key contacts, with receipt confirmed. Which principle of coordination and liaison is he MOST clearly applying?
+
+A) Always using the fastest communication method, even if insecure
+B) Sharing all information with every partner to build maximum trust
+C) Sharing information on a need-to-know basis via secure channels with confirmed receipt
+D) Avoiding written records so that nothing can later be disclosed
+
+Correct Answer: C
+
+Explanation: Effective liaison involves sharing information on a need‑to‑know basis, using secure channels and ensuring that critical messages are received and understood. This protects the principal and the operation while still enabling coordination.
+
+================================================================================
+END OF CHAPTER 2.1 QUESTIONS
+
+Total Questions: 25
+
+Easy: 10
+
+Medium: 10
+
+Hard: 5
+
+Answer Distribution:
+
+Correct answer A: 6 questions
+
+Correct answer B: 6 questions
+
+Correct answer C: 7 questions
+
+Correct answer D: 6 questions
+
+================================================================================

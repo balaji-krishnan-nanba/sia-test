@@ -1,0 +1,228 @@
+================================================================================
+UNIT 3, CHAPTER 3.2: RISK ASSESSMENT IN CONFLICT
+Question 1 [Easy]
+What is dynamic risk assessment in close protection?
+A) An annual review of the organisation’s security policies
+B) A continuous, real-time assessment of risk during a changing situation
+C) A report written after an incident has finished
+D) A written document completed before an operation
+Correct Answer: B
+Explanation:
+Dynamic risk assessment is the ongoing, in-the-moment evaluation of what is happening right now. It recognises that situations change quickly and helps the CPO adjust their response to keep the principal, themselves and others safe throughout a conflict.
+
+Question 2 [Easy]
+What is the BEST description of a static risk assessment?
+A) A rapid visual scan of the route as you move the principal
+B) A verbal briefing given to the team during an incident
+C) A quick judgement made while a conflict is unfolding
+D) A pre-planned, written assessment of general risks completed before an event
+Correct Answer: D
+Explanation:
+Static risk assessment is carried out before the operation. It is usually written, looks at general risks, and provides background information and planning assumptions. Dynamic assessment then builds on this when the situation is actually happening.
+
+Question 3 [Medium]
+During a confrontation outside a venue, a CPO begins a dynamic risk assessment. According to the five-step process (Assess–Consider–Decide–Act–Review), what should they do first?
+A) Review how similar incidents were handled in the past
+B) Decide on the best course of action and commit to it
+C) Immediately move the principal to a pre-selected safe room
+D) Assess what is happening and identify the threats and options
+Correct Answer: D
+Explanation:
+The first stage is Assess – to work out what is happening, who is involved, where the threats are and what options exist. Only after assessing can the CPO consider impact factors, decide, act and then review.
+
+Question 4 [Medium]
+A man is standing about 20 metres away from your principal outside a hotel. He is shouting abuse, appears angry, but stays where he is, with no weapon visible and no attempt to close the distance. How should you MOST appropriately categorise the current threat level?
+A) High threat – immediate action required now
+B) Low threat – verbal only, monitor and manage
+C) No threat – situation can be ignored
+D) Medium threat – physical intervention required now
+Correct Answer: B
+Explanation:
+The behaviour is verbal and hostile but at distance, with no weapon seen and no movement towards the principal. This matches a low threat: verbal only, distance maintained, low commitment. It still needs monitoring and management because threat levels can change.
+
+Question 5 [Easy]
+Which situation BEST fits the description of a high threat?
+A) A guest calmly asking why their bag was searched
+B) A person in the crowd is muttering complaints but keeps walking away
+C) A man runs towards the principal, holding a knife and shouting that he will kill them
+D) A single unarmed person is arguing loudly with staff at the reception desk
+Correct Answer: C
+Explanation:
+A high threat involves immediate danger, such as an armed or determined attacker moving towards the principal. Weapons, intent and proximity combine here to create a situation where action is required now.
+
+Question 6 [Medium]
+When evaluating the capability of a potential aggressor, which factor is the CPO primarily considering?
+A) How close the nearest exit is to the principal
+B) Their ability and means to cause harm (size, fitness, weapons, numbers)
+C) Whether the threat is directed at staff rather than the principal
+D) Whether the person appears intoxicated or embarrassed
+Correct Answer: B
+Explanation:
+Capability is about whether the person can realistically cause harm: their physical ability, whether they have weapons, whether they are alone or in a group, and their determination. Exit routes and intent are important, but they are separate assessment elements.
+
+Question 7 [Easy]
+Which option shows the correct order of the response continuum from least to most force?
+A) Presence → Verbal → Positioning → Withdrawal → Physical control → Defensive tactics
+B) Verbal → Presence → Withdrawal → Defensive tactics
+C) Physical control → Verbal → Withdrawal → Positioning
+D) Defensive tactics → Physical control → Withdrawal → Verbal
+Correct Answer: A
+Explanation:
+The continuum moves from low-level, non-force options to higher levels:
+Presence → Verbal → Positioning → Withdrawal → Physical control → Defensive tactics.
+The CPO should use the least force necessary, escalating or de-escalating as required.
+
+Question 8 [Medium]
+You are escorting the principal from a stadium when a lone, unarmed man steps in front of you, shouting insults. There is a clear side exit that leads to a secure vehicle only a few metres away. What is the MOST appropriate tactical option at this stage?
+A) Immediately grasp the man and force him against the wall
+B) Ignore the situation and continue walking straight towards him
+C) Use verbal commands while moving the principal quickly through the side exit
+D) Stand still and argue with him until he calms down
+Correct Answer: C
+Explanation:
+Withdrawal with the principal is often the preferred option when it is safe and available. Using calm but firm verbal communication while moving the principal through a clear escape route avoids unnecessary conflict and keeps the priority – the principal – safe.
+
+Question 9 [Medium]
+Which statement about moving through tactical options is MOST accurate?
+A) Once physical control is used, the CPO should not reduce back down to verbal options
+B) The CPO may move up or down the continuum and even skip levels if justified, as long as the response is proportionate
+C) The CPO must always start at verbal communication and move through every level in strict order
+D) Withdrawal is only allowed after all other options have failed
+Correct Answer: B
+Explanation:
+Situations can change rapidly. The CPO should match the response to the threat, escalating or de-escalating as necessary. It is acceptable to skip levels – for example, going straight to withdrawal or to defensive tactics – if the threat level justifies it, provided the response is proportionate.
+
+Question 10 [Easy]
+In any conflict situation, what is the primary priority for a close protection operative?
+A) Ensuring the aggressor is arrested and prosecuted
+B) Protecting the venue’s property and reputation
+C) Protecting the principal’s safety above all else
+D) Avoiding any personal criticism from the client
+Correct Answer: C
+Explanation:
+The principal’s safety is always the main priority. Every assessment, decision and action must be made with the principal’s protection in mind, even though the CPO must also manage their own safety and the safety of others.
+
+Question 11 [Medium]
+You are at the entrance of a hotel with the principal behind you. A guest becomes verbally aggressive towards you at close range. The lobby behind the principal is clear, with security staff inside. What is the MOST appropriate immediate action?
+A) Leave the principal where they are and move closer to the aggressor to control them physically
+B) Move the principal into the lobby, behind the security staff, while maintaining awareness of the aggressor
+C) Step towards the aggressor to show authority and dominance
+D) Stand your ground and argue until the guest calms down
+Correct Answer: B
+Explanation:
+Protecting and, where possible, evacuating the principal comes first. Moving the principal into a safer area, using the building and staff as a barrier, reduces their exposure while still allowing you to monitor and manage the aggressor.
+
+Question 12 [Hard]
+At a charity gala, your three-person team is escorting the principal through a crowded foyer. An angry guest suddenly grabs one team member, and a second CPO moves in to assist with the restraint. The principal is now standing a few metres away, surrounded by onlookers with mobile phones out and movement in the crowd. You are the only team member not yet involved in the restraint. What should you do FIRST?
+A) Move immediately to the principal, position yourself between them and the crowd, and begin evacuating them along the pre-planned route
+B) Join the struggle to help restrain the aggressive guest as quickly as possible
+C) Remain where you are and radio for more staff before doing anything
+D) Start challenging people who are filming to stop recording
+Correct Answer: A
+Explanation:
+Two CPOs are already dealing with the aggressor. The greatest indirect risk is that the principal is now exposed and the team’s attention is focused elsewhere. One member must stay focused on the principal, create distance from the conflict and move them towards safety.
+
+Question 13 [Easy]
+Using the OODA loop, which step involves making sense of what you have noticed in the context of the environment, threats and options?
+A) Observe
+B) Orient
+C) Decide
+D) Act
+Correct Answer: B
+Explanation:
+Observe is gathering information. Orient is the stage where the CPO interprets that information in context – linking it to training, experience and the environment to understand what it means – before deciding and acting.
+
+Question 14 [Medium]
+Which of the following BEST describes an acceptable decision made under pressure?
+A) A decision that turns out well, regardless of how it was made
+B) A decision that uses the highest level of force to make sure the threat is stopped
+C) A decision that matches what senior management say they would have done afterwards
+D) A decision based on an honest and reasonable belief formed from the facts known at the time
+Correct Answer: D
+Explanation:
+Decision quality is judged on what the CPO knew and reasonably believed at the time, not on hindsight. An acceptable decision is one that is honest, reasonable and based on the dynamic assessment, even if later information shows there might have been a better option.
+
+Question 15 [Easy]
+Which of the following is MOST clearly an impact weapon?
+A) A metal baton or baseball bat
+B) A shard of broken glass used to slash
+C) A screwdriver used to stab
+D) A folding knife
+Correct Answer: A
+Explanation:
+Impact weapons are used to strike with force – such as bats, bottles or similar heavy objects. Edged weapons (like knives or broken glass) and pointed objects used to stab are assessed differently, though all can be dangerous.
+
+Question 16 [Medium]
+During a public walkabout, a man suddenly produces a knife about three metres from the principal. There is a clear route to a nearby vehicle and parked cars that can provide cover. What should be the CPO’s primary response?
+A) Attempt to grab the knife hand and wrestle the attacker to the ground
+B) Stand still and shout at the attacker to drop the knife while the principal remains in place
+C) Use the cars as cover while rapidly moving the principal away from the attacker towards the vehicle
+D) Continue the walkabout to avoid alarming the crowd
+Correct Answer: C
+Explanation:
+With an edged weapon, distance and cover are critical. The priority is to move the principal away from the threat, using available cover and barriers, and evacuate if possible. Physical engagement with a knife is an absolute last resort when there is no other option.
+
+Question 17 [Easy]
+What is the key difference between cover and concealment?
+A) Cover hides you, but concealment stops bullets and strikes
+B) Concealment is always safer than cover
+C) Cover provides physical protection from attacks, while concealment only hides you from view
+D) Cover and concealment mean exactly the same thing
+Correct Answer: C
+Explanation:
+Cover can physically stop or reduce the effect of attacks (for example, a solid wall or engine block). Concealment simply hides you from view (like curtains or bushes) and may not stop bullets or blows.
+
+Question 18 [Hard]
+You are leaving a concert venue with the principal when a hostile crowd forms near the main entrance, pushing and shouting. You have three possible routes:
+Route 1: Straight through the main entrance towards the waiting car on the street, but the crowd is dense and agitated.
+Route 2: A side fire exit with a clear corridor leading directly to a secure car park where the principal’s vehicle and support team are waiting.
+Route 3: A rear service corridor that is poorly lit, cluttered with crates and has limited visibility.
+What is the BEST route to choose for evacuation?
+A) Route 2 – the side fire exit to the secure car park with a clear path and known safe destination
+B) Stay inside the foyer and wait for the crowd to calm down
+C) Route 1 – it is the shortest distance, even though the crowd is pushing
+D) Route 3 – the service corridor, despite the clutter and poor lighting
+Correct Answer: A
+Explanation:
+Dynamic environmental assessment looks at exits, hazards, crowd dynamics and safe destinations. Route 2 provides a clear, controlled path to a secure area where the vehicle and support are ready. Pushing through a hostile crowd or using a cluttered, poorly lit corridor increases risk.
+
+Question 19 [Easy]
+In the context of use of force, what does proportionality mean?
+A) Using only the level of force that reasonably matches the seriousness and immediacy of the threat
+B) Using whatever level of force guarantees you win the confrontation
+C) Matching your force to your level of stress at the time
+D) Using more force than the aggressor to show control
+Correct Answer: A
+Explanation:
+Proportionality means the response must match the threat. The force used should be reasonable in the circumstances as the CPO honestly believed them to be, not excessive or used as punishment or retaliation.
+
+Question 20 [Hard]
+Which situation is MOST likely to be judged a disproportionate use of force?
+A) A CPO restrains an unarmed but aggressive person in a control hold until police arrive
+B) After disarming an attacker who has dropped the knife and is lying on the ground, a CPO continues to punch them repeatedly while shouting abuse
+C) A CPO uses a single defensive strike to stop an attacker swinging a bottle at the principal’s head
+D) A CPO pushes an approaching aggressor away to create space and then withdraws with the principal
+Correct Answer: B
+Explanation:
+Once the immediate threat is over (weapon dropped, subject on the ground and no longer presenting an immediate danger), continuing to deliver strikes becomes retaliation, not defence. This is excessive and very likely to be judged disproportionate and unlawful.
+
+Question 21 [Medium]
+Your three-person team is escorting the principal when a single aggressive individual approaches from the front. What is the MOST appropriate coordinated team response?
+A) All three CPOs immediately rush the aggressor to restrain them together
+B) One CPO engages and manages the threat while the others focus on protecting and, if necessary, evacuating the principal
+C) All three CPOs stand shoulder to shoulder facing the aggressor, leaving the principal behind them
+D) One CPO protects the principal while the others leave to find management staff
+Correct Answer: B
+Explanation:
+Team coordination means clear roles: typically, one CPO manages the threat, while others maintain 360-degree awareness, protect the principal and prepare/execute evacuation. If everyone focuses on the aggressor, the principal may be left exposed to secondary threats.
+
+Question 22 [Hard]
+You are working solo with the principal at a restaurant exit late at night. Two angry men approach, one picks up a bottle from a nearby table. Backup is available by radio but several minutes away. There is a clear route to a waiting vehicle a short distance down a well-lit side street. What is the BEST overall strategy?
+A) Immediately move the principal towards the vehicle using the clear route while calling for support, using verbal commands to discourage pursuit
+B) Instruct the principal to wait inside while you go back to confront the men alone
+C) Stay where you are and negotiate until backup arrives, keeping the principal beside you
+D) Move towards the men and attempt to disarm the one with the bottle before they get closer
+Correct Answer: A
+Explanation:
+Working solo, the CPO carries all responsibilities. Guidance is to prioritise withdrawal with the principal and call for support, avoiding engagement where possible. Moving the principal quickly along a clear, safe route while using verbal commands and seeking assistance is the safest and most professional option.
+

@@ -1,0 +1,267 @@
+================================================================================
+UNIT 4, CHAPTER 4.5: MEDICAL CONSIDERATIONS AND POST-INCIDENT
+================================================================================
+Meta: Total=20 | Easy=8 | Medium=8 | Hard=4 | A=5 | B=5 | C=5 | D=5
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: What is positional asphyxia?
+
+A) A minor shortness of breath after exercise
+B) A panic attack caused by crowds
+C) A training technique for controlling breathing during restraint
+D) Inability to breathe effectively because body position restricts the chest or abdomen
+
+Answer: D
+Explanation: Positional asphyxia is when a person cannot breathe properly because their body position restricts movement of the chest or abdomen, often during restraint, and can quickly become fatal.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which situation creates the highest risk of positional asphyxia?
+
+A) A person seated upright on a chair with no pressure on their torso
+B) A person lying on their back on the floor with no one touching them
+C) A person held face-down on the floor with their hands behind their back and staff weight on their back
+D) A calm, standing escort with the person's arms by their sides
+
+Answer: C
+Explanation: The face-down (prone) position with hands behind the back and weight on the torso is especially dangerous because it can severely restrict chest movement and cause fatal breathing problems.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which factor increases the risk of positional asphyxia during restraint?
+
+A) Being physically fit
+B) Obesity with a large abdomen
+C) Short hair
+D) Wearing loose clothing
+
+Answer: B
+Explanation: Obesity, especially abdominal obesity, increases risk because extra weight around the abdomen can further restrict the diaphragm and lungs when someone is held in a compromising position. Pregnancy and pre-existing heart or lung conditions also raise the risk.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which of the following is an early warning sign of positional asphyxia that must be taken seriously?
+
+A) The person complaining that the floor is cold
+B) The person shouting about the music
+C) The person saying, "I can't breathe"
+D) The person calmly asking for a drink
+
+Answer: C
+Explanation: Any report of difficulty breathing, such as "I can't breathe", is a red-flag warning. It must always be taken seriously and should trigger an immediate review of the restraint and the person's position.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: What is excited delirium (often described as acute behavioural disturbance)?
+
+A) A planned use of sedative drugs in a hospital
+B) A severe state of extreme agitation and disturbed behaviour, often linked to stimulant drugs or mental health crisis
+C) A mild state of nervousness before a busy shift
+D) A normal reaction to loud music in a nightclub
+
+Answer: B
+Explanation: Excited delirium/acute behavioural disturbance is a medical emergency where a person shows extreme agitation, bizarre or aggressive behaviour and physical signs like sweating and rapid breathing, often associated with stimulant drugs or serious mental illness.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: During an incident, which set of symptoms is most suggestive of a possible heart attack and requires calling 999?
+
+A) Chest pain, pain down the arm and shortness of breath
+B) Itchy skin and runny nose
+C) Grazed knee and slight embarrassment
+D) Sore ankle after dancing and mild thirst
+
+Answer: A
+Explanation: Heart attacks commonly present with chest pain or pressure that may spread to the arm, jaw or back, often with shortness of breath, sweating or nausea. These symptoms should be treated as an emergency and 999 called immediately.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: In the context of door supervision, when is it appropriate to call 999 for an ambulance?
+
+A) Whenever someone has serious difficulty breathing, chest pain, is unconscious, shows signs of excited delirium, or you are seriously concerned about their condition
+B) Only if the person asks you to
+C) Only if your manager tells you to
+D) Only if police request an ambulance
+
+Answer: A
+Explanation: Any serious medical concern - such as breathing problems, chest pain, unconsciousness, suspected overdose or signs of acute behavioural disturbance/excited delirium - should be treated as an emergency and 999 called without delay.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: After a physical intervention incident involving restraint and minor injuries, when should you complete your written report or statement?
+
+A) A week later, when you have more time
+B) After discussing the incident in detail with all colleagues so your stories match
+C) As soon as possible, while your memory is fresh and before discussing details with colleagues
+D) Only if the police ask for it
+
+Answer: C
+Explanation: Reports should be completed as soon as practicable, while events are fresh in your mind. They should be factual, chronological and based on your own observations, not influenced by group discussion, and they support both safety learning and legal protection.
+
+---
+Q9 | Difficulty: Medium
+---
+Question: You and a colleague have restrained a large, intoxicated male face-down on the floor with his hands behind his back. He suddenly says, "I can't breathe," and his breathing looks laboured. What should you do first?
+
+A) Increase pressure on his back to stop him struggling
+B) Tell him to stop exaggerating and keep the hold as it is
+C) Reduce pressure and immediately change his position to one that allows him to breathe, such as on his side or sitting up, while checking his airway
+D) Wait to see if he goes quiet before taking any action
+
+Answer: C
+Explanation: A complaint of breathing difficulty in a prone restraint is a medical red flag. You must relieve pressure and reposition the person immediately to protect their airway, then continue to monitor and call 999 if there is any concern.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: Which situation during a restraint is most concerning as a potential sign of positional asphyxia and requires urgent action?
+
+A) The person is angry but standing upright and breathing normally
+B) The person is shouting and swearing but answering questions clearly
+C) The person is complaining about the music being too loud
+D) The person who was struggling goes suddenly quiet, becomes limp and their lips turn blue-grey
+
+Answer: D
+Explanation: A sudden change from struggling to limp or unresponsive, especially with blue or grey lips, suggests a critical breathing problem and possible loss of consciousness. Restraint should be stopped or modified urgently, the airway opened and emergency services called.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: In a nightclub, a man is extremely agitated, sweating heavily, removing his clothes, shouting incoherently and showing "superhuman" resistance to pain and restraint. What is the most appropriate action for the door team?
+
+A) Treat it as a police-only matter and wait for officers without calling an ambulance
+B) Assume he is just drunk and eject him into the street
+C) Treat it as a medical emergency: arrange for an ambulance immediately and tell them you suspect excited delirium/acute behavioural disturbance
+D) Apply prolonged face-down restraint until he stops struggling
+
+Answer: C
+Explanation: This behaviour strongly suggests excited delirium/acute behavioural disturbance, which carries a high risk of sudden collapse and death. It must be treated as a medical emergency with early ambulance involvement, not just a behavioural or police issue.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: During a restraint, you are appointed as the safety observer. What is your primary responsibility?
+
+A) Timing how long the restraint lasts for the incident report
+B) Watching the crowd so they do not interfere
+C) Holding the person's legs while others control the arms
+D) Monitoring the person's breathing, colour, level of consciousness and communication, and warning the team immediately if you see any danger signs
+
+Answer: D
+Explanation: Good practice is to have someone continuously observing the restrained person's breathing, responsiveness, skin/lip colour and ability to talk, so early warning signs of medical distress are spotted and acted on quickly.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: Which of the following is the best example of wording to include in an incident report to help demonstrate lawful and proportionate use of force?
+
+A) "I grabbed him and dragged him outside. End of story."
+B) "At about 23:45 I took hold of Mr Smith's right arm in an approved escort hold to prevent him punching another customer. I continued to give clear verbal instructions and released the hold once he stopped trying to strike out."
+C) "He was definitely on drugs and deserved to be restrained."
+D) "He was being an idiot so we threw him out."
+
+Answer: B
+Explanation: Option C gives a factual, chronological account, explains why force was used (to prevent harm), notes that approved techniques and communication were used, and shows that force was reduced as soon as it was no longer needed - supporting both safety and legal scrutiny.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: Which situation most strongly suggests that a door supervisor may need additional psychological support after a serious incident?
+
+A) Feeling a bit shaky for half an hour immediately after the incident but then settling
+B) Being annoyed that paperwork took a long time
+C) Feeling tired at the end of a busy shift
+D) Replaying the incident, difficulty sleeping and increased irritability for several weeks, affecting work and home life
+
+Answer: D
+Explanation: Persistent symptoms such as intrusive thoughts, sleep problems and changes in mood or behaviour that continue for weeks and affect daily life are signs that additional support - such as debriefing, speaking with a manager or counselling - may be needed.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: After a struggle, a person ends up on the floor. You check and find they are unconscious but breathing normally. What is the most appropriate immediate action?
+
+A) Sit them upright in a chair and hope they wake up
+B) Leave them on their back and go to complete paperwork
+C) Put them into the recovery position, call 999 and continue to monitor their breathing
+D) Start chest compressions immediately
+
+Answer: C
+Explanation: An unconscious but breathing casualty should be placed in the recovery position with their airway kept clear, and an ambulance should be called. CPR is for when someone is not breathing normally or has no signs of life.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: A man inside the venue is confused, unsteady on his feet and becoming irritable. Staff think he is drunk, but you notice no smell of alcohol and he tells you he has diabetes and "feels funny". What is the best initial response?
+
+A) Assume he is lying and eject him immediately
+B) Ignore him unless he starts fighting
+C) Treat it as a possible diabetic emergency: move him to a safe area, offer a sugary drink if he can swallow safely, and arrange medical help if there is no quick improvement or his condition worsens
+D) Restrain him face-down until he stops moving
+
+Answer: C
+Explanation: Low blood sugar can cause confusion, aggression and unsteadiness and may be mistaken for drunkenness. If the person is conscious and able to swallow, giving sugar and monitoring closely while arranging appropriate medical help is the safest option; never simply eject a potentially unwell person.
+
+---
+Q17 | Difficulty: Hard
+---
+Question: Outside a busy venue, three staff are restraining a very large, heavily intoxicated man face-down near the kerb. One staff member is kneeling across his lower back. He was shouting a moment ago but now goes quiet, becomes limp and his lips look blue-grey. You are at his head and cannot feel normal breathing. What is the most appropriate set of actions?
+
+A) Keep the restraint exactly as it is and wait for the police so you don't lose control
+B) Stand him up quickly and drag him away from the entrance
+C) Increase pressure on his back to make sure he cannot move
+D) Immediately order staff to remove all weight from his torso, roll him onto his side or back to open the airway, start CPR if he is not breathing normally, and direct a colleague to call 999 at once
+
+Answer: D
+Explanation: Sudden limpness, blue/grey lips and absent or abnormal breathing during prone restraint strongly suggest a life-threatening emergency from positional asphyxia or cardiac arrest. You must relieve pressure, open the airway, begin CPR if needed and get emergency medical help immediately, even if that means releasing the restraint.
+
+---
+Q18 | Difficulty: Hard
+---
+Question: During a fight in the club, a man shows signs of acute behavioural disturbance: extreme agitation, shouting, paranoia, very high temperature, drenched in sweat and apparently "superhuman" strength. You and colleagues have him seated but bent forward and held tightly. Some staff say, "He's just on coke, we'll hold him like this until the police turn up - no need for an ambulance." As team leader, what should you do?
+
+A) Let him go completely and hope he leaves the building
+B) Ask bar staff to throw cold water over him instead of calling 999
+C) Treat it as a medical emergency: minimise restraint, avoid positions that restrict breathing, ask a colleague to call 999 immediately stating suspected acute behavioural disturbance/excited delirium, and continue close monitoring until paramedics arrive
+D) Keep the restraint exactly as it is and only call an ambulance if he collapses
+
+Answer: C
+Explanation: Acute behavioural disturbance/excited delirium carries a significant risk of sudden cardiovascular collapse and death, especially when combined with struggle and restraint. Guidance stresses that it must be treated as a medical emergency with restraint kept to an absolute minimum and rapid ambulance involvement.
+
+---
+Q19 | Difficulty: Hard
+---
+Question: The day after a restraint incident, you are told that a customer has complained of excessive force. There is CCTV and several colleagues were involved. Your manager suggests everyone meet first "to get your story straight" before statements are written. What is the most professional response?
+
+A) Attend the meeting and agree a shared version so nobody gets into trouble
+B) Adjust your account slightly to match what the manager wants; you can correct it later if necessary
+C) Wait several days to write your statement so you can discuss it with colleagues first
+D) Write your own factual, chronological account as soon as possible based on what you saw, heard and did, without agreeing details with colleagues, and seek legal/union advice if needed
+
+Answer: D
+Explanation: Each person should provide an honest, individual account written as soon as possible, not a rehearsed group version. Accurate, factual documentation that explains why force was necessary and how the person was monitored provides important legal protection and supports fair investigation.
+
+---
+Q20 | Difficulty: Hard
+---
+Question: Several weeks after a serious incident where a restrained person was taken to hospital, you are still having nightmares, difficulty sleeping and keep replaying the event. There was a short hot debrief immediately afterwards, and you have now been offered a more detailed cold debrief and access to counselling. What is the best course of action?
+
+A) Attend the cold debrief to reflect on what happened and identify learning, and accept further support such as counselling or an employee assistance programme if your symptoms are affecting daily life
+B) Immediately resign from security work without speaking to anyone
+C) Decline the debrief and counselling and try to ignore the feelings until they go away
+D) Avoid talking about the incident and rely on alcohol to help you sleep
+
+Answer: A
+Explanation: Cold debriefs held later allow more detailed reflection and learning once emotions have settled, while ongoing symptoms after a traumatic incident are a reason to seek further support such as counselling or structured critical-incident stress management. This helps protect both wellbeing and performance at work.
+
+

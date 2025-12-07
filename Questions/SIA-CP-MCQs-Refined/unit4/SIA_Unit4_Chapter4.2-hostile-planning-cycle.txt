@@ -1,0 +1,360 @@
+================================================================================
+UNIT 4, CHAPTER 4.2: ATTACK METHODOLOGIES
+Question 1 [Easy] – Hostile Planning Cycle
+
+What is the FIRST stage of the hostile planning (attack) cycle?
+
+A) Deployment
+B) Surveillance/reconnaissance
+C) Planning
+D) Target selection
+
+Correct Answer: D
+
+Explanation:
+The hostile planning cycle begins with target selection, where terrorists decide who or what to attack by researching potential targets and identifying vulnerabilities. Surveillance, planning and deployment all follow after a target has been chosen.
+
+Question 2 [Easy] – Hostile Planning Cycle
+
+At which stage of the hostile planning cycle does a Close Protection Operative (CPO) have the greatest opportunity to detect hostile activity using counter‑surveillance?
+
+A) Attack
+B) Target selection
+C) Escape
+D) Surveillance/reconnaissance
+
+Correct Answer: D
+
+Explanation:
+CPOs are most effective at the surveillance/reconnaissance stage. This is when hostile individuals are observing the target, taking notes, filming, and testing security. These behaviours are visible and can be spotted and reported, allowing the attack to be disrupted before later stages.
+
+Question 3 [Medium] – Hostile Planning Cycle (Application)
+
+During an advance recce, you learn that a hostile group has:
+
+Hired a van
+
+Bought tools and disguises
+
+Allocated roles (driver, lookout, attacker)
+
+Drawn up timings and escape routes
+
+Which stage of the hostile planning cycle does this BEST represent?
+
+A) Surveillance/reconnaissance
+B) Target selection
+C) Deployment
+D) Planning
+
+Correct Answer: D
+
+Explanation:
+This scenario describes planning – acquiring resources, assigning roles, finalising a method, and setting timelines and escape routes. Surveillance/reconnaissance usually comes earlier, and deployment happens later when attackers move into position.
+
+Question 4 [Hard] – Hostile Planning Cycle (Scenario)
+
+A protective detail at a hotel observes the following over several days:
+
+Day 1–2: Unknown male repeatedly sits in café opposite entrance, taking notes.
+
+Day 3: Same male returns with another person; they take photos of CCTV cameras and exits.
+
+Day 4: A car with two occupants arrives, parking close to the entrance; engine left running, one occupant appears to adjust something under their jacket, but no attack has started yet.
+
+At the point when the car with occupants is in position but no assault has begun, which stage of the attack cycle has MOST LIKELY been reached?
+
+A) Deployment
+B) Target selection
+C) Planning
+D) Surveillance/reconnaissance
+
+Correct Answer: A
+
+Explanation:
+The car in position with occupants apparently ready but not yet attacking shows the deployment stage – final positioning and preparation, close to the point of no return. Surveillance and planning have already occurred. The actual violence would be the attack stage.
+
+Question 5 [Easy] – IED Types
+
+In relation to terrorism, what does PBIED stand for?
+
+A) Pressure‑Bottle Improvised Explosive Device
+B) Package‑Based Improvised Explosive Device
+C) Public‑Building Improvised Explosive Device
+D) Person‑Borne Improvised Explosive Device
+
+Correct Answer: D
+
+Explanation:
+A PBIED is a Person‑Borne Improvised Explosive Device, typically associated with a suicide bomber wearing an explosive vest or belt. It is delivered by the individual themselves and can be difficult to detect because it moves with the attacker.
+
+Question 6 [Medium] – IED / HOT Protocol (Application)
+
+During a venue sweep, you notice a rucksack pushed deep under a stairwell along the VIP route. No one nearby claims it, and it appears to have been deliberately placed out of sight. Using the HOT protocol, which factor is the MOST concerning?
+
+A) The bag is a bright colour and looks untidy
+B) The item appears to have been hidden from view
+C) The bag looks heavy and expensive
+D) You are already late for the principal’s arrival
+
+Correct Answer: B
+
+Explanation:
+The HOT protocol asks: Has it been HIDDEN? Is it OBVIOUSLY suspicious? Is it TYPICAL for this location? A bag pushed out of sight under a stairwell suggests it has been hidden, which is a key warning sign. The weight or colour are less significant than deliberate concealment.
+
+Question 7 [Medium] – IED Response (Application)
+
+You suspect a parked car 20 metres from the venue entrance may contain an IED. There are people nearby and your principal is about to leave the building. What is the MOST appropriate immediate action?
+
+A) Take photographs of the vehicle to send to colleagues before acting
+B) Instruct the principal to board the vehicle quickly and leave the area
+C) Move closer to inspect the vehicle for wires or devices
+D) Move the principal and others away from the area, prevent approach, and report urgently to police and control from a safe distance
+
+Correct Answer: D
+
+Explanation:
+If an IED is suspected, you must not touch or approach it. The priority is to move people away, clear the area, avoid potential trigger devices (including radios close to it), and report immediately to police and your control from a safe distance. Inspecting or delaying action increases risk.
+
+Question 8 [Hard] – IED Types (Scenario)
+
+After a dinner engagement, the driver carries out a vehicle check and finds a small device taped behind the rear wheel arch under the principal’s car. It appears deliberately attached and not part of the vehicle. Based on IED categories, what type of device does this BEST describe?
+
+A) UCIED – Under‑Vehicle Improvised Explosive Device
+B) PBIED – Person‑Borne Improvised Explosive Device
+C) Package/Object IED
+D) VBIED – Vehicle‑Borne Improvised Explosive Device
+
+Correct Answer: A
+
+Explanation:
+A device attached underneath a vehicle is an Under‑Vehicle Improvised Explosive Device (UCIED). VBIEDs are constructed inside the vehicle itself, PBIEDs are carried on a person, and a generic package/object IED would not specifically be fixed under a vehicle.
+
+Question 9 [Easy] – Vehicle Attacks (Response)
+
+During a vehicle attack where a car is being driven deliberately into a crowd, in which direction should a CPO move the principal where possible?
+
+A) Directly away in a straight line in front of the vehicle
+B) Perpendicular (at right angles) to the vehicle’s line of travel
+C) Alongside the vehicle in the same direction
+D) Towards the vehicle to try and stop it
+
+Correct Answer: B
+
+Explanation:
+When a vehicle is used as a weapon, the safest movement is usually perpendicular to its path. This takes the principal out of the danger zone fastest. Running directly ahead risks being run down; moving towards or alongside the vehicle is extremely dangerous.
+
+Question 10 [Medium] – Vehicle Attacks (Application)
+
+On a venue assessment, you note a wide, busy pedestrian plaza directly accessible from a main road with no bollards or barriers. From a terrorism perspective, what is the MOST significant vehicle‑related threat in this area?
+
+A) A UCIED attached to the principal’s car
+B) A PBIED carried by a cyclist
+C) A Vehicle as a Weapon (ramming attack) against crowds
+D) A letter bomb delivered to the venue office
+
+Correct Answer: C
+
+Explanation:
+An open pedestrian area with no physical protection from the roadway is highly vulnerable to a Vehicle as a Weapon (VAW) ram attack, where a vehicle mounts the pavement and drives through crowds. Other threats exist but the geography here particularly favours ramming.
+
+Question 11 [Medium] – Vehicle Attacks (Scenario)
+
+As you approach a hotel with your principal, you notice a van has driven past the entrance three times, slowing each time and pausing briefly at the kerb. There are no markings or delivery notes visible, and the driver appears to be studying the entrance. What is the MOST appropriate response?
+
+A) Continue the approach and get the principal inside as quickly as possible
+B) Ignore it – busy city traffic is normal
+C) Delay the principal’s arrival, move to a safe holding position, and report the suspicious vehicle and behaviour to security/police
+D) Approach the van alone and confront the driver at the window
+
+Correct Answer: C
+
+Explanation:
+Repeated circling and observation by a vehicle near an entrance may indicate hostile reconnaissance or preparation for a vehicle attack. The safest option is to delay the principal’s exposure, move them to safety, and report the behaviour. Directly confronting the driver alone is risky and unnecessary.
+
+Question 12 [Easy] – Edged Weapon Attacks
+
+What is the primary safety principle for a CPO when faced with a suspected knife attack?
+
+A) Close the distance to control the attacker’s weapon arm
+B) Use colleagues as a shield while remaining in place
+C) Create and maintain as much distance as possible between the attacker and the principal
+D) Immediately attempt to disarm the attacker using hand‑to‑hand skills
+
+Correct Answer: C
+
+Explanation:
+With edged weapons, distance is safety. The priority is to move the principal away and create separation, using barriers and obstacles where possible. Physical intervention is a last resort if escape is not possible.
+
+Question 13 [Medium] – Edged Weapon (Scenario)
+
+You are escorting your principal from a vehicle to a venue entrance on a warm day. You see a male about 10 metres away wearing a long heavy coat, moving quickly with focused attention on the principal, one hand concealed inside the coat. What is the MOST appropriate immediate action?
+
+A) Wait and observe to confirm whether he actually has a weapon
+B) Leave the principal and walk towards the male to challenge him alone
+C) Move the principal back into the vehicle or behind solid cover while increasing distance from the individual and alerting the team
+D) Shout at the male to remove his hand from his coat while continuing towards the entrance
+
+Correct Answer: C
+
+Explanation:
+The behaviour and clothing are suspicious for a potential edged or concealed weapon attack. The CPO should prioritise distance and cover for the principal, moving them away and alerting the team. Confrontation without securing the principal first increases risk.
+
+Question 14 [Easy] – Firearms / Run‑Hide‑Tell
+
+During a shopping‑centre visit with your principal, you suddenly hear what sounds like gunfire and see people running and screaming from one end of the mall. Under Run‑Hide‑Tell, what should you try to do first, if it is safe?
+
+A) Run away from the danger with your principal if a safe route exists
+B) Move towards the sound of gunfire to assess the situation
+C) Hide immediately in the nearest shop
+D) Call 999 straight away while standing in the open
+
+Correct Answer: A
+
+Explanation:
+Run‑Hide‑Tell advises: RUN if you can, HIDE if you can’t, and TELL when it is safe. If a safe escape route exists, your first priority is to move the principal away from the gunfire. Calling 999 is vital, but only once you are in a safer position.
+
+Question 15 [Easy] – Firearms / Cover vs Concealment
+
+Which of the following BEST describes cover in a firearms attack?
+
+A) Any object you can hide behind so you are not seen
+B) A thin partition or curtain that blocks the attacker’s view
+C) A solid object likely to stop or significantly slow bullets, such as a concrete wall or vehicle engine block
+D) A bush or decorative screen inside a building
+
+Correct Answer: C
+
+Explanation:
+Cover gives physical protection by stopping or slowing bullets – examples include concrete walls, substantial brickwork or a vehicle engine block. Concealment only hides you from view and does not reliably stop rounds.
+
+Question 16 [Medium] – Firearms (Application)
+
+Your principal is in a meeting on the 5th floor of an office block when you hear gunfire and screaming from the ground‑floor lobby. What is the MOST appropriate immediate action as the team leader?
+
+A) Move downstairs to the lobby to assist other people while leaving the principal with a colleague
+B) Move the principal away from the sound of gunfire, using internal routes and solid cover towards a pre‑planned safe exit or secure room, and prepare to run or hide as appropriate
+C) Keep the principal in the meeting room with the door open and continue as normal
+D) Stay with the principal but stand in the doorway to watch what is happening
+
+Correct Answer: B
+
+Explanation:
+The CPO’s priority is always the principal’s safety, not engagement. You should move away from the threat, using cover and pre‑planned routes towards either escape (Run) or a secure hiding place (Hide), depending on conditions. Going towards the gunfire is contrary to Run‑Hide‑Tell and increases risk.
+
+Question 17 [Hard] – Firearms / Run‑Hide‑Tell (Scenario)
+
+At a large conference centre, gunfire erupts in the main foyer. You and the principal are in a service corridor behind the auditorium. You hear confused shouting on the radio and reports of “multiple shooters” but have no clear picture. Which option BEST follows Run‑Hide‑Tell principles and your CP responsibilities?
+
+A) Take the principal to an interior toilet with thin partition walls because it is nearby and easy to access
+B) Move the principal quickly along the service corridor using cover towards a pre‑identified emergency exit leading away from the foyer, then, once safe, contact 999 and control with clear information
+C) Split the team so half escort the principal and half go to assist casualties in the foyer
+D) Leave the principal in a storeroom while you move towards the foyer to see what is happening
+
+Correct Answer: B
+
+Explanation:
+Option A prioritises getting the principal away from danger (Run) using cover and known routes, then Telling the authorities once safer. Moving towards the gunfire, splitting the team, or choosing poor cover (thin partitions) all expose the principal and team to unnecessary risk.
+
+Question 18 [Easy] – CBR (Chemical)
+
+If you suspect a chemical agent has been released outside a venue (visible vapour, strong unusual smell, people suddenly collapsing), what is the MOST appropriate immediate action?
+
+A) Move towards the affected area to help casualties
+B) Move yourself and the principal away from the area, preferably upwind and to higher ground if possible
+C) Remove contaminated clothing from casualties with bare hands
+D) Remain in place and wait for confirmation before acting
+
+Correct Answer: B
+
+Explanation:
+In a suspected chemical release, you should move away from the source, ideally upwind and, if possible, to higher ground to reduce exposure. Avoid contact with casualties or substances and prevent becoming a casualty yourself. Emergency services should be called once you are safer.
+
+Question 19 [Medium] – CBR (Biological / Suspicious Mail)
+
+In the principal’s office, a staff member opens a letter addressed to the principal and a fine white powder spills out onto the desk. No one is yet showing symptoms. What is the MOST appropriate immediate response as the CPO?
+
+A) Quickly drive the principal home and deal with the incident later
+B) Ask everyone to ignore it until you can speak to the principal
+C) Shake the powder off the desk into a bin and continue with normal duties
+D) Move the principal and others away from the immediate area, prevent anyone else entering, avoid disturbing the powder, and call 999 to report a suspected CBR incident
+
+Correct Answer: D
+
+Explanation:
+Suspicious powders may indicate a biological or toxic agent. The priority is to move people away, prevent further exposure, avoid spreading the material, and contact emergency services immediately. Disturbing the powder or delaying the report increases risk.
+
+Question 20 [Easy] – Attack Indicators / Surveillance
+
+Which of the following is the clearest example of hostile surveillance against your principal’s venue?
+
+A) Office staff leaving at the end of their shift
+B) A person repeatedly filming entrances, exits and security staff over several days from different positions
+C) A delivery driver briefly asking for directions
+D) Tourists taking occasional selfies near a landmark
+
+Correct Answer: B
+
+Explanation:
+Repeated, focused observation of access points and security measures over time is a strong indicator of hostile surveillance. Normal daily activity and casual tourist photos are usually less structured and not specifically focused on security features.
+
+Question 21 [Medium] – Combined / Cyber‑Enabled Attacks
+
+On the day of a high‑profile event, the venue’s CCTV and access‑control systems suddenly fail, staff report mobile and radio interference, and a false bomb threat is posted online drawing police resources to a side entrance. Shortly afterwards, a real vehicle attack occurs at a different entrance. How is this BEST described?
+
+A) A hoax incident with no real threat
+B) A spontaneous act of public disorder
+C) A simple single‑issue protest
+D) A combined or complex attack using cyber and physical elements
+
+Correct Answer: D
+
+Explanation:
+Using multiple methods (cyber disruption, false online threats, and a physical vehicle attack) in a coordinated way is characteristic of a combined/complex attack. Such attacks are designed to confuse and stretch responders and increase the overall impact.
+
+Question 22 [Hard] – Attack Precursors / Reporting (Scenario)
+
+Over a week, you notice the same individual:
+
+Loitering near the principal’s office building
+
+Filming entry and exit points
+
+Taking notes when security patrols change
+
+Arriving and leaving in the same vehicle
+
+You decide to report this as suspected hostile surveillance. Which information will be MOST useful to police or intelligence agencies?
+
+A) A brief message saying “suspicious male seen outside building this week”
+B) The principal’s contact details so police can speak to them directly
+C) Your personal opinion that “he looked dodgy and gave you a bad feeling”
+D) A detailed description including dates and times, locations, physical description, clothing, vehicle make/colour/registration (if known), observed behaviours and direction of travel
+
+Correct Answer: D
+
+Explanation:
+Effective reporting should be factual, specific and detailed: who, what, where, when and how. Physical description, vehicle details, exact times, locations and observed behaviours are far more useful than vague opinions. This allows authorities to cross‑check with other intelligence and CCTV.
+
+================================================================================
+END OF CHAPTER 4.2 QUESTIONS
+
+Total Questions: 22
+
+Easy: 9
+
+Medium: 9
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 6 questions
+
+Correct answer B: 5 questions
+
+Correct answer C: 6 questions
+
+Correct answer D: 5 questions
+
+================================================================================

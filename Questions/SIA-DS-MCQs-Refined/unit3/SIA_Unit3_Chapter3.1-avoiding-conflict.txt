@@ -1,0 +1,334 @@
+================================================================================
+UNIT 3, CHAPTER 3.1: AVOIDING CONFLICT
+================================================================================
+Meta: Total=25 | Easy=10 | Medium=10 | Hard=5 | A=6 | B=7 | C=6 | D=6
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: What are the three common responses to a perceived threat?
+
+A) Fight, flight, freeze
+B) Attack, defend, submit
+C) Anger, fear, sadness
+D) Avoid, confront, negotiate
+
+Answer: A
+Explanation: Fight, flight, and freeze are the three automatic responses to perceived threat. This is a primitive survival mechanism that affects everyone when they feel threatened, including both customers and door supervisors.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which statement BEST describes conflict in the context of licensed premises?
+
+A) Conflict is a natural part of human interaction and can be positive if managed well.
+B) Conflict is always negative and must be completely eliminated.
+C) Conflict only exists when people become physically violent.
+D) Conflict only happens between customers and staff, not between customers.
+
+Answer: A
+Explanation: Conflict is a normal part of human interaction and is not always negative. When handled professionally it can clear up misunderstandings and even strengthen relationships, but it becomes harmful when it is poorly managed.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: A customer is silently struggling with whether to go home or stay out, looking tense but not speaking to anyone about it. What type of conflict is this?
+
+A) Verbal conflict
+B) External conflict
+C) Physical conflict
+D) Internal conflict
+
+Answer: D
+Explanation: Internal conflict happens within a person's own mind, for example when they are torn between two choices. It may not be visible to others but can still influence their emotions and behaviour.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: How can alcohol MOST commonly increase the risk of conflict on licensed premises?
+
+A) It helps people to calm down and think more clearly.
+B) It improves people's impulse control.
+C) It makes people more aware of social cues and body language.
+D) It impairs judgement and reduces inhibitions, making aggression more likely.
+
+Answer: D
+Explanation: Alcohol and some drugs lower inhibitions and impair judgement. This means people are more likely to misread situations, react impulsively and become aggressive, which increases the risk of conflict.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which of the following is a SITUATIONAL factor that can contribute to conflict?
+
+A) Jealousy over a partner
+B) Long queues and overcrowding
+C) Pride and ego
+D) Previous trauma
+
+Answer: B
+Explanation: Long queues, heat and overcrowding are environmental or situational factors that can cause frustration and discomfort, making conflict more likely. The other options are individual or emotional factors.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: In the conflict cycle, at which stage is physical violence MOST likely to occur?
+
+A) Trigger
+B) Escalation
+C) Crisis
+D) Recovery
+
+Answer: C
+Explanation: The crisis stage is the peak of the conflict, where emotions are at their highest and rational thinking is reduced. This is the point at which physical violence is most likely to occur.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: According to the conflict cycle, when is the BEST time for a door supervisor to intervene to avoid conflict?
+
+A) At the crisis point, when people are already fighting
+B) During the recovery stage, after the worst is over
+C) Only in the post‑conflict stage, when writing incident reports
+D) Before any obvious trigger occurs, by preventing problems from arising
+
+Answer: D
+Explanation: The earlier you intervene, the easier it is to avoid conflict. The best intervention is prevention – acting before a trigger occurs, for example by good customer management and spotting potential issues early.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which of the following is a physical sign that someone may be entering a stress response such as fight, flight or freeze?
+
+A) Slow, relaxed breathing and loose muscles
+B) Steady hands and relaxed posture
+C) Clenched fists and tense muscles
+D) Smiling broadly and chatting calmly
+
+Answer: C
+Explanation: Clenched fists and tense muscles are common physical signs of a stress response preparing the body for action. Door supervisors should watch for these changes as early indicators of potential conflict.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: A person briefly looks at your chin just before swinging a punch at you. What is this brief look called?
+
+A) Direct stare
+B) Reactionary gap
+C) Tunnel vision
+D) Target glance
+
+Answer: D
+Explanation: A target glance is when someone briefly looks at the area they intend to strike, such as the chin or nose. It is often an unconscious movement and is a strong indicator that an attack may be about to happen.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: In terms of personal space zones, which distance BEST describes the social zone, where general interactions with customers should usually take place?
+
+A) 0–45 cm
+B) 45 cm–1.2 m
+C) More than 3.6 m
+D) 1.2 m–3.6 m
+
+Answer: D
+Explanation: The social zone (1.2m-3.6m) refers to comfortable interpersonal distance for general interactions. For door supervisors, maintaining at least arm's length also provides a 'reactionary gap' - tactical safe distance allowing time to react to threats. While related, these are distinct concepts: social zone is about comfort, reactionary gap is about safety.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: You are working on a busy Saturday night. The club is very hot, the queue is long and people have been waiting around 30 minutes to get in. Two customers at the back start arguing about others pushing in. Which factor is MOST likely contributing to this conflict?
+
+A) Competition for resources such as entry and space
+B) Poor lighting outside the venue
+C) Pre‑existing gang rivalry between the two customers
+D) A mental health condition
+
+Answer: A
+Explanation: Long queues and people pushing in create competition for a resource – entry into the venue. Combined with heat and waiting time, this situational factor can easily trigger conflict, even between people who do not know each other.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: Two regular customers you recognise start raising their voices and swearing at each other near the bar, but there has been no pushing or threats yet. As door supervisor, what is the MOST appropriate action to avoid the situation escalating?
+
+A) Wait until they start pushing so you are sure it is serious
+B) Approach calmly now, separate them slightly and speak to them in a low, calm voice
+C) Ask bar staff to refuse them service without speaking to them
+D) Call the police immediately and close the bar
+
+Answer: B
+Explanation: Early intervention during the trigger or early escalation phase is much easier than dealing with a crisis. Approaching calmly, creating space and talking to them professionally can defuse the situation before it becomes violent.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: A customer is shouting and swearing about being refused service. He steps closer to you, then suddenly goes quiet and very still, his hands dropping out of sight by his waist. Which part of his behaviour is the clearest DANGER signal that an attack may be imminent?
+
+A) Shouting and swearing about the decision
+B) Stepping closer while speaking
+C) Suddenly becoming silent and still with his hands out of view
+D) Complaining that the bar is too busy
+
+Answer: C
+Explanation: Sudden silence and stillness after agitation, especially when hands go out of sight, are strong danger signals that an attack may be about to occur. The earlier shouting and stepping forward are warning signs, but the sudden stillness and hidden hands suggest immediate risk.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: While assessing a developing argument, you notice there are four men involved, two are much larger than you and appear very intoxicated. Which aspect of threat assessment are you mainly focusing on in this observation?
+
+A) WHAT
+B) WHERE
+C) WHEN
+D) WHO
+
+Answer: D
+Explanation: You are assessing WHO is involved - their number, size and intoxication level. The WHAT/WHERE/WHEN/WHO framework is a useful mnemonic for systematic threat assessment, helping you consider all relevant factors.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: You hear raised voices on the dance floor. You look over and notice two men facing each other, drinks spilt on the floor and friends pulling them back. You quickly think, "They've probably argued over the spilt drink; this could turn into a fight if no one steps in." In terms of the OODA loop, what are you doing at this point?
+
+A) ORIENT – making sense of what the information means
+B) OBSERVE – taking in information
+C) DECIDE – choosing what action to take
+D) ACT – going over and speaking to them
+
+Answer: A
+Explanation: You have already observed the situation and are now making sense of what it means – orienting yourself. You are connecting the spilled drink and the body language with the likelihood of conflict, before deciding and acting.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: You are speaking to an upset customer near the exit. While listening to them, you regularly glance around the surrounding area and check other customers. What are you mainly trying to avoid?
+
+A) Fight response
+B) Tunnel vision
+C) The conflict cycle
+D) The OODA loop
+
+Answer: B
+Explanation: Tunnel vision occurs when you focus too much on one person or issue and lose awareness of what is happening around you. By scanning the area, you maintain situational awareness and reduce the risk of being surprised by others.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: When talking to an agitated customer, which body position is MOST appropriate for maintaining safety and reducing confrontation?
+
+A) Stand very close, square‑on, with your arms folded
+B) Stand at about arm's length, angled at roughly 45 degrees, with your hands open and visible
+C) Stand behind the customer so they cannot see you
+D) Stand several metres away and shout instructions
+
+Answer: B
+Explanation: An angled stance at arm's length or more maintains a reactionary gap, reduces the target area and appears less aggressive. Open hands look non‑threatening but are ready to protect you if needed.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: A drunk customer tells you, "You're useless, you're just a failed cop!" How should a professional door supervisor respond?
+
+A) Reply, "At least I'm not too drunk to stand up," to put him in his place
+B) Tell him if he speaks to you like that again you will "sort him out" outside
+C) Stay calm, ignore the insult and focus on explaining the venue's decision
+D) Laugh loudly and encourage other customers to mock him
+
+Answer: C
+Explanation: Professional detachment means not taking insults personally. Staying calm and focusing on the decision – not on trading insults – helps avoid escalation and shows you are in control of your own emotions.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: The smoking area becomes overcrowded and people are bumping into each other as they try to get past. You arrange for a barrier to be moved to create more space and set up a simple one‑way system in and out. This is an example of:
+
+A) Environmental design and operational measures to avoid conflict
+B) Threat assessment
+C) Post‑conflict learning
+D) Internal conflict
+
+Answer: A
+Explanation: Adjusting barriers, space and flow of people is part of environmental design and operational planning. By changing the layout you reduce overcrowding and bumping, lowering the chance of arguments starting.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: You notice a man at the bar repeatedly turning to stare at another customer, standing taller with his chest out and ignoring his friends who are trying to distract him. Which of the following BEST describes what you are seeing?
+
+A) Early non‑verbal warning signs of conflict
+B) A danger signal that an attack has already started
+C) Internal conflict within the man
+D) Normal social behaviour
+
+Answer: A
+Explanation: Prolonged staring, "puffing up" the body and ignoring attempts to calm him are early non‑verbal warning signs that the man may be preparing for conflict. Recognising these signs gives you a chance to intervene early.
+
+---
+Q21 | Difficulty: Hard
+---
+Question: Near closing time, a clearly drunk customer demands another round at the bar. When staff refuse, he raises his voice and leans over the counter. His larger friend stands just behind him, watching you and slowly removing his jacket. Another door supervisor is dealing with a separate incident on the dance floor. What is the MOST appropriate action for you to take FIRST?
+
+A) Stand close in front of the angry customer, square‑on, and order him to leave immediately
+B) Ignore the situation for now and continue watching the dance floor, as your colleague may need help
+C) Position yourself at an angle with a reactionary gap, speak calmly to the customer about the refusal, and discreetly alert your colleague on the radio
+D) Immediately close the bar and tell all customers to leave to avoid any risk
+
+Answer: C
+Explanation: You need to intervene early but safely. Taking an angled stance with a reactionary gap maintains your safety, calm communication may reduce the customer's anger, and quietly alerting your colleague maintains overall situational awareness.
+
+---
+Q22 | Difficulty: Hard
+---
+Question: A man you have been talking to about his behaviour is breathing heavily, his jaw clenched. He suddenly rolls up his sleeves, shifts his weight onto his back foot and gives a brief glance at your chin before looking back at your eyes. What should you do NEXT to maximise your personal safety?
+
+A) Move closer and point your finger in his face to show you are in control
+B) Maintain or increase your reactionary gap, angle your body, prepare to move and consider safely disengaging
+C) Turn your back on him to show you are not intimidated
+D) Put a hand on his chest to stop him moving forward
+
+Answer: B
+Explanation: Rolling up sleeves, weight shift and a target glance are clear danger signals that an attack may be imminent. Increasing your reactionary gap, adopting a safe stance and preparing to move away are key to protecting yourself.
+
+---
+Q23 | Difficulty: Hard
+---
+Question: Two potential incidents develop at the same time. At the bar, one highly intoxicated man is loudly complaining about slow service but is unsteady on his feet and supported by a friend. In the smoking area, six sober‑looking men who support rival football teams begin to argue, with several early warning signs such as raised voices and pushing. From a risk assessment point of view, which situation currently presents the HIGHER overall risk of serious conflict?
+
+A) The intoxicated man at the bar, because alcohol always creates the highest risk
+B) The group of six men in the smoking area, because there are more people involved and rivalry is present
+C) Both situations are equal risk because neither has reached the crisis stage
+D) Neither situation is risky until someone throws the first punch
+
+Answer: B
+Explanation: Risk depends on both the threat and the likelihood of harm. A group of rival supporters showing early signs of aggression presents a higher overall risk than one drunk man supported by a friend, even though both need monitoring.
+
+---
+Q24 | Difficulty: Hard
+---
+Question: A customer has been swearing at you for several minutes about being refused entry. You notice your own heart rate has increased, your fists are beginning to clench and you feel an urge to argue back. What is the BEST conflict‑avoiding response?
+
+A) Give in and let the customer in so the abuse stops
+B) Tell the customer you are just following orders and walk away angrily
+C) Recognise your own stress response, take a breath, and if needed ask a colleague to take over the conversation
+D) Warn the customer that if he continues, you will "lose your temper"
+
+Answer: C
+Explanation: Self‑awareness is crucial. Recognising your own fight response allows you to regain control, stay professional and, if necessary, hand over to a colleague before your emotions escalate the situation.
+
+---
+Q25 | Difficulty: Hard
+---
+Question: While you are dealing with a heated argument between two women on the dance floor, several of their friends start to gather closely around you, blocking your route to the nearest exit. The music is loud and you can feel people pushing from behind. What is the MOST appropriate action to reduce the risk of the situation escalating and to maintain your safety?
+
+A) Continue focusing only on the two women, as they started the argument
+B) Step back to re‑establish a reactionary gap, move the group towards a clearer area or exit if possible, and request support over the radio
+C) Push the nearest person away to create space and show authority
+D) Ignore the crowd and try to shout instructions over the music
+
+Answer: B
+Explanation: You must avoid being cornered and maintain a reactionary gap. Moving towards a clearer area, calling for support and keeping space around you reduces risk to everyone and helps prevent the situation from reaching a crisis.
+
+================================================================================
+END OF CHAPTER 3.1
+================================================================================

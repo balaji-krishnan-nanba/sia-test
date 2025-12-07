@@ -1,0 +1,577 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 2, CHAPTER 2.7
+LICENSING LAW
+================================================================================
+
+YOUR TASK
+---------
+Generate 30 high-quality Multiple Choice Questions (MCQs) for Chapter 2.7 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE EXAM
+--------
+Unit 2: Working as a Door Supervisor
+- 50 multiple choice questions in actual exam
+- 75 minutes duration
+- 70% pass mark (35 correct answers required)
+- This chapter (2.7) is one of 10 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Door supervisors work primarily at licensed premises. Understanding the 
+Licensing Act 2003, the four licensing objectives, and alcohol-related 
+offences is essential. Door supervisors play a key role in helping venues 
+maintain their licence and avoid prosecution.
+
+================================================================================
+CHAPTER 2.7: LICENSING LAW - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 30
+- Easy (direct recall): 12 questions
+- Medium (application): 12 questions
+- Hard (scenario-based): 6 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.1: LICENSING ACT 2003 - OVERVIEW
+--------------------------------------------------------------------------------
+
+Purpose:
+- Primary legislation for licensed premises in England and Wales
+- Unified previous fragmented licensing regimes
+- Single framework for alcohol, entertainment, late-night refreshment
+- Administered by local authority licensing committees
+
+What It Covers:
+- Sale and supply of alcohol
+- Regulated entertainment
+- Late-night refreshment (hot food/drink 11pm-5am)
+- Premises licences
+- Personal licences
+- Temporary events
+
+Key Principle:
+- Promotion of the four licensing objectives
+- All decisions must consider these objectives
+- Licence conditions support the objectives
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.2: THE FOUR LICENSING OBJECTIVES
+--------------------------------------------------------------------------------
+
+These are FUNDAMENTAL - know them:
+
+1. PREVENTION OF CRIME AND DISORDER
+- Reducing crime on and around premises
+- Preventing violence and antisocial behaviour
+- Drug dealing prevention
+- Door supervisors key to this objective
+
+2. PUBLIC SAFETY
+- Safety of persons on premises
+- Fire safety
+- Capacity limits
+- First aid provision
+- Safe environment
+
+3. PREVENTION OF PUBLIC NUISANCE
+- Noise control
+- Light pollution
+- Disturbance to residents
+- Litter
+- Behaviour of customers leaving
+
+4. PROTECTION OF CHILDREN FROM HARM
+- Preventing under-age drinking
+- Preventing under-age entry where inappropriate
+- Child safeguarding
+- Age verification
+
+Door Supervisor Role:
+- Support ALL four objectives
+- Through actions and decisions
+- Searching, monitoring, ejecting
+- Age verification
+- Capacity management
+
+Memory Aid: "CPPP" - Crime, Public safety, Public nuisance, Protect children
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.3: TYPES OF LICENCE
+--------------------------------------------------------------------------------
+
+PREMISES LICENCE:
+- Authorises specific premises for licensable activities
+- Applied for by premises owner/operator
+- Subject to conditions
+- Displayed on premises
+- Specifies hours of operation
+- Specifies permitted activities
+- Can be reviewed by interested parties
+- Can have conditions added, varied, or revoked
+
+PERSONAL LICENCE:
+- Held by individual person
+- Authorises selling/supplying alcohol
+- Required for at least one person to authorise sales
+- Valid for life (since 2015, previously 10 years)
+- Can be revoked for relevant offences
+- Holder can work at any licensed premises
+
+CLUB PREMISES CERTIFICATE:
+- For qualifying members' clubs
+- Similar to premises licence
+- Different application process
+- For genuine members' clubs
+
+TEMPORARY EVENT NOTICE (TEN):
+- For one-off events
+- Maximum 499 people at any one time
+- Maximum 168 hours duration (7 days)
+- Limits on number per year per premises
+- 10 working days notice required (minimum)
+- Police and Environmental Health can object
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.4: DESIGNATED PREMISES SUPERVISOR (DPS)
+--------------------------------------------------------------------------------
+
+Definition:
+- Named individual on premises licence
+- Must hold personal licence
+- Day-to-day responsibility for alcohol sales
+- Must authorise (or ensure authorisation of) every sale
+
+Requirements:
+- Must be named on premises licence
+- Must hold valid personal licence
+- Must give consent to being named
+- Can only be one DPS per premises
+
+Responsibilities:
+- Ensuring compliance with licensing law
+- Training staff
+- Maintaining standards
+- Point of contact for authorities
+
+Authorising Sales:
+- Every sale of alcohol must be authorised by:
+  * The DPS, OR
+  * Another personal licence holder, OR
+  * Someone authorised by them
+- Does not have to be on premises constantly
+- But must have authorised sales to take place
+
+Changes:
+- DPS can be changed by premises licence holder
+- Immediate effect in some cases
+- Police can object to a new DPS
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.5: LICENSABLE ACTIVITIES
+--------------------------------------------------------------------------------
+
+Sale of Alcohol:
+- Selling alcohol to the public
+- Requires premises licence or TEN
+- Sales must be authorised
+
+Supply of Alcohol:
+- Members' clubs supplying to members
+- Club premises certificate
+
+Regulated Entertainment:
+- Live music (some exemptions)
+- Recorded music (some exemptions)
+- Performance of plays
+- Films
+- Indoor sporting events
+- Boxing/wrestling
+- Performance of dance
+
+Late Night Refreshment:
+- Supply of hot food or drink
+- Between 11pm and 5am
+- To the public
+- For consumption on or off premises
+
+Exemptions:
+- Some activities exempt in certain circumstances
+- Small live music venues
+- Incidental music
+- Check specific rules
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.6: CHALLENGE 21 AND CHALLENGE 25
+--------------------------------------------------------------------------------
+
+Challenge 21:
+- Ask for ID if person looks UNDER 21
+- Aim: prevent under-18 sales
+- Gives 3-year margin for error
+
+Challenge 25:
+- Ask for ID if person looks UNDER 25
+- Aim: prevent under-18 sales
+- Gives 7-year margin for error
+- More cautious approach
+- Widely adopted as best practice
+
+Why Challenge 25 is Better:
+- Greater margin for error
+- People often look older than they are
+- Harder to guess ages accurately
+- Provides better protection
+
+Acceptable Forms of ID:
+- Passport
+- Photo driving licence (UK or EU)
+- PASS accredited card (with PASS hologram)
+- Military ID
+
+Features to Check:
+- Photograph matches person
+- Date of birth confirms over 18
+- Hologram present and genuine
+- Card not expired
+- Not damaged or altered
+
+PASS Scheme:
+- Proof of Age Standards Scheme
+- Accredits proof of age cards
+- Look for PASS hologram
+- Indicates card meets standards
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.7: ALCOHOL-RELATED OFFENCES
+--------------------------------------------------------------------------------
+
+SECTION 141 - SALE TO A PERSON WHO IS DRUNK:
+- Offence to sell or supply alcohol to drunk person
+- Also offence to allow sale on relevant premises
+- Up to £1,000 fine (level 3)
+- Applies to any staff member who sells
+
+SECTION 142 - OBTAINING ALCOHOL FOR A DRUNK PERSON:
+- Offence to buy alcohol for someone who is drunk
+- Applies to customers, not just staff
+
+SECTION 143 - FAILURE TO LEAVE LICENSED PREMISES:
+- Person asked to leave who refuses
+- By licensee or their employee
+- Offence to fail to leave
+- Police can be called
+
+SECTION 146 - SALE OF ALCOHOL TO CHILD:
+- Offence to sell alcohol to under-18
+- Up to £20,000 fine
+- Personal licence can be revoked
+- Premises licence can be reviewed
+
+SECTION 147 - ALLOWING SALE TO CHILD:
+- Offence for premises/personal licence holder
+- To knowingly allow sale to under-18
+- Same penalties
+
+SECTION 147A - PERSISTENTLY SELLING TO CHILDREN:
+- 2 or more sales to under-18s within 3 months
+- Closure notice possible
+- Serious consequences for venue
+
+SECTION 149 - PURCHASE OF ALCOHOL BY/FOR CHILD:
+- Offence for under-18 to buy alcohol
+- Offence for adult to buy for under-18
+- Exceptions: supervised table meal
+
+SECTION 150 - CONSUMPTION BY CHILD:
+- Offence to knowingly allow under-18 to consume alcohol
+- On relevant premises
+- Exceptions apply
+
+SECTION 140 - ALLOWING DISORDERLY CONDUCT:
+- Offence for responsible person
+- To knowingly allow disorderly conduct
+- On licensed premises
+
+Signs of Drunkenness:
+- Slurred speech
+- Unsteady on feet
+- Glazed eyes
+- Aggressive or emotional behaviour
+- Strong smell of alcohol
+- Poor coordination
+- Loss of inhibitions
+
+Door Supervisor Role:
+- Refuse entry to drunk persons
+- Identify drunkenness on premises
+- Report to bar staff (stop serving)
+- Eject if necessary
+- Document incidents
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.8: CHILDREN ON LICENSED PREMISES
+--------------------------------------------------------------------------------
+
+General Position:
+- Under-18s can enter many licensed premises
+- But restrictions apply to certain areas and times
+
+Under-16s:
+- Must be accompanied by adult in bar areas
+- Cannot buy or consume alcohol
+- May be restricted at certain times
+
+16-17 Year Olds:
+- Can be in bar areas unaccompanied
+- Cannot buy alcohol
+- CAN consume beer, wine, or cider with table meal
+- If purchased by adult
+- Accompanied by adult
+
+Under-18s Generally:
+- Cannot buy alcohol
+- Cannot attempt to buy alcohol
+- Cannot consume alcohol (except above exception)
+
+Premises Restrictions:
+- Some premises licensed for no under-18s
+- Some areas restricted (nightclub floors)
+- Some times restricted (after certain hour)
+- Check premises licence conditions
+
+Door Supervisor Role:
+- Apply Challenge 25
+- Refuse entry to under-18s where required
+- Check ID rigorously
+- Know venue's policy on children
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.9: MANDATORY CONDITIONS
+--------------------------------------------------------------------------------
+
+Certain conditions apply to ALL premises licences:
+
+Irresponsible Promotions BANNED:
+- Games/activities encouraging excessive drinking
+- Provision of unlimited alcohol for fixed price
+- Prizes involving alcohol
+- Drinking games
+- "Dentist chairs" etc.
+- Speed drinking
+
+Exception: certain promotions allowed at specific times/for specific purposes
+
+Free Tap Water:
+- Must provide free drinking water
+- On request
+- To all customers
+
+Age Verification Policy:
+- Must have policy requiring production of ID
+- From persons appearing under 18
+- Before alcohol served
+
+Small Measures:
+- Must offer:
+  * Half pint of beer/cider
+  * 125ml glass of wine
+  * 25ml or 35ml measure of spirits (whichever used)
+
+Ban on Dispensing Alcohol Directly into Mouth:
+- Cannot dispense alcohol directly into mouth of customer
+- E.g., no "dentist chairs"
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.10: POWERS OF ENTRY AND CLOSURE
+--------------------------------------------------------------------------------
+
+Police Powers of Entry:
+- Police can enter licensed premises
+- To check compliance
+- To investigate offences
+- No warrant needed during licensable activities
+
+Licensing Authority Powers:
+- Authorised officers can enter
+- To check compliance
+- Inspect records
+- Test purchases
+
+Closure Powers:
+- Police can close premises immediately
+- In cases of disorder or imminent disorder
+- For public safety
+- Up to 24 hours initially
+- Can be extended
+
+Review of Licence:
+- Any interested party can request review
+- Police, fire, environmental health, residents
+- Licensing committee considers
+- Can add conditions
+- Can suspend
+- Can revoke licence
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.11: DOOR SUPERVISOR ROLE IN LICENSING
+--------------------------------------------------------------------------------
+
+Supporting the Four Objectives:
+
+CRIME AND DISORDER:
+- Searching customers
+- Ejecting troublemakers
+- Preventing violence
+- Drug prevention
+- Controlling access
+
+PUBLIC SAFETY:
+- Monitoring capacity
+- Assisting evacuation
+- First aid response
+- Managing crowds
+
+PUBLIC NUISANCE:
+- Controlling noise at exit
+- Dispersing customers quietly
+- Preventing disturbance to neighbours
+
+PROTECTING CHILDREN:
+- Challenge 25 implementation
+- Refusing under-age entry
+- Spotting child exploitation
+- Safeguarding vulnerable young people
+
+Professional Standards:
+- Maintain SIA licence
+- Uphold licensing objectives
+- Support venue compliance
+- Document incidents properly
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 30
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 12 questions (40%)
+- Medium (application): 12 questions (40%)
+- Hard (scenario-based): 6 questions (20%)
+
+TOPICS TO COVER:
+□ Four licensing objectives (4-5 questions)
+□ Types of licence (3-4 questions)
+□ Designated Premises Supervisor (2-3 questions)
+□ Challenge 21/25 and ID (4-5 questions)
+□ Section 141 - sale to drunk (2-3 questions)
+□ Section 146/147 - sale to children (3-4 questions)
+□ Children on premises (2-3 questions)
+□ Mandatory conditions (3-4 questions)
+□ Powers and reviews (2-3 questions)
+□ Door supervisor role (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic door supervisor scenarios
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.7: LICENSING LAW
+================================================================================
+
+Question 1 [Easy]
+How many licensing objectives are there under the Licensing Act 2003?
+
+A) Two
+B) Three
+C) Four
+D) Five
+
+Correct Answer: C
+
+Explanation: There are four licensing objectives under the Licensing Act 2003: 
+Prevention of crime and disorder, Public safety, Prevention of public nuisance, 
+and Protection of children from harm. All licensing decisions must promote 
+these objectives.
+
+---
+
+[Continue for all 30 questions]
+
+================================================================================
+END OF CHAPTER 2.7 QUESTIONS
+================================================================================
+
+Total Questions: 30
+- Easy: 12
+- Medium: 12
+- Hard: 6
+
+================================================================================
+
+================================================================================
+LEGAL ACCURACY - KEY POINTS
+================================================================================
+
+MUST GET CORRECT:
+
+FOUR LICENSING OBJECTIVES:
+1. Prevention of crime and disorder
+2. Public safety
+3. Prevention of public nuisance
+4. Protection of children from harm
+
+CHALLENGE 25 vs 21:
+- Challenge 25: ask ID if looks under 25 (best practice)
+- Challenge 21: ask ID if looks under 21
+- Challenge 25 gives greater margin for error
+
+DPS:
+- Must hold personal licence
+- Only one per premises
+- Must authorise alcohol sales
+
+KEY SECTIONS:
+- Section 141: selling to drunk person
+- Section 146: selling to under-18
+- Section 147A: persistent sales to children
+
+ACCEPTABLE ID:
+- Passport
+- Photo driving licence
+- PASS accredited card
+- Military ID
+
+MANDATORY CONDITIONS:
+- Free tap water
+- Small measures available
+- Age verification policy
+- Ban on irresponsible promotions
+
+COMMON DISTRACTORS:
+- Three licensing objectives (wrong - four)
+- DPS must always be on premises (wrong - must authorise sales)
+- Challenge 18 policy (wrong - doesn't exist, it's 21 or 25)
+- Personal licence valid 10 years (wrong - now for life since 2015)
+
+================================================================================
+END OF PROMPT
+================================================================================

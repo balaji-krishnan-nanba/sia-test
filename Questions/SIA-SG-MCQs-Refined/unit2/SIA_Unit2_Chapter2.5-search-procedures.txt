@@ -1,0 +1,303 @@
+================================================================================
+UNIT 2, CHAPTER 2.5: SEARCH PROCEDURES
+
+Question 1 [Easy]
+Which is the MOST common legal basis for a security officer to carry out a search of a person or their bag?
+A) Police powers under PACE
+B) A general power to search anyone on private property
+C) Consent of the person being searched
+D) The officer’s belief that the person “looks suspicious”
+Correct Answer: C
+Explanation: Security officers do not have general legal powers to search like the police. The most common lawful basis for a search is the consent of the person being searched. Consent must be freely given and informed; without it, the search may amount to assault.
+
+Question 2 [Easy]
+A customer initially agrees to a bag search but, halfway through, clearly says they no longer wish to be searched. What MUST the security officer do?
+A) Stop the search immediately and explain any consequences, such as refusal of entry
+B) Continue the search because consent was given at the start
+C) Call the police immediately for “obstructing a search”
+D) Physically restrain the customer until the search is finished
+Correct Answer: A
+Explanation: Consent can be withdrawn at any time. Once a person withdraws consent, the security officer must stop searching immediately. The officer can explain that refusal or withdrawal may mean no entry to the premises, but they cannot force the search to continue.
+
+Question 3 [Easy]
+Which of the following is generally considered the least intrusive type of search?
+A) A full pat-down of outer clothing
+B) A search involving touching pockets and clothing
+C) A physical search of the person using hands and a metal detector
+D) A search of bags, parcels or other property
+Correct Answer: D
+Explanation: A bag or property search is usually less intrusive than touching a person’s body or clothing. It involves looking through items such as bags or parcels to check for stolen or prohibited items. Personal searches, even over clothing, are more intrusive and require greater care and clear consent.
+
+Question 4 [Easy]
+Which statement BEST describes valid consent to a search?
+A) The person is silent and looks uncomfortable, so the search can go ahead
+B) The person clearly agrees to the search after it has been explained
+C) The person is searched because there is a sign somewhere on site, even if they never saw it
+D) The person is told they will not be allowed to leave until they agree to a search
+Correct Answer: B
+Explanation: Valid consent should be clear, informed and voluntary. The person must understand why they are being searched and agree without coercion. Silence or pressure (such as not allowing them to leave) would not amount to genuine consent.
+
+Question 5 [Easy]
+What is the MOST appropriate first step before carrying out any search?
+A) Identify yourself and explain the reason for the search
+B) Begin searching and explain later
+C) Ask the person to empty their pockets immediately
+D) Stand very close to the person until they hand over their bag
+Correct Answer: A
+Explanation: Professional practice is to identify yourself and explain the reason for the search before it takes place. This helps the person understand what is happening and supports informed consent. Starting to search without explanation is unprofessional and may lead to complaints.
+
+Question 6 [Easy]
+What is the usual standard regarding gender for a personal (pat-down) search?
+A) It must always be done by an officer of the opposite gender
+B) Gender does not matter for any type of search
+C) Only managers are allowed to do personal searches
+D) It should be carried out by an officer of the same gender, where possible
+Correct Answer: D
+Explanation: Personal searches involving physical contact should normally be carried out by an officer of the same gender. This protects both the person being searched and the officer, and reduces the risk of allegations of misconduct.
+
+Question 7 [Easy]
+Which of the following would usually be considered a vulnerable person in relation to search procedures?
+A) A fit and sober adult in their 30s
+B) A 15-year-old attending an event
+C) A member of staff on their lunch break
+D) A regular customer who visits every day
+Correct Answer: B
+Explanation: Children (under 18) are classed as vulnerable persons and require extra care when being searched. Other vulnerable groups include the elderly, people with disabilities, those with mental health conditions, intoxicated persons, and people with communication difficulties.
+
+Question 8 [Easy]
+During a consent-based bag search at an office building, you find a small bag of white powder which you suspect is an illegal drug. What should you do?
+A) Hand it back and advise the person to dispose of it elsewhere
+B) Flush it down the toilet immediately
+C) Seize it with minimum handling, secure it safely and follow company policy (e.g. inform police)
+D) Put it back in the bag and pretend you did not see it
+Correct Answer: C
+Explanation: Suspected drugs must not be returned to the person. They should be handled as little as possible, placed in a suitable container or evidence bag, clearly labelled and secured. The incident should then be dealt with in line with procedures, usually including contacting the police and documenting the incident.
+
+Question 9 [Medium]
+A staff car park displays clear signs stating: “Entry is conditional on vehicles being subject to random searches.” An employee drives in and you request a vehicle search, which they initially accept. What is the main legal basis for this search?
+A) Contractual condition of entry to the premises
+B) A statutory power given to all security officers
+C) The officer’s general common law power to search
+D) The car park being private property
+Correct Answer: A
+Explanation: When signs clearly state that searches are a condition of entry, and the person chooses to enter, this forms part of the contract between the person and the organisation. Security officers still conduct the search by consent, but it is underpinned by the contractual condition.
+
+Question 10 [Easy]
+Which type of search involves systematically checking the boot, interior and load area of a vehicle?
+A) Personal search
+B) Vehicle search
+C) Premises search
+D) Bag/property search
+Correct Answer: B
+Explanation: A vehicle search focuses on the car or other vehicle, including the boot, interior and any load area. It requires the driver’s consent (or a contractual condition of entry, such as in staff car parks) and should follow a systematic method.
+
+Question 11 [Medium]
+At the entrance to a large events venue, signs clearly state: “All bags will be searched as a condition of entry.” A customer arrives with a large bag and, when asked, refuses to allow it to be searched. What is the MOST appropriate response?
+A) Physically search the bag because the sign gives you power to do so
+B) Call the police immediately and accuse the customer of an offence
+C) Allow the customer in without a search to avoid conflict
+D) Refuse them entry and report/document the refusal
+Correct Answer: D
+Explanation: Even with signs, you cannot force a search without consent. If the person refuses, the correct response is to deny entry in line with the conditions, and to record and report the refusal. Forcing a search would risk civil and criminal liability.
+
+Question 12 [Easy]
+Which behaviour is MOST appropriate when carrying out a personal search?
+A) Making jokes about the person’s clothing to “lighten the mood”
+B) Rushing and touching the person more than necessary
+C) Explaining what you are doing and remaining professional and respectful
+D) Speaking loudly so everyone nearby can hear what is happening
+Correct Answer: C
+Explanation: During a search, the officer should be professional, respectful and calm, and explain their actions to the person. Touching should be kept to the minimum necessary, and the person’s dignity and privacy must be protected as far as possible.
+
+Question 13 [Easy]
+Which of the following details should normally be recorded after a search?
+A) The date, time and location of the search
+B) The colour of the searcher’s uniform
+C) The weather conditions during the search
+D) The number of customers in the area
+Correct Answer: A
+Explanation: Good records include key details such as date, time, location, reason for the search, what was searched, what was found (or that nothing was found), and who carried out the search. This information is vital if the search is later challenged or investigated.
+
+Question 14 [Medium]
+Only one male security officer is on duty at a shopping centre. A female customer is selected for a personal pat-down search under a random search policy. She is willing to be searched immediately. What is the BEST course of action?
+A) Carry out the pat-down yourself because she has agreed
+B) Ask a male member of the public to carry out the search instead
+C) Tell her to search herself while you watch
+D) Explain that you cannot carry out a personal search without a same-gender officer and offer a bag search only or to wait for a female officer
+Correct Answer: D
+Explanation: Personal searches should be performed by an officer of the same gender. If this is not possible, a personal search should normally not be carried out. Offering a bag/property search only or asking her to wait for a female officer is the correct professional response.
+
+Question 15 [Easy]
+During a bag search at an evening event at a shopping centre, you find a large knife in a customer’s bag. What should you do?
+A) Return the knife and allow them in if they promise not to use it
+B) Secure the weapon, refuse entry and follow procedures (e.g. inform police)
+C) Ask them to leave the knife in their car and then allow entry
+D) Place the knife in a bin and say nothing further
+Correct Answer: B
+Explanation: A weapon must never be returned to the person. It should be secured safely, entry should be refused, and the incident must be dealt with in line with policy, usually including notifying the police and documenting the incident.
+
+Question 16 [Medium]
+You need to search a 15-year-old entering a sports event where random searches are in place. What is the BEST way to proceed?
+A) Conduct a pat-down search alone in a private room, regardless of gender
+B) Do not search them at all because minors can never be searched
+C) Ensure a same-gender officer carries out any necessary personal search, with an appropriate adult/guardian present where possible
+D) Select minors more often for searches because they may be hiding items
+Correct Answer: C
+Explanation: Children are vulnerable persons and must be treated with extra care. Any personal search should be by a same-gender officer, and an appropriate adult or guardian should be present where possible. The necessity of the search should be carefully considered.
+
+Question 17 [Medium]
+A shopping centre displays signs at all entrances: “By entering, you agree that your bags may be searched.” A customer sees the sign, enters and, when asked, calmly agrees to a bag search. What type of consent is this mainly an example of?
+A) Implied consent
+B) Police statutory consent
+C) Written consent
+D) No consent
+Correct Answer: A
+Explanation: When clear signs set out conditions of entry and a person chooses to enter, this is implied consent. Their behaviour (entering and then agreeing to the search) shows that they accept the condition, even though nothing was signed in writing.
+
+Question 18 [Medium]
+During a random bag search of staff leaving a store, you find several items with security tags that appear to belong to the shop. The staff member says they “forgot to pay”. What is the MOST appropriate action?
+A) Return the items and give a verbal warning
+B) Retain the items, report the matter in line with policy and treat them as potential evidence of theft
+C) Force the staff member to sign a written confession before leaving
+D) Demand payment on the spot and let them go
+Correct Answer: B
+Explanation: Suspected stolen goods should be retained and treated as potential evidence. The incident must be reported according to company procedures, which may include informing management and the police. Returning the goods or demanding payment on the spot is not appropriate.
+
+Question 19 [Medium]
+A security officer witnesses a person committing an indictable offence (such as theft) and makes a lawful citizen’s arrest. What, if anything, may the officer search for without consent?
+A) Any items they are curious about
+B) Only items in any bag the person is carrying
+C) Nothing – they must still obtain consent for any search
+D) A limited search for evidence related to the offence, incidental to the arrest
+Correct Answer: D
+Explanation: After a lawful citizen’s arrest for an indictable offence, a limited search may be carried out incidental to the arrest, for example to find evidence or remove items that could be used to escape or cause harm. This is an exception to the general rule that searches require consent.
+
+Question 20 [Medium]
+You are conducting vehicle searches in a staff car park where employees have agreed to random searches as a condition of parking. Which approach is MOST appropriate?
+A) Only checking the glove box because it is quick
+B) Relying on the driver to point out where to look
+C) Systematically checking the boot, interior and load area, with consent and, where possible, a witness
+D) Taking a quick look through the windows and moving the vehicle on
+Correct Answer: C
+Explanation: Vehicle searches should be systematic and thorough, covering the boot, interior and any load area. Consent (or the contractual condition) must be respected, and having a witness where possible protects both the officer and the driver.
+
+Question 21 [Medium]
+You carry out a bag search and find nothing of concern. What should you do NEXT?
+A) Thank the person and allow them to continue on their way
+B) Tell them they were searched because they “looked suspicious”
+C) Detain them for further questioning just in case
+D) Only record the search if you had found something
+Correct Answer: A
+Explanation: After a search where nothing is found, the officer should thank the person and let them continue. This helps maintain good customer relations and shows respect. Searches may still be recorded, even when nothing is found, depending on policy.
+
+Question 22 [Medium]
+Why are search records or search registers important?
+A) So managers can punish staff more easily
+B) So officers never have to explain their actions
+C) They are only useful for marketing purposes
+D) They provide evidence if a search is disputed and help protect against allegations
+Correct Answer: D
+Explanation: Proper documentation provides evidence of what happened during a search. It protects both the organisation and the officer if a complaint or allegation is made and supports any later investigation or legal proceedings.
+
+Question 23 [Medium]
+Which of the following is a right of a person being searched in a consent-based search?
+A) To demand that only the police may ever search them
+B) To know the reason for the search
+C) To decide exactly what the officer writes in their report
+D) To prevent any notes being made about the search
+Correct Answer: B
+Explanation: A person being searched has the right to be told the reason for the search and to be treated with dignity and respect. They do not control how records are written, nor can they prevent lawful documentation of the search.
+
+Question 24 [Medium]
+A customer complains that a search was rude and humiliating. What is the MOST appropriate initial response from the security officer?
+A) Argue that the search was done correctly and walk away
+B) Tell the customer to complain to the police instead
+C) Listen calmly, explain the procedure followed and refer the complaint to a supervisor or appropriate process
+D) Ask the customer to leave immediately without recording anything
+Correct Answer: C
+Explanation: Complaints should be taken seriously. The officer should listen without becoming defensive, explain what procedure was followed, and ensure the complaint is properly reported and documented in line with company procedures.
+
+Question 25 [Hard]
+During a consent-based personal search at a venue entrance, a customer agrees to have their bag and coat searched. When you begin a pat-down of their outer clothing, they say, “I don’t want you touching me – you can check my bag only.” What should you do?
+A) Stop the pat-down immediately, limit the search to what they still consent to and explain that refusal may mean no entry
+B) Continue with the pat-down because they originally agreed to be searched
+C) Physically restrain them so the search can be completed
+D) Allow them to enter without any further action to avoid confrontation
+Correct Answer: A
+Explanation: Consent can be partially withdrawn at any time. If the person no longer agrees to a personal search, the officer must stop immediately and limit the search to what the person still consents to. The officer can explain that full refusal may mean no entry, but cannot force the search.
+
+Question 26 [Hard]
+A customer selected for a random search becomes angry and says, “You’re only picking on me because of how I look!” What is the BEST way for the security officer to respond?
+A) Tell them security is more important than their feelings and insist on the search
+B) Stay calm, explain the random search policy, offer to discuss it privately or with a supervisor, and continue only with their consent
+C) Cancel searches for this person but continue the same approach with everyone else
+D) Immediately bar them from the premises and refuse to speak further
+Correct Answer: B
+Explanation: The officer should remain calm and professional, explain that the search is part of a fair procedure (such as random selection) and offer to involve a supervisor or speak privately. The search must still be consent-based, and the person’s concerns should be listened to and documented if appropriate.
+
+Question 27 [Hard]
+An elderly female customer with mobility difficulties is selected for a personal search at an event. Only male security officers are on duty. She wishes to enter quickly and says she is happy for a male officer to search her. What is the BEST response?
+A) Carry out the full pat-down in public because she has agreed
+B) Ask a female member of the public to carry out the search instead
+C) Refuse her entry completely under all circumstances
+D) Explain that a personal search should be carried out by a same-gender officer, offer a bag-only search or to wait for a female officer, and document the decision
+Correct Answer: D
+Explanation: Even if the person appears willing, personal searches should normally be conducted by a same-gender officer, especially for a vulnerable person. The officer should offer alternatives such as a bag-only search or waiting for a female officer and should document the decision carefully.
+
+Question 28 [Hard]
+A man who appears slightly intoxicated and speaks very little English is selected for a random search. He looks confused when you explain the search. What is the MOST appropriate approach?
+A) Carry out the search quickly anyway, as he is in a public place
+B) Refuse him entry immediately without trying to explain further
+C) Use simple words, gestures or written notes to explain, seek help (e.g. interpreter or bilingual colleague) if available, and only search if you are satisfied he understands and consents
+D) Call the police at once because he does not speak English
+Correct Answer: C
+Explanation: People with language or communication difficulties are vulnerable and may need extra support to understand what is happening. The officer should try to communicate clearly, use simple language or demonstrations, and seek help if possible. A search should only proceed if genuine informed consent is obtained and the search is necessary.
+
+Question 29 [Hard]
+At a music festival where alcohol and weapons are prohibited, you search a teenager’s bag (with consent) and find a small folding knife and a bottle of spirits. What is the MOST appropriate action?
+A) Safely seize both items, do not return them, and follow policy (e.g. involve supervisors, parents and/or police as required)
+B) Keep the knife but return the alcohol if they promise not to drink it
+C) Pour away the alcohol and give the knife back as it is small
+D) Allow them to keep both items if they agree not to use them on site
+Correct Answer: A
+Explanation: Both items are prohibited in the venue. Weapons and prohibited alcohol should be seized and secured, not returned. The incident should be handled according to policy, which may include notifying supervisors, contacting parents/guardians and informing the police.
+
+Question 30 [Hard]
+After a pat-down search, a customer alleges that the security officer touched them inappropriately during the search. What should the officer and organisation do?
+A) Ignore the allegation because the search was allowed by policy
+B) Immediately delete any CCTV footage to protect staff
+C) Confront the customer angrily for making false claims
+D) Take the allegation seriously, report it to a supervisor, preserve any evidence (e.g. CCTV) and provide statements as required
+Correct Answer: D
+Explanation: Allegations of misconduct must always be taken seriously. The officer should report the complaint, ensure that any evidence such as CCTV is preserved, and co-operate with any investigation, including providing a written statement if required. Proper handling protects both the complainant and the staff involved.
+
+================================================================================
+END OF CHAPTER 2.5 QUESTIONS
+Total Questions: 30
+
+
+Easy: 12
+
+
+Medium: 12
+
+
+Hard: 6
+
+
+Answer Distribution:
+
+
+Correct answer A: 8 questions
+
+
+Correct answer B: 7 questions
+
+
+Correct answer C: 7 questions
+
+
+Correct answer D: 8 questions
+
+
+================================================================================

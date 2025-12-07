@@ -1,0 +1,333 @@
+================================================================================
+UNIT 1, CHAPTER 1.6: SEARCH PROCEDURES
+
+Question 1 [Easy]
+When using the HOT principle to assess a suspicious item, what do the three letters stand for?
+
+A) Hostile, Obvious, Threatening
+B) Hidden, Obviously suspicious, Typical for the location
+C) Handle, Observe, Tell
+D) Hazardous, Out of place, Technical
+
+Correct Answer: B
+
+Explanation:
+HOT stands for: Has it been Hidden? Is it Obviously suspicious? Is it Typical for this location? This simple checklist helps a CPO decide whether an unattended item is suspicious and needs to be reported without being touched. 
+Huntingdonshire.gov.uk
++1
+
+Question 2 [Easy]
+What is the primary purpose of search procedures in close protection operations?
+
+A) To check that staff are following the company dress code
+B) To make guests feel welcome at the venue
+C) To speed up entry and reduce queues
+D) To detect threats such as weapons, explosive or tracking devices before they can harm the principal
+
+Correct Answer: D
+
+Explanation:
+The central aim of search procedures in close protection is threat detection – finding weapons, explosive devices, tracking and listening devices or other harmful items before they can endanger the principal or others. 
+GOV.UK
++1
+
+Question 3 [Easy]
+Which statement BEST describes the legal powers of a Close Protection Operative (CPO) to search a person in the UK?
+
+A) CPOs have no special powers and normally require consent or conditions of entry to search
+B) CPOs may search anyone in a public place without consent
+C) CPOs may use police powers of stop and search when working for a principal
+D) CPOs may force a search if they believe someone is carrying contraband
+
+Correct Answer: A
+
+Explanation:
+CPOs are private security and do not have police powers. They generally need the person’s consent, or agreement via conditions of entry on private premises. If consent is refused, they may refuse entry, but cannot forcibly search the person. 
+GOV.UK
++1
+
+Question 4 [Easy]
+Which type of personal search involves physically running the hands over a person’s body through their clothing?
+
+A) Visual observation
+B) Electronic search with a hand‑held metal detector
+C) Pat‑down (frisk) search
+D) Bag and belongings search
+
+Correct Answer: C
+
+Explanation:
+A pat‑down search is a physical search conducted through clothing using the hands. It is more intrusive than simple observation or bag checks and therefore requires consent, same‑sex searching and a professional approach.
+
+Question 5 [Easy]
+What is the usual systematic order for searching a vehicle before the principal uses it?
+
+A) Outside → Inside → Engine → Underneath
+B) Inside → Underneath → Engine → Outside
+C) Engine → Outside → Inside → Underneath
+D) Underneath → Inside → Outside → Engine
+
+Correct Answer: A
+
+Explanation:
+A recommended pattern is: external search first (outside), then internal, then engine compartment, and finally underneath using mirrors. This systematic approach helps ensure no area is missed and supports consistent, repeatable searches.
+
+Question 6 [Easy]
+Which sequence BEST describes a systematic search of a room that the principal will use?
+
+A) Ceiling first, then walls, then floor, then furniture
+B) Randomly check any items that look suspicious
+C) Start in the centre and work outwards, ignoring the ceiling
+D) Observe on entry, search around the perimeter, then the centre, then above head height including ceiling and fittings
+
+Correct Answer: D
+
+Explanation:
+A good room‑search pattern is: observe on entering, then search the perimeter (walls, doors, windows) from floor to ceiling, then move to the centre and furniture, and finally check above head height and ceiling fittings. This reduces the chance of missing areas.
+
+Question 7 [Easy]
+In a close protection context, what does Technical Surveillance Countermeasures (TSCM) involve?
+
+A) Negotiating with hostile crowds to reduce tension
+B) The use of CCTV to monitor public areas
+C) Measures to detect and counter electronic surveillance devices such as hidden microphones, cameras or trackers
+D) The emergency evacuation drill for the principal
+
+Correct Answer: C
+
+Explanation:
+TSCM refers to detecting and countering technical surveillance, such as hidden microphones, cameras and tracking devices. It usually involves specialist electronic equipment plus careful physical searching of likely hiding places. 
+GOV.UK
+
+Question 8 [Easy]
+Why should a CPO complete a written record after conducting a search?
+
+A) So that the principal does not have to be told anything verbally
+B) To provide an accurate record of the search for legal, evidential and accountability purposes
+C) To ensure the CPO can claim overtime for the task
+D) To avoid having to brief the rest of the team
+
+Correct Answer: B
+
+Explanation:
+Search documentation creates a formal record showing what was searched, by whom, when, how and what was found. This supports legal accountability, evidence handling and reviewing patterns or weaknesses in security over time. 
+GOV.UK
+
+Question 9 [Easy]
+A bomb concealed in a vehicle to cause large‑scale damage is usually referred to as what?
+
+A) Person‑Borne Improvised Explosive Device (PBIED)
+B) Package Improvised Explosive Device (PackIED)
+C) Letter Improvised Explosive Device (L‑IED)
+D) Vehicle‑Borne Improvised Explosive Device (VBIED)
+
+Correct Answer: D
+
+Explanation:
+A Vehicle‑Borne Improvised Explosive Device (VBIED) is an IED hidden in or on a vehicle. It can carry a large explosive charge and is a major threat in close protection because vehicles are often close to the principal. 
+CISA
+
+Question 10 [Medium]
+You are about to carry out a pat‑down search on a guest entering a private function where the principal is present. What should you do FIRST?
+
+A) Explain the purpose and process of the search and obtain their consent
+B) Immediately begin patting down the person to save time
+C) Ask a colleague of the opposite sex to conduct the search
+D) Tell the person that the search is compulsory under police powers
+
+Correct Answer: A
+
+Explanation:
+Before a pat‑down, the CPO should explain what will happen, why it’s being done and obtain voluntary consent. This respects dignity, clarifies that it is a condition of entry (if applicable) and helps avoid complaints or allegations of improper conduct.
+
+Question 11 [Medium]
+Before the principal leaves a meeting, you notice their car has been left unattended for about 30 minutes in a public car park. What is the MOST appropriate action before allowing the principal to use it?
+
+A) Assume it is safe as it was locked when left
+B) Ask the principal to enter quickly so as not to cause delay
+C) Conduct a systematic vehicle search, starting with an external check before allowing the principal to use it
+D) Cancel the journey and insist on using public transport instead
+
+Correct Answer: C
+
+Explanation:
+An unattended vehicle could be tampered with or fitted with an explosive or tracking device. The correct response is a systematic search, starting externally and then checking inside, the engine bay and underneath before the principal enters.
+
+Question 12 [Medium]
+At a private event in a hotel suite, the host requires all guests to be searched as a condition of entry. A guest refuses to be searched but demands entry. What is the MOST appropriate response by the CPO controlling access?
+
+A) Call the police and ask them to arrest the guest for refusing
+B) Politely refuse them entry because they will not agree to the search condition
+C) Allow them in but record that they refused to be searched
+D) Carry out the search anyway because the host has requested it
+
+Correct Answer: B
+
+Explanation:
+On private premises, searching can be a condition of entry. If a guest refuses that condition, the CPO cannot force a search, but may politely refuse entry. Forcing a search could amount to assault or false imprisonment. 
+GOV.UK
++1
+
+Question 13 [Medium]
+While conducting an early‑morning sweep of a venue, you find a small rucksack pushed behind a bin in a normally quiet staff corridor. No one nearby claims it. Using the HOT principle, what should you do?
+
+A) Decide it is typical for a corridor and safe to ignore
+B) Open it carefully to see who it belongs to
+C) Move it to a more open area before reporting it
+D) As it appears hidden and not typical for the location, treat it as suspicious, clear the area and report it without touching
+
+Correct Answer: D
+
+Explanation:
+The bag appears hidden and is not typical for that corridor, so HOT suggests it should be treated as suspicious. The correct action is to move people away, avoid touching it, and report it immediately according to local procedures. 
+Huntingdonshire.gov.uk
++1
+
+Question 14 [Medium]
+The principal is due to arrive at a conference venue in 15 minutes. You have a small team and limited time. What type of premises search is MOST appropriate at this stage?
+
+A) A quick sweep of key areas the principal will use, focusing on obvious threats
+B) A full detailed search of every room and void in the building
+C) A specialist TSCM sweep of all telephone and data lines
+D) No search is needed because of the short time available
+
+Correct Answer: A
+
+Explanation:
+With limited time, the realistic option is a sweep search – a rapid check of the key areas the principal will use (entrances, reception route, stage/room, toilets nearby). A detailed or specialist search may be planned for later if needed.
+
+Question 15 [Medium]
+During a vehicle search, you discover a small package of illegal drugs in the boot. The police attend and take possession of the package. When completing your search documentation, what should you make sure to record?
+
+A) Only the principal’s opinion about how the drugs got there
+B) A clear description of the item, where and when it was found, who found it and what action was taken
+C) Just that “illegal items were removed” so as not to cause embarrassment
+D) The estimated street value of the drugs
+
+Correct Answer: B
+
+Explanation:
+Good documentation should include what was found, where and when, by whom, and what action was taken, supporting the chain of custody and any later investigation or legal proceedings. 
+GOV.UK
+
+Question 16 [Medium]
+When carrying out a pat‑down search of a person entering the principal’s residence, which technique is MOST appropriate?
+
+A) Use fingertips and squeeze hard to ensure nothing is missed
+B) Avoid touching sensitive areas such as the waistband or ankles
+C) Use the palms of your hands in a firm but professional manner, following a systematic head‑to‑toe pattern
+D) Ask the person to search themselves while you observe
+
+Correct Answer: C
+
+Explanation:
+A pat‑down should be systematic (e.g. head‑to‑toe), using the palms of the hands, firm enough to detect objects but not aggressive. Key areas such as waistband, socks and ankles must be checked while maintaining dignity and professionalism.
+
+Question 17 [Medium]
+During a planned vehicle search, how should you check the underside of the vehicle safely and effectively?
+
+A) Lie on your back under the vehicle and feel along the chassis with your hands
+B) Drive the vehicle over a kerb so you can see underneath more easily
+C) Ask the principal to hold a torch while you crawl underneath
+D) Use an under‑vehicle search mirror and a torch to carry out a systematic visual inspection from the outside
+
+Correct Answer: D
+
+Explanation:
+The safest and most professional method is to use an under‑vehicle search mirror, often with a torch, and work in a systematic pattern. This avoids unnecessary personal risk while allowing you to spot unusual devices, packages or attachments.
+
+Question 18 [Medium]
+The principal plans to hold sensitive commercial negotiations in a conference room at an unfamiliar venue. What is the BEST approach regarding TSCM?
+
+A) Arrange for professional TSCM specialists to sweep the room and carry out your own basic visual checks beforehand
+B) Rely on the venue’s housekeeping staff to check the room
+C) Ask the principal to switch off their mobile phone and assume that is sufficient
+D) Install extra CCTV cameras in the room instead of a TSCM sweep
+
+Correct Answer: A
+
+Explanation:
+For high‑value or sensitive meetings, professional TSCM specialists should be used, as they have the training and equipment to detect technical surveillance. The CPO’s role includes recognising when TSCM is needed and commissioning specialists, alongside doing basic visual checks. 
+GOV.UK
+
+Question 19 [Hard]
+A convoy vehicle for the principal was parked on a public street for an hour. As you begin your external search, you see fresh tape and a small box with visible wires behind the rear bumper. The principal and their PA are already walking towards the vehicle. What should you do FIRST?
+
+A) Quickly remove the box so the principal can depart on time
+B) Use your radio next to the bumper to call the team leader for advice
+C) Continue the search to confirm whether any other devices are present before acting
+D) Immediately stop the principal’s approach, move everyone to a safe distance, clear the area and report the suspicious object without touching it
+
+Correct Answer: D
+
+Explanation:
+This is a strong indicator of a possible IED. The immediate priority is life safety: stop the approach, move people away, clear and cordon the area and report it. You must not touch the device or use radios close to it, as transmissions can sometimes initiate devices. 
+CISA
++1
+
+Question 20 [Hard]
+You are leading a team to sanitise a large hotel suite and adjacent rooms for the principal’s overnight stay. Time is limited and the threat level is elevated. Which plan offers the MOST effective use of your team?
+
+A) Send pairs of CPOs to randomly selected rooms and instruct them to report any obvious hazards
+B) Focus solely on the principal’s bedroom and ignore adjacent rooms to save time
+C) Use floor plans to allocate specific rooms and areas to each team member, agree a systematic floor‑to‑ceiling search pattern (perimeter then centre) and ensure all findings are documented
+D) Rely on the hotel’s routine security patrols instead of conducting your own search
+
+Correct Answer: C
+
+Explanation:
+An effective premises search is planned and systematic. Using floor plans, allocating clear areas of responsibility, applying a consistent search pattern (perimeter then centre, floor‑to‑ceiling) and documenting results provides the best coverage in limited time. 
+GOV.UK
+
+Question 21 [Hard]
+During a function at a city‑centre hotel, a large suitcase is found unattended in a service corridor near the ballroom where the principal is speaking. CCTV shows someone leaving it there and walking away quickly. Using HOT and IED awareness, what should the CPO team leader do?
+
+A) Open the suitcase carefully to check whether it belongs to a guest
+B) Treat it as a suspicious item: move the principal and guests away, clear and cordon the area, avoid using radios close to it and notify the police immediately
+C) Move the suitcase to an empty room and then call hotel security
+D) Ignore it because service corridors often contain abandoned luggage
+
+Correct Answer: B
+
+Explanation:
+The item appears deliberately left and not typical, so under HOT it must be treated as suspicious. The correct response is to evacuate or move the principal and guests away, establish an initial cordon, avoid touching or using radios close to the item, and contact police/bomb specialists immediately. 
+npsa.gov.uk
++1
+
+Question 22 [Hard]
+At a private gala, entry is restricted to invited guests and subject to searching as a condition of entry. You are a male CPO working with a female CPO. A female guest agrees to a bag search but refuses a pat‑down search, saying she finds it intrusive. The threat level is raised. What is the MOST appropriate response?
+
+A) Explain that a same‑sex officer can carry out the pat‑down and that it is a condition of entry; if she still refuses, politely deny her entry
+B) Allow her to enter because she has consented to a bag search
+C) Carry out the pat‑down yourself because the threat level is raised
+D) Detain her until the police arrive for refusing to be searched
+
+Correct Answer: A
+
+Explanation:
+Personal searches must respect consent, dignity and same‑sex searching. You should explain that a female CPO can carry out the pat‑down as a condition of entry. If she still refuses, you cannot force the search, but you may politely refuse entry in line with the agreed security policy. 
+GOV.UK
++1
+
+================================================================================
+END OF CHAPTER 1.6 QUESTIONS
+
+Total Questions: 22
+
+Easy: 9
+
+Medium: 9
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 6 questions (Q3, Q5, Q10, Q14, Q18, Q22)
+
+Correct answer B: 5 questions (Q1, Q8, Q12, Q15, Q21)
+
+Correct answer C: 5 questions (Q4, Q7, Q11, Q16, Q20)
+
+Correct answer D: 6 questions (Q2, Q6, Q9, Q13, Q17, Q19)
+
+================================================================================

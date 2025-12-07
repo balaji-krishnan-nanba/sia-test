@@ -1,0 +1,289 @@
+================================================================================
+UNIT 1, CHAPTER 1.3: ROLES AND RESPONSIBILITIES OF THE CPO
+
+Question 1 [Easy]
+What does SAP stand for in close protection operations?
+
+A) Security Assessment Protocol
+B) Security Advance Party
+C) Surveillance and Protection
+D) Standard Action Plan
+
+Correct Answer: B
+
+Explanation: SAP stands for Security Advance Party. The SAP goes ahead of the main team to carry out reconnaissance of venues and routes, liaise with local security and staff, and ensure everything is ready and secure before the principal arrives.
+
+Question 2 [Easy]
+In commercial close protection operations, which team configuration is MOST commonly used?
+
+A) Two-person team
+B) Solo operator
+C) Three- to four-person team
+D) Large team of five or more operatives
+
+Correct Answer: A
+
+Explanation: The syllabus states that the two-person team is the most common commercial configuration. It typically consists of a Team Leader and another operative (often working as driver/PPO), providing basic but effective coverage.
+
+Question 3 [Easy]
+Which role is normally positioned immediately beside the principal and primarily responsible for leading any evacuation?
+
+A) Security Driver
+B) Rear Cover Officer
+C) Personal Protection Officer (PPO)
+D) Security Advance Party (SAP) Operative
+
+Correct Answer: C
+
+Explanation: The Personal Protection Officer (PPO), often called the “body man/woman”, stays immediately beside the principal, provides the closest physical protection and leads the principal’s evacuation if a threat occurs.
+
+Question 4 [Easy]
+On a close protection task, who normally holds overall operational command and is ultimately responsible for the success or failure of the mission?
+
+A) Personal Protection Officer
+B) Principal
+C) Security Driver
+D) Team Leader
+
+Correct Answer: D
+
+Explanation: The Team Leader (TL) has overall command of the operation. They make tactical decisions, allocate resources and are responsible for the success or failure of the task, even though the principal is the client.
+
+Question 5 [Easy]
+What is the PRIMARY purpose of a Residential Security Team (RST)?
+
+A) To conduct advance reconnaissance of venues before the principal arrives
+B) To protect the principal’s residence and maintain 24/7 static security
+C) To escort the principal during walking and vehicle movements
+D) To drive the principal and manage all convoy vehicles
+
+Correct Answer: B
+
+Explanation: The RST is focused on the principal’s residence. They provide 24/7 security, control access, monitor CCTV and alarms, and act as the static security layer at home or base of operations.
+
+Question 6 [Easy]
+Before starting a journey with the principal, what is a key responsibility of the security driver?
+
+A) Carry out a full vehicle inspection, including fuel and safety equipment checks
+B) Brief the media on the principal’s intended route
+C) Remain in the hotel lobby with the PES until called
+D) Update the principal’s family on all movements
+
+Correct Answer: A
+
+Explanation: A core pre‑journey duty of the security driver is to inspect the vehicle: checking fuel, tyres, lights, safety and communication equipment, so the vehicle is prepared and safe for the principal.
+
+Question 7 [Easy]
+What is the PRIMARY duty of any close protection operative (CPO)?
+
+A) To organise the principal’s business meetings
+B) To ensure the team’s expenses stay within budget
+C) To protect the principal’s life, safety and security
+D) To manage the principal’s public image
+
+Correct Answer: C
+
+Explanation: The primary duty of every CPO is protection of the principal—their life, safety and security. All other tasks are secondary to this core responsibility.
+
+Question 8 [Easy]
+Within a close protection team, who normally acts as the main liaison with the principal to understand their requirements and manage expectations?
+
+A) Security Driver
+B) SAP Leader
+C) Personal Protection Officer
+D) Team Leader
+
+Correct Answer: D
+
+Explanation: The Team Leader is normally the principal’s main point of contact, responsible for understanding their needs, explaining security restrictions and building a professional, trusting relationship.
+
+Question 9 [Easy]
+Under the usual chain of command on a close protection task, to whom should an individual CPO FIRST report security concerns or incidents?
+
+A) The principal’s family
+B) The Team Leader
+C) The media liaison officer
+D) Local police
+
+Correct Answer: B
+
+Explanation: Normal reporting structure is CPO → Team Leader. The TL then decides on escalation to management, client or external agencies such as the police, depending on the incident.
+
+Question 10 [Medium]
+A low-profile executive with a limited budget requires occasional protection while travelling alone on domestic business trips. Which team configuration is MOST appropriate in this situation?
+
+A) Solo operator
+B) Large team of five or more operatives
+C) Dedicated residential security team only
+D) Full 24/7 rotating team with separate SAP and RST
+
+Correct Answer: A
+
+Explanation: For a low-profile principal with restricted resources, a solo operator is the most realistic and commonly used configuration in commercial CP. While a two-person team would provide better coverage, budget constraints and the low-profile, lower-risk nature of the task make a solo operator the most appropriate and cost-effective choice. Solo operators are trained to handle all aspects of protection independently for such assignments.
+
+Question 11 [Medium]
+The team has been tasked to escort a principal to a high-profile awards event. Before the movement begins, which action BEST demonstrates the Team Leader’s planning responsibilities?
+
+A) Checking the principal’s clothing is suitable for the red carpet
+B) Personally driving the lead vehicle to “set an example”
+C) Reviewing the risk assessment, confirming contingency routes and briefing the team
+D) Delegating all planning tasks to the hotel’s security manager
+
+Correct Answer: C
+
+Explanation: The TL is responsible for operational planning: reviewing risk assessments, ensuring contingency routes exist and giving clear briefings. Option C directly reflects those planning and command duties.
+
+Question 12 [Medium]
+During a walk from the vehicle to a venue entrance through a busy crowd, which Protective Escort Section (PES) position should focus primarily on identifying threats ahead of the principal and clearing the path?
+
+A) Rear cover officer
+B) Flanker on the principal's dominant side
+C) Residential security officer
+D) Point officer
+
+Correct Answer: D
+
+Explanation: The Point officer operates to the front of the formation, scanning ahead for threats, identifying choke points and clearing the path for the principal and PES.
+
+Question 13 [Medium]
+The Security Advance Party (SAP) arrives at a hotel two hours before the principal. What should be their FIRST priority?
+
+A) Reserving the best table in the restaurant for the principal
+B) Conducting venue reconnaissance, including exits, safe areas and potential hazards
+C) Waiting in the lobby until the principal arrives to escort them to reception
+D) Briefing the media about the principal’s arrival time
+
+Correct Answer: B
+
+Explanation: The SAP’s main job is reconnaissance: understanding the layout, exits, emergency routes, safe areas and hazards, and coordinating with venue security before the principal arrives.
+
+Question 14 [Medium]
+At the start of the morning shift, the mobile close protection team arrives at the principal’s home to collect them. What information is MOST important for the Residential Security Team (RST) to pass on during the handover?
+
+A) Any incidents, suspicious activity or system faults noted during the night
+B) The RST officers’ personal plans for the weekend
+C) The principal’s favourite television channels
+D) The hotel options near the next venue
+
+Correct Answer: A
+
+Explanation: Effective handover between RST and the mobile team requires passing on security‑relevant information: incidents, suspicious activity, vulnerabilities, system issues and key updates that could affect the principal’s safety.
+
+Question 15 [Medium]
+While driving the principal, the security driver notices a vehicle behind that appears to be following them and matching every lane change. What is the MOST appropriate initial response?
+
+A) Immediately brake hard to confront the vehicle behind
+B) Ignore it unless the principal comments on it
+C) Use defensive driving to increase distance, confirm suspicion using mirrors, and inform the team over the radio
+D) Stop the vehicle and ask the principal what they want to do
+
+Correct Answer: C
+
+Explanation: The driver should use defensive driving to increase distance, discreetly confirm the suspicion and communicate with the team. Sudden confrontation or ignoring the issue is unsafe and unprofessional.
+
+Question 16 [Medium]
+A CPO overhears sensitive business information while accompanying the principal. Later, a journalist offers money for details about the conversation. What is the MOST appropriate response?
+
+A) Provide only general information so no one is harmed
+B) Accept the money but change some of the details
+C) Decline to comment but discuss the offer with colleagues
+D) Refuse to disclose any information and maintain strict confidentiality
+
+Correct Answer: D
+
+Explanation: Confidentiality is an absolute requirement. The CPO must refuse to disclose information and not discuss it with others. Sharing any details, even altered ones, breaches professional and ethical standards.
+
+Question 17 [Medium]
+The principal insists on walking through a large crowd to greet fans, despite the Team Leader’s assessment that this significantly increases risk. What is the BEST way for the Team Leader to manage this situation?
+
+A) Cancel the event without explaining the reasons to the principal
+B) Explain the risks clearly, suggest safer alternatives, and agree a compromise the principal can accept
+C) Allow the principal to do whatever they want because they are the client
+D) Ignore the principal’s wishes and proceed exactly as originally planned
+
+Correct Answer: B
+
+Explanation: The TL must manage expectations and communicate risk. Explaining the risks, proposing safer alternatives and reaching a workable compromise respects both the principal’s wishes and security requirements.
+
+Question 18 [Medium]
+During a venue arrival, a member of the crowd throws a drink towards the principal but misses. The situation is quickly controlled and the event continues. What should the CPO do AFTER the principal is safe and operations are stable?
+
+A) Complete a factual incident report and submit it through the chain of command
+B) Ignore it because the principal was not actually hit
+C) Post details about the incident on social media to warn others
+D) Discuss the incident informally only with family and friends
+
+Correct Answer: A
+
+Explanation: Even a near miss is a security incident. It must be recorded accurately and reported through the correct chain of command to support future planning, legal protection and intelligence gathering.
+
+Question 19 [Hard]
+The SAP reports by radio that the primary entrance to a conference venue is unexpectedly closed due to a protest. The principal’s convoy is two minutes away and already on the planned route. Which response by the Team Leader BEST demonstrates effective command and control?
+
+A) Instruct the convoy to continue to the closed entrance and “see if it can be opened”
+B) Ask the principal which way they would prefer to enter the building
+C) Activate the pre-planned contingency route, direct the security driver to the alternate entrance, and confirm PES positions for the new approach
+D) Abort the movement immediately and send all staff home
+
+Correct Answer: C
+
+Explanation: The TL must make a tactical decision based on planning and SAP information. Using the pre‑planned contingency route, redirecting the convoy and re‑tasking the PES maintains security, control and continuity of the operation.
+
+Question 20 [Hard]
+During a walk from the vehicle to a theatre entrance, an aggressive individual suddenly pushes through the crowd from the principal’s left side, shouting threats. The principal is in the centre of a standard PES formation. Which team member should FIRST focus on physically blocking and managing this lateral threat while the PPO begins evacuation?
+
+A) Rear cover officer
+B) Security driver
+C) Point officer
+D) Left-side flanker
+
+Correct Answer: D
+
+Explanation: Flankers are responsible for lateral threat coverage and crowd management on either side of the principal. The left‑side flanker should block the threat, while the PPO concentrates on moving the principal away to safety.
+
+Question 21 [Hard]
+A principal asks their CPO to use their position to obtain confidential police information about a business rival. The request is clearly outside the CPO’s role and would breach legal and professional standards. How should the CPO respond?
+
+A) Agree to help but delay taking action in the hope the principal forgets
+B) Politely refuse, explain that the request is unlawful and outside their role, and reassure the principal that their own security remains the priority
+C) Ask another team member to carry out the request instead
+D) Provide some information anyway to maintain a good relationship with the principal
+
+Correct Answer: B
+
+Explanation: The CPO must maintain professional boundaries, legal compliance and ethical standards. Politely refusing and explaining why, while reassuring the principal that their security remains the focus, is the correct professional response.
+
+Question 22 [Hard]
+While transporting the principal, the security driver turns into a narrow side street and suddenly sees a vehicle blocking the road ahead with several suspicious individuals standing nearby. What is the driver’s MOST appropriate immediate action?
+
+A) Carry out an evasive manoeuvre by reversing or turning to leave the danger area using a pre-identified escape route
+B) Stop and confront the individuals to find out what they want
+C) Wait to see whether the individuals actually approach the vehicle
+D) Ask the principal for instructions before doing anything
+
+Correct Answer: A
+
+Explanation: The driver’s priority is to remove the principal from danger using evasive driving and pre‑planned escape routes. Stopping, confronting or delaying increases vulnerability and goes against defensive/evasive driving principles.
+
+================================================================================
+END OF CHAPTER 1.3 QUESTIONS
+
+Total Questions: 22
+
+Easy: 9
+
+Medium: 9
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 6 questions (Q2, Q6, Q10, Q14, Q18, Q22)
+
+Correct answer B: 6 questions (Q1, Q5, Q9, Q13, Q17, Q21)
+
+Correct answer C: 5 questions (Q3, Q7, Q11, Q15, Q19)
+
+Correct answer D: 5 questions (Q4, Q8, Q12, Q16, Q20)
+
+================================================================================

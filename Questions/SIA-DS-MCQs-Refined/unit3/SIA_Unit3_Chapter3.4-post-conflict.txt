@@ -1,0 +1,191 @@
+================================================================================
+UNIT 3, CHAPTER 3.4: POST-CONFLICT PROCEDURES
+================================================================================
+Meta: Total=14 | Easy=6 | Medium=5 | Hard=3 | A=3 | B=4 | C=4 | D=3
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Immediately after a fight between two customers has been broken up and they have been separated, what should be your main priority as a door supervisor?
+
+A) Begin questioning witnesses for formal statements
+B) Check for injuries and ensure the area is safe
+C) Review the CCTV to see who started it
+D) Start writing up the incident report
+
+Answer: B
+Explanation: In the immediate aftermath, your first responsibility is safety: make sure there are no ongoing threats, check for injuries and arrange medical help if needed. Only once the scene is safe should you move on to evidence, witnesses and paperwork.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: In the ELBOWS method of structuring an incident report, what does the "S" stand for?
+
+A) Subjects – the people involved
+B) Summary of events
+C) Seriousness of the incident
+D) Suspicions about what caused it
+
+Answer: A
+Explanation: ELBOWS stands for Event, Location, Brought to attention, Observations, Witnesses, Subjects. "Subjects" means clearly describing the people involved – their role in the incident and how you can identify them.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which of the following situations is most likely to require a report under RIDDOR (by your employer)?
+
+A) A customer stumbles on the stairs but is uninjured and continues their night
+B) A door supervisor is pushed by a customer, has a small bruise but works the next day
+C) A door supervisor is injured by a violent customer and is signed off work for 10 days
+D) A customer is refused entry for being too intoxicated and leaves quietly
+
+Answer: C
+Explanation: RIDDOR reporting applies when a work-related injury results in over 7 consecutive days' incapacitation (not counting the day of the accident). Being signed off for 10 days exceeds this threshold, so RIDDOR reporting is required.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: What is a cold debrief?
+
+A) A debrief held during the incident to decide tactics
+B) A quick chat immediately after the incident before going back on duty
+C) A disciplinary meeting to decide who should be punished
+D) A more detailed review held later, after emotions have settled
+
+Answer: D
+Explanation: A cold debrief is usually carried out later, once people have had time to calm down and think clearly. It is more detailed than a hot debrief and looks at what happened, what went well, what could be improved and what should change for next time.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which of the following is a normal immediate reaction after dealing with a serious confrontation?
+
+A) Slower heart rate and feeling unusually relaxed
+B) Shakiness and increased heart rate
+C) Permanent memory loss of the incident
+D) Long-term depression starting within minutes
+
+Answer: B
+Explanation: Conflict can trigger the body's fight-or-flight response: adrenaline, faster heart rate, and shakiness are common and normal reactions to a high-stress incident. These are short‑term physiological responses, not signs of weakness.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Which action is the best example of immediate self-care after a stressful incident at work?
+
+A) Going straight to the pub for several strong drinks
+B) Volunteering for the most confrontational duties to "prove" you're fine
+C) Taking a short break, doing some deep breathing and talking briefly with a colleague
+D) Going home without completing any paperwork so you don't have to think about it
+
+Answer: C
+Explanation: Good immediate self-care includes physical and psychological steps: taking a breather, regulating your breathing and talking to a trusted colleague or supervisor. Excess alcohol, avoidance and ignoring procedures can make things worse in the longer term.
+
+---
+Q7 | Difficulty: Medium
+---
+Question: During ejection, two customers have been removed after a fight. One is sitting on the pavement holding their arm and saying it hurts. The other has run off. A small crowd is gathering to watch. What is the most appropriate next action?
+
+A) Move bystanders away, assess the injured person and call an ambulance if needed
+B) Chase the customer who ran away so they don't escape
+C) Leave the injured person where they are and start taking names of witnesses
+D) Go back inside to resume door duties and let the bar staff deal with it
+
+Answer: A
+Explanation: You must still manage the immediate aftermath outside the venue: control the crowd, protect the injured person and arrange medical help where needed. Chasing someone who has run off is lower priority than safety and medical needs.
+
+---
+Q8 | Difficulty: Medium
+---
+Question: You are writing your incident report. Which entry best follows the principle of being factual and professional, rather than opinion or judgement?
+
+A) "The customer was clearly drunk and looking for trouble."
+B) "The customer smelt strongly of alcohol, slurred their speech and staggered when walking."
+C) "The customer is a known idiot who always causes problems."
+D) "The customer was obviously a dangerous criminal."
+
+Answer: B
+Explanation: Good documentation records what you saw, heard and did, not your opinions or insults. Describing observable behaviour (smell of alcohol, slurred speech, unsteady walking) is objective and more credible in court or internal investigations.
+
+---
+Q9 | Difficulty: Medium
+---
+Question: A customer becomes verbally abusive at the door when refused entry. They swear at you but leave when told they will not be allowed in. No threats are made and no one is injured. What is the most appropriate way to deal with this from a reporting point of view?
+
+A) Do nothing – it was only words, so it doesn't count as an incident
+B) Immediately call 999 and request urgent police attendance
+C) Record the incident and report it to management in line with venue procedures
+D) Post about it on social media to warn other venues about the customer
+
+Answer: C
+Explanation: Even "minor" incidents should be recorded and reported to management in line with local procedures. Police involvement is usually reserved for criminal offences, serious violence, weapons or ongoing risk, but internal records help spot patterns and protect staff.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: A large, aggressive group is turned away from the venue. No one is injured, but it was tense and could easily have become violent. The supervisor calls the team together for five minutes before they return to normal duties. What is the main purpose of this short "hot debrief"?
+
+A) To carry out a full investigation and decide who is to blame
+B) To review quickly what happened, what went well and what could be improved while it's fresh
+C) To update everyone's annual performance reviews
+D) To allow staff to vent about unrelated issues at work
+
+Answer: B
+Explanation: A hot debrief is brief and happens soon after the incident. It aims to capture fresh memories, identify what worked, and spot any immediate changes needed before the next incident, not to run a formal investigation or performance review.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: Four days after a serious incident, you notice you are still replaying it in your mind and having trouble sleeping. You can do your job, but you feel on edge and worried it might happen again. What is the most appropriate next step?
+
+A) Talk to your manager and/or use any counselling or Employee Assistance Programme available
+B) Say nothing and hope it goes away in a few weeks
+C) Have a few strong drinks before each shift to calm your nerves
+D) Quit your job by text and refuse to discuss the incident with anyone
+
+Answer: A
+Explanation: Ongoing sleep problems, intrusive thoughts and anxiety a few days after a critical incident are a warning sign that extra support may be needed. Good practice is to speak to management and access professional or structured support (EAP, counselling, occupational health) early, rather than waiting for problems to get worse.
+
+---
+Q12 | Difficulty: Hard
+---
+Question: Several months after being assaulted at work, a door supervisor is still experiencing flashbacks, avoids busy shifts, is irritable with family and has started thinking about "a few drinks before work" to cope. Which option best reflects an appropriate response?
+
+A) Use alcohol before shifts to feel calmer and carry on as normal
+B) Keep quiet, hope it improves and avoid any conversation about the incident
+C) Seek professional help via GP, counselling or occupational health and inform management about the difficulties
+D) Resign immediately by text and refuse any contact with the employer
+
+Answer: C
+Explanation: Persistent symptoms like flashbacks, avoidance and mood changes months after an incident may indicate a more serious stress reaction and need professional assessment (e.g. via GP, counselling or occupational health). Early help and honest communication with management is safer than self‑medicating or silently struggling.
+
+---
+Q13 | Difficulty: Hard
+---
+Question: A year ago, you completed a detailed incident report after restraining and ejecting a customer. You recorded timings, what was said and done, why you used force, injuries observed, witnesses and CCTV references. Now the customer is making a civil claim alleging assault and false imprisonment. Which of your earlier actions is likely to be most useful in defending you?
+
+A) Telling friends and family your version of events
+B) Posting about the incident on social media to show public support
+C) Relying on your memory of the incident without any written record
+D) The detailed, factual incident report completed as soon as possible after the event
+
+Answer: D
+Explanation: Accurate, timely and factual documentation is one of your strongest protections against criminal or civil claims. A well‑written incident report created soon after the event can support your account and demonstrate that your actions were necessary and reasonable, particularly when combined with witness statements and CCTV.
+
+---
+Q14 | Difficulty: Hard
+---
+Question: Over three months, there have been several fights in the same narrow corridor near the cloakroom. Each incident has been reported, but nothing in the layout or staffing has changed, and the pattern continues. As a new supervisor, what is the best step to promote learning and reduce future incidents?
+
+A) Tell the team to "be tougher" and use more force next time
+B) Stop writing incident reports so management cannot see there is a problem
+C) Blame one particular colleague and request disciplinary action against them
+D) Raise the pattern in a cold debrief or meeting and work with management to review procedures, staffing and the environment in that area
+
+Answer: D
+Explanation: Repeated incidents in the same place suggest a system issue, not just individual failures. Bringing this pattern into a structured review (cold debrief / management meeting) allows the team and organisation to learn from incidents, adjust policies, staffing or layout and improve safety, rather than focusing on blame.
+
+================================================================================
+END OF CHAPTER 3.4
+================================================================================

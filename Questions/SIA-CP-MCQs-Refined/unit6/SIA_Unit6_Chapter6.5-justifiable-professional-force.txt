@@ -1,0 +1,287 @@
+================================================================================
+UNIT 6, CHAPTER 6.5: POST-INCIDENT PROCEDURES FOR PHYSICAL INTERVENTION
+
+Question 1 [Easy]
+What is the FIRST priority in the immediate post-incident sequence?
+
+A) Documentation
+B) Securing the scene and ensuring the threat is neutralised
+C) Calling the client
+D) Debriefing the team
+
+Correct Answer: B
+
+Explanation: The first priority is always to SECURE: confirm the threat is neutralised, the principal is safe, the scene is under control and there are no secondary threats. Only once that is achieved should you move on to medical care, communication and evidence preservation.
+
+Question 2 [Easy]
+Which option shows the correct overall order of post-incident priorities?
+
+A) Communicate → Secure → Medical → Preserve
+B) Medical → Secure → Preserve → Communicate
+C) Preserve → Medical → Secure → Communicate
+D) Secure → Medical → Communicate → Preserve
+
+Correct Answer: D
+
+Explanation: The agreed sequence is Secure → Medical → Communicate → Preserve. First secure the scene and principal, then deal with injuries, then communicate with emergency services and control, and finally focus on preserving evidence and recording events.
+
+Question 3 [Medium]
+During a public appearance, you and your team have physically removed and restrained a man who rushed towards the principal. Two team members are holding him on the ground. The principal is standing a few metres away, visibly shaken but apparently uninjured. Members of the crowd are filming and moving closer. What should you do NEXT as team leader?
+
+A) Quickly reposition the principal to a safer area and conduct a rapid scan for further threats while directing the team to maintain containment of the subject.
+B) Immediately call control to start an incident report while leaving the principal where they are.
+C) Begin taking photographs of the restrained subject and the crowd for evidence.
+D) Release the subject now the principal appears safe, to avoid allegations of assault.
+
+Correct Answer: A
+
+Explanation: After the intervention, you must still secure the situation. That means maintaining a protective bubble around the principal, moving them to a safer location if necessary, and checking for secondary threats. Documentation and evidence can wait until safety and security are properly established.
+
+Question 4 [Hard]
+At a hotel entrance, you and another CPO disarm and restrain an assailant who rushed the principal with a glass bottle. The assailant is on the ground, bleeding from the head but talking. A second male starts shouting and moving towards you, and the principal is only partly behind cover. CCTV cameras overlook the entrance. Which sequence of actions BEST reflects your priorities?
+
+A) Start first aid on the injured assailant, call 999, then check for further threats and later secure the CCTV footage.
+B) Call 999, begin preserving evidence by collecting the bottle, then check on the principal and manage the second male.
+C) Direct a colleague to move the principal fully to safety and challenge the second male, then once the scene is secure arrange first aid for the assailant, call 999 and protect CCTV and other evidence.
+D) Immediately go to the CCTV office to ensure the footage is saved, then return to assist with the assailant and check on the principal.
+
+Correct Answer: C
+
+Explanation: You must first secure: protect the principal and manage the potential secondary attacker. Once the scene is safe, move to medical (treating injuries), then communicate (999) and finally preserve evidence (bottle, CCTV, scene). Options A, B and D get the order wrong by prioritising medical care or evidence over scene security and principal safety.
+
+Question 5 [Easy]
+Immediately after an attempted attack, what is the MOST appropriate first step in checking the principal’s physical welfare?
+
+A) Ask if they have any pain or injuries and visually check for obvious and possible hidden injuries.
+B) Tell them they are fine because they were not hit.
+C) Ask them to sign a disclaimer refusing medical treatment.
+D) Leave them with a colleague while you check on the attacker.
+
+Correct Answer: A
+
+Explanation: The principal’s welfare is your priority. You should actively check for injuries (including hidden ones), asking simple questions and observing them closely. Minimising their concerns, asking for paperwork or leaving them to focus on the attacker is inappropriate at this stage.
+
+Question 6 [Medium]
+After a violent confrontation outside a venue, the principal is shaking and tearful but insists on returning inside to “get on with the event”. There is no ongoing threat and the venue is secure. What is the MOST appropriate response?
+
+A) Tell them they must go home immediately and that they are not thinking clearly.
+B) Leave them alone for a few minutes to calm down while you start paperwork.
+C) Avoid discussing what happened so they don’t get upset again.
+D) Stay with them, calmly reassure them they are safe, explain briefly what happened, and discuss options (short break, medical check or leaving) while respecting their wishes and safety.
+
+Correct Answer: D
+
+Explanation: The CPO should offer calm, reassuring support, explain the situation, and help the principal make an informed decision that balances their wishes with safety and welfare. Being heavy‑handed, disappearing or avoiding the topic does not support their psychological welfare.
+
+Question 7 [Medium]
+Which action BEST supports the principal’s psychological welfare in the minutes immediately after an attempted attack?
+
+A) Encouraging them to “man up” and forget about it.
+B) Asking repeatedly for a detailed description of their feelings so you can write a better report.
+C) Maintaining a calm presence, reassuring them they are safe, and answering their questions honestly in a professional way.
+D) Telling them it wasn’t serious and that they are overreacting.
+
+Correct Answer: C
+
+Explanation: After a shocking event, the principal needs a calm, reassuring presence. You should confirm they are safe and answer their questions professionally. Minimising their experience, pressuring them for detail or using dismissive language is harmful and unprofessional.
+
+Question 8 [Easy]
+What are “contemporaneous notes” in the context of a physical intervention?
+
+A) Notes typed up by your manager the next day.
+B) Notes made at the time of the incident or as soon as possible afterwards, while details are still fresh.
+C) Any notes made before your formal training.
+D) A summary of the incident written by the police.
+
+Correct Answer: B
+
+Explanation: Contemporaneous notes are written at the time or immediately after the incident. They capture key facts while your memory is freshest and are an important, often admissible form of evidence that can protect you later.
+
+Question 9 [Easy]
+When should a CPO normally complete a full incident report after a physical intervention, once safety is restored?
+
+A) As soon as reasonably possible after the incident, based on your contemporaneous notes.
+B) Only after reading other team members’ reports so they all match.
+C) At the end of the week when there is more time.
+D) Only if the principal was injured.
+
+Correct Answer: A
+
+Explanation: Reports should be completed as soon as practicable after the event so details are accurate. You should not wait days, rely on others’ accounts, or decide not to report just because there were no injuries.
+
+Question 10 [Medium]
+Which sentence is MOST appropriate to include in a professional incident report?
+
+A) “The subject was a complete idiot and left us no choice but to take him down.”
+B) “I think the subject was probably drunk and planning to attack, although I’m not sure.”
+C) “We used some force but it definitely wasn’t too much and nobody can say otherwise.”
+D) “I took hold of the male’s right arm and, with assistance from [name], escorted him away from the principal using an approved escorting technique.”
+
+Correct Answer: D
+
+Explanation: Incident reports must be factual, objective and descriptive, focusing on what you did, not emotional opinions or speculation. Option D uses clear, neutral language in the first person and describes the actions taken.
+
+Question 11 [Medium]
+Which of the following BEST describes what you should record about your use of force in an incident report?
+
+A) Only that you “restrained the subject” without detail, to keep the report short.
+B) What you did, why you did it, the level of force used, and the outcome for all parties.
+C) Only the principal’s actions, because that is who you protect.
+D) Just the injuries suffered by the attacker.
+
+Correct Answer: B
+
+Explanation: A good report explains your decisions and actions: what you did, your reasons (threat and risk), how much force you used and what happened as a result. This demonstrates that your actions were necessary, reasonable and proportionate.
+
+Question 12 [Hard]
+After an incident, your manager says: “Just make sure your report says the same as John’s so we don’t confuse the client.” You have contemporaneous notes and remember some details differently from John. What should you do?
+
+A) Copy John’s statement exactly so the reports match.
+B) Change your report to match what the principal remembers, even if it conflicts with your notes.
+C) Write your own factual, chronological account based on your contemporaneous notes, even if it differs slightly, and submit it through the proper channel.
+D) Refuse to write any report until the police have finished their investigation.
+
+Correct Answer: C
+
+Explanation: Each CPO must provide an honest, factual and independent account. Contemporaneous notes help you do this. Colluding or adjusting your report to match someone else’s version can undermine the integrity of the evidence and your professional credibility.
+
+Question 13 [Easy]
+Immediately after an incident, you see the broken bottle that was used as a weapon lying on the ground. The scene is secure. What is the MOST appropriate action?
+
+A) Kick it into a bin to avoid anyone cutting themselves.
+B) Pick it up with your bare hands so you can hand it to the police later.
+C) Ask a member of the public to pick it up and put it somewhere safe.
+D) Prevent people walking through the area, avoid touching it if possible, and record or photograph where it is until police arrive.
+
+Correct Answer: D
+
+Explanation: Physical evidence should be left where it is whenever possible, with the area secured to avoid contamination. You should prevent others from handling it and record or photograph its position. Handling or disposing of it risks losing or contaminating evidence.
+
+Question 14 [Medium]
+After an assault near the entrance of a shopping centre, you know several CCTV cameras cover the area. What is the BEST action to take regarding CCTV evidence?
+
+A) Assume the footage will be kept automatically and focus on other tasks.
+B) Contact the control room or management as soon as possible and request that all relevant camera footage for the time window of the incident is preserved.
+C) Wait for the police to arrive and let them deal with CCTV without mentioning it.
+D) Tell staff to delete the footage so it can’t be used against you.
+
+Correct Answer: B
+
+Explanation: CCTV often overwrites automatically. You should request retention immediately, identifying the relevant time window and cameras. Never assume it is saved, and certainly never suggest deletion.
+
+Question 15 [Hard]
+During an incident, a suspect drops a knife. Despite your instruction not to touch it, a member of the public picks it up. The scene is now under control. What is the BEST way to deal with this to preserve evidence?
+
+A) Ask the member of the public to gently place the knife on a safe surface nearby, avoid touching it further, remain available as a witness, and record their details and what happened.
+B) Take the knife from them with your bare hands and put it in your pocket until police arrive.
+C) Tell them to take the knife home for safekeeping and hand it in another day.
+D) Throw the knife into a nearby bin so that nobody else can use it.
+
+Correct Answer: A
+
+Explanation: The aim is to limit further handling, keep everyone safe and maintain a clear chain of custody. Getting the person to place the knife down, recording who handled it and how, and keeping them available as a witness supports later investigation.
+
+Question 16 [Easy]
+When police arrive at the scene of a physical intervention, what is the MOST appropriate general approach for a CPO?
+
+A) Refuse to speak to them until your manager arrives.
+B) Immediately leave the area so you are not involved.
+C) Cooperate fully in a professional manner, providing honest factual information, documentation and evidence when requested.
+D) Argue with the officers about how they should handle the suspect.
+
+Correct Answer: C
+
+Explanation: You should be co‑operative, professional and honest with the police, providing information, reports, evidence and witness details as appropriate. Being obstructive or confrontational is unprofessional and may create suspicion.
+
+Question 17 [Medium]
+Immediately after a serious assault on the principal, you are still shaking from adrenaline when officers arrive. An officer says, “Tell me everything that happened, in as much detail as you can, right now.” What is the MOST appropriate response?
+
+A) Refuse to answer any questions and walk away.
+B) Start talking and give a long, emotional account based on how you feel at that moment.
+C) Decline to give any information at all until the following day.
+D) Provide a brief, factual initial account of the key points, then explain that you will provide a full, detailed statement once you have had time to compose yourself and, if needed, obtain legal advice.
+
+Correct Answer: D
+
+Explanation: Giving a brief initial factual account is appropriate, but you are entitled to time to compose yourself and seek legal advice before giving a full, detailed statement. This helps ensure accuracy and protects your legal position.
+
+Question 18 [Hard]
+Following an incident in which significant injuries occurred, an officer tells you that you may be interviewed under caution because of the level of force used. What is the BEST course of action?
+
+A) Decline any interview and refuse to attend the police station under any circumstances.
+B) Cooperate with the investigation but exercise your right to legal representation, ensuring any detailed interview is recorded and your legal adviser is present.
+C) Agree to be interviewed straight away without legal advice so you can “get it over with”.
+D) Only agree to speak to the police if your employer promises that you will not lose your job.
+
+Correct Answer: B
+
+Explanation: You should remain co‑operative but also use your right to legal representation. A recorded interview with legal advice protects both you and the integrity of the process. Refusing to engage or agreeing to a detailed interview without advice is risky.
+
+Question 19 [Easy]
+Which statement BEST describes the difference between a “hot” debrief and a formal debrief?
+
+A) A hot debrief is written; a formal debrief is always verbal.
+B) A hot debrief is carried out by the client; a formal debrief is only for the security team.
+C) A hot debrief is a brief review held immediately after the incident, while a formal debrief is a more detailed, structured review held later and properly documented.
+D) A hot debrief focuses only on blame, while a formal debrief focuses only on praise.
+
+Correct Answer: C
+
+Explanation: A hot debrief is short and immediate, checking welfare and key points. A formal debrief happens later (often 24–72 hours), is structured (plan, what happened, what worked, what didn’t, lessons, actions) and is recorded.
+
+Question 20 [Medium]
+Which sequence BEST reflects a structured approach to a formal debrief after a close protection incident?
+
+A) What was planned → What happened → What worked → What didn’t → Lessons learned → Actions to be taken.
+B) Who was to blame → What equipment failed → Who should be disciplined → How to avoid paperwork.
+C) What happened → What actions will change → What was planned → Lessons learned.
+D) Actions to be taken → Lessons learned → What happened → What was planned.
+
+Correct Answer: A
+
+Explanation: A standard formal debrief structure is: what was planned, what happened, what worked, what didn’t, lessons learned, and actions. This creates a logical flow from plan to improvement.
+
+Question 21 [Easy]
+Which of the following is a NORMAL short‑term stress reaction for a CPO after a critical incident?
+
+A) Needing large amounts of alcohol just to sleep every night for weeks.
+B) Being completely unable to work or care for yourself for months.
+C) Never thinking about the incident again straight after it happens.
+D) Difficulty sleeping and replaying the incident in your mind for a short period after the event.
+
+Correct Answer: D
+
+Explanation: Short‑term reactions such as sleep disturbance and intrusive thoughts are common after a critical incident. Persistent, worsening or very severe reactions (or substance misuse) are more concerning and indicate the need for extra support.
+
+Question 22 [Medium]
+Two weeks after a violent incident, a normally calm colleague says they are still having nightmares, are increasingly irritable at home and at work, and are thinking about “having a few drinks” every night to cope. What is the MOST appropriate action?
+
+A) Encourage them to seek professional support (for example, GP, occupational health or counselling) and let them know this is a normal response that deserves help.
+B) Tell them this is part of the job and they should just toughen up.
+C) Suggest they work more overtime so they don’t have time to think about it.
+D) Advise them not to mention it to anyone in case it affects their career.
+
+Correct Answer: A
+
+Explanation: Ongoing, worsening symptoms and thoughts of using substances to cope are warning signs. Encouraging professional support and normalising help‑seeking is the appropriate response. Minimising or hiding the problem can allow it to escalate.
+
+================================================================================
+END OF CHAPTER 6.5 QUESTIONS
+
+Total Questions: 22
+
+Easy: 9 (Q1, Q2, Q5, Q8, Q9, Q13, Q16, Q19, Q21)
+
+Medium: 9 (Q3, Q6, Q7, Q10, Q11, Q14, Q17, Q20, Q22)
+
+Hard: 4 (Q4, Q12, Q15, Q18)
+
+Answer Distribution:
+
+Correct answer A: 6 questions (Q3, Q5, Q9, Q15, Q20, Q22)
+
+Correct answer B: 5 questions (Q1, Q8, Q11, Q14, Q18)
+
+Correct answer C: 5 questions (Q4, Q7, Q16, Q19, Q21)
+
+Correct answer D: 6 questions (Q2, Q6, Q10, Q12, Q13, Q17)

@@ -1,0 +1,486 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 2, CHAPTER 2.8
+EMERGENCY PROCEDURES FOR DOOR SUPERVISORS
+================================================================================
+
+YOUR TASK
+---------
+Generate 12 high-quality Multiple Choice Questions (MCQs) for Chapter 2.8 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE EXAM
+--------
+Unit 2: Working as a Door Supervisor
+- 50 multiple choice questions in actual exam
+- 75 minutes duration
+- 70% pass mark (35 correct answers required)
+- This chapter (2.8) is one of 10 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Door supervisors are often first responders in emergencies at venues.
+They must know how to respond to fire, medical emergencies, violence,
+and terrorism. Their actions can save lives and minimise harm.
+
+NOTE: Unit 1 covers fire safety and terrorism in detail. This chapter 
+focuses on the door supervisor's specific role in venue emergencies.
+
+================================================================================
+CHAPTER 2.8: EMERGENCY PROCEDURES - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 12
+- Easy (direct recall): 5 questions
+- Medium (application): 5 questions
+- Hard (scenario-based): 2 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.1: TYPES OF EMERGENCIES
+--------------------------------------------------------------------------------
+
+Common Emergencies at Venues:
+- Fire
+- Medical emergencies (collapse, injury, overdose)
+- Serious violence (glassing, stabbing)
+- Terrorist incident
+- Bomb threat
+- Gas leak
+- Power failure
+- Structural damage
+- Severe weather
+- Crowd surge/crush
+
+Door Supervisor Preparedness:
+- Know venue emergency procedures BEFORE shift
+- Know location of all exits
+- Know fire equipment locations
+- Know first aid kit locations
+- Know assembly point
+- Know who makes key decisions
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.2: FIRE EVACUATION - DOOR SUPERVISOR ROLE
+--------------------------------------------------------------------------------
+
+Before an Emergency:
+- Familiarise with venue layout
+- Know ALL fire exits
+- Know evacuation routes
+- Know assembly point location
+- Check fire exits are clear and unlocked
+
+On Hearing Fire Alarm:
+
+1. BEGIN EVACUATION:
+- Clear your area immediately
+- Direct customers to nearest exit
+- Use clear, calm instructions
+
+2. COMMUNICATION:
+- "Please leave by the nearest exit"
+- "Do not use the lift"
+- "Leave your belongings"
+- Stay calm - customers take cues from you
+
+3. ASSIST THOSE NEEDING HELP:
+- Elderly, disabled, intoxicated
+- Don't put yourself at serious risk
+- Use refuges where available
+
+4. PREVENT RE-ENTRY:
+- Stand at exits once outside
+- Do not let anyone back in
+- Reassure customers
+
+5. LIAISE WITH FIRE SERVICE:
+- Provide information on arrival
+- Building layout, missing persons
+- Access routes
+
+Do NOT:
+- Use lifts
+- Go back for belongings
+- Let customers return
+- Fight fire unless trained and safe
+- Put yourself at serious risk
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.3: MEDICAL EMERGENCIES
+--------------------------------------------------------------------------------
+
+Common Medical Issues at Venues:
+- Collapse / unconsciousness
+- Drug overdose
+- Alcohol poisoning
+- Allergic reactions
+- Chest pain / heart attack
+- Injuries from violence
+- Falls
+- Seizures
+
+Response Steps:
+
+1. ASSESS THE SITUATION:
+- Is scene safe?
+- What has happened?
+- Is person responsive?
+
+2. CLEAR SPACE:
+- Move people back
+- Give casualty space
+- Dignity and privacy
+
+3. GET HELP:
+- Call for first aider
+- Call 999 if serious
+- Be prepared to assist
+
+4. PROVIDE INFORMATION TO 999:
+- Location (full address)
+- What has happened
+- Condition of person
+- Age and gender
+- Stay on line for instructions
+
+5. ASSIST FIRST AIDER/PARAMEDICS:
+- Clear access route
+- Meet ambulance at entrance
+- Direct to casualty
+- Control crowd
+
+Recovery Position:
+- For unconscious but breathing casualty
+- On their side
+- Airway open
+- Monitor breathing
+
+CPR Basics:
+- If not breathing normally
+- 30 chest compressions
+- 2 rescue breaths
+- Repeat until help arrives
+- Push hard and fast (centre of chest)
+
+Specific Issues:
+
+SUSPECTED OVERDOSE:
+- Call 999 immediately
+- Don't leave them alone
+- Put in recovery position if unconscious
+- Tell paramedics what you think they took
+- Be honest - helping saves lives
+
+GLASSING / SERIOUS BLEEDING:
+- Call 999 immediately
+- Apply pressure to wound (not on embedded glass)
+- Do not remove embedded objects
+- Keep casualty calm and still
+- Preserve scene for police
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.4: SERIOUS VIOLENCE
+--------------------------------------------------------------------------------
+
+Immediate Response:
+- Ensure your own safety first
+- Call for backup
+- Call 999 if serious
+- Separate parties if possible
+
+Prioritising:
+1. Safety of all persons
+2. Medical attention for injured
+3. Evidence preservation
+4. Witness identification
+
+After Violence:
+- Preserve the scene
+- Identify witnesses
+- Secure CCTV
+- Detailed documentation
+- Cooperate with police
+
+Weapons:
+- If weapon used, treat as major incident
+- Call 999 immediately
+- Do not try to recover weapon
+- Describe to police
+- Preserve scene
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.5: TERRORIST INCIDENTS
+--------------------------------------------------------------------------------
+
+RUN HIDE TELL (Review from Unit 1):
+
+RUN:
+- Escape if you can
+- Insist others come with you
+- Leave belongings
+- Don't attempt to film
+
+HIDE:
+- If you cannot run, hide
+- Lock/barricade doors
+- Turn off lights
+- Silence phone completely
+- Stay quiet
+
+TELL:
+- Call 999 when safe
+- What is happening
+- Where
+- Description of attackers
+
+When Armed Police Arrive:
+- Hands visible and empty
+- Follow all instructions
+- Don't run towards them
+- Expect to be treated as potential threat initially
+
+Door Supervisor Role:
+- Follow RUN HIDE TELL
+- Help customers escape/hide
+- Provide information to police
+- First aid if safe to do so
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.6: BOMB THREATS
+--------------------------------------------------------------------------------
+
+If Bomb Threat Call Received:
+- Keep caller talking
+- Note exact words
+- Ask: Where? When? What kind? Why?
+- Note background sounds
+- Report immediately to manager/police
+- Do NOT use mobile phones near suspect area
+
+Suspicious Package - HOT:
+- H = Hidden?
+- O = Obviously suspicious?
+- T = Typical for this location?
+
+Do NOT:
+- Touch suspicious items
+- Use radio/mobile near item
+- Evacuate without authorisation
+- Panic
+
+Evacuation (if ordered):
+- Follow management/police instructions
+- Move people well away from building
+- Different evacuation routes may be used
+- Be aware of secondary devices
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.7: CROWD SURGE AND CRUSH
+--------------------------------------------------------------------------------
+
+Warning Signs:
+- People unable to move freely
+- Distress signals from crowd
+- People being pushed
+- Barriers flexing
+- Crushing at entry points
+
+Response:
+- Open barriers/gates immediately
+- Stop entry
+- Do NOT push back against crowd
+- Communicate calmly to crowd
+- Call for backup
+- May need to stop event
+
+Prevention:
+- Monitor capacity carefully
+- Control entry rate
+- Adequate barriers
+- Multiple entry points
+
+Aftermath:
+- Medical attention for injured
+- Evidence preservation
+- Witness statements
+- Incident documentation
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.8: WORKING WITH EMERGENCY SERVICES
+--------------------------------------------------------------------------------
+
+Police:
+- Provide information
+- Control access to scene
+- Preserve evidence
+- Identify witnesses
+- Follow instructions
+
+Ambulance:
+- Clear access route
+- Meet at entrance and direct
+- Provide information on casualty
+- Assist with crowd control
+- Give first aid until arrival
+
+Fire Service:
+- Assist with evacuation
+- Provide building information
+- Point out access routes
+- Report any missing persons
+- Follow their instructions
+
+Key Principle:
+- Emergency services have command
+- Follow their instructions
+- Support their work
+- Don't obstruct
+
+--------------------------------------------------------------------------------
+TOPIC 2.8.9: COMMUNICATION DURING EMERGENCIES
+--------------------------------------------------------------------------------
+
+Key Principles:
+- Stay calm
+- Clear and concise
+- Use radio properly
+- Don't block channels
+- Face-to-face if radio fails
+
+Radio Communication:
+- Brief, clear messages
+- Essential information only
+- Avoid panic
+- Confirm messages received
+
+To Customers:
+- Calm, authoritative tone
+- Clear instructions
+- Reassurance
+- Repeat key messages
+- Lead by example
+
+Post-Emergency:
+- Account for staff if possible
+- Secure premises
+- Preserve evidence
+- Documentation
+- Debrief
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 12
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 5 questions (40%)
+- Medium (application): 5 questions (40%)
+- Hard (scenario-based): 2 questions (20%)
+
+TOPICS TO COVER:
+□ Fire evacuation role (2-3 questions)
+□ Medical emergencies (2-3 questions)
+□ Serious violence response (2 questions)
+□ Terrorist incidents (2 questions)
+□ Working with emergency services (2 questions)
+□ Communication during emergencies (1-2 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic door supervisor scenarios
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.8: EMERGENCY PROCEDURES FOR DOOR SUPERVISORS
+================================================================================
+
+Question 1 [Easy]
+What should a door supervisor do FIRST when hearing a fire alarm?
+
+A) Find the source of the fire
+B) Begin evacuating customers from their area
+C) Call the fire service
+D) Lock the main entrance
+
+Correct Answer: B
+
+Explanation: When a fire alarm sounds, the door supervisor should immediately 
+begin evacuating customers from their area, directing them to the nearest 
+safe exit. Finding the fire or fighting it should be left to trained 
+personnel. Calling the fire service should be ensured but evacuation is the 
+immediate priority.
+
+---
+
+[Continue for all 12 questions]
+
+================================================================================
+END OF CHAPTER 2.8 QUESTIONS
+================================================================================
+
+Total Questions: 12
+- Easy: 5
+- Medium: 5
+- Hard: 2
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+FIRE EVACUATION:
+- Know exits BEFORE shift
+- Direct to nearest exit
+- Don't use lifts
+- Prevent re-entry
+- Liaise with fire service
+
+MEDICAL EMERGENCIES:
+- Call 999 for serious cases
+- Clear space around casualty
+- Assist first aiders/paramedics
+- Provide information
+
+GLASSING/BLEEDING:
+- Apply pressure (not on embedded glass)
+- Do NOT remove embedded objects
+- Call 999 immediately
+
+TERRORIST RESPONSE:
+- RUN, HIDE, TELL (in that order)
+- Hands visible for armed police
+- Follow all instructions
+
+WORKING WITH EMERGENCY SERVICES:
+- They have command at scene
+- Follow their instructions
+- Support their work
+
+COMMON DISTRACTORS:
+- Fight fire before evacuating (wrong - evacuate first)
+- Remove embedded glass (wrong - leave it)
+- Run towards armed police (wrong - stay still, hands visible)
+- Door supervisor decides on evacuation (wrong - follow procedures/management)
+
+================================================================================
+END OF PROMPT
+================================================================================

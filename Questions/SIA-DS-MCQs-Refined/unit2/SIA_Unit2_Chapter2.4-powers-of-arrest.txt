@@ -1,0 +1,334 @@
+================================================================================
+UNIT 2, CHAPTER 2.4: POWERS OF ARREST (DOOR SUPERVISOR CONTEXT)
+================================================================================
+Meta: Total=25 | Easy=10 | Medium=10 | Hard=5 | A=6 | B=7 | C=6 | D=6
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: In most situations at a licensed venue, what is the preferred approach rather than making an arrest?
+
+A) Ejection from the premises
+B) Physical restraint until police arrive
+C) Citizen's arrest for any offence
+D) Verbal warning only
+
+Answer: A
+Explanation: Ejection is usually preferred over arrest. It removes the problem from the venue, involves less physical confrontation, carries less legal risk, and is generally quicker. Arrest should be reserved for serious indictable offences where it is clearly necessary.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Under Section 24A of the Police and Criminal Evidence Act 1984 (PACE), what legal power of arrest does a door supervisor have?
+
+A) A limited "any person" power of arrest for indictable offences
+B) The same powers of arrest as a police constable
+C) A special power to arrest anyone who breaks venue rules
+D) A power to arrest for any offence committed on the premises
+
+Answer: A
+Explanation: Door supervisors have the same "any person" power of arrest as any member of the public under Section 24A PACE, and only in relation to indictable offences. They do not have special police powers.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: For a completed offence, which statement best describes the "offence requirement" for a lawful "any person" arrest under Section 24A PACE?
+
+A) An offence must actually have been committed, and you must have reasonable grounds to suspect the person is guilty
+B) You only need a suspicion that an offence might have been committed
+C) You can arrest even if no offence has occurred, as long as the person is on your premises
+D) You can arrest anyone the victim points at as the offender
+
+Answer: A
+Explanation: Section 24A PACE has TWO separate requirements for a lawful citizen's arrest of a completed offence: (1) The OFFENCE must have actually been committed - this is a matter of FACT, not suspicion; and (2) You must have reasonable grounds to SUSPECT the person is guilty - you don't need to be certain, but your suspicion must be reasonable based on the circumstances. KEY DISTINCTION: If no offence actually occurred, the arrest is unlawful regardless of how reasonable your belief was. However, if an offence did occur and you arrest the wrong person, the arrest may still be lawful if your suspicion of that person was reasonable at the time.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which of the following is a valid necessity reason for an "any person" arrest under Section 24A PACE?
+
+A) To punish the suspect for their behaviour
+B) To make the suspect provide their name and address
+C) To allow the venue to search the suspect for banned items
+D) To prevent the suspect making off before the police can take over
+
+Answer: D
+Explanation: An "any person" arrest must be necessary, for example to prevent injury, prevent loss or damage to property, stop the person absconding before police arrive, or where it is impracticable for police to make the arrest.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: A customer gives a member of staff a single slap to the face, causing brief pain but no visible injury. Which type of offence is this usually treated as?
+
+A) Indictable-only offence
+B) Either-way offence
+C) Civil matter, not a criminal offence
+D) Summary offence (common assault)
+
+Answer: D
+Explanation: A single slap or push causing no more than brief pain or minor discomfort is usually treated as common assault, which is a summary-only offence. Door supervisors normally have no "any person" power of arrest for summary-only offences, so the usual response is ejection and contacting the police if appropriate.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: When a door supervisor lawfully arrests someone using "any person" powers, which of the following is something they should NOT do?
+
+A) Tell the person they are under arrest
+B) Tell the person what offence they are being arrested for
+C) Explain briefly why the arrest is necessary
+D) Give the person the formal police caution ("You do not have to say anything…")
+
+Answer: D
+Explanation: Door supervisors do not give the formal police caution and should not conduct an interview. Their role is to tell the person they are under arrest, state the offence and necessity, use minimum force, monitor welfare, and hand the person over to police as soon as practicable.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: After making a lawful "any person" arrest, when should a door supervisor hand the detained person over to the police?
+
+A) At the end of the supervisor's shift
+B) Within 24 hours of the arrest
+C) Only when the venue manager has finished questioning them
+D) As soon as is practicable after the arrest
+
+Answer: D
+Explanation: A person arrested using "any person" powers must be handed over to the police as soon as practicable. Door supervisors should call the police immediately once someone is detained and should not hold them any longer than necessary.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which situation presents the highest risk of positional asphyxia during restraint?
+
+A) A calm detainee sitting upright in a chair with no physical restraint
+B) A person standing against a wall, lightly held by one arm
+C) A person lying on their back with a cushion under their head
+D) A person lying face down on the floor with staff applying body weight to their back
+
+Answer: D
+Explanation: Positional asphyxia is a serious risk when someone is restrained face down, especially if body weight is applied to their back. This can restrict breathing and can be fatal, particularly if the person is intoxicated or under the influence of drugs.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which of the following is a potential criminal consequence for a door supervisor who makes an unlawful arrest using excessive force?
+
+A) Being charged with false imprisonment or assault
+B) Automatic suspension with pay
+C) Losing their driving licence
+D) A fixed penalty notice for disorder
+
+Answer: A
+Explanation: An unlawful arrest, especially where excessive force is used, can lead to criminal charges such as false imprisonment, assault, or even more serious offences if injury is caused. Civil claims and SIA licence revocation are also possible.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: A customer becomes rude and mildly disruptive. It is their first minor incident and they calm down after a warning. Which is the best alternative to arrest in this situation?
+
+A) Immediately arrest the customer for public order
+B) Permanently bar the customer without warning
+C) Give a clear verbal warning and monitor their behaviour
+D) Physically restrain the customer in the back room
+
+Answer: C
+Explanation: For minor first-time behaviour, a verbal warning and monitoring is usually enough. Arrest would be completely disproportionate, and even ejection may not yet be necessary if the situation has de-escalated.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: A drunk customer is loudly swearing at the bar, ignoring requests to lower their voice. They are unsteady but not physically aggressive and are not making threats. What is the most appropriate action?
+
+A) Eject them from the premises using minimum necessary force
+B) Place them under citizen's arrest for being drunk and disorderly
+C) Physically restrain them on the floor and handcuff them
+D) Search their pockets for drugs before deciding what to do
+
+Answer: A
+Explanation: Drunk and disorderly behaviour is usually dealt with by ejection, not arrest by a door supervisor. Removing them from the premises achieves the main aim: protecting customers, staff, and the venue.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: Two customers argue on the dance floor. One pushes the other once with open hands. The other customer does not fall and has no visible injury. You separate them and the situation calms down. What is the best course of action?
+
+A) Eject the person who pushed and record the incident in the venue log
+B) Arrest the person who pushed for assault and detain them until police arrive
+C) Allow both to stay because no crime has occurred
+D) Place both under arrest and wait in the office with them
+
+Answer: A
+Explanation: This is likely to be common assault (summary-only). The better option is to eject the person responsible and record the incident, rather than attempting a citizen's arrest. Calling police may still be appropriate if the victim wishes to complain.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: You clearly see a customer on CCTV take another customer's phone from a table and put it into their own pocket. The owner immediately reports their phone missing. When challenged, the suspect denies it and heads quickly for the exit. Police estimate a 30-minute response time. What is the most appropriate response?
+
+A) Let the suspect leave and simply review CCTV later
+B) Use "any person" arrest for theft and prevent them leaving using reasonable force
+C) Search the suspect without arrest and then decide what to do
+D) Lock all exits and hold every customer until police arrive
+
+Answer: B
+Explanation: Theft is an indictable offence, so "any person" arrest powers can apply. You personally witnessed the theft, so the offence has actually been committed and you know who is guilty. Arrest may be necessary to prevent the suspect making off before police arrive, but force must be reasonable and kept to the minimum needed.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: A customer repeatedly punches another in the face. The victim has a deep cut to the eyebrow and a badly swollen cheek and is likely to need stitches. The attacker is still aggressive on your arrival. Which statement is most accurate?
+
+A) This is only common assault, so you should eject the attacker but cannot arrest
+B) This may amount to Actual Bodily Harm (ABH), an indictable offence, and "any person" arrest may be appropriate if necessary and safe
+C) You must wait for the police and cannot intervene physically at all
+D) You should only give a verbal warning and let them calm down
+
+Answer: B
+Explanation: Injuries requiring stitches or causing significant harm may amount to ABH, which is an indictable (either-way) offence. In such serious cases, if it is necessary to prevent further injury or escape, an "any person" arrest by door supervisors may be justified, using minimum force and calling police immediately.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: In the toilets you see a customer take small wraps from their pocket, exchange them for cash with several people in quick succession, and put money away. When noticed, they head rapidly for the exit. What is the best option?
+
+A) Ignore it, as drug dealing is not your concern
+B) Detain/arrest the customer on suspicion of supplying drugs, seize any visible drugs if safe, and call police immediately
+C) Allow the customer to continue but warn them that dealing is against venue policy
+D) Search every person who was in the toilet queue
+
+Answer: B
+Explanation: Repeated exchanges of wraps for money strongly indicate drug supply, which is a serious indictable offence. Where there is clear evidence and a risk the suspect will escape, detaining/arresting under "any person" powers, seizing obvious evidence safely, and contacting police immediately is appropriate.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: A customer angrily kicks a low-level glass display, smashing it. The estimated value is around £300. They are now calm, and there are no injuries. The manager demands that you arrest the customer. What is the most appropriate action?
+
+A) Make an "any person" arrest immediately, as all criminal damage is indictable
+B) Explain that a citizen's arrest is unlikely to be justified for low-level damage; take details, consider ejection, and call police if necessary
+C) Physically restrain the customer on the floor until they agree to pay
+D) Do nothing, as criminal damage is only a civil matter
+
+Answer: B
+Explanation: Lower-value criminal damage is less serious. In practice, door supervisors should normally deal with it by ejection, incident recording, and contacting police or using civil recovery processes, rather than arresting. Arrest is better reserved for serious or ongoing offences where necessity is clear.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: You have decided that an "any person" arrest for theft is lawful and necessary. Which sequence of actions is most appropriate once you physically stop the suspect?
+
+A) Handcuff them silently, then decide later what to arrest them for
+B) Take them to the office and question them at length before saying they are under arrest
+C) Search their pockets first to see if they have stolen items, then decide whether to arrest
+D) Tell them they are under arrest, state the offence and why arrest is necessary, and use only the minimum force required
+
+Answer: D
+Explanation: For a professional arrest, you should inform the person they are under arrest, tell them what offence you believe they have committed and why arrest is necessary (for example, to prevent escape), and use only reasonable, proportionate force. You should not question them at length or conduct an evidence search beyond a safety pat-down.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: You and a colleague have lawfully detained a suspect using "any person" arrest powers. They are under control in a safe area. What should you do next?
+
+A) Immediately start writing a detailed report before calling anyone
+B) Call the police (999 or 101 as appropriate) and request attendance, giving clear details
+C) Leave the suspect with a member of bar staff while you go back to the door
+D) Begin interviewing the suspect about their previous criminal history
+
+Answer: B
+Explanation: Once a person has been arrested under "any person" powers, the priority is to contact the police immediately, giving clear information (location, what happened, description, risk). Handing over "as soon as practicable" is a legal requirement and also limits your liability.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: You and a colleague have a detained person lying face down on the floor. They say they cannot breathe, then become quieter and stop struggling. What is the best action?
+
+A) Assume they are faking and maintain the hold until police arrive
+B) Tighten the restraint to ensure they cannot move
+C) Immediately reduce pressure, move them to a safer position (for example, sitting or recovery position), check breathing, and get medical help if needed
+D) Leave them face down but move them closer to the exit
+
+Answer: C
+Explanation: These are warning signs of positional asphyxia. You must remove weight from their back, reposition them to help breathing, monitor their condition closely, and call an ambulance (and inform police) if there is any concern. Life and welfare always come before arrest.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: Bar staff shout that a customer's designer jacket has been stolen and point out a man leaving the venue as the thief. You did not see any theft, the jacket is not visible, and the reporting customer is very drunk and unclear. What is the most appropriate response?
+
+A) Immediately arrest the man for theft because bar staff identified him
+B) Grab him, search his pockets without consent, and keep him in the office
+C) Politely stop him to speak, gather more information and witness accounts, review any CCTV if possible, and only consider arrest if clear evidence emerges
+D) Tackle him to the floor at the exit to prevent escape
+
+Answer: C
+Explanation: For an "any person" arrest, you need to be satisfied that an indictable offence has actually occurred and that this is the offender. Here the evidence is weak and unreliable, so an arrest risks being unlawful. You should engage verbally, gather information, consider CCTV, and involve police, but avoid unnecessary force or arrest without clear grounds.
+
+---
+Q21 | Difficulty: Hard
+---
+Question: You personally see a man in the VIP area open a woman's unattended handbag, remove a purse, and put it in his pocket. The woman confirms her purse is missing. When challenged, the man becomes agitated and tries to leave quickly. Police say the nearest unit is 20–30 minutes away. You have two trained door supervisors available. What is the best response?
+
+A) Let him leave but take a description and write an incident report later
+B) Use "any person" arrest for theft, explain the arrest and necessity, use minimum force to prevent escape, and call police immediately
+C) Tackle him to the floor with maximum force to "teach him a lesson"
+D) Lock him alone in a storeroom until the police arrive
+
+Answer: B
+Explanation: You have personally seen an indictable offence (theft) take place, and there is a real risk the suspect will escape. Both the offence requirement and necessity requirement for "any person" arrest are satisfied. The professional response is to arrest, using minimum necessary force, monitor his welfare, and arrange prompt police attendance.
+
+---
+Q22 | Difficulty: Hard
+---
+Question: A customer who has been refused service angrily shoves you in the chest, causing brief discomfort but no injury. He then stands back and continues shouting. Police say they can attend in around 40 minutes. The manager insists that you "arrest him and keep him until the police get here". What is the most appropriate action?
+
+A) Arrest him for common assault and detain him in the office for 40 minutes
+B) Eject him from the premises, record the incident, and offer to provide CCTV and a statement to the police
+C) Leave him in the bar because no offence has occurred
+D) Push him back to show that you are in charge
+
+Answer: B
+Explanation: A single shove causing brief discomfort but no injury is common assault (summary-only offence). Section 24A PACE does NOT provide 'any person' arrest powers for summary-only offences, so there is NO lawful power of arrest available here. Ejection and reporting is the correct response. Ejection, recording the incident, and providing evidence to police if required is the safer and more professional option.
+
+---
+Q23 | Difficulty: Hard
+---
+Question: A distressed young woman tells you a man has put his hand up her skirt on the dance floor. She is visibly upset and crying. Her friends support her account and discreetly point out the man, who is still in the venue. What is the best immediate response by the door team?
+
+A) Ignore the complaint and tell her it is just part of clubbing
+B) Focus only on the suspect and ignore the victim's welfare
+C) Move the victim to a safe, private area, reassure her, preserve evidence as far as possible, urgently call police, and keep the suspect in view or discreetly contained until police arrive
+D) Publicly shout at and humiliate the suspect in the middle of the dance floor
+
+Answer: C
+Explanation: Sexual offences are serious indictable offences. Your priorities are victim safety and welfare, preserving evidence as far as possible, and urgent police involvement. The suspect should be kept under observation or discreetly contained, but the police are usually best placed to carry out any formal arrest and investigation.
+
+---
+Q24 | Difficulty: Hard
+---
+Question: You receive a tip that a man is dealing drugs in the smoking area. On CCTV you see him meeting people and shaking hands, but you do not clearly see any drugs or money change hands. When you approach, he refuses to be searched and calmly walks towards the exit. What is the most appropriate response?
+
+A) Use "any person" arrest powers immediately for drug supply, based only on suspicion
+B) Grab him and search him by force, even though you have no clear evidence
+C) Allow him to leave but make detailed notes, preserve CCTV, take witness details, and pass all information to the police
+D) Tackle him to the ground outside the venue and restrain him until police arrive
+
+Answer: C
+Explanation: For "any person" arrest, you need more than vague suspicion; you must be satisfied that an indictable offence has actually occurred and that this is the offender. Here the evidence is weak, so arrest would be high-risk legally. The professional approach is to gather and preserve evidence and let the police investigate and, if appropriate, use their wider arrest powers.
+
+---
+Q25 | Difficulty: Hard
+---
+Question: You have lawfully arrested a man for theft and called the police. Twenty-five minutes later, they have still not arrived. The man is calm and cooperative, seated in a chair in a monitored back room with two door supervisors present. His hands are not restrained. He asks for a drink of water and to use the toilet. What is the best way to manage the situation while waiting?
+
+A) Re-apply painful restraint holds to make sure he cannot move
+B) Leave him alone in the room while you both return to the door
+C) Continue to monitor him closely, meet reasonable welfare needs (such as water and supervised toilet use), remain calm and professional, and keep a note of times and events until police arrive
+D) Release him immediately and destroy any notes to avoid extra paperwork
+
+Answer: C
+Explanation: After arrest, you must monitor the detainee's welfare, ensure they are never left completely unsupervised, and provide reasonable care (water, toilet, medical help if needed). Excessive or unnecessary restraint should be reduced or removed once they are compliant. You should also record key details (times, force used, what was said) ready for handover to the police "as soon as practicable".
+
+================================================================================
+END OF CHAPTER 2.4
+================================================================================

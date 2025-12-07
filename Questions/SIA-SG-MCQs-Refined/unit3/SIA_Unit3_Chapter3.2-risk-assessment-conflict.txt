@@ -1,0 +1,230 @@
+================================================================================
+UNIT 3, CHAPTER 3.2: RECOGNISE, ASSESS AND REDUCE RISK IN CONFLICT
+Question 1 [Easy]
+What is a dynamic risk assessment?
+A) A written document completed before each shift
+B) A one-time assessment done at the start of employment
+C) A continuous, real-time assessment that adapts as situations change
+D) A formal review conducted by management after incidents
+Correct Answer: C
+Explanation: A dynamic risk assessment is a continuous, real-time mental process. The officer constantly reviews what is happening, what could happen next, and adapts their response as the situation changes. It is not a fixed, written document and is used before, during and after an incident.
+
+Question 2 [Easy]
+Which of the following is the best example of an indirect verbal threat?
+A) “I’m going to hit you right now.”
+B) “You’ll regret treating me like this.”
+C) “I know where you live and work.”
+D) “I’m not happy with this service.”
+Correct Answer: B
+Explanation: An indirect threat hints that something bad will happen without saying exactly what, like “You’ll regret this.” A is a direct threat of violence, C is more of an implied threat (“I know where you live”), and D is simply a complaint, not a threat.
+
+Question 3 [Easy]
+Which of the following is a person impact factor you should consider in a conflict situation?
+A) Whether the area is covered by CCTV
+B) The time of day
+C) A wet, slippery floor
+D) The person’s signs of intoxication (e.g. slurred speech, unsteady walking)
+Correct Answer: D
+Explanation: Signs of intoxication are about the person themselves, so they are a person impact factor. CCTV, time of day and a slippery floor are situational or environmental factors, not person factors.
+
+Question 4 [Easy]
+In conflict management, what is meant by the term “reactionary gap”?
+A) The distance you maintain from a potential aggressor so you have time to react to an attack
+B) The time between your radio call and your colleagues arriving
+C) The gap in the perimeter fence that needs repairing
+D) The break between one work shift and the next
+Correct Answer: A
+Explanation: The reactionary gap is the safety distance (around 2–3 metres or more if possible) between you and a potential attacker. The more distance you have, the more time you have to see danger and react safely. The other options describe completely different “gaps”.
+
+Question 5 [Easy]
+Which personal space zone is generally considered the professional interaction distance for a security officer when dealing with a potentially aggressive person?
+A) Intimate zone (0–45 cm)
+B) Personal zone (45 cm–1.2 m)
+C) Public zone (3.6 m+)
+D) Social zone (1.2 m–3.6 m)
+Correct Answer: D
+Explanation: The social zone (about 1.2–3.6 metres) is usually described as the professional interaction distance. It lets you communicate clearly while still giving you space to react. The intimate and personal zones are too close for dealing with conflict, and the public zone is more for general observation than direct interaction.
+
+Question 6 [Easy]
+Which of the following is an example of creating distance to reduce risk?
+A) Taking a step back to increase the gap between you and the angry person
+B) Standing closer to show that you are in control
+C) Folding your arms and leaning towards the person
+D) Turning your back on the person and looking away
+Correct Answer: A
+Explanation: Stepping back and increasing the gap directly creates distance and improves your reaction time. Standing closer or leaning in increases risk, and turning your back reduces your awareness and makes you more vulnerable.
+
+Question 7 [Easy]
+Which of the following may indicate that you are becoming overly stressed during a conflict situation?
+A) Tunnel vision and difficulty thinking clearly
+B) Calm, steady breathing and relaxed muscles
+C) Speaking slowly and clearly with controlled tone
+D) Feeling aware of several safe options
+Correct Answer: A
+Explanation: Tunnel vision and difficulty thinking clearly are classic signs of high stress. Calm breathing, relaxed muscles and clear thinking suggest you are managing your state well, not losing control.
+
+Question 8 [Easy]
+A suspected shoplifter suddenly produces a knife when challenged. What is the most appropriate immediate response?
+A) Try to grab the knife out of their hand
+B) Move closer so they cannot swing the knife
+C) Move away to increase distance, raise the alarm and call the police
+D) Block the exit so they cannot leave
+Correct Answer: C
+Explanation: When a weapon appears, your priority is to increase distance, warn others, and contact the police. Trying to grab the knife or moving closer is extremely dangerous. Blocking exits can trap you in close range with the weapon.
+
+Question 9 [Easy]
+Why should a security officer document their risk assessment after an incident?
+A) To provide evidence of their decisions and help justify their actions later
+B) So they can avoid speaking to the police if asked about the incident
+C) Because dynamic risk assessment must be written down in real time
+D) So they never need to carry out a risk assessment again
+Correct Answer: A
+Explanation: Recording what you saw, what you considered and why you acted as you did provides evidence and helps justify your actions to employers, police or courts. Dynamic risk assessment itself is a mental, real-time process, not something written during the incident.
+
+Question 10 [Medium]
+In a busy retail store, a customer is shouting at the cashier about a refund. Other customers, including children, are nearby. As the security officer, what is the most appropriate first step in your dynamic risk assessment?
+A) Immediately stand very close to the customer to show authority
+B) Ask the cashier to leave while you argue with the customer
+C) Start to physically escort the customer out without warning
+D) Observe briefly from a safe distance, identify impact factors, and consider your options before approaching
+Correct Answer: D
+Explanation: The first stage of dynamic risk assessment is to assess and consider what is happening from as safe a position as possible. Observing, noting risks (children, space, exits, the customer’s behaviour) and thinking through options is safer than rushing straight in or going hands-on without thinking.
+
+Question 11 [Medium]
+You are a newly qualified security officer working alone on a night shift at a large office building. Two visitors are arguing loudly at reception. One is much larger than you and smells strongly of alcohol. Which is an example of your own impact factor that you should consider?
+A) The size of the aggressive visitor
+B) The fact that there are glass doors in reception
+C) That you are working alone and have limited experience
+D) The presence of CCTV in the reception area
+Correct Answer: C
+Explanation: Your own impact factors include your experience, confidence, physical ability, equipment and whether you are alone. The size of the visitor is a person factor; glass doors and CCTV are situational/environmental factors.
+
+Question 12 [Medium]
+When assessing how serious a verbal threat is, which combination of factors should you consider to judge its credibility?
+A) The person’s clothing, accent and age
+B) Their capability, intent, opportunity and any history of carrying out similar threats
+C) Whether they are male or female and how loudly they are shouting
+D) The number of CCTV cameras and fire exits in the area
+Correct Answer: B
+Explanation: To judge how credible a threat is, you consider whether the person can carry it out (capability), whether they mean it (intent), whether they have a chance (opportunity), and whether they have a history of similar behaviour. Clothing, accent, gender, volume and cameras do not by themselves show how real the threat is.
+
+Question 13 [Medium]
+In an underground car park, two drivers are shouting at each other. As you approach, which environmental factor is most likely to increase the risk if the conflict escalates?
+A) The presence of clear signage showing the car park rules
+B) Good mobile phone signal in the car park
+C) The fact that the argument is happening close to the pay machine
+D) Poor lighting and concrete pillars creating blind spots and limiting escape routes
+Correct Answer: D
+Explanation: Poor lighting, blind spots and limited escape routes are serious environmental threats: they make it harder to see danger and harder to withdraw. Clear signs and good signal may be helpful; being near the pay machine is far less significant than visibility and escape routes.
+
+Question 14 [Medium]
+During a heated dispute with a contractor in a loading bay, you notice your heart is racing, your breathing is shallow and your hands are shaking. Backup is several minutes away. What is the most appropriate way to manage your own state in this situation?
+A) Ignore how you feel and move closer to take control quickly
+B) Raise your voice to match the contractor so they know you are serious
+C) Use tactical breathing, maintain a safe distance, and consider withdrawing to request further assistance
+D) Turn your back on the contractor to show you are not afraid
+Correct Answer: C
+Explanation: Recognising your stress response and using tactical breathing helps you stay calm and think clearly. Maintaining distance and considering withdrawal if the risk is too high are key parts of safe decision-making. Moving closer, shouting or turning your back all increase risk.
+
+Question 15 [Medium]
+You need to speak to an agitated member of staff in a fairly narrow corridor. How should you position yourself to best manage the danger zones?
+A) Stand directly in front of them, within arm’s length
+B) Stand at an angle about 2 metres away, with a clear route of escape behind you
+C) Stand with your back to the wall, less than half a metre away from them
+D) Stand directly behind them so they cannot see you
+Correct Answer: B
+Explanation: Standing at an angle, about 2 metres away, maintains a reactionary gap, reduces the chance of a sudden strike, and keeps an escape route open. Standing too close (A or C) puts you in the intimate/personal zone and increases danger. Standing behind someone (D) is threatening and unsafe.
+
+Question 16 [Medium]
+In a shopping centre, a group of teenagers is becoming noisy and starting to argue with shop staff. You are the only security officer nearby. Which action best reduces risk while you begin to engage with them?
+A) Ask them to move with you to a more open, well-lit area covered by CCTV and nearer to other staff, while you speak calmly to them
+B) Stand in the middle of the group so you are surrounded but can hear everyone
+C) Ask them to step outside to a poorly lit side entrance away from other people
+D) Stand with your back to a corner so you cannot be pushed from behind
+Correct Answer: A
+Explanation: Moving to a well-lit, open area with CCTV and potential backup reduces risk and improves safety for everyone. Allowing yourself to be surrounded (B), going to a poorly lit isolated area (C), or trapping yourself in a corner (D) all increase risk.
+
+Question 17 [Medium]
+Which of the following techniques is specifically recommended to help a security officer manage stress and think clearly during a conflict situation?
+A) Speaking as quickly as possible to get the interaction over with
+B) Focusing on how personally insulting the person’s comments are
+C) Staring intensely at the person without blinking
+D) Using controlled tactical breathing, e.g. in for 4 seconds, hold for 4, out for 4
+Correct Answer: D
+Explanation: Tactical breathing (sometimes called 4–4–4 or box breathing) helps slow your heart rate and clear your thinking. Taking insults personally, rushing your speech or intense staring all tend to increase tension rather than reduce it.
+
+Question 18 [Medium]
+During an argument between two employees in a warehouse, you notice several objects nearby. Which item should most concern you as a potential improvised weapon?
+A) A stack of flattened cardboard boxes
+B) A plastic wastepaper bin
+C) A loose metal bar leaning against a wall
+D) A mop bucket filled with clean water
+Correct Answer: C
+Explanation: A loose metal bar is a clear potential weapon that could cause serious injury if picked up. Cardboard, a plastic bin and a bucket of clean water are much less dangerous in comparison, though you should always maintain general awareness of all objects.
+
+Question 19 [Hard]
+At a business park car park, you see two groups of adults shouting and pushing each other near parked cars. One person is holding a glass bottle, and several children are close by. You are the only security officer present and your colleagues are at least five minutes away. Based on your dynamic risk assessment, what is the most appropriate immediate action?
+A) Run straight between the groups and attempt to physically separate them
+B) Move the children and bystanders to a safe area, maintain a safe reactionary gap while observing, and call the police for urgent assistance
+C) Ignore the situation because it is outside on private land
+D) Walk up close to the person with the bottle and attempt to take it from them
+Correct Answer: B
+Explanation: There are multiple serious risks: a weapon (bottle), groups, children and vehicles. Your priority is to protect bystanders, especially children, and get urgent help from police while keeping yourself at a safe distance. Rushing in or trying to disarm the person (A or D) is very dangerous; ignoring the incident (C) fails your duty to protect people on site.
+
+Question 20 [Hard]
+In an underground staff car park, an angry driver is arguing with you about a parking ticket. Suddenly he stops talking, looks briefly at your chin, clenches his fists, shifts his weight onto his back leg and slowly takes off his jacket. What should your dynamic risk assessment lead you to do next?
+A) Recognise these as signs of an imminent attack, quickly increase your distance and move towards a safer area while calling for assistance
+B) Assume he is calming down because he has gone quiet and removed his jacket
+C) Step closer and point your finger at him to show you are in control
+D) Ignore the body language and continue the conversation in the same way
+Correct Answer: A
+Explanation: Target glances, weight shift, clenched fists, removal of clothing and sudden silence are classic indicators of an imminent attack. You should act immediately to increase distance, seek safety and get backup. Assuming he is calming down or moving closer ignores clear warning signs.
+
+Question 21 [Hard]
+You are the only security officer on duty at an industrial site late at night. You are called to a loading bay where five employees are angrily confronting a manager. Two of them appear intoxicated, a forklift truck is moving nearby, and you feel physically small and outnumbered. Which decision best reflects an appropriate dynamic risk assessment of the impact factors?
+A) Stand between the employees and the manager and order everyone to be quiet
+B) Attempt to escort the most aggressive employee outside on your own
+C) Ignore how outnumbered you are and stay in the middle of the group to show authority
+D) Withdraw to a safer position, call for police and additional site support, and continue to observe so you can guide them when they arrive
+Correct Answer: D
+Explanation: The impact factors (numbers, intoxication, moving machinery, your own size and the fact you are alone) make direct intervention too risky. Withdrawing to safety, summoning help and continuing to observe is a professional tactical withdrawal, not a failure to act.
+
+Question 22 [Hard]
+After withdrawing from a man who produced a knife and moved towards you in a car park, you later complete an incident report. Which statement best shows you are explaining and justifying your dynamic risk assessment in professional language?
+A) “It looked dodgy so I ran away.”
+B) “I assessed that there was an immediate risk of serious harm because the male produced a knife and moved into my reactionary gap, so I increased distance, warned others and called the police.”
+C) “He scared me so I didn’t fancy staying there.”
+D) “I left because I didn’t want to get hurt.”
+Correct Answer: B
+Explanation: Option B clearly describes what you assessed, the specific factors (knife and reactionary gap), and the actions you took to reduce risk. It uses professional, objective language that helps justify your decisions. The other options are vague, emotional and do not explain your reasoning.
+
+================================================================================
+END OF CHAPTER 3.2 QUESTIONS
+Total Questions: 22
+
+
+Easy: 9
+
+
+Medium: 9
+
+
+Hard: 4
+
+
+Answer Distribution:
+
+
+Correct answer A: 6 questions
+
+
+Correct answer B: 5 questions
+
+
+Correct answer C: 5 questions
+
+
+Correct answer D: 6 questions
+
+
+================================================================================

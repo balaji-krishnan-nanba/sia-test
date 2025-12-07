@@ -1,0 +1,221 @@
+================================================================================
+UNIT 7, CHAPTER 7.5: RESTRAINT, CONTROL AND HANDOVER
+Question 1 [Easy]
+Which ground position carries the HIGHEST risk of positional asphyxia?
+A) Recovery position
+B) Seated position
+C) Supine (face up)
+D) Prone (face down)
+Correct Answer: D
+Explanation: The prone (face down) position carries the highest risk of positional asphyxia because the chest and abdomen can be compressed, restricting breathing. If someone must be restrained in prone, it should be for the minimum possible time, with no weight on the back or chest, and they should be moved to a safer position (ideally the recovery position) as soon as it is safe to do so.
+
+Question 2 [Easy]
+Which of the following is a lawful justification for physically restraining someone?
+A) To prevent a crime from being committed or continued
+B) To punish them for being rude to you
+C) To make them comply with all your instructions
+D) To stop them leaving so your supervisor can speak to them later
+Correct Answer: A
+Explanation: Lawful restraint must be based on legal grounds such as preventing crime, self-defence, defence of another, or making a lawful citizen’s arrest. Using force to punish or “teach a lesson” is unlawful and can amount to assault or false imprisonment.
+
+Question 3 [Medium]
+A guest at a private event is verbally abusive and refuses to leave, but is not physically threatening anyone. What is the most appropriate action in line with the principles of necessary and proportionate restraint?
+A) Immediately take the guest to the ground and restrain them
+B) Apply a painful wrist lock to show who is in charge
+C) Continue communication and only use physical restraint if they become a real threat or commit an offence
+D) Drag them out of the venue regardless of their cooperation
+Correct Answer: C
+Explanation: Restraint must be necessary, proportionate and reasonable. If the person is only being verbally abusive and not an immediate threat, you should continue de-escalation and communication. Physical restraint should be a last resort when other options have been exhausted or when safety is at risk.
+
+Question 4 [Easy]
+Which action best demonstrates your duty of care to a person while they are being restrained?
+A) Ignoring them so they “calm down quicker”
+B) Regularly checking their breathing and responsiveness
+C) Covering their head with a jacket so they can’t see
+D) Leaving them face down while you complete paperwork
+Correct Answer: B
+Explanation: Duty of care means you must monitor the welfare of the restrained person, including breathing, responsiveness and general condition. Regular checks allow you to spot medical problems early and adjust or stop the restraint if necessary. Ignoring or leaving them in unsafe positions breaches that duty of care.
+
+Question 5 [Hard]
+Three operatives restrain a large, intoxicated male in the prone position. One operative is kneeling across his lower back. The man is gasping, saying “I can’t breathe”, then suddenly stops struggling and goes quiet. What should the team do immediately?
+A) Maintain the position until the police arrive, as he may be pretending
+B) Sit him up later when he has fully stopped moving
+C) Remove pressure straight away, reposition him to a safer position (ideally recovery), check breathing and call an ambulance
+D) Tighten the handcuffs to make sure he cannot move
+Correct Answer: C
+Explanation: Gasping, saying “I can’t breathe”, then going limp and quiet are serious warning signs of positional asphyxia. The correct response is to release pressure immediately, reposition into a safer posture (ideally the recovery position if safe), check breathing and call emergency medical services. Delaying this can lead to cardiac arrest and death.
+
+Question 6 [Medium]
+Why should standing restraint generally be used only for short periods?
+A) Because standing restraint is always illegal
+B) Because standing restraint cannot be used to escort someone
+C) Because standing restraint immediately causes positional asphyxia
+D) Because it is tiring to maintain and is not suitable for prolonged control, so you should transition to safer options when possible
+Correct Answer: D
+Explanation: Standing restraint is intended for short-term control and escort, not long-term holding. It can be physically demanding for staff and may become unsafe if prolonged. Once control is established, operatives should consider safer, more stable options (e.g. seated or recovery position) if ongoing control is required.
+
+Question 7 [Easy]
+What is the main purpose of a standing restraint hold?
+A) To provide short-term control and enable safe escort of a person who can still walk
+B) To inflict pain so the person remembers not to misbehave
+C) To hold someone indefinitely until the police arrive
+D) To force the person into the prone position as quickly as possible
+Correct Answer: A
+Explanation: Standing restraint techniques (such as arm or wrist controls) are designed for short-term control and to allow a safe escort while the person can still walk. They are not for punishment or prolonged restraint and should be adjusted or reduced as the person complies.
+
+Question 8 [Medium]
+While escorting a struggling subject, you approach a flight of stairs. They continue to resist. What is the most appropriate action regarding ground control?
+A) Force them to the ground at the top of the stairs for maximum control
+B) Move them away from the stairs first, then if necessary take them to ground in a safer area with team control
+C) Release them immediately so they can move away on their own
+D) Push them down the stairs so they are easier to control at the bottom
+Correct Answer: B
+Explanation: Before going to ground, you must consider environmental hazards such as stairs, glass or furniture. Moving the person to a safer area away from hazards before any ground control reduces the risk of serious injury to both the subject and the team.
+
+Question 9 [Hard]
+A subject has been restrained on the ground in a prone position. After a period of intense struggling, they suddenly stop resisting, go limp and fall silent. You are the team member responsible for safety monitoring. What should you do first?
+A) Assume they have finally calmed down and maintain the restraint as it is
+B) Leave them face down and briefly leave to inform your supervisor
+C) Instruct the team to immediately reduce pressure and reposition the subject into a safer position, preferably recovery, while checking breathing
+D) Tighten all holds to make sure they do not start struggling again
+Correct Answer: C
+Explanation: A sudden stop in struggling, going limp and becoming quiet can indicate serious medical distress or positional asphyxia, not calmness. The safety monitor must act quickly: reduce pressure, change position to improve breathing (ideally the recovery position if safe), and check responsiveness and breathing, calling emergency medical help if there is any doubt.
+
+Question 10 [Easy]
+Once control has been established and it is safe to do so, which position is preferred for breathing and ongoing monitoring?
+A) Recovery position
+B) Prone (face down)
+C) Bent forward while seated
+D) Supine (face up) with arms restrained behind the back
+Correct Answer: A
+Explanation: The recovery position (on the side, airway open and stable) is the safest position for breathing and is preferred once active resistance has stopped and it is safe. It reduces the risk of airway blockage and positional asphyxia while still allowing observation and monitoring.
+
+Question 11 [Medium]
+Which of the following combinations presents the highest overall risk of positional asphyxia?
+A) Seated, calm, sober subject with no medical history
+B) Supine (face up) subject, no weight on chest, normal breathing, not struggling
+C) Seated subject leaning slightly forward, complaining of handcuff discomfort
+D) Prone subject with weight on their back, arms cuffed behind, intoxicated and obese after a recent violent struggle
+Correct Answer: D
+Explanation: Positional asphyxia risk increases with prone positioning, weight on the back or chest, arms behind the back, intoxication, obesity and a recent struggle. Option D combines several of these high-risk factors and therefore represents the greatest danger.
+
+Question 12 [Medium]
+During a restraint, the subject is saying “I can’t breathe” and gasping. What is the most appropriate immediate response?
+A) Ignore them; if they can talk, they are getting enough air
+B) Reduce or remove pressure, reposition them to improve their airway (ideally recovery) and call for medical assistance if there is any doubt
+C) Keep the restraint exactly the same until they stop talking
+D) Move them into a more restrictive position so they cannot struggle
+Correct Answer: B
+Explanation: Complaints of breathing difficulty must be taken very seriously. The myth that 'if they can talk, they can breathe' is FALSE and dangerous—people can speak with severely restricted breathing and can die even while speaking or shortly after speaking. The correct response is to reduce or remove pressure, reposition to improve their airway (ideally recovery position) and call for medical assistance if there is any doubt. Assuming they are "faking it" is dangerous and can be fatal.
+
+Question 13 [Easy]
+Why is it important to double lock handcuffs after they have been applied?
+A) It makes the handcuffs easier to remove later
+B) It stops the keys from working until the police arrive
+C) It prevents the cuffs from tightening further and reduces the risk of injury
+D) It makes the cuffs more painful, encouraging compliance
+Correct Answer: C
+Explanation: Double locking handcuffs prevents them from tightening further due to movement, which helps protect against nerve damage, circulation problems and unnecessary pain. This is an essential safety step whenever cuffs are used.
+
+Question 14 [Hard]
+At a busy festival, a male subject is behaving bizarrely, appears extremely strong, is sweating heavily, has a very high body temperature and does not seem affected by pain. Several staff members are struggling to control him. What is the most appropriate overall response?
+A) Increase the level of pain compliance until he stops struggling
+B) Treat it as a medical emergency, call an ambulance immediately, and use the minimum restraint necessary while closely monitoring his condition
+C) Assume he will eventually tire himself out and maintain the current restraint
+D) Move him to a secluded area and keep him restrained face down until he is quiet
+Correct Answer: B
+Explanation: These are classic signs of excited delirium, which is a medical emergency with a high risk of sudden death. The priority is to call an ambulance immediately, use the minimum force and minimum time necessary to keep everyone safe, and monitor breathing, colour and responsiveness constantly.
+
+Question 15 [Medium]
+A detained person in handcuffs complains that their hands are numb. You notice their fingers are swollen and discoloured. What should you do?
+A) Check and adjust the handcuffs, ensuring they are not too tight, maintain control and continue to monitor, seeking medical help if needed
+B) Ignore the complaint as detainees often exaggerate discomfort
+C) Tighten the cuffs so they cannot slip their hands out
+D) Leave the cuffs as they are but move the person into the prone position for more control
+Correct Answer: A
+Explanation: Swelling, discolouration and numbness can indicate restricted circulation or nerve compression. You must check tightness, ensure there is an appropriate gap (e.g. “two-finger” space), adjust if necessary while maintaining control, and continue to monitor circulation, seeking medical assistance if problems persist.
+
+Question 16 [Easy]
+Why should operatives have a lower threshold for calling medical assistance when restraining an intoxicated person?
+A) Because intoxicated people cannot be arrested
+B) Because intoxicated people always pretend to be unwell
+C) Because intoxicated people are easier to restrain
+D) Because alcohol and drugs increase the risk of medical complications, including positional asphyxia
+Correct Answer: D
+Explanation: Alcohol and drugs can mask pain, affect breathing and heart function, and increase the risk of positional asphyxia and other medical emergencies. For intoxicated persons, operatives should be particularly cautious and seek medical help sooner rather than later if there are any concerns.
+
+Question 17 [Medium]
+You are dealing with a person who appears to be in mental health crisis. They are distressed, shouting and confused, but not currently assaulting anyone. What is the most appropriate approach?
+A) Treat them as a criminal and restrain them as quickly as possible
+B) Use high levels of pain to regain control and “snap them out of it”
+C) Use calm, clear communication and de-escalation, only using restraint if necessary for safety, and seek appropriate medical/professional help
+D) Ignore them and hope they leave on their own
+Correct Answer: C
+Explanation: A person in mental health crisis may not understand what is happening and may be highly distressed. The priority is communication and de-escalation, with restraint used only if necessary to protect them or others, and with early involvement of medical or specialist mental health support where possible.
+
+Question 18 [Hard]
+After an incident involving physical restraint, the police arrive. You have handed over the detained person and given a brief account of what happened. An officer then asks you to provide a detailed written statement immediately, but you are shaken and unsure about the wording. What is the most appropriate response regarding your rights?
+A) Refuse to answer any questions at all
+B) Explain that you are happy to cooperate but would like the opportunity to seek legal advice before providing a detailed statement
+C) Sign any statement the officer writes for you to avoid trouble
+D) Delete your notes so they cannot be used against you
+Correct Answer: B
+Explanation: You should cooperate with the police and provide a basic handover at the scene, but you also have the right to seek legal advice before giving a detailed statement. This helps ensure your account is accurate, clear and protects your legal position.
+
+Question 19 [Easy]
+Which of the following pieces of information is essential to pass to the police when handing over a detained person?
+A) Any injuries or medical concerns you have observed
+B) Whether the person offended you personally
+C) What music they were listening to before the incident
+D) How long you have worked in security
+Correct Answer: A
+Explanation: When handing over to the police, it is vital to mention any injuries, medical concerns or signs of intoxication. This directly affects how the police and medical professionals will treat the person and demonstrates that you have taken your duty of care seriously.
+
+Question 20 [Medium]
+A subject has become compliant and the immediate threat has ended. It is now appropriate to release them from physical restraint. How should this be done?
+A) Let go suddenly and turn your back to show confidence
+B) Push them away forcefully so they cannot re-engage
+C) Keep them restrained for a bit longer as punishment
+D) Explain clearly what you are doing, release your control gradually, maintain awareness and create safe distance once released
+Correct Answer: D
+Explanation: Release should be controlled and planned, not sudden. You should communicate clearly, reduce control gradually, and create safe distance while maintaining awareness in case the behaviour escalates again. This protects both the operative and the subject.
+
+Question 21 [Medium]
+After an incident, the subject has been handed over to the police, and immediate documentation and handover have been completed. When and how should you disengage from the scene?
+A) Leave immediately without speaking to anyone so you are not blamed
+B) Stay at the scene arguing with witnesses to correct their version
+C) Once there is no further risk and the police no longer require you, leave in a controlled and professional manner, maintaining awareness and informing your supervisor
+D) Remain on scene all night even if you are no longer needed
+Correct Answer: C
+Explanation: Disengagement should be controlled and professional. Once the threat is resolved, the police have taken over and you are no longer required, you should depart calmly, maintain situational awareness, and report to your supervisor, ensuring all necessary documentation and follow-up are in place.
+
+================================================================================
+END OF CHAPTER 7.5 QUESTIONS
+Total Questions: 21
+
+
+Easy: 8 (Q1, Q2, Q4, Q7, Q10, Q13, Q16, Q19)
+
+
+Medium: 9 (Q3, Q6, Q8, Q11, Q12, Q15, Q17, Q20, Q21)
+
+
+Hard: 4 (Q5, Q9, Q14, Q18)
+
+
+Answer Distribution:
+
+
+Correct answer A: 5 questions (Q2, Q7, Q10, Q15, Q19)
+
+
+Correct answer B: 5 questions (Q4, Q8, Q12, Q14, Q18)
+
+
+Correct answer C: 6 questions (Q3, Q5, Q9, Q13, Q17, Q21)
+
+
+Correct answer D: 5 questions (Q1, Q6, Q11, Q16, Q20)
+
+
+================================================================================

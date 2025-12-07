@@ -1,0 +1,456 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 2, CHAPTER 2.2
+CIVIL AND CRIMINAL LAW FOR DOOR SUPERVISORS
+================================================================================
+
+YOUR TASK
+---------
+Generate 28 high-quality Multiple Choice Questions (MCQs) for Chapter 2.2 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+WHAT IS UNIT 2?
+---------------
+Unit 2 focuses specifically on the role and responsibilities of a Door 
+Supervisor working at licensed premises.
+
+THE EXAM
+--------
+Unit 2: Working as a Door Supervisor
+- 50 multiple choice questions in actual exam
+- 75 minutes duration
+- 70% pass mark (35 correct answers required)
+- This chapter (2.2) is one of 10 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Door supervisors regularly face situations involving potential assault, 
+trespass, and use of force. Understanding the law protects both the door 
+supervisor and the public. Getting it wrong can mean criminal charges, 
+civil claims, and loss of licence.
+
+================================================================================
+CHAPTER 2.2: CIVIL AND CRIMINAL LAW - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 28
+- Easy (direct recall): 11 questions
+- Medium (application): 11 questions
+- Hard (scenario-based): 6 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.1: CIVIL LAW PRINCIPLES
+--------------------------------------------------------------------------------
+
+Civil vs Criminal - Reminder:
+- Civil law: disputes between individuals/organisations
+- Burden of proof: "balance of probabilities"
+- Remedies: damages (money), injunctions
+- Claimant sues defendant
+
+Civil Claims Against Door Supervisors:
+- False imprisonment
+- Assault and battery
+- Negligence
+- Breach of duty of care
+- Can result in significant financial damages
+
+Employer Vicarious Liability:
+- Employer liable for employee's actions
+- If acting "in the course of employment"
+- Employer has deeper pockets
+- Doesn't remove personal liability
+
+Personal Liability:
+- Door supervisor personally liable for own actions
+- Cannot hide behind "I was told to do it"
+- "Following orders" is not a defence
+- Must use own judgement
+
+Time Limits:
+- Personal injury claims: 3 years
+- Other civil claims: 6 years
+- Claims can come long after incident
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.2: TRESPASS
+--------------------------------------------------------------------------------
+
+Definition:
+- Entering or remaining on property without permission
+- Permission can be withdrawn at any time
+- Once asked to leave, person becomes trespasser
+
+KEY POINT: Trespass is a CIVIL matter, NOT criminal
+- Police cannot arrest for simple trespass
+- It is NOT a crime to trespass
+- But there are remedies and powers to deal with it
+
+Licence to Enter:
+- Open venues give "implied licence" to enter
+- Subject to conditions (dress code, behaviour, etc.)
+- Licence can be withdrawn at any time
+- "You are no longer welcome, please leave"
+
+Creating a Trespasser:
+- Person with permission → asked to leave → refuses → trespasser
+- Person entering without permission → trespasser from outset
+- Person breaching conditions → may become trespasser
+
+Reasonable Time to Leave:
+- Must give person reasonable time to leave
+- Cannot immediately use force
+- What is reasonable depends on circumstances
+- Once time passed and still present → can use reasonable force
+
+Reasonable Force to Eject:
+- Can use reasonable force to remove trespasser
+- Force must be necessary and proportionate
+- Minimum force required to achieve ejection
+- Cannot use excessive force
+- Physical removal is lawful if done properly
+
+Aggravated Trespass (Criminal Offence):
+- Criminal Justice and Public Order Act 1994
+- Trespass with intent to intimidate, obstruct, or disrupt
+- This IS a criminal offence
+- Example: protesters occupying premises
+
+Trespass from the Outset:
+- Person enters for unlawful purpose
+- Never had genuine permission
+- Example: enters to steal, assault, or deal drugs
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.3: ASSAULT AND BATTERY
+--------------------------------------------------------------------------------
+
+Assault (Legal Definition):
+- Causing someone to FEAR immediate unlawful violence
+- Does NOT require physical contact
+- The threat alone is assault
+- Words and actions that cause fear
+- Example: raising fist, threatening words, aggressive approach
+
+Battery (Legal Definition):
+- Actual application of unlawful force
+- ANY unwanted touching can be battery
+- Does not need to cause injury
+- Example: pushing, punching, grabbing
+
+Common Assault:
+- Minor assault or battery
+- No significant injury
+- SUMMARY offence (Magistrates' Court only)
+- NO power of citizen's arrest
+
+Assault Occasioning Actual Bodily Harm (ABH):
+- Section 47 Offences Against the Person Act 1861
+- Injury that is more than trifling
+- Examples: bruising, minor cuts, black eye
+- EITHER WAY offence (indictable)
+- Citizen's arrest IS possible
+
+Grievous Bodily Harm (GBH) - Section 20:
+- Section 20 Offences Against the Person Act 1861
+- Serious injury (wounding or GBH)
+- "Wounding" = breaking of the skin
+- Reckless as to causing harm
+- EITHER WAY offence (indictable)
+- Citizen's arrest IS possible
+
+GBH with Intent - Section 18:
+- Section 18 Offences Against the Person Act 1861
+- Most serious assault offence
+- Intent to cause grievous bodily harm
+- INDICTABLE ONLY (Crown Court)
+- Maximum penalty: life imprisonment
+- Citizen's arrest IS possible
+
+Hierarchy of Assault Offences (least to most serious):
+1. Common assault (summary - no arrest power)
+2. ABH - Section 47 (either way - arrest possible)
+3. GBH - Section 20 (either way - arrest possible)
+4. GBH with Intent - Section 18 (indictable - arrest possible)
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.4: USE OF FORCE
+--------------------------------------------------------------------------------
+
+Section 3 Criminal Law Act 1967:
+"A person may use such force as is reasonable in the circumstances in the 
+prevention of crime, or in effecting or assisting in the lawful arrest of 
+offenders or suspected offenders or of persons unlawfully at large."
+
+Common Law Self-Defence:
+- Defence of self
+- Defence of others
+- Defence of property
+
+When Force is Justified:
+- Prevention of crime
+- Self-defence or defence of others
+- Defence of property
+- Lawful arrest
+- Ejecting trespassers
+
+Requirements for Lawful Force:
+
+1. NECESSARY:
+- Force must be needed
+- No reasonable alternative available
+- Cannot use force if you can walk away
+- But no duty to retreat if threat is imminent
+
+2. REASONABLE:
+- What would an ordinary person consider reasonable?
+- Judged on circumstances as they appeared at the time
+- Not with hindsight
+- Consider: size, numbers, weapons, threats
+
+3. PROPORTIONATE:
+- Level of force matches level of threat
+- Minimum force needed to achieve aim
+- Cannot use sledgehammer to crack a nut
+- Escalation only if threat escalates
+
+Honest Belief Test:
+- Force judged on circumstances as YOU believed them
+- Even if mistaken about facts
+- Belief must be honestly held
+- But must be reasonable in circumstances
+- Genuine mistake can still be lawful
+
+Pre-emptive Action:
+- Do NOT have to wait to be hit first
+- Can act if attack is imminent
+- Pre-emptive strike CAN be lawful
+- But must still be necessary and proportionate
+
+When Force Becomes UNLAWFUL:
+- Threat has ended
+- Person is restrained/subdued
+- Person is fleeing
+- Retaliation (getting revenge)
+- Punishment (teaching a lesson)
+- Force continues after no longer needed
+- Excessive force beyond what was needed
+
+Excessive Force = Assault:
+- If force is excessive, door supervisor commits assault
+- Can face criminal charges
+- Can face civil claim
+- Loss of SIA licence
+- Loss of employment
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.5: DUTY OF CARE
+--------------------------------------------------------------------------------
+
+What is Duty of Care:
+- Legal obligation to take reasonable care
+- Not to cause foreseeable harm to others
+- Owed to customers, colleagues, public
+- Also owed to people you eject or restrain
+
+Standard of Care:
+- What a reasonable person would do
+- Considering all circumstances
+- Professional training raises standard
+- More is expected of trained door supervisors
+
+Negligence:
+- Breach of duty of care
+- Causes damage or injury
+- Could have been foreseen
+- Civil claim for compensation
+
+Occupier's Liability Act 1957:
+- Duty to lawful visitors
+- Keep premises reasonably safe
+- Warn of known hazards
+- Applies to venue and staff
+
+Occupier's Liability Act 1984:
+- Limited duty to trespassers
+- Only for known dangers
+- Less protection than lawful visitors
+- Still cannot create traps/hazards
+
+Duty to Ejected Persons:
+- Still owe duty of care
+- Cannot eject into dangerous situation
+- Vulnerable persons need extra care
+- Intoxicated persons at risk
+- Consider safe dispersal
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.6: CRIMINAL LIABILITY
+--------------------------------------------------------------------------------
+
+Personal Criminal Responsibility:
+- Responsible for own actions
+- Cannot blame employer
+- Cannot claim "just following orders"
+- Must use own judgement
+
+Potential Criminal Offences:
+- Assault / battery
+- ABH / GBH
+- False imprisonment
+- Kidnapping
+- Misconduct in public office (rare)
+
+False Imprisonment:
+- Unlawfully restraining someone's freedom
+- Even for a short time
+- Without lawful authority
+- Can be criminal AND civil matter
+
+Kidnapping:
+- False imprisonment PLUS movement
+- Moving person from one place to another
+- Against their will
+- Very serious offence
+
+--------------------------------------------------------------------------------
+TOPIC 2.2.7: EMPLOYER LIABILITY
+--------------------------------------------------------------------------------
+
+Vicarious Liability:
+- Employer liable for employee's wrongs
+- If committed in course of employment
+- Even if employer didn't authorise
+- Even if employer prohibited the action
+
+Course of Employment:
+- Acting within scope of job
+- Doing what employed to do
+- Even if doing it wrongly
+- Frolic and detour may break connection
+
+Employer's Duty:
+- Proper training
+- Clear procedures
+- Adequate supervision
+- Appropriate equipment
+- Safe systems of work
+
+Insurance:
+- Public liability insurance
+- Employer's liability insurance
+- May cover employee's actions
+- Protects against claims
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 28
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 11 questions (40%)
+- Medium (application): 11 questions (40%)
+- Hard (scenario-based): 6 questions (20%)
+
+TOPICS TO COVER:
+□ Trespass as civil matter (4-5 questions)
+□ Creating trespasser / ejection (3-4 questions)
+□ Assault vs battery distinction (3-4 questions)
+□ Hierarchy of assault offences (3-4 questions)
+□ Use of force principles (5-6 questions)
+□ When force becomes unlawful (3-4 questions)
+□ Duty of care (3-4 questions)
+□ False imprisonment (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic door supervisor scenarios
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.2: CIVIL AND CRIMINAL LAW FOR DOOR SUPERVISORS
+================================================================================
+
+Question 1 [Easy]
+Trespass is generally considered to be what type of matter?
+
+A) A criminal offence
+B) A civil matter
+C) A regulatory offence
+D) An indictable offence
+
+Correct Answer: B
+
+Explanation: Simple trespass is a civil matter, not a criminal offence. 
+Police cannot arrest someone for ordinary trespass. However, the occupier 
+can use reasonable force to remove a trespasser, and aggravated trespass 
+(with intent to intimidate, obstruct or disrupt) is a criminal offence.
+
+---
+
+[Continue for all 28 questions]
+
+================================================================================
+END OF CHAPTER 2.2 QUESTIONS
+================================================================================
+
+Total Questions: 28
+- Easy: 11
+- Medium: 11
+- Hard: 6
+
+================================================================================
+
+================================================================================
+LEGAL ACCURACY - KEY POINTS
+================================================================================
+
+MUST GET CORRECT:
+
+TRESPASS:
+- Civil matter, NOT criminal (unless aggravated)
+- Must give reasonable time to leave
+- Then can use reasonable force to eject
+
+ASSAULT OFFENCES:
+- Common assault = summary = NO arrest power
+- ABH (Section 47) = either way = arrest possible
+- GBH (Section 20) = either way = arrest possible
+- GBH with intent (Section 18) = indictable = arrest possible
+
+USE OF FORCE:
+- Section 3 Criminal Law Act 1967
+- Must be: necessary, reasonable, proportionate
+- Honest belief test applies
+- Pre-emptive action CAN be lawful
+- Force MUST stop when threat ends
+
+FALSE IMPRISONMENT:
+- Unlawful restraint of freedom
+- Can be criminal AND civil
+
+COMMON DISTRACTORS:
+- Trespass is criminal (wrong - civil)
+- All assaults allow arrest (wrong - common assault doesn't)
+- Must wait to be hit first (wrong - pre-emptive action allowed)
+- Following orders is defence (wrong - personal responsibility)
+
+================================================================================
+END OF PROMPT
+================================================================================

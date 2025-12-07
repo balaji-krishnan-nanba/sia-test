@@ -1,0 +1,319 @@
+================================================================================
+UNIT 4, CHAPTER 4.4: CONTROL AND RESTRAINT TECHNIQUES
+================================================================================
+Meta: Total=24 | Easy=10 | Medium=9 | Hard=5 | A=6 | B=6 | C=6 | D=6
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Which statement BEST describes a non-pain compliance technique?
+
+A) A technique that uses balance, leverage and positioning without deliberately causing pain
+B) A technique that relies on striking vulnerable areas to gain control
+C) A technique that always forces the person onto the ground
+D) Any technique that causes as much pain as possible so the person submits quickly
+
+Answer: A
+Explanation: Non-pain compliance techniques control a person by managing their balance, movement and positioning, using leverage and body weight rather than deliberately causing pain. This is safer, more ethical and easier to justify than pain-based methods, and aligns with SIA guidance on low-level, non-restrictive skills.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which of the following is a LAWFUL reason for a door supervisor to restrain someone?
+
+A) To make sure they buy another drink
+B) To show other customers who is in charge
+C) To prevent an imminent assault on another customer
+D) To punish them for being rude
+
+Answer: C
+Explanation: Restraint may be justified to prevent violence or an imminent attack on someone, including protecting victims during an ongoing assault. It must still be necessary, proportionate and the minimum force required. Using force for punishment, ego or sales is unlawful and unethical.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Under Section 24A of the Police and Criminal Evidence Act 1984 (PACE), a door supervisor's "any person" power of arrest normally applies to which type of offences?
+
+A) Indictable offences (more serious offences)
+B) Any minor disagreement in the venue
+C) Parking offences only
+D) Only licensing offences
+
+Answer: A
+Explanation: Section 24A PACE allows arrest for indictable offences - this includes BOTH 'either-way' offences (can be tried in magistrates' or Crown Court) AND 'indictable-only' offences (Crown Court only). The key is whether the offence CAN be tried on indictment, not whether it WILL be.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which option BEST describes how the level of force in restraint should be decided?
+
+A) Use the level of force that is quickest and easiest for staff
+B) Use the minimum force necessary, kept under continuous review
+C) Use whatever force you like as long as you are in uniform
+D) Use as much force as it takes so the person cannot move at all
+
+Answer: B
+Explanation: Any restraint must be necessary, proportionate and the minimum required, and must be continuously reassessed as the situation changes. If the person calms down or the risk reduces, the level of force should reduce too. This reflects both legal "reasonable force" principles and SIA safer-restraint guidance.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: What is the MAIN advantage of the figure-four hold compared with a basic double wrist hold?
+
+A) It allows you to apply direct pressure to painful nerve points
+B) It is designed to force the person to the ground as quickly as possible
+C) It controls both the wrist and elbow, giving better non-painful arm control
+D) It only works on very strong people
+
+Answer: C
+Explanation: The figure-four hold positions the arm so that both the wrist and elbow are controlled, creating a stable "figure 4" shape. This uses leverage and balance rather than pain, giving more effective control than simply holding the wrist with two hands.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: What is usually the MOST appropriate walking pace when escorting a person towards the exit?
+
+A) Running pace, to get them out as fast as possible
+B) Very slow shuffling pace so everyone can watch
+C) Constantly changing speed to keep them off-balance
+D) A normal, steady walking pace
+
+Answer: D
+Explanation: An escort should use a normal, steady walking pace - not rushing (which risks trips and panic) and not dawdling (which gives time for resistance). The aim is controlled, safe movement using minimum force and clear direction.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: During a team restraint, what is the PRIMARY role of the designated observer?
+
+A) Hold both legs while also shouting instructions
+B) Join in and help control whichever limb looks most dangerous
+C) Stand in front of the crowd and entertain them
+D) Monitor the person's condition and breathing, direct the team and call for help if needed
+
+Answer: D
+Explanation: Good practice is to have an observer who does not get hands-on, but instead watches the whole situation: monitoring breathing, consciousness and colour, communicating with the team, and calling for medical or police support. SIA safer-restraint guidance stresses keeping someone focused on welfare, not just control.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which is a key advantage of keeping a person in a standing restraint rather than taking them to the ground?
+
+A) It allows you to put more weight on their back
+B) It makes it easier to hide what you are doing from CCTV
+C) It guarantees they cannot resist or move
+D) It is usually better for their breathing and dignity
+
+Answer: D
+Explanation: Standing restraint generally carries lower medical risk than ground restraint and allows the person to breathe more easily, as their chest is not compressed. It is also usually more dignified and makes it easier to move them if necessary.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which situation presents the HIGHEST risk of positional (restraint) asphyxia?
+
+A) Person lying on their back with no weight on their torso
+B) Person seated upright on a chair with no pressure on the chest
+C) Person standing with arms lightly held at their sides
+D) Person lying face-down on the floor with staff kneeling on their back
+
+Answer: D
+Explanation: The highest risk is when a person is face-down with weight or pressure on their back, which can severely restrict breathing and has been linked to restraint-related deaths. Guidance stresses avoiding this position and removing pressure urgently if it occurs.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: What does "staged release" from restraint mean?
+
+A) Only releasing them when they promise to apologise
+B) Releasing all holds at the same time so it is over quickly
+C) Releasing one part of the restraint at a time while staying ready to re-apply control if needed
+D) Never releasing the person until the police arrive
+
+Answer: C
+Explanation: Staged release means reducing the level of control gradually - for example, releasing one arm while still monitoring behaviour and keeping a safe stance. This helps keep the release proportionate and allows you to react quickly if the person becomes aggressive again.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: You are escorting a heavily intoxicated man who keeps shouting and pulling away. When you try to apply a painful wrist lock he screams and fights harder. Why are non-pain compliance techniques generally PREFERRED in this situation?
+
+A) Intoxicated people always respond better when they are in pain
+B) The law says you cannot cause pain to anyone who has been drinking
+C) Pain will sober him up more quickly
+D) Intoxication can make reactions to pain unpredictable and may increase resistance and risk
+
+Answer: D
+Explanation: People who are intoxicated or affected by drugs may not respond predictably to pain and may become more aggressive or distressed, increasing risks of injury and medical complications. Using non-painful guiding techniques with good communication is usually safer and more professionally defensible.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: You and a colleague are escorting a resistant but walking customer towards the exit. Which phrase BEST supports safe, professional escorting?
+
+A) (Say nothing and drag them quickly out)
+B) "Walk with us to the door, then you can head home and this can be the end of it."
+C) "If you fight us, we'll make this hurt."
+D) "Shut up and move or we'll drop you."
+
+Answer: B
+Explanation: Continuous, calm communication helps explain what is happening, sets expectations and may reduce resistance. Offering a clear, safe outcome (such as leaving without further trouble) supports de-escalation and provides witnesses to your professional conduct.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: In a planned team restraint, who is usually the MOST appropriate person to act as the team leader?
+
+A) The person controlling the left arm
+B) The person watching from the bar
+C) The person positioned at the head/upper body
+D) The person controlling the right arm
+
+Answer: C
+Explanation: The team member at the head/upper body is best placed to see the person's face, monitor breathing and talk to them, so they are usually the team leader. They coordinate the others with clear commands like "Ready... move...".
+
+---
+Q14 | Difficulty: Medium
+---
+Question: You have applied a non-painful arm hold to someone in a standing restraint. Where should you normally position yourself for best control and safety?
+
+A) Two metres away so they cannot touch you
+B) Directly in front of them, at full arm's length
+C) Directly behind them so you cannot see their face
+D) To the side, close in with hip-to-hip contact
+
+Answer: D
+Explanation: Standing holds are usually performed from the side, with close, stable body contact (often hip-to-hip). This helps control balance and movement, avoids the main "kick zone" in front and allows you to feel changes in their movement while still seeing what is happening.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: A person is being restrained on the ground. They were shouting and struggling but suddenly become very quiet, their body goes limp and their face looks pale. What should the team do FIRST?
+
+A) Tighten the restraint so they cannot move at all
+B) Assume they have finally calmed down and maintain the same restraint
+C) Ignore it until the police arrive
+D) Treat it as a potential medical emergency: reduce the restraint, check breathing and move them to a safer position if possible
+
+Answer: D
+Explanation: A sudden change from struggling to limp or unresponsive, especially during ground restraint, can signal a serious medical emergency (including risk of positional asphyxia). Staff should immediately reduce pressure, check responsiveness and breathing, move them to a safer position (e.g. side or more upright) when safe, and call emergency services if there is any concern.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: You have restrained someone following a serious assault and the police arrive to take over. Which information is MOST important to pass on?
+
+A) How many times they have been barred from the venue in the past
+B) What happened, why they were restrained, approximately how long for, and any injuries or medical concerns
+C) What music was playing when the incident started
+D) How busy the bar has been that night
+
+Answer: B
+Explanation: Good practice at handover includes explaining what happened, why you restrained the person, how long the restraint has lasted, what techniques were used, and any injuries or medical issues you have noticed, as well as witnesses. This helps police assess risk, act safely and record events accurately.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: A visibly pregnant woman becomes aggressive towards staff and customers. You need to intervene physically to prevent harm. Which option BEST reflects safe and proportionate practice?
+
+A) Force her face-down on the floor so she cannot kick
+B) Use exactly the same holds you would use on anyone else
+C) Apply pressure directly across her abdomen to stop her moving
+D) Avoid pressure on the abdomen, use minimal necessary control and seek medical help if restraint is needed
+
+Answer: D
+Explanation: Pregnant women are a high-risk group. Techniques must be modified to avoid pressure on the abdomen, use the least restrictive holds possible, and involve medical help at the earliest opportunity if restraint is required. Restraint positions that may affect breathing or circulation are especially dangerous in pregnancy.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: You and a colleague are escorting a person who is actively trying to pull away. You both currently have double wrist holds but are struggling to control him. Which adjustment is MOST appropriate while staying within non-pain compliance?
+
+A) Both of you twist his arms as high as possible behind his back
+B) One of you moves to a figure-four hold on your side while the other maintains a double wrist hold
+C) You start striking his legs to reduce resistance
+D) You both let go and hope he leaves voluntarily
+
+Answer: B
+Explanation: Where more control is needed and non-painful methods are still appropriate, changing one side to a figure-four hold provides better control over wrist and elbow through leverage and balance. Twisting arms high behind the back or striking risks pain, injury and excessive force.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: A customer has had their permission to remain on the premises withdrawn. They are told clearly to leave but refuse, arguing at the bar. What is the MOST appropriate next step before using physical ejection?
+
+A) Call the police and do nothing until they arrive
+B) Ignore them and hope they get bored
+C) Immediately grab them and drag them out
+D) Give a clear final instruction and a reasonable opportunity to leave voluntarily
+
+Answer: D
+Explanation: Before using force to eject a trespasser, you should clearly withdraw permission, instruct them to leave and give them a reasonable chance to go voluntarily. Only if they still refuse, and it is necessary and proportionate, should physical ejection be considered.
+
+---
+Q20 | Difficulty: Hard
+---
+Question: You and a colleague have a man in a standing, non-painful figure-four near the exit after a heated argument. He is swearing but walking with you and not trying to strike anyone. The street outside is busy but calm, and police are around 10 minutes away. What is the MOST appropriate course of action?
+
+A) Apply pain-compliance to speed up the escort
+B) Continue to escort him outside using minimum force, communicate with him, and consider staged release once he is safely away from the premises and calmer
+C) Take him to the ground to make sure he cannot escape before police get there
+D) Keep him fully restrained inside until the police arrive, even though he is walking
+
+Answer: B
+Explanation: Your main objective is to remove the risk from the premises using the minimum necessary force. If he is walking and not assaulting anyone, keeping him fully restrained for an extra 10 minutes may be hard to justify. Taking him to the ground or using pain when not needed increases risk and may be disproportionate. A controlled escort with good communication and staged release once safe aligns with SIA good-practice principles.
+
+---
+Q21 | Difficulty: Hard
+---
+Question: Three staff are holding a very agitated man in a standing team restraint at the top of some stairs. He suddenly leans forward and everyone starts to lose balance towards the steps. As team leader at the head, what should you direct FIRST?
+
+A) Ignore the stairs and keep holding as you are
+B) Move him away from the stairs to a safer area and, if needed, carry out a controlled descent with extra support while calling for additional staff or police
+C) Force him forwards down the stairs so he cannot turn around
+D) Take him straight to the ground where he is, allowing staff to fall with him if necessary
+
+Answer: B
+Explanation: Stairs are a serious hazard. The priority is to move away from the hazard and prevent an uncontrolled fall. If more control is needed, a controlled descent should only be done in a safer area, protecting the head and avoiding positions that increase the risk of positional asphyxia. Throwing or dropping someone on stairs is highly dangerous and unjustifiable.
+
+---
+Q22 | Difficulty: Hard
+---
+Question: A man is being restrained face-down on the floor by three staff. One staff member is kneeling across his upper back. He gasps, "I can't breathe!" and starts to struggle weakly. According to safer-restraint guidance, what is the MOST appropriate immediate action?
+
+A) Tighten the hold so he cannot move or shout
+B) Move the pressure from his back onto his neck so his chest can expand
+C) Remove weight from his back, move towards placing him on his side or in a more upright position as soon as it is safe, and check his breathing
+D) Tell him he is fine and maintain the restraint until police arrive
+
+Answer: C
+Explanation: Face-down restraint with weight on the back is a key cause of positional asphyxia, which has led to deaths and serious brain injury. Guidance is clear: avoid or stop this position, remove weight urgently, reposition the person (e.g. onto their side or in a more upright posture), and closely monitor breathing and responsiveness.
+
+---
+Q23 | Difficulty: Hard
+---
+Question: You have detained a man using a seated restraint after he committed an indictable assault. He is now calm, talking normally and not trying to escape. It has been about 25 minutes and the police control room report further delays. What is the MOST appropriate action?
+
+A) Immediately release him completely and send him away without recording anything
+B) Reassess the necessity and level of restraint, move towards a less restrictive or staged release if safe, monitor his welfare closely and record your decisions
+C) Maintain exactly the same level of physical restraint until the police arrive, no matter how long it takes
+D) Tighten the restraint because he might escape before police arrive
+
+Answer: B
+Explanation: Even when holding someone for a lawful "any person" arrest, the necessity and proportionality of physical restraint must be continually reassessed. If the person is calm and cooperative, a less restrictive position or staged release may be appropriate, provided it is safe. Their welfare should be monitored and your decisions documented.
+
+---
+Q24 | Difficulty: Hard
+---
+Question: Outside your venue, a young man who looks about 17 is shouting that people are trying to kill him. He is clearly distressed and swinging his backpack around near your queue. A bystander tells you they think he has a knife in the bag. What is the MOST appropriate INITIAL response?
+
+A) Rush in from behind and put him straight into a figure-four hold
+B) Move yourself and the public to safety, call the police immediately about the suspected weapon, and use calm communication from a safe distance if possible
+C) Ignore it because he is outside the building
+D) Try to snatch the bag from his hands as quickly as you can
+
+Answer: B
+Explanation: When a weapon is suspected, prioritize public and personal safety. Move people away, call police immediately reporting BOTH the suspected weapon AND the apparent mental health crisis (person shouting about being killed). The young age and distress signs indicate this is likely a safeguarding and mental health matter requiring specialist police response. Only intervene physically if there is an immediate threat to life with no safer option.
+
+

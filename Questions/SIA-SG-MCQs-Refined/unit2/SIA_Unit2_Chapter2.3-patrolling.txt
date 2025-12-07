@@ -1,0 +1,385 @@
+================================================================================
+UNIT 2, CHAPTER 2.3: PATROLLING DESIGNATED AREAS
+
+Question 1 [Easy]
+What is one of the PRIMARY purposes of security patrolling?
+
+A) To provide exercise for the security officer
+B) To deter criminal activity and unwanted behaviour through visible presence
+C) To give visitors someone to chat to during breaks
+D) To replace the need for CCTV systems
+
+Correct Answer: B
+
+Explanation: A key purpose of patrolling is to deter criminal activity and unwanted behaviour by showing an active security presence. Potential offenders are less likely to act when they know an officer may appear at any time.
+
+Question 2 [Easy]
+Why should a security officer vary the timing and route of their patrols whenever possible?
+
+A) To stop potential offenders learning a predictable routine
+B) To make it easier to remember the patrol pattern
+C) To reduce the number of areas that must be checked
+D) To avoid having to complete patrol documentation
+
+Correct Answer: A
+
+Explanation: Varying routes and times helps prevent patrols from becoming predictable. If offenders can predict exactly when and where you will be, they can work around your patrols.
+
+Question 3 [Easy]
+What is the MAIN purpose of a patrol clocking or guard tour system?
+
+A) To replace the need for a supervisor
+B) To reduce the number of patrols required
+C) To allow officers to take longer breaks
+D) To provide evidence of when and where patrols were carried out
+
+Correct Answer: D
+
+Explanation: Clocking systems are designed to prove that patrols have taken place at specific times and locations. This supports accountability, legal protection and investigation of incidents.
+
+Question 4 [Easy]
+Which of the following BEST describes effective observation on patrol?
+
+A) Looking straight ahead and walking quickly
+B) Focusing only on doors and windows
+C) Using sight, hearing and smell to notice anything unusual or out of place
+D) Only checking the areas listed as “high risk”
+
+Correct Answer: C
+
+Explanation: Effective observation means using all your senses, not just sight. Listening for unusual sounds and noticing unusual smells can help detect fire, leaks or intruders, as well as visual changes.
+
+Question 5 [Easy]
+When a security officer discovers a serious incident while on patrol, what should they consider FIRST?
+
+A) Their own safety and the safety of others nearby
+B) Whether they have time to finish the patrol
+C) How quickly they can write the patrol report
+D) Whether the incident will delay the next shift change
+
+Correct Answer: A
+
+Explanation: Safety is always the top priority. The officer must first consider their own safety and that of others before taking any further action or entering a potentially dangerous area.
+
+Question 6 [Easy]
+Which of the following should NOT be included in a patrol report?
+
+A) The time and location of what was found
+B) The actions taken by the officer
+C) A factual description of any damage or hazard
+D) Personal opinions and assumptions about the people involved
+
+Correct Answer: D
+
+Explanation: Patrol reports should be factual and objective. Personal opinions, assumptions or comments about people can be misleading and unprofessional, and may cause problems if reports are later used in court.
+
+Question 7 [Easy]
+How do regular, well-documented patrols benefit the client?
+
+A) They guarantee that no incidents will ever occur
+B) They allow the officer to ignore assignment instructions
+C) They demonstrate duty of care and provide evidence of security activity
+D) They remove the need to maintain the premises
+
+Correct Answer: C
+
+Explanation: Regular, recorded patrols show that the client is taking reasonable steps to protect people and property. This demonstrates duty of care and provides evidence of what security measures were in place.
+
+Question 8 [Easy]
+Which of the following is a TYPICAL duty of a mobile vehicle patrol officer?
+
+A) Repairing damaged fencing
+B) Responding to alarm activations at client premises
+C) Carrying out fire extinguisher servicing
+D) Authorising building maintenance work
+
+Correct Answer: B
+
+Explanation: Mobile patrol officers commonly attend sites in response to alarm activations, as well as carrying out scheduled external and internal checks. Repairing or authorising work is normally done by maintenance or management.
+
+Question 9 [Easy]
+Why should a security officer allow adequate time to complete each patrol?
+
+A) To ensure all areas can be checked thoroughly without rushing
+B) To make the patrol look longer on the clocking system
+C) To give more opportunities to stop and chat with staff
+D) To avoid having to vary the route or timing
+
+Correct Answer: A
+
+Explanation: Rushing a patrol increases the chance of missing hazards, intruders or insecure points. Adequate time allows systematic, careful checking of all required areas.
+
+Question 10 [Easy]
+Which type of patrol monitoring system typically uses an electronic reader that is touched against tags at checkpoints?
+
+A) Traditional mechanical clock system
+B) Paper-based signing-in sheet
+C) Electronic “wand” guard tour system
+D) Vehicle mileage recording system
+
+Correct Answer: C
+
+Explanation: Electronic wand systems use a handheld reader which is touched against tags at each checkpoint. The data is later downloaded, giving a digital record of time and location.
+
+Question 11 [Easy]
+Which of the following findings on patrol is MOST likely to be a security concern?
+
+A) A staff member leaving at the end of their shift
+B) A light left on in an occupied office
+C) A poster that has fallen off the noticeboard
+D) A fire exit that is normally locked now found propped open
+
+Correct Answer: D
+
+Explanation: A fire exit that is usually secure but is now propped open could indicate an intruder route or a serious breach of security and safety. It needs urgent attention and reporting.
+
+Question 12 [Easy]
+During a night patrol you find an external door that should be locked standing open, with no one in sight. What should you do NEXT?
+
+A) Close and lock the door immediately without checking anything else
+B) From a safe position, observe the area, inform control/supervisor and follow instructions before entering
+C) Ignore it as it is probably a staff mistake and continue the patrol
+D) Enter the building quickly and search it alone
+
+Correct Answer: B
+
+Explanation: An open external door may indicate a break-in or intruder still present. You should keep yourself safe, inform control, and follow instructions rather than rushing in alone or ignoring the issue.
+
+Question 13 [Medium]
+You are completing a patrol report about finding a water leak on the second floor. Which entry is the MOST appropriate?
+
+A) “01:45 hrs – Second floor corridor outside Room 204. Water leaking from ceiling, small puddle on floor. Placed ‘Wet Floor’ sign and informed maintenance via control.”
+B) “Water leak upstairs – sorted it.”
+C) “Terrible maintenance in this building; the ceiling is always leaking.”
+D) “There was loads of water everywhere, it was a complete disaster.”
+
+Correct Answer: A
+
+Explanation: Option A is specific, factual and records time, location, hazard and action taken. The other options are vague or contain personal opinions, which are not suitable for professional reports.
+
+Question 14 [Medium]
+Several vehicles have been vandalised in a car park during the early hours of the morning. As the patrolling officer, what is the BEST way to use your patrols to help reduce this?
+
+A) Sit in one corner of the car park for the whole shift
+B) Carry out all patrols at exactly the same time each night
+C) Stop patrolling the car park and focus only on the building interior
+D) Introduce unpredictable patrol times and vary your routes through the car park
+
+Correct Answer: D
+
+Explanation: Varying routes and times increases the chance of disturbing offenders and makes it harder for them to predict when the car park will be checked. Fixed times and static positions are easier to avoid.
+
+Question 15 [Medium]
+You patrol a multi-storey office building with many doors and fire exits. How can you BEST ensure that no doors are missed during your checks?
+
+A) Walk randomly around the building and check any doors you notice
+B) Check only the doors that are closest to the lifts or stairs
+C) Follow a systematic route, checking each door in turn and using a checklist or clocking points
+D) Only check doors that have previously been found insecure
+
+Correct Answer: C
+
+Explanation: A systematic approach ensures consistency and reduces the chance of missing any doors. Checklists or clocking points help prove that all required areas have been visited.
+
+Question 16 [Medium]
+During a review of the electronic guard tour records, you notice that one checkpoint was not clocked on your last patrol. What should you do?
+
+A) Alter the record so that it appears as if the point was visited
+B) Inform control or your supervisor and record the reason for the missed checkpoint
+C) Ignore it, as one missed point is not important
+D) Ask a colleague to clock that point on their next patrol and say you did it
+
+Correct Answer: B
+
+Explanation: Missed checkpoints must be reported honestly so that any issues (such as access problems or time pressures) can be investigated. Falsifying records is dishonest and may be a disciplinary offence.
+
+Question 17 [Medium]
+On your last three patrols you have noticed more cardboard boxes being stored near a fire exit. What is the MOST appropriate action?
+
+A) Recognise this as a developing fire and escape hazard, report it and record it in your patrol notes
+B) Ignore it because the fire exit is still technically usable
+C) Move the boxes yourself, even if this goes against site procedures
+D) Wait until the fire risk assessment is due and mention it then
+
+Correct Answer: A
+
+Explanation: Boxes near a fire exit increase fire load and can obstruct escape routes. You should report the hazard promptly and record your actions, rather than ignoring it or acting outside procedures.
+
+Question 18 [Medium]
+While patrolling a quiet corridor, you discover a small, unattended bag placed against a fire exit with no one nearby. What should you do FIRST?
+
+A) Open the bag to see what is inside
+B) Pick up the bag and take it to the security office
+C) Keep a safe distance, prevent others approaching, inform control and follow local procedures
+D) Kick the bag gently to check if it is heavy
+
+Correct Answer: C
+
+Explanation: Any unattended item in a sensitive location should be treated with caution. You should keep people away, inform control and follow the site’s suspicious item procedures, not handle the item yourself.
+
+Question 19 [Medium]
+You see an unknown person walking quickly away from a restricted area. Later you learn a window there was forced. Which report entry BEST meets professional reporting standards?
+
+A) “A suspicious-looking person definitely broke the window in the restricted area.”
+B) “A criminal ran away from the restricted area just before we found the broken window.”
+C) “A dodgy male sneaked away from the restricted area and probably did the damage.”
+D) “00:10 hrs – Observed unknown male, mid-20s, dark jacket, blue jeans, walking quickly away from restricted area. 00:18 hrs – Found window in that area forced. Control informed.”
+
+Correct Answer: D
+
+Explanation: Option D gives times, descriptions and facts without guessing or insulting language. The other options assume guilt or use unprofessional wording, which is not acceptable.
+
+Question 20 [Medium]
+During a winter night patrol you find that an external fire escape staircase is covered in ice, creating a serious slip hazard. What is the MOST appropriate action?
+
+A) Close the staircase permanently and put up a handwritten sign
+B) If safe to do so, prevent use of the staircase (for example with barrier tape or signage), warn control and record it, and arrange for the hazard to be dealt with
+C) Do nothing because staff are unlikely to use the staircase at night
+D) Pour hot water down the staircase yourself to melt the ice
+
+Correct Answer: B
+
+Explanation: A serious hazard should be made safe if you can do so without risk, and reported promptly so the responsible people can take action. Improvised methods like hot water may be unsafe or ineffective.
+
+Question 21 [Medium]
+Which of the following is a key ADVANTAGE of modern RFID or mobile app guard tour systems compared with traditional mechanical clock systems?
+
+A) They can provide real-time information on patrol progress and officer welfare
+B) They remove the need for any supervision of officers
+C) They are impossible for anyone to misuse or avoid
+D) They mean patrols only need to be done once a week
+
+Correct Answer: A
+
+Explanation: Many modern systems can send data in real time, showing where and when patrols are happening and helping monitor lone worker safety. They do not remove the need for supervision or regular patrols.
+
+Question 22 [Medium]
+You are patrolling a remote part of a large site at night as a lone worker. Radio reception is poor in one area that still has to be checked. What is the BEST way to manage this risk?
+
+A) Turn your radio off while in that area to save the battery
+B) Avoid patrolling the area altogether so you stay safe
+C) Agree a clear lone-worker procedure with control, including check-in times, and minimise time in the poor-signal area
+D) Only patrol the area if you see suspicious activity there
+
+Correct Answer: C
+
+Explanation: Lone-worker procedures, including regular check-ins, help manage risk when communication is unreliable. You still have to patrol required areas, but you should do so with agreed safeguards.
+
+Question 23 [Medium]
+You are carrying out mobile patrols at several sites during a shift. What information is MOST important to record for each site visited?
+
+A) The names of any staff you spoke to socially
+B) The amount of fuel used travelling to the site
+C) How long you spent in the patrol vehicle
+D) Arrival and departure times, areas checked, issues found and actions taken
+
+Correct Answer: D
+
+Explanation: Mobile patrol records must show clearly when you were on site, what you checked, any problems found and what you did about them. This supports accountability and incident investigations.
+
+Question 24 [Medium]
+You arrive in a patrol vehicle to investigate an alarm activation at a closed premises during the night. Where should you MOST appropriately park?
+
+A) As close as possible to the main doors, even if it blocks access
+B) In a safe position that does not obstruct emergency routes and allows a quick, safe exit if needed
+C) Out of sight down a side street so nobody can see the vehicle
+D) On the pavement directly outside the building to show a strong presence
+
+Correct Answer: B
+
+Explanation: Parking should allow rapid withdrawal if the situation becomes dangerous and must not block emergency routes or cause hazards. Completely hiding the vehicle may reduce deterrence and access.
+
+Question 25 [Hard]
+You realise that for several weeks you have started your patrols from the same entrance at the same times, and staff have commented that they can “set their watches by you”. What is the BEST way to adjust your patrols to improve security?
+
+A) Introduce randomised start points and slightly varied patrol times, while still ensuring all high-risk areas are covered each shift
+B) Stop patrolling low-risk areas completely so you can patrol high-risk areas more often
+C) Continue with the same routine because it helps staff feel comfortable
+D) Only patrol during daylight hours so that you are more visible to staff
+
+Correct Answer: A
+
+Explanation: You need to restore an element of unpredictability without neglecting important areas. Small variations in start points and times help deter criminals who may be studying your routine.
+
+Question 26 [Hard]
+You are responsible for patrolling a large warehouse with high racking and several blind spots between aisles. Which approach BEST improves your patrol technique while maintaining safety?
+
+A) Walking quickly down the centre of each aisle without stopping
+B) Checking only the areas covered by CCTV, as they are already monitored
+C) Standing at one end of the warehouse and watching for movement
+D) Following a planned route that takes you along each aisle, occasionally pausing to look up and down the racking and into blind spots, and varying the order of aisles checked
+
+Correct Answer: D
+
+Explanation: A planned route that includes blind spots and checks higher levels gives better coverage and helps detect hazards or intruders. Varying the order also reduces predictability for anyone watching your patrols.
+
+Question 27 [Hard]
+Over several night shifts you notice small pieces of cut fence wire near the perimeter, fresh footprints in a normally unused area and occasional cigarette ends just outside the fence line. No actual break-in has yet occurred. What is the MOST appropriate conclusion and action?
+
+A) These signs are unimportant because nothing has been stolen
+B) It is definitely staff causing the problem, so you should confront them
+C) The signs may indicate someone is testing site security, so you should report the pattern, record it and request a review of perimeter security
+D) It must be local wildlife, so there is nothing you need to do
+
+Correct Answer: C
+
+Explanation: A pattern of small anomalies can indicate reconnaissance or attempts to test security. Reporting and recording these observations allows management to review and strengthen perimeter security before a serious breach.
+
+Question 28 [Hard]
+On patrol you discover a smashed window and hear movement inside a dark building that should be empty. You suspect intruders are still inside, and police are on their way. What is the MOST appropriate action?
+
+A) Enter the building carefully to try to detain the intruders before they escape
+B) From a safe position outside, observe and report what you can see or hear to control and the police, prevent others from entering, and wait for backup
+C) Shout a warning to the intruders that the police are coming and then leave the area
+D) Turn off your radio so the intruders cannot hear it and hide nearby
+
+Correct Answer: B
+
+Explanation: You must not place yourself in unnecessary danger by entering alone. Maintaining a safe observation point, preserving the scene and feeding accurate information to control and police is the correct response.
+
+Question 29 [Hard]
+After a serious incident on site, you are told that your patrol report may later be used in court. Which principle is MOST important when completing your report?
+
+A) It must be clear, factual, written as soon as possible after the event and limited to what you personally saw, did and were told
+B) It should include your personal opinions about who was to blame so the court understands
+C) It should exaggerate the incident slightly to show how serious it was
+D) It can be written days later from memory, as long as it is long and detailed
+
+Correct Answer: A
+
+Explanation: Reports that may be used in legal proceedings must be accurate, timely and factual. They should describe only what you directly observed, did or were told, without exaggeration or personal judgments.
+
+Question 30 [Hard]
+You are patrolling alone around a large industrial estate at night. As you approach a poorly lit area, you see a group of people acting aggressively near your patrol route and you have no immediate backup. What is the MOST appropriate action?
+
+A) Continue walking past the group to show confidence and authority
+B) Approach the group and challenge them firmly about what they are doing
+C) Withdraw to a safe location, inform control of the situation, request assistance or police support if necessary, and only return when it is safe to do so
+D) Ignore the group completely and skip the rest of the patrol
+
+Correct Answer: C
+
+Explanation: Personal safety is critical, especially for lone workers in high-risk situations. Withdrawing to safety and informing control allows the situation to be managed with appropriate support, rather than confronting a potentially violent group alone.
+
+================================================================================
+END OF CHAPTER 2.3 QUESTIONS
+
+Total Questions: 30
+
+Easy: 12
+
+Medium: 12
+
+Hard: 6
+
+Answer Distribution:
+
+Correct answer A: 8 questions
+
+Correct answer B: 7 questions
+
+Correct answer C: 8 questions
+
+Correct answer D: 7 questions
+
+================================================================================

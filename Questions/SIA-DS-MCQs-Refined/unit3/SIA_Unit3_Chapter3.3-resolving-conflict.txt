@@ -1,0 +1,267 @@
+================================================================================
+UNIT 3, CHAPTER 3.3: RESOLVING CONFLICT
+================================================================================
+Meta: Total=20 | Easy=8 | Medium=8 | Hard=4 | A=5 | B=5 | C=5 | D=5
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Which conflict resolution style is described as "our way" and aims for a win-win solution where both parties' needs are met?
+
+A) Compromising
+B) Competing
+C) Accommodating
+D) Collaborating
+
+Answer: D
+Explanation: Collaborating is the win‑win style. It is both assertive and cooperative, and looks for a solution that fully meets both parties' needs. Competing is win‑lose, compromising is "halfway", and accommodating is lose‑win.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which conflict resolution style involves withdrawing from the situation so that the issue is not dealt with and neither party gets what they want?
+
+A) Avoiding
+B) Collaborating
+C) Compromising
+D) Accommodating
+
+Answer: A
+Explanation: Avoiding is unassertive and uncooperative – essentially "no way". The conflict is not addressed, so nobody's needs are properly met. Compromising and collaborating both try to find some form of solution, and accommodating gives the other person their way.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which of the following best describes assertive behaviour for a door supervisor?
+
+A) Using threats and a raised voice so people follow the rules
+B) Allowing others to get their own way to keep the peace
+C) Ignoring unacceptable behaviour and hoping it stops
+D) Standing up for your rights while still respecting the other person's rights
+
+Answer: D
+Explanation: Assertiveness means being firm but fair – protecting your own rights while respecting others. Option B is passive, C is aggressive, and D is avoiding the conflict.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: A customer keeps arguing about the venue's policy. You calmly repeat the same clear explanation without getting drawn into a long argument. Which assertive technique are you using?
+
+A) Fogging
+B) I statements
+C) Broken record
+D) Negative assertion
+
+Answer: C
+Explanation: The broken record technique involves calmly repeating your position or the rule without getting sidetracked into arguments. Fogging acknowledges any truth in what they say, negative assertion accepts valid criticism, and I statements focus on how you feel or what you need.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which statement best shows a door supervisor setting a clear boundary?
+
+A) "Please don't shout, it doesn't look good."
+B) "Sir, I need you to stop shouting. If you continue, I will have to ask you to leave."
+C) "You're annoying everyone, just behave yourself."
+D) "If you shout again, something will happen."
+
+Answer: B
+Explanation: A clear boundary includes a specific expectation (stop shouting) and a clear consequence (asked to leave), delivered respectfully. B and C don't give clear consequences, and D is vague and unprofessional.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: In conflict management, what does "disengagement" mean for a door supervisor?
+
+A) Running away from a situation to avoid paperwork
+B) Tactically withdrawing to a safer position when it is too risky to continue
+C) Immediately ejecting the person using force
+D) Pretending not to see the problem so it goes away
+
+Answer: B
+Explanation: Disengagement is a tactical, professional withdrawal when the threat exceeds your capability or safety. It is not cowardice (B or D) and not the same as physical ejection (C).
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Which statement about the use of force is most accurate for a door supervisor?
+
+A) Force should be the first option when someone is rude
+B) Force can be used whenever it will end the situation more quickly
+C) Force is acceptable as long as your colleagues agree with it
+D) Force must always be reasonable, necessary and a last resort after communication has failed
+
+Answer: D
+Explanation: Force must be reasonable and proportionate to the threat, and is a last resort, used only when necessary and proportionate, after communication has been tried where it is safe and practicable to do so. Rudeness alone does not justify force, and colleagues' opinions do not replace legal requirements.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: What is meant by "voluntary compliance" as an outcome in a conflict situation?
+
+A) The person agrees to follow the request without needing force
+B) The person argues but is ignored
+C) The person is forced to leave by security staff
+D) The person is arrested by the police
+
+Answer: A
+Explanation: Voluntary compliance means the person chooses to comply – for example, they leave when asked or follow instructions without needing physical intervention. It is the best and safest outcome.
+
+---
+Q9 | Difficulty: Medium
+---
+Question: You are working on the door of a busy club that has reached its licensed capacity. A group insists on coming in and offers you money to "bend the rules". You have clearly explained that no more people can enter. Which conflict resolution style is most appropriate now?
+
+A) Collaborating – ask them what they think the safest number to let in would be
+B) Competing – firmly uphold the capacity rules and refuse entry
+C) Accommodating – allow them in so they don't complain
+D) Compromising – let some of them in as long as they behave
+
+Answer: B
+Explanation: When safety and legal rules are clear, you must stand firm – a competing style ("my way") is appropriate. Compromising or accommodating would break the rules and put safety at risk, and collaborating is not suitable when the rules are non‑negotiable.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: A customer refused entry for wearing trainers becomes upset and says, "You're picking on me!" Using a problem-solving approach, what is the BEST first step?
+
+A) Ask questions to find out what his main concern is and what he wants
+B) Tell him the rules again, more loudly so he understands
+C) Offer to let him in this time so he calms down
+D) Call the police immediately in case he becomes violent
+
+Answer: A
+Explanation: The first step in problem solving is to identify the real problem. Asking questions and listening helps you understand his concern, then you can move on to exploring options. Giving in (A), repeating rules loudly (C) or jumping straight to police (B) are not proportionate first steps.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: A customer is standing in front of a fire exit and refuses to move. Which statement is the most assertive and likely to gain cooperation?
+
+A) "You're blocking the door, you know you're not allowed to do that."
+B) "Move away from the door now or I'll throw you out."
+C) "Would you mind moving a bit, if that's OK with you?"
+D) "I need you to step away from the fire exit now so it stays clear for everyone's safety."
+
+Answer: D
+Explanation: Option D uses an I statement, gives a clear instruction and explains the safety reason – assertive but respectful. A is aggressive and threatening, C is critical and less focused on a clear request, and B is too weak to set a firm boundary.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: You have decided that a customer who punched another person must be ejected. The situation has calmed and the other customer is safe. What is the most appropriate way to begin the ejection?
+
+A) Take hold of the customer's arms straight away and march him outside
+B) Calmly tell the customer, "Because you punched that man, I'm asking you to leave now," and give him a chance to walk out
+C) Shout at the customer so everyone knows why he is being removed
+D) Ignore the customer until he causes more trouble, then react
+
+Answer: B
+Explanation: You should start with clear, calm communication: state the reason and that you are asking them to leave, giving them a chance for voluntary compliance. Jumping straight to force (A), shouting (B) or delaying action (C) can all escalate risk.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: You are the only door supervisor near a small bar area when a group of six men surround you, complaining angrily about being refused entry. Their body language is becoming threatening and no back-up is immediately available. What is the BEST action?
+
+A) Raise your voice and argue back to show you are in control
+B) Turn your back and walk away quickly without saying anything
+C) Stay in the middle of the group so they can see you are not afraid
+D) Create distance, move towards an exit or colleagues while facing them, and call for backup
+
+Answer: D
+Explanation: This is a situation where the threat may exceed your capability. Tactical disengagement – creating distance, moving to a safer position and calling for support – protects everyone. A and B may provoke aggression, and C could put you at risk by turning your back.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: Two customers are shouting at each other about a spilled drink. No one is injured and you decide to act as a mediator. What should you usually do FIRST?
+
+A) Immediately call the police to deal with the disagreement
+B) Separate the parties and speak to each person individually
+C) Tell them you have decided who is at fault and explain your decision
+D) Ask both of them to tell their story at the same time so you can hear everything
+
+Answer: B
+Explanation: Basic mediation usually starts by separating the parties and listening to each side in turn. This reduces the audience effect, lowers tension and helps you understand each person's view. A keeps the argument going, C is not neutral, and D is unnecessary at this stage.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: You have refused entry to a man who appears drunk. After a short discussion he accepts your decision and walks away calmly. Which closing phrase best helps end the interaction positively and protect the future relationship?
+
+A) "Next time don't bother coming if you're going to drink first."
+B) "You should have known better before you turned up like this."
+C) "Thanks for understanding. Hopefully we'll see you another night when you've had less to drink."
+D) "That's the rule, take it or leave it."
+
+Answer: C
+Explanation: Thanking him for understanding and leaving the door open for a future visit ends the interaction on a positive note. The other options are blaming or dismissive and may create resentment and future conflict.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: A customer is loudly arguing with you in front of his friends and seems more interested in "performing" for the group than resolving the issue. What is the BEST way to reduce this barrier to resolution?
+
+A) Raise your voice so you sound more powerful than he does
+B) Ask his friends whether they think he is in the wrong
+C) Ask him to step aside with you to a quieter area to talk in private
+D) Ignore him completely and focus only on other customers
+
+Answer: C
+Explanation: An audience can be a major barrier because the person wants to save face. Moving to a quieter, more private spot removes the "stage" and makes it easier for him to back down. The other options are likely to embarrass or provoke him further.
+
+---
+Q17 | Difficulty: Hard
+---
+Question: A regular customer arrives wearing sports shorts, which are not allowed under the venue's dress code. When you refuse him entry, he becomes embarrassed in front of his friends and says loudly, "You always pick on me, this place is a joke." You must uphold the dress code. Which response BEST combines assertiveness, clear boundaries and a face‑saving option for the customer?
+
+A) "I understand it's frustrating, especially in front of your mates, but our policy means I can't let you in with shorts tonight. If you come back in trousers, I'll be happy to let you straight in."
+B) "Look, rules are rules. If you don't like it, go somewhere else."
+C) "I don't have time for this, I'm moving on to the next person."
+D) "Alright, I'll let you in this time, but don't wear shorts again."
+
+Answer: A
+Explanation: Option C acknowledges his feelings (ego/face), clearly states the boundary (no shorts tonight) and offers a dignified, future‑focused solution. A is aggressive, B breaks consistency and undermines the rule, and D avoids the issue without helping him save face.
+
+---
+Q18 | Difficulty: Hard
+---
+Question: Outside the venue, you and one colleague have just ejected an aggressive customer. Eight of his friends come out, surround you both and one picks up a metal bar from a nearby barrier. The group are shouting and moving closer. What is the MOST appropriate action?
+
+A) Attempt to physically restrain the man with the bar while your colleague controls the others
+B) Tactically withdraw with your colleague to a safer position, use verbal cover, and call for police and additional staff support
+C) Ignore the group and go back inside, leaving the aggressive customer and his friends outside
+D) Stand your ground and argue with the group so they know you are not afraid
+
+Answer: B
+Explanation: The threat clearly exceeds your capability. Professional disengagement – withdrawing to safety, using verbal cover ("We're going to get some help"), and calling for police and backup – is the safest and most appropriate response. A and B are likely to result in serious injury, and D fails to manage the ongoing risk outside.
+
+---
+Q19 | Difficulty: Hard
+---
+Question: A customer complains that she has paid for entry but now wants a refund because she says the music is "terrible". She is upset but not aggressive. Venue policy is that refunds are only given if the event is cancelled or there is a serious problem. Using a problem‑solving approach, which response is BEST?
+
+A) "What is it that's bothering you most about tonight? Let me check what we can do, and then I'll explain the options that are possible under our policy."
+B) "Fine, I'll give you your money back so you don't complain, even though it's against policy."
+C) "It's not my problem; if you don't like the music you should leave."
+D) "The rules say no refunds, that's it. I don't need to discuss it further."
+
+Answer: A
+Explanation: Option B follows the problem‑solving steps: identify the problem (by asking), gather information, then look for options within the rules and explain them clearly. A and D dismiss her concerns, and C breaks policy, which can cause bigger problems later.
+
+---
+Q20 | Difficulty: Hard
+---
+Question: A customer was ejected earlier for aggressive behaviour. Ten minutes later he is outside the venue, loudly accusing you of assault while filming you on his phone. He refuses to leave the area but is not currently trying to re‑enter. Which combination of actions is MOST appropriate?
+
+A) Engage in a long argument on camera to defend yourself and prove you were right
+B) Calmly state that he has been asked to leave and will not be re‑admitted tonight, avoid getting drawn into further argument, then record the incident and ensure CCTV is preserved
+C) Go outside alone, off camera, to persuade him to delete the video
+D) Ignore him completely and hope he gets bored and goes away, without making any record
+
+Answer: B
+Explanation: You should stay professional, give a clear ending to the interaction, avoid further argument, and then protect yourself by documenting the incident and preserving evidence such as CCTV. Arguing (A), ignoring without recording (C), or going off camera alone (D) increase risk to you and the venue.
+
+

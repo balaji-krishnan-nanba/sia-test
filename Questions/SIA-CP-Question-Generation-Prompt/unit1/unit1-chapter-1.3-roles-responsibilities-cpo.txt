@@ -1,0 +1,720 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 1, CHAPTER 1.3
+ROLES AND RESPONSIBILITIES OF THE CPO
+================================================================================
+
+YOUR TASK
+---------
+Generate 22 high-quality Multiple Choice Questions (MCQs) for Chapter 1.3 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 5-6 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE EXAM
+--------
+Unit 1: Principles of Working as a Close Protection Operative
+- 52 multiple choice questions
+- 80 minutes duration
+- 70% pass mark (37 correct answers required)
+- This chapter (1.3) is one of 7 chapters in Unit 1
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Understanding the different roles within a CP team, the structure of 
+operations, and individual responsibilities is fundamental to working 
+effectively. CPOs must know their position in the team, their duties,
+and how they interface with the principal and other team members.
+
+================================================================================
+CHAPTER 1.3: ROLES AND RESPONSIBILITIES OF THE CPO - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 22
+- Easy (direct recall): 9 questions
+- Medium (application): 9 questions
+- Hard (scenario-based): 4 questions
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.1: CLOSE PROTECTION TEAM STRUCTURE
+--------------------------------------------------------------------------------
+
+Team Configurations:
+
+SOLO OPERATOR:
+- Single CPO
+- All responsibilities
+- Low-profile work
+- Executive protection common
+- Resource limited
+- Must be highly versatile
+
+TWO-PERSON TEAM:
+- Most common commercial
+- Team Leader + Operative
+- Basic coverage
+- Driver/PPO combination
+- Limited but effective
+
+THREE TO FOUR PERSON TEAM:
+- Better coverage
+- Allows rotation
+- SAP capability
+- Vehicle options
+- Common for celebrities
+
+LARGE TEAMS (5+):
+- High-profile principals
+- 24/7 coverage
+- Multiple roles filled
+- Advance party possible
+- Shift rotation
+- Diplomatic/VIP
+
+Key Roles in Team:
+
+TEAM LEADER (TL):
+- Overall command
+- Decision maker
+- Principal liaison
+- Operational planning
+- Team coordination
+- Responsible for success/failure
+
+PERSONAL ESCORT SECTION (PES):
+- Immediate protection
+- Close to principal
+- Walking formations
+- Vehicle movements
+- First response
+
+SECURITY ADVANCE PARTY (SAP):
+- Reconnaissance
+- Venue security
+- Route checking
+- Liaison with others
+- Prepares for arrival
+
+RESIDENTIAL SECURITY TEAM (RST):
+- Home protection
+- Access control
+- Monitoring systems
+- Static duties
+- Handover to mobile team
+
+SECURITY DRIVER:
+- Vehicle operation
+- Defensive driving
+- Evasive driving
+- Route knowledge
+- Vehicle preparation
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.2: TEAM LEADER RESPONSIBILITIES
+--------------------------------------------------------------------------------
+
+Command and Control:
+- Overall operational command
+- Final decision maker
+- Tactical decisions
+- Resource allocation
+- Mission success responsibility
+
+Planning:
+- Operational planning
+- Contingency plans
+- Risk assessments
+- Route planning oversight
+- Venue security planning
+
+Principal Liaison:
+- Primary contact with principal
+- Understanding requirements
+- Communicating restrictions
+- Managing expectations
+- Building trust
+
+Team Management:
+- Briefings and debriefings
+- Task allocation
+- Performance monitoring
+- Discipline
+- Welfare
+
+Communication:
+- With principal
+- With team members
+- With external agencies
+- With client (if different from principal)
+- Reporting
+
+Administration:
+- Documentation
+- Logs and records
+- Expenses
+- Scheduling
+- Equipment
+
+TL Qualities:
+- Leadership ability
+- Decision making
+- Experience
+- Communication skills
+- Calm under pressure
+- Respect of team
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.3: PERSONAL ESCORT SECTION (PES) ROLES
+--------------------------------------------------------------------------------
+
+Purpose of PES:
+- Immediate close protection
+- Closest to principal
+- First line of defence
+- Evacuation responsibility
+- Constant proximity
+
+PES Positions:
+
+PERSONAL PROTECTION OFFICER (PPO):
+- Immediately beside principal
+- Often called "body man/woman"
+- Closest physical protection
+- Evacuation lead
+- Most trusted position
+
+REAR COVER:
+- Behind principal
+- Watches rear threats
+- Secondary evacuation
+- Supports PPO
+
+FLANKERS:
+- Either side
+- Crowd management
+- Lateral threat coverage
+- Maintain formation
+
+POINT:
+- In front
+- Identifies threats ahead
+- Clears path
+- Liaison with SAP
+
+PES Responsibilities:
+- Maintain formation
+- 360-degree awareness
+- Threat identification
+- Immediate response
+- Principal evacuation
+- Cover and shield
+- Communication
+
+Key PES Skills:
+- Observation
+- Fitness
+- Formation discipline
+- Communication
+- Quick reactions
+- Physical intervention
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.4: SECURITY ADVANCE PARTY (SAP)
+--------------------------------------------------------------------------------
+
+SAP Purpose:
+- Prepare venues before arrival
+- Check routes
+- Identify risks
+- Coordinate with venue security
+- Enable smooth visit
+
+SAP Tasks:
+
+VENUE RECONNAISSANCE:
+- Layout understanding
+- Entry/exit points
+- Emergency exits
+- Holding rooms
+- Safe areas
+- Hazard identification
+
+LIAISON:
+- Venue management
+- Venue security
+- Police if needed
+- Event organisers
+- Other stakeholders
+
+ROUTE CHECKING:
+- Primary route clear
+- Alternate routes identified
+- Choke points noted
+- Safe havens identified
+- Timing confirmed
+
+SECURITY PREPARATION:
+- Sterile areas established
+- Search if required
+- Access control setup
+- Communication check
+- Team positioning
+
+REPORTING:
+- Report to TL
+- Update intelligence
+- Confirm arrangements
+- Identify changes
+
+SAP Timing:
+- Arrive before principal
+- Allow adequate time
+- Complete checks fully
+- Ready before arrival
+- Handover to PES
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.5: RESIDENTIAL SECURITY TEAM (RST)
+--------------------------------------------------------------------------------
+
+RST Purpose:
+- Protect principal's residence
+- 24/7 security
+- Base of operations
+- Rest and recovery security
+
+RST Responsibilities:
+
+ACCESS CONTROL:
+- Visitor management
+- Delivery screening
+- Staff vetting
+- Vehicle access
+- Perimeter security
+
+MONITORING:
+- CCTV systems
+- Alarm systems
+- Communication systems
+- Activity logs
+- Incident reporting
+
+PATROL:
+- Internal patrols
+- External patrols
+- Perimeter checks
+- Vulnerability assessment
+
+COORDINATION:
+- With mobile team
+- Handover procedures
+- Intelligence sharing
+- Schedule coordination
+
+RST Positions:
+- Control room operator
+- Gate/entrance security
+- Patrol officer
+- Response team
+
+Residential Security Layers:
+- Outer perimeter
+- Inner perimeter
+- Building envelope
+- Safe room/panic room
+- Principal's immediate area
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.6: SECURITY DRIVER RESPONSIBILITIES
+--------------------------------------------------------------------------------
+
+Driver Role:
+- Vehicle operation
+- Route execution
+- Defensive driving
+- Emergency procedures
+- Vehicle security
+
+Driving Skills:
+
+DEFENSIVE DRIVING:
+- Anticipating hazards
+- Safe following distances
+- Mirror awareness
+- Junction procedures
+- Motorway driving
+
+EVASIVE DRIVING:
+- Emergency manoeuvres
+- J-turns
+- Bootlegger turns
+- Ramming procedures
+- Route deviation
+
+CONVOY DRIVING:
+- Position in convoy
+- Maintaining formation
+- Communication
+- Emergency procedures
+
+Vehicle Responsibilities:
+
+PRE-JOURNEY:
+- Vehicle inspection
+- Fuel check
+- Equipment check
+- Route briefing
+- Communication check
+
+DURING JOURNEY:
+- Route execution
+- Threat awareness
+- Communication
+- Smooth driving
+- Principal comfort
+
+POST-JOURNEY:
+- Secure parking
+- Vehicle check
+- Reporting
+- Preparation for next use
+
+Driver Qualities:
+- Advanced driving skills
+- Calm under pressure
+- Local knowledge
+- Good communication
+- Physical fitness
+- Reliability
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.7: INDIVIDUAL CPO RESPONSIBILITIES
+--------------------------------------------------------------------------------
+
+Core Responsibilities:
+
+PROTECTION OF PRINCIPAL:
+- Primary duty
+- Safety and security
+- Life protection
+- Prevent harm
+- Enable lifestyle
+
+PROFESSIONALISM:
+- High standards
+- Appearance
+- Conduct
+- Discretion
+- Reliability
+
+CONFIDENTIALITY:
+- Absolute requirement
+- Principal's information
+- Movements
+- Personal details
+- Family information
+
+AWARENESS:
+- Constant vigilance
+- Threat identification
+- Environmental scanning
+- Behaviour observation
+- Intelligence gathering
+
+COMMUNICATION:
+- Within team
+- With principal
+- Clear and accurate
+- Timely reporting
+- Radio discipline
+
+DOCUMENTATION:
+- Incident reports
+- Logs
+- Intelligence notes
+- Handover notes
+- Expense records
+
+Duty of Care:
+- To principal (primary)
+- To team members
+- To public
+- To employer
+- To self
+
+Professional Conduct:
+- Represent profession well
+- Follow procedures
+- Legal compliance
+- Ethical behaviour
+- Continuous improvement
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.8: PRINCIPAL LIAISON AND RELATIONSHIPS
+--------------------------------------------------------------------------------
+
+Understanding the Principal:
+- Lifestyle
+- Preferences
+- Schedule
+- Risks specific to them
+- Family situation
+- Business interests
+
+Building Relationship:
+- Trust
+- Respect
+- Professional boundaries
+- Communication
+- Understanding needs
+
+Managing Expectations:
+- Security limitations
+- What CPO can/cannot do
+- Compromises required
+- Risk communication
+- Realistic protection
+
+Principal's Role:
+- Cooperation with CPO
+- Following advice
+- Communication
+- Understanding restrictions
+- Trust in team
+
+Challenges:
+- Principal ignoring advice
+- Unrealistic expectations
+- Privacy vs security
+- Family members
+- Staff relationships
+
+Maintaining Boundaries:
+- Professional relationship
+- Not becoming friend
+- Appropriate distance
+- Clear role definition
+- Avoiding over-familiarity
+
+--------------------------------------------------------------------------------
+TOPIC 1.3.9: ACCOUNTABILITY AND REPORTING
+--------------------------------------------------------------------------------
+
+Chain of Command:
+- Clear hierarchy
+- Orders flow down
+- Reports flow up
+- Accountability at each level
+
+Reporting Structure:
+- CPO → Team Leader
+- Team Leader → Operations Manager
+- Operations Manager → Client
+- Incident escalation
+
+What to Report:
+
+INCIDENTS:
+- All security incidents
+- Near misses
+- Concerning behaviour
+- Threats received
+- Accidents
+
+INTELLIGENCE:
+- Suspicious activity
+- New information
+- Changes in threat
+- Media interest
+
+OPERATIONAL:
+- Daily logs
+- Handover information
+- Schedule changes
+- Equipment issues
+
+Documentation Standards:
+- Accurate
+- Timely
+- Factual (not opinion)
+- Clear and legible
+- Secure storage
+
+Accountability:
+- Personal responsibility
+- Actions must be justified
+- Legal compliance
+- Professional standards
+- SIA requirements
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 22
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 9 questions (40%)
+- Medium (application): 9 questions (40%)
+- Hard (scenario-based): 4 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 5-6 questions
+- Correct answer B: 5-6 questions
+- Correct answer C: 5-6 questions
+- Correct answer D: 5-6 questions
+
+TOPICS TO COVER:
+□ Team structure and configurations (3-4 questions)
+□ Team Leader responsibilities (3-4 questions)
+□ PES roles and positions (3-4 questions)
+□ SAP duties (3-4 questions)
+□ RST responsibilities (2-3 questions)
+□ Security driver role (2-3 questions)
+□ Individual CPO responsibilities (3-4 questions)
+□ Principal liaison (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 1, CHAPTER 1.3: ROLES AND RESPONSIBILITIES OF THE CPO
+================================================================================
+
+Question 1 [Easy]
+What does SAP stand for in close protection operations?
+
+A) Security Assessment Protocol
+B) Security Advance Party
+C) Surveillance and Protection
+D) Standard Action Plan
+
+Correct Answer: B
+
+Explanation: SAP stands for Security Advance Party. The SAP is responsible 
+for reconnaissance of venues before the principal arrives, checking routes, 
+coordinating with venue security, and preparing for the principal's visit. 
+They arrive before the main team to ensure everything is secure.
+
+---
+
+[Continue for all 22 questions]
+
+================================================================================
+END OF CHAPTER 1.3 QUESTIONS
+================================================================================
+
+Total Questions: 22
+- Easy: 9
+- Medium: 9
+- Hard: 4
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+TEAM ROLES:
+- TL (Team Leader) - overall command, principal liaison
+- PES (Personal Escort Section) - immediate close protection
+- SAP (Security Advance Party) - reconnaissance and preparation
+- RST (Residential Security Team) - home protection
+- Security Driver - vehicle operation
+
+TEAM LEADER DUTIES:
+- Operational planning
+- Principal liaison
+- Team management
+- Decision making
+- Briefings and debriefings
+
+SAP DUTIES:
+- Venue reconnaissance
+- Route checking
+- Liaison with venue security
+- Prepare before principal arrives
+- Report to TL
+
+PES POSITIONS:
+- PPO (Personal Protection Officer) - closest to principal
+- Rear cover - watches behind
+- Flankers - either side
+- Point - in front, clears path
+
+RESIDENTIAL SECURITY:
+- Access control
+- CCTV/alarm monitoring
+- Patrols
+- Handover to mobile team
+
+DRIVER SKILLS:
+- Defensive driving
+- Evasive driving
+- Vehicle inspection
+- Route knowledge
+
+CPO CORE DUTIES:
+- Protection of principal (primary)
+- Confidentiality (absolute)
+- Professionalism
+- Awareness (constant)
+- Communication
+- Documentation
+
+COMMON DISTRACTORS:
+- SAP stays with principal (wrong - arrives before)
+- PPO is team leader (wrong - different role)
+- RST provides mobile protection (wrong - residential/static)
+- Principal tells team what to do (wrong - TL makes security decisions)
+- Two-person team is rare (wrong - most common commercial)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "The Team Leader's PRIMARY responsibility is..."
+- "Before the principal arrives at a venue, the SAP should..."
+- "Which team member is responsible for immediate evacuation..."
+- "A security driver notices a suspicious vehicle following..."
+- "When handing over from RST to mobile team..."
+- "The PPO's position in a walking formation is..."
+- "A solo operator must..."
+
+================================================================================
+END OF PROMPT
+================================================================================

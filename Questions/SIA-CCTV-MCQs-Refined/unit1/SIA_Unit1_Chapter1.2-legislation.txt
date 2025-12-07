@@ -1,0 +1,385 @@
+================================================================================
+UNIT 1, CHAPTER 1.2: LEGISLATION
+
+Question 1 [Easy]
+Which article of the Human Rights Act 1998 protects the right to respect for private life?
+
+A) Article 5
+B) Article 6
+C) Article 8
+D) Article 10
+
+Correct Answer: C
+
+Explanation: Article 8 of the Human Rights Act protects the right to respect for private and family life. For CCTV operators this is crucial, because surveillance must be necessary, proportionate and for a legitimate aim, and must always respect people’s privacy as far as possible.
+
+Question 2 [Easy]
+What is the main purpose of the Human Rights Act 1998?
+
+A) To incorporate the European Convention on Human Rights into UK law
+B) To create the Security Industry Authority and licence security staff
+C) To replace all criminal law with civil law
+D) To give CCTV operators special powers of arrest
+
+Correct Answer: A
+
+Explanation: The Human Rights Act 1998 brings the European Convention on Human Rights into UK law. This means people can rely on their Convention rights, such as privacy and fair trial, in UK courts and public authorities (including local authorities running CCTV) must respect those rights.
+
+Question 3 [Easy]
+Which article of the Human Rights Act prohibits torture and inhuman or degrading treatment, and is considered an absolute right?
+
+A) Article 2
+B) Article 3
+C) Article 5
+D) Article 10
+
+Correct Answer: B
+
+Explanation: Article 3 of the Human Rights Act prohibits torture and inhuman or degrading treatment or punishment. It is an absolute right, meaning it cannot be limited or interfered with under any circumstances. CCTV operators must always treat people with dignity and ensure that footage is not used in a way that degrades or humiliates individuals.
+
+Question 4 [Medium]
+A CCTV operator monitoring a quiet car park at night sees a person collapse and lie motionless. Which action best reflects the Article 2 (right to life) duty?
+
+A) Switch cameras because it might just be someone resting
+B) Ignore it to avoid invading the person’s privacy
+C) Continue recording but take no further action
+D) Monitor the situation closely and promptly alert emergency services
+
+Correct Answer: D
+
+Explanation: Article 2 places a duty on public authorities to protect life where possible. Using CCTV to observe the situation and quickly contact emergency services helps protect the person’s life and is a proper use of surveillance.
+
+Question 5 [Easy]
+Which statement best describes how most Human Rights Act rights apply to CCTV use?
+
+A) They can be limited if surveillance is necessary, proportionate and for a legitimate aim such as preventing crime
+B) They never apply in public places because there is no privacy in public
+C) They allow CCTV to monitor anyone, anywhere, for any reason
+D) They can only be limited by a judge after a criminal trial
+
+Correct Answer: A
+
+Explanation: Most rights (such as Article 8 – private life) are qualified rights. They may be limited for legitimate purposes like national security or crime prevention, but only where the interference is necessary and proportionate. CCTV schemes must balance security needs with individuals’ rights.
+
+Question 6 [Easy]
+Which of the following is a legitimate aim that can justify limiting someone’s Article 8 right to private life through CCTV surveillance?
+
+A) Increasing the shopping centre’s profits
+B) Preventing and detecting crime in a town centre
+C) Satisfying staff curiosity in the control room
+D) Providing entertainment for operators during quiet periods
+
+Correct Answer: B
+
+Explanation: Crime prevention and detection is a recognised legitimate aim that can justify some interference with privacy. However, any interference must still be proportionate and properly controlled. Using CCTV for profit, curiosity or entertainment would not be lawful.
+
+Question 7 [Medium]
+A camera overlooking a street can also zoom into the windows of nearby flats. A manager suggests keeping the camera permanently zoomed in “just in case something happens”. What should most concern the CCTV operator?
+
+A) That the storage capacity won’t be big enough
+B) That the camera’s picture quality might be too high
+C) That constant viewing into people’s homes is unlikely to be necessary or proportionate under Article 8
+D) That the police will have too much evidence to review
+
+Correct Answer: C
+
+Explanation: Article 8 requires respect for private life. Constantly zooming into private homes is unlikely to be necessary or proportionate. Cameras should normally be focused on public areas relevant to the CCTV scheme’s purpose, and privacy intrusions must be minimised.
+
+Question 8 [Medium]
+A large political protest is taking place in a town square covered by public space CCTV. How should the operator balance security with people’s rights?
+
+A) Automatically track and record every protester’s face for possible future offences
+B) Turn off all cameras because protests must never be monitored
+C) Post their own comments about protesters on social media using CCTV images
+D) Monitor proportionately, focusing on safety and crime, while recognising people’s freedom of expression
+
+Correct Answer: D
+
+Explanation: Article 10 protects freedom of expression, which includes peaceful protest. CCTV can still be used to maintain public safety and prevent crime, but monitoring should be proportionate and not used to suppress lawful protest or unlawfully profile individuals.
+
+Question 9 [Easy]
+How many protected characteristics are covered by the Equality Act 2010?
+
+A) 9
+B) 7
+C) 8
+D) 10
+
+Correct Answer: A
+
+Explanation: The Equality Act 2010 lists nine protected characteristics: age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex and sexual orientation. CCTV operators must avoid discriminatory behaviour linked to any of these.
+
+Question 10 [Medium]
+Which situation is the best example of indirect discrimination in a CCTV context?
+
+A) An operator deliberately watches people of one race more closely because they “look suspicious”
+B) A camera placement plan that leaves disabled access routes uncovered, even though other entrances are fully covered
+C) Making sexual jokes about a person seen on camera
+D) Treating a colleague badly for supporting a discrimination complaint
+
+Correct Answer: B
+
+Explanation: Indirect discrimination happens when a policy or practice applies to everyone but disadvantages a particular protected group. Failing to cover disabled access routes could disadvantage disabled people compared with others, unless it could be objectively justified.
+
+Question 11 [Easy]
+Which of the following is a protected characteristic under the Equality Act 2010?
+
+A) Accent
+B) Job title
+C) Pregnancy and maternity
+D) Car ownership
+
+Correct Answer: C
+
+Explanation: Pregnancy and maternity is one of the nine protected characteristics. Accent, job title and car ownership are not protected characteristics under the Equality Act, so different treatment based purely on those would not be covered by that Act.
+
+Question 12 [Medium]
+A CCTV operator supports a colleague’s formal complaint that they were racially discriminated against. Afterwards, the supervisor stops offering the operator overtime and makes their job more difficult. What is this behaviour an example of under the Equality Act?
+
+A) Direct discrimination
+B) Indirect discrimination
+C) Harassment
+D) Victimisation
+
+Correct Answer: D
+
+Explanation: Victimisation is treating someone badly because they have made, or supported, a complaint about discrimination. The operator is being penalised for supporting a discrimination complaint, which fits the definition of victimisation.
+
+Question 13 [Easy]
+Under data protection law, how is CCTV footage that identifies individuals generally classified?
+
+A) Personal data
+B) Structural data
+C) Technical data, not covered by law
+D) Unregulated visual information
+
+Correct Answer: A
+
+Explanation: Images from CCTV that identify living individuals are personal data. This means they are covered by the Data Protection Act 2018 and UK GDPR, and must be handled lawfully, fairly, securely and only for specified purposes.
+
+Question 14 [Medium]
+A friend phones a CCTV operator and asks to see last night’s footage because a celebrity was visiting the shopping centre. What should the operator do?
+
+A) Show the footage, as long as the friend doesn’t record it
+B) Refuse and explain that sharing images with unauthorised people breaches data protection and confidentiality
+C) Email a short clip to the friend so they can watch it at home
+D) Allow viewing only if the celebrity has posted about their visit on social media
+
+Correct Answer: B
+
+Explanation: CCTV footage is personal data and must only be disclosed lawfully to authorised persons for legitimate reasons. Friends and members of the public are not authorised just because they are curious, so the operator must refuse and maintain confidentiality.
+
+Question 15 [Medium]
+Which action best demonstrates data minimisation in a CCTV system?
+
+A) Storing all footage indefinitely, just in case
+B) Using as many cameras as possible, whether needed or not
+C) Keeping footage only for the defined retention period needed for its security purpose
+D) Allowing all staff to access all footage whenever they wish
+
+Correct Answer: C
+
+Explanation: Data minimisation means collecting and keeping only the minimum personal data necessary for the stated purpose. Having a clear retention period and deleting footage when it is no longer needed supports this principle.
+
+Question 16 [Hard]
+A person comes to the control room demanding that footage of a serious assault (in which they appear) is deleted immediately, claiming a “right to be forgotten”. The police have already asked for the footage as evidence. What should the operator do?
+
+A) Delete the footage immediately to respect the person’s rights
+B) Refuse and say they have no rights over CCTV images
+C) Give them a copy and then delete the original to keep everyone happy
+D) Explain that the footage may need to be kept as evidence and refer them to the organisation’s data controller / subject access procedures
+
+Correct Answer: D
+
+Explanation: The right to erasure is limited, especially where data is needed for legal claims or criminal investigations. The operator should not delete potential evidence. They should follow policy, ensure the footage is secured, and direct the person to the correct subject access or complaints process.
+
+Question 17 [Easy]
+Under the Health and Safety at Work etc. Act 1974, what is an employer’s general duty towards employees such as CCTV operators?
+
+A) To ensure, so far as is reasonably practicable, their health, safety and welfare at work
+B) To guarantee that no accidents or incidents ever occur
+C) To provide free meals on every shift
+D) To ensure employees never work night shifts
+
+Correct Answer: A
+
+Explanation: Employers must, so far as is reasonably practicable, provide a safe working environment, safe systems of work, information, instruction and training. They cannot guarantee absolute safety, but they must take sensible, proportionate steps to reduce risks.
+
+Question 18 [Medium]
+To comply with the Management of Health and Safety at Work Regulations 1999, what should an employer do about risks from CCTV workstations?
+
+A) Rely on staff to complain if anything feels uncomfortable
+B) Carry out and record a risk assessment of the workstations, implement controls and review them regularly
+C) Buy larger monitors and assume that removes all risk
+D) Only look at risks after someone has been injured
+
+Correct Answer: B
+
+Explanation: The regulations require employers to assess risks, record significant findings (if they have 5 or more employees), put control measures in place and review them. This includes assessing display screen and workstation risks in a control room.
+
+Question 19 [Hard]
+For several years, staff have warned management that the CCTV control room’s fire exit is blocked by equipment. No action is taken. A fire breaks out and an operator dies because they cannot escape. Which offence could the organisation potentially be prosecuted for?
+
+A) Individual gross negligence manslaughter of the supervisor
+B) Harassment under the Equality Act 2010
+C) Corporate manslaughter under the Corporate Manslaughter and Corporate Homicide Act 2007
+D) Ordinary breach of contract
+
+Correct Answer: C
+
+Explanation: Where a gross breach of a duty of care by an organisation’s senior management leads to someone’s death, the organisation may be prosecuted for corporate manslaughter. Failing over time to deal with a serious known safety risk such as a blocked fire exit could amount to such a breach.
+
+Question 20 [Medium]
+A CCTV operator reports eye strain and wrist pain from long periods at the monitors. Under the Display Screen Equipment Regulations, which action is most appropriate?
+
+A) Tell them to ignore it because it’s part of the job
+B) Ask them to work longer shifts so they “get used to it”
+C) Turn off some monitors but change nothing else
+D) Review their workstation assessment, ensure adjustable equipment and regular breaks, and offer an eye test if required
+
+Correct Answer: D
+
+Explanation: Display Screen Equipment Regulations require employers to assess workstations, provide suitable adjustable equipment, ensure regular breaks from screens and provide eye tests on request. This helps prevent eye strain and musculoskeletal problems.
+
+Question 21 [Easy]
+Under RIDDOR 2013, who is normally responsible for reporting a work-related death or serious injury to the Health and Safety Executive (HSE)?
+
+A) The employer or person in control of the work premises
+B) Any employee who witnessed the incident
+C) The injured person’s family
+D) The CCTV operator personally, in all cases
+
+Correct Answer: A
+
+Explanation: RIDDOR places the duty to report on employers, self‑employed people and those in control of work premises. Employees, including CCTV operators, must report incidents internally but do not usually make the official RIDDOR report themselves.
+
+Question 22 [Medium]
+A CCTV operator slips in the control room, injures their back and is unable to work for 10 consecutive days. What should happen under RIDDOR?
+
+A) No action is required because they were not taken to hospital
+B) The employer must report the incident to HSE as an over-seven-day injury
+C) The injured operator must personally telephone HSE
+D) The accident only needs to be written in the accident book
+
+Correct Answer: B
+
+Explanation: RIDDOR requires employers to report work-related injuries that result in an employee being unable to perform their normal work for more than seven consecutive days (not counting the day of the accident). Ten days off means the employer must submit a report.
+
+Question 23 [Medium]
+Which of the following actions would be outside the legal powers of a CCTV operator working in a town-centre control room?
+
+A) Observing an incident and directing police officers to the location
+B) Providing a copy of relevant footage to authorised police officers following procedure
+C) Demanding that a member of the public on camera shows identification and remains where they are until police arrive
+D) Giving a witness statement to the police describing what was seen on CCTV
+
+Correct Answer: C
+
+Explanation: CCTV operators have no special powers. They cannot demand identification or detain people. Their role is to observe, record, and pass information and evidence to those who do have powers, such as the police or on‑site security staff.
+
+Question 24 [Hard]
+A CCTV operator in a warehouse control room sees a large storage rack collapse. No one is hurt, but falling loads narrowly miss two workers and could easily have killed them. How should this incident normally be treated under RIDDOR?
+
+A) It does not need to be recorded because no one was injured
+B) It is just a training issue and not an accident
+C) It is a matter for the workers to sort out between themselves
+D) It is a dangerous occurrence and the employer may need to report it to HSE
+
+Correct Answer: D
+
+Explanation: RIDDOR covers certain “dangerous occurrences” – serious near misses that could have caused death or serious injury. A major equipment collapse narrowly missing workers is likely to fall into this category and may need to be reported by the employer.
+
+Question 25 [Easy]
+In a criminal case where CCTV footage is used as evidence, what standard of proof must the prosecution meet?
+
+A) Beyond reasonable doubt
+B) Balance of probabilities
+C) On the word of the victim alone
+D) Whatever the judge thinks is fair on the day
+
+Correct Answer: A
+
+Explanation: In criminal law the prosecution must prove the defendant’s guilt “beyond reasonable doubt” (the court must be sure). This is a higher standard than in civil cases.
+
+Question 26 [Medium]
+A customer sues a shopping centre for compensation after tripping on a loose tile. CCTV footage is used to show what happened. What type of law is this mainly an example of?
+
+A) Criminal law
+B) Civil law
+C) Human rights law
+D) Corporate manslaughter law
+
+Correct Answer: B
+
+Explanation: The customer is bringing a claim for compensation for alleged negligence, which is a civil matter. Civil cases are usually decided on the balance of probabilities, not beyond reasonable doubt.
+
+Question 27 [Hard]
+CCTV footage of a fight is used first in a criminal trial for assault, and later in a civil claim for compensation. Which statement best describes the difference between the criminal and civil cases?
+
+A) In both cases the claimant must prove guilt beyond reasonable doubt
+B) In both cases the state must prove the case on the balance of probabilities
+C) In the criminal case, the injured person must prove guilt beyond reasonable doubt; in the civil case, the police must prove their case on the balance of probabilities
+D) In the criminal case, the prosecution must prove guilt beyond reasonable doubt; in the civil case, the claimant must prove their case on the balance of probabilities
+
+Correct Answer: D
+
+Explanation: In a criminal case the prosecution (on behalf of the state) must prove guilt beyond reasonable doubt. In a civil claim the claimant (injured party) must prove their case on the balance of probabilities. The same CCTV footage can be used in both types of case.
+
+Question 28 [Hard]
+A manager tells the CCTV operator to radio store staff and instruct them to search a suspect’s bag and detain them until police arrive, based solely on what the operator has seen on camera. What is the most appropriate response?
+
+A) Immediately instruct staff to search and detain, because CCTV gives the operator that authority
+B) Phone the suspect directly and tell them to stay where they are
+C) Pass information about the suspect and incident to appropriate responders without instructing anyone to search or detain, as the operator has no special powers
+D) Post the suspect’s image on social media to warn other shops
+
+Correct Answer: C
+
+Explanation: CCTV operators have no greater powers than ordinary citizens. They can observe, record and pass information to police or authorised security staff, but they should not direct unlawful searches or detentions.
+
+Question 29 [Easy]
+Which of the following is a core part of a CCTV operator’s role in public space surveillance?
+
+A) Observing incidents, recording what is seen and alerting appropriate responders
+B) Deciding which suspects should be charged with offences
+C) Issuing on-the-spot fines to people seen on camera
+D) Carrying out stop-and-search on people acting suspiciously
+
+Correct Answer: A
+
+Explanation: The CCTV operator’s role is to observe and record events, direct responding staff and preserve evidence. Decisions about charging, stop-and-search and enforcement are for the police or other authorised personnel, not the operator.
+
+Question 30 [Hard]
+A control room manager tells an operator: “Spend most of your time watching teenage boys wearing hoodies, especially if they’re black – they cause most of the trouble.” What is the best response?
+
+A) Follow the instruction; the manager is responsible, not the operator
+B) Challenge or report the instruction because it is discriminatory profiling based on age and race, breaching Equality Act principles
+C) Only follow the instruction if the teenagers also look nervous
+D) Zoom in on them as requested but delete all recordings later
+
+Correct Answer: B
+
+Explanation: Targeting people for extra monitoring purely because of race and age is discriminatory profiling. This conflicts with the Equality Act and the Human Rights Act (Article 14 – non‑discrimination). The operator should not follow such instructions and should raise the issue through appropriate channels.
+
+================================================================================
+END OF CHAPTER 1.2 QUESTIONS
+
+Total Questions: 30
+
+Easy: 12
+
+Medium: 12
+
+Hard: 6
+
+Answer Distribution:
+
+Correct answer A: 8 questions
+
+Correct answer B: 8 questions
+
+Correct answer C: 7 questions
+
+Correct answer D: 7 questions
+
+================================================================================

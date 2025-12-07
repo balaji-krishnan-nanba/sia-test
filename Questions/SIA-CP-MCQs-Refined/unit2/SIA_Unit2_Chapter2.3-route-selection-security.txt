@@ -1,0 +1,352 @@
+================================================================================
+UNIT 2, CHAPTER 2.3: ROUTE SELECTION AND SECURITY
+Question 1 [Easy]
+
+Why is route selection considered a critical part of close protection planning?
+
+A) Because most delays occur at venues
+B) Because most attacks on principals occur when they are in transit
+C) Because clients prefer shorter journeys
+D) Because it significantly reduces fuel costs
+
+Correct Answer: B
+
+Explanation:
+The principal is most vulnerable when travelling. The “80/20 rule” in close protection highlights that the majority of attacks happen on routes rather than at static locations. Effective route selection therefore directly reduces exposure and risk during transit.
+
+Question 2 [Easy]
+
+Which of the following BEST describes a primary route?
+
+A) A route used only in emergencies
+B) The route chosen at random each day
+C) The longest but safest possible route
+D) The main planned route that offers the best overall balance of security, time, practicality and support
+
+Correct Answer: D
+
+Explanation:
+The primary route is the first-choice route. It is not just the fastest or the most direct; it is the route that best balances security, journey time, practicality (roads, weather, vehicles) and support (safe havens, fuel, communications).
+
+Question 3 [Easy]
+
+Which of the following is primarily a security factor when selecting a route?
+
+A) Known crime levels and recent incidents along the route
+B) The amount of fuel the vehicle will use
+C) How scenic the journey will be for the principal
+D) Whether the route passes popular tourist attractions
+
+Correct Answer: A
+
+Explanation:
+Crime levels and recent incidents are directly related to the threat on that route and therefore are security factors. Fuel use, scenery and tourist attractions may affect comfort or practicality but are not core security considerations.
+
+Question 4 [Easy]
+
+What is a choke point in the context of route planning?
+
+A) A pre-arranged safe haven along the route
+B) A location where the team can safely stop for rest
+C) A location where the vehicle is forced into a narrow, predictable path with limited escape options
+D) Any point on the route where the vehicle reaches high speed
+
+Correct Answer: C
+
+Explanation:
+A choke point is a point of constriction where movement is channelled into a predictable path with little room to manoeuvre or escape. This makes it an ideal location for surveillance or ambush and a key focus in route planning.
+
+Question 5 [Easy]
+
+Which of the following is the BEST example of an official safe haven along a route?
+
+A) A police station
+B) A supermarket car park
+C) A lay-by on a dual carriageway
+D) An unlit side street
+
+Correct Answer: A
+
+Explanation:
+An official safe haven is a location such as a police station, fire station, embassy or military installation. These locations offer security, authority presence and communication options. A lay-by or unlit side street provides no such protection.
+
+Question 6 [Easy]
+
+Why is varying routes and timings important in close protection?
+
+A) It makes journeys shorter
+B) It guarantees there will be no traffic delays
+C) It makes it harder for hostile surveillance to identify patterns and plan an attack
+D) It keeps the driver from becoming bored
+
+Correct Answer: C
+
+Explanation:
+Hostile planning relies on patterns. By varying routes and timings, the close protection team makes it more difficult for attackers to predict movements, carry out effective surveillance and plan an ambush.
+
+Question 7 [Easy]
+
+Which action MOST increases route unpredictability for a regular daily movement?
+
+A) Always using the ring road at the same time each day
+B) Publishing the principal’s travel schedule only to household staff
+C) Changing the radio station regularly during the journey
+D) Using a choice of pre-planned routes and departure times and rotating them
+
+Correct Answer: D
+
+Explanation:
+True unpredictability is planned, not random chaos. Having several pre-planned, reconnoitred routes and varying departure times makes the movement harder to predict while still keeping control and safety.
+
+Question 8 [Easy]
+
+During a routine movement, which driving practice BEST supports route security?
+
+A) Driving as close as possible to the vehicle in front to prevent other vehicles cutting in
+B) Maintaining a safe gap to the vehicle in front to allow room to manoeuvre
+C) Turning interior lights on at night so the team can be seen clearly
+D) Stopping in the inside lane to check directions
+
+Correct Answer: B
+
+Explanation:
+Maintaining a safe following distance gives the driver room to brake, change lanes or escape if a threat appears. Being too close to the vehicle in front or stopping in live traffic increases vulnerability and reduces options.
+
+Question 9 [Easy]
+
+What is the MAIN purpose of an alternate route?
+
+A) To provide a pre-planned different option if the primary route becomes unsuitable
+B) To replace emergency routes completely
+C) To be used only when the principal requests a change of scenery
+D) To ensure the journey is always the fastest possible
+
+Correct Answer: A
+
+Explanation:
+An alternate route is a pre-planned, reconnoitred route that differs from the primary and can be used quickly if the primary route is blocked, compromised or otherwise unsuitable. It maintains operational control when conditions change.
+
+Question 10 [Medium]
+
+A CPO is planning a journey in a medium-threat environment.
+
+Route 1: 20 minutes, passes through a busy area with several narrow streets and known gang activity.
+
+Route 2: 30 minutes, mainly wide main roads, good escape options and passes two hospitals and a police station.
+
+The principal wants to arrive on time but can be flexible. Which route is MOST appropriate as the primary route?
+
+A) Route 1, because it is faster and avoids main roads
+B) Route 1, because busy areas always provide better cover
+C) Route 2, because it is longer and therefore less predictable
+D) Route 2, because it offers better security and support even though it takes longer
+
+Correct Answer: D
+
+Explanation:
+Security takes priority over speed. Route 2 provides better escape options, fewer high-risk areas and passes key support locations such as hospitals and a police station. The extra journey time is justified by the improved security profile.
+
+Question 11 [Medium]
+
+What is the KEY difference between an alternate route and an emergency route?
+
+A) An alternate route offers a different but similar standard of security to the primary route, while an emergency route is focused on getting rapidly to a safe haven or hospital
+B) An alternate route is chosen during an incident, while an emergency route is only used for training
+C) An alternate route can never be used if there is a schedule change, while an emergency route can
+D) An alternate route must always be the shortest, while an emergency route must always be the longest
+
+Correct Answer: A
+
+Explanation:
+Alternate routes are “Plan B” options for normal operations when the primary is not available, maintaining a similar security standard. Emergency routes are designed for crises, prioritising speed to safety (safe haven, hospital, secure site) over comfort or convenience.
+
+Question 12 [Medium]
+
+While en route to a meeting, the team receives reliable information that the primary route is blocked by a serious traffic collision. There is no indication of hostile activity and the principal is not in immediate danger. What should the driver do?
+
+A) Turn around and return to the principal’s residence
+B) Continue on the primary route until the obstruction is visible
+C) Transition to the pre-planned alternate route
+D) Immediately switch to the emergency route and head for the nearest hospital
+
+Correct Answer: C
+
+Explanation:
+This is a non-hostile disruption. The correct response is to move to the pre-planned alternate route, maintaining the schedule and security profile without unnecessarily triggering emergency procedures.
+
+Question 13 [Medium]
+
+The team is approaching a bridge identified during recce as a high-risk choke point. Which action is MOST appropriate?
+
+A) Minimise time on the bridge by maintaining a steady speed, increasing observation and identifying escape options at both ends
+B) Stop before the bridge to brief the principal on the risk
+C) Slow to a crawl on the bridge so the team can scan thoroughly
+D) Turn around and drive back and forth across the bridge to check for surveillance
+
+Correct Answer: A
+
+Explanation:
+At a choke point, time exposed should be minimised while maintaining awareness and identifying options at the entry and exit. Stopping or moving very slowly on the bridge increases vulnerability and creates a static target.
+
+Question 14 [Medium]
+
+The team suspects they are being followed and decides to head for a pre-identified safe haven. Which location is MOST suitable?
+
+A) An isolated lay-by with a good mobile signal
+B) A small café the principal visits regularly
+C) A petrol station on a busy main road with no security staff
+D) A large hotel with secure underground parking and a security team already briefed about the principal
+
+Correct Answer: D
+
+Explanation:
+A pre-briefed hotel with secure parking and security staff provides controlled access, cover, and assistance. Isolated locations or casual commercial premises without security do not meet the requirements of a proper safe haven.
+
+Question 15 [Medium]
+
+During a movement, the vehicle shows signs of overheating in an area assessed as having a raised threat level. What is the BEST course of action?
+
+A) Stop immediately on the roadside, open the bonnet and investigate
+B) If safe to do so, continue driving carefully to the nearest suitable safe haven identified in the route plan
+C) Ask the principal to move to the rear seats while repairs are carried out at the roadside
+D) Ignore the warning lights until the journey is complete
+
+Correct Answer: B
+
+Explanation:
+Stopping at the roadside in a high-threat area increases vulnerability. If the vehicle can still move safely, the priority is to reach a pre-identified safe haven where security and assistance are available, then deal with the mechanical issue.
+
+Question 16 [Medium]
+
+When calculating journey timing, what is the MAIN reason for building in a time buffer?
+
+A) To allow the principal to have unscheduled smoking breaks
+B) To ensure the driver always arrives early to impress the principal
+C) To reduce pressure to rush, allowing safer responses to delays and route changes
+D) To make journeys long enough to justify higher fees
+
+Correct Answer: C
+
+Explanation:
+A time buffer allows the team to cope with traffic, weather, route changes and unforeseen issues without feeling pressured to rush or take unnecessary risks. Safety and control are prioritised over strict, unforgiving timings.
+
+Question 17 [Medium]
+
+As part of journey management, which combination of communication actions is MOST appropriate?
+
+A) Only contact the team leader if the vehicle breaks down
+B) Send the principal’s exact schedule to all venue staff in advance
+C) Make an arrival call to the venue but avoid giving any estimated time
+D) Notify relevant parties of departure and expected arrival, provide check-ins if required, and confirm arrival at the destination
+
+Correct Answer: D
+
+Explanation:
+Good journey management includes informing relevant parties (on a need-to-know basis) of departure and ETA, conducting agreed check-ins, and confirming safe arrival. This supports coordination, contingency planning and accountability without oversharing sensitive details.
+
+Question 18 [Medium]
+
+A principal insists on using the same route and departure time every morning for convenience. What should the close protection operative do?
+
+A) Agree, as the client’s preference always overrides security considerations
+B) Explain the security risks of predictable routines and propose a small number of pre-planned route and time variations that still meet the principal’s schedule
+C) Secretly change the route without telling the principal
+D) Ignore the concern, because predictability only matters at high threat levels
+
+Correct Answer: B
+
+Explanation:
+The CPO must balance security with the principal’s lifestyle. The correct approach is to educate the principal about the risks of predictability and offer practical variations that maintain both security and workable schedules, gaining the principal’s cooperation.
+
+Question 19 [Hard]
+
+During an evening journey in an urban area, the driver notices the same vehicle behind the principal’s car through several turns over 15 minutes. Which sequence of actions is MOST appropriate?
+
+A) Subtly vary the route to test whether the vehicle continues to follow, gather observations (description, registration), report to the team leader/control, and move toward a pre-identified safe haven
+B) Brake suddenly to force the following vehicle to overtake, then confront the occupants at the next junction
+C) Increase speed well above the limit to try to lose the following vehicle, avoiding any communication until it is clear
+D) Pull over in a quiet side street and turn off the lights to see whether the vehicle passes
+
+Correct Answer: A
+
+Explanation:
+Suspected surveillance should be confirmed by controlled route variation while gathering information. The team should communicate with control and, if necessary, head towards a safe haven. Confrontation, reckless driving or hiding in isolated areas increases risk to the principal.
+
+Question 20 [Hard]
+
+A high-profile principal with a known threat is scheduled for a hospital appointment in a busy city. The team has identified:
+
+A primary route using main roads with limited choke points and several safe havens
+
+A significantly different alternate route of similar length using other main roads
+
+An emergency route running directly from both the residence and hospital to police headquarters
+
+To maximise preparedness, which plan is MOST appropriate?
+
+A) Practise only the emergency route, as it will cover any situation
+B) Brief only the driver on the alternate route to reduce information leaks
+C) Recce and rehearse all three routes, brief the whole team on when to transition between them, and confirm safe havens and communication coverage along each
+D) Use the primary route for all future movements because it has already been assessed as the safest
+
+Correct Answer: C
+
+Explanation:
+All three route types serve different purposes. The team must understand and rehearse primary, alternate and emergency routes, know triggers for changing between them, and confirm support (safe havens, communications) on each, especially in a known threat environment.
+
+Question 21 [Hard]
+
+For three weeks, the principal has attended a regular event at the same venue. The current pattern is to exit the car park, turn left at the traffic lights, and pass through a narrow underpass before joining the main road. The threat level has recently increased. Which change will MOST reduce the risk associated with this predictable choke point?
+
+A) Continue using the same exit and underpass, but ask the principal to sit farther from the windows
+B) Use the same underpass but instruct the driver to accelerate aggressively through it
+C) Keep the route but change the vehicle’s colour to make it less recognisable
+D) Identify and use an alternative exit and different approach roads that avoid the underpass on some journeys, varying both route and timing while keeping pre-planned emergency options
+
+Correct Answer: D
+
+Explanation:
+The risk stems from a predictable choke point and routine. Avoiding the underpass where possible, varying exit routes and timings, and maintaining emergency options reduces the chance of a planned ambush at that fixed location.
+
+Question 22 [Hard]
+
+On a rural evening journey, the principal begins to experience chest pain and shortness of breath. Mobile signal is weak in some areas. The route plan identifies two potential safe havens ahead:
+
+A small village GP surgery 5 minutes away, closed at this time but with a public phone nearby
+
+A larger town 15 minutes away with a 24-hour hospital and police station
+
+What is the MOST appropriate course of action?
+
+A) Stop immediately in the next lay-by and wait for an ambulance to find you
+B) Proceed as directly and safely as possible to the town with the 24-hour hospital, informing control or emergency services en route as soon as signal allows
+C) Divert to the closed GP surgery, park outside and wait for it to open
+D) Turn back toward the principal’s residence, as it is the familiar environment
+
+Correct Answer: B
+
+Explanation:
+This is a medical emergency and an emergency-route mindset applies. The priority is to reach the nearest location that can provide immediate medical support and security—a 24-hour hospital and police presence—while communicating with control or emergency services as soon as possible.
+
+================================================================================
+END OF CHAPTER 2.3 QUESTIONS
+
+Total Questions: 22
+
+Easy: 9
+
+Medium: 9
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 6 questions
+
+Correct answer B: 5 questions
+
+Correct answer C: 5 questions
+
+Correct answer D: 6 questions
+
+================================================================================

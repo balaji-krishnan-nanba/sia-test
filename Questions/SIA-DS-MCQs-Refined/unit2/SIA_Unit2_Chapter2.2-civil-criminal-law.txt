@@ -1,0 +1,373 @@
+================================================================================
+UNIT 2, CHAPTER 2.2: CIVIL AND CRIMINAL LAW FOR DOOR SUPERVISORS
+================================================================================
+Meta: Total=28 | Easy=11 | Medium=11 | Hard=6 | A=7 | B=7 | C=7 | D=7
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Trespass is generally considered to be what type of matter?
+
+A) A civil matter
+B) A criminal offence
+C) A regulatory offence
+D) An indictable-only offence
+
+Answer: A
+Explanation: Simple trespass is normally a civil matter between the occupier and the trespasser, not a criminal offence. Police cannot usually arrest just for ordinary trespass, although aggravated trespass is a criminal offence.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: In a civil claim for personal injury against a door supervisor, what is the burden of proof?
+
+A) Beyond reasonable doubt
+B) Beyond all possible doubt
+C) Clear and convincing evidence
+D) Balance of probabilities
+
+Answer: D
+Explanation: In civil law, the claimant must prove their case on the "balance of probabilities", meaning it is more likely than not that the defendant caused the loss or injury. This is a lower standard than the criminal test of "beyond reasonable doubt".
+
+---
+Q3 | Difficulty: Easy
+---
+Question: When does a customer who originally had permission to be on the premises become a trespasser?
+
+A) As soon as they become drunk
+B) When they refuse to pay for drinks
+C) As soon as they are asked to leave and refuse
+D) When they argue with staff, even if they then leave
+
+Answer: C
+Explanation: A person with permission to be on the premises becomes a trespasser once that permission is withdrawn (they are asked to leave) and they refuse to do so within a reasonable time.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Legally, what is "assault"?
+
+A) Any physical contact that causes injury
+B) Any unwanted physical contact
+C) Causing someone to fear immediate unlawful violence
+D) Using a weapon during a fight
+
+Answer: C
+Explanation: Assault is putting someone in fear of immediate unlawful violence; no physical contact is required. Raising a fist, threatening words and aggressive body language can all amount to assault if they cause fear.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which option best describes "battery"?
+
+A) Shouting at a customer
+B) Threatening to punch someone
+C) Any behaviour that offends someone
+D) Actual application of unlawful force to another person
+
+Answer: D
+Explanation: Battery is the actual application of unlawful force to another person – any unwanted touching, pushing or striking can be battery, even if it does not cause visible injury.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Which of the following is the LEAST serious assault offence in the usual hierarchy?
+
+A) Assault occasioning actual bodily harm (ABH) – Section 47
+B) Grievous bodily harm (GBH) – Section 20
+C) Common assault
+D) GBH with intent – Section 18
+
+Answer: C
+Explanation: Common assault (which includes assault and battery where only minor or no injury is caused) is the least serious. Above that are ABH (s.47), GBH/wounding (s.20) and the most serious, GBH with intent (s.18).
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Section 3 of the Criminal Law Act 1967 allows any person to use reasonable force for which main purpose?
+
+A) Collecting debts
+B) Enforcing house rules
+C) Punishing offenders after an incident
+D) Preventing crime or assisting in a lawful arrest
+
+Answer: D
+Explanation: Section 3 Criminal Law Act 1967 allows any person to use such force as is reasonable in the circumstances in the prevention of crime or in effecting or assisting in the lawful arrest of offenders or suspected offenders.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: What is meant by "duty of care" for a door supervisor?
+
+A) A legal duty to take reasonable care not to cause foreseeable harm to others
+B) Always doing what the manager tells you
+C) A moral duty to be polite to customers
+D) Only a contractual duty owed to the employer
+
+Answer: A
+Explanation: Duty of care is a legal obligation to take reasonable care to avoid acts or omissions which can be reasonably foreseen as likely to cause harm to others, including customers, colleagues and members of the public.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which of the following best describes false imprisonment?
+
+A) Unlawful and total restraint of a person's freedom of movement without lawful authority
+B) Any arrest carried out by a civilian
+C) Asking someone not to leave the venue
+D) Refusing to serve a customer at the bar
+
+Answer: A
+Explanation: False imprisonment is the unlawful and intentional (or reckless) total restraint of a person's freedom of movement, even for a short time, without lawful justification. It can be both a civil wrong and a criminal offence.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: What is meant by employer "vicarious liability"?
+
+A) The employer is never responsible for employees' actions
+B) Only the door supervisor can ever be sued personally
+C) The employer can be held liable for wrongs committed by employees in the course of their employment
+D) The court will always blame the employer instead of the employee
+
+Answer: C
+Explanation: Vicarious liability means the employer can be held legally responsible for civil wrongs committed by employees while acting in the course of their employment. This does not remove the employee's own personal liability.
+
+---
+Q11 | Difficulty: Easy
+---
+Question: What is the usual time limit for bringing a civil personal injury claim (e.g. for injuries caused by excessive force)?
+
+A) 6 months
+B) 1 year
+C) 3 years
+D) 6 years
+
+Answer: C
+Explanation: For most personal injury claims (such as injuries from negligence or excessive force), the usual limitation period in civil law is three years from the date of the injury or from when the injury was first realised.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: A customer has been politely asked to leave the bar after arguing with staff. He refuses, but sits quietly on a bar stool drinking water and not causing any further trouble. What is the legal position?
+
+A) He is now a trespasser and may be removed using reasonable force if he does not leave within a reasonable time
+B) He is still a lawful visitor and cannot be asked to leave
+C) He is committing a criminal offence of simple trespass and must be arrested by police
+D) He is committing aggravated trespass and must be arrested by police
+
+Answer: A
+Explanation: Once permission to remain is withdrawn, anyone who refuses to leave becomes a trespasser. Door supervisors should give a reasonable time to comply and may then use necessary and reasonable force to remove the person.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: A door supervisor asks a customer to leave. The customer says he will finish his drink and then go. Which response best reflects the law on trespass and ejection?
+
+A) Allow a reasonable time for him to finish, then treat him as a trespasser if he still refuses to leave
+B) Immediately grab him and drag him out
+C) Call the police straight away to arrest for trespass
+D) Ignore the situation as he has a right to stay
+
+Answer: A
+Explanation: A person must be given a reasonable opportunity to leave once asked. What is "reasonable" depends on the circumstances. Only after this time, if they still refuse, should they be treated as a trespasser and removed using reasonable force if necessary.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: Which of the following people would normally be considered a trespasser from the outset (from the moment they enter)?
+
+A) A customer who enters wearing trainers against the dress code
+B) A regular who becomes drunk later in the evening
+C) A person who loses their entry ticket after coming inside
+D) A person who rushes inside with the intention of stealing from customers
+
+Answer: D
+Explanation: Someone entering with an unlawful purpose, such as to steal, never has genuine permission and is a trespasser from the outset. Others may become trespassers later if permission is withdrawn or conditions are broken and they refuse to leave.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: A door supervisor squares up to a customer, clenches his fists and shouts, "I'm going to smash your face in!" The customer genuinely fears he is about to be hit, but no physical contact occurs. What offence has most likely been committed?
+
+A) No offence, because no injury was caused
+B) Battery
+C) Common assault
+D) Grievous bodily harm (GBH)
+
+Answer: C
+Explanation: Causing someone to fear immediate unlawful violence, even without physical contact, is assault. As no injury occurred and there was no contact, this would usually be charged as common assault.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: A door supervisor firmly puts both hands on a customer's shoulders and pushes him backwards several metres, even though the customer is calmly complying and walking towards the exit. Which statement is most accurate?
+
+A) This is always acceptable as long as the customer is leaving
+B) It cannot be battery if the customer did not fall over
+C) It is lawful because the customer was previously arguing
+D) The push could amount to battery if the force was unnecessary
+
+Answer: D
+Explanation: Any unwanted touching can be battery if it involves the unlawful application of force. If the customer was already complying, extra pushing may not be necessary or reasonable, and could amount to an unlawful battery.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: Which list shows the assault offences in order from LEAST to MOST serious?
+
+A) Common assault → GBH (s.20) → ABH (s.47) → GBH with intent (s.18)
+B) ABH (s.47) → Common assault → GBH (s.20) → GBH with intent (s.18)
+C) GBH with intent (s.18) → GBH (s.20) → ABH (s.47) → Common assault
+D) Common assault → ABH (s.47) → GBH (s.20) → GBH with intent (s.18)
+
+Answer: D
+Explanation: The usual hierarchy from least to most serious is: common assault, ABH under section 47, GBH/wounding under section 20, and the most serious, GBH with intent under section 18 of the Offences Against the Person Act 1861.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: A door supervisor sees a minor argument between two customers that is calming down. He runs over and puts one of them in a painful arm-lock "just in case it kicks off again". Which principle of lawful force is MOST likely to have been breached?
+
+A) Necessity – the force was not actually needed
+B) Proportionality – the force was not strong enough
+C) Honest belief – he did not honestly believe a fight might break out
+D) Self-defence – only police can use self-defence
+
+Answer: A
+Explanation: For force to be lawful it must be necessary. If the situation was already calming down and a less forceful option (like verbal intervention or monitoring) was available, a painful restraint may not have been necessary.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: A customer pulls back his fist and steps towards a door supervisor as if to punch him. The supervisor believes he is about to be hit and delivers a quick strike first, stopping the attack. Which statement best describes the situation?
+
+A) The supervisor acted unlawfully because he hit the customer first
+B) Pre-emptive force can be lawful if an attack is imminent and the force used is reasonable
+C) Pre-emptive strikes are always unlawful
+D) Only police officers may act pre-emptively
+
+Answer: B
+Explanation: The law does not require someone to wait to be struck before defending themselves. A pre-emptive strike can be lawful self-defence or prevention of crime if the person honestly believes an attack is imminent and the force used is necessary and reasonable.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: Two door supervisors restrain a violent customer on the ground. The customer stops struggling and says he will leave quietly, but the supervisors continue to apply the same level of force for several minutes. What is the main problem?
+
+A) Force must stop or be reduced once the threat is under control
+B) Force must always increase until police arrive
+C) It is lawful as long as the person was violent earlier
+D) Force is lawful as long as there are at least two staff involved
+
+Answer: A
+Explanation: Force must be necessary, reasonable and proportionate at all times. Once the threat has ended or reduced, continuing to use the same level of force can become excessive and therefore unlawful, potentially amounting to assault.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: A very drunk customer is ejected alone onto a busy dual carriageway late at night because "he's someone else's problem now". Which principle has most clearly been breached?
+
+A) The customer's right to complain
+B) The duty of care owed to the customer, even when ejected
+C) The customer's right to smoke outside
+D) Vicarious liability
+
+Answer: B
+Explanation: Door supervisors owe a duty of care even to ejected or restrained persons. Ejecting a very intoxicated person into an obviously dangerous environment, such as a busy road, may be negligent because harm was foreseeable and simple steps could have reduced the risk.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: A door supervisor suspects a customer of pickpocketing but has no clear evidence. He locks the customer in a back office "until he confesses or pays back the money". What is the most serious legal risk?
+
+A) Lawful arrest for theft
+B) Civil claim for trespass to land
+C) No risk, as door supervisors can always detain suspects
+D) False imprisonment, possibly both a civil wrong and a criminal offence
+
+Answer: D
+Explanation: Detaining someone in a locked room without lawful authority or justification can amount to false imprisonment – the unlawful restraint of a person's freedom of movement. There must be a lawful basis such as a genuine citizen's arrest for an indictable offence, and detention must still be reasonable and proportionate.
+
+---
+Q23 | Difficulty: Hard
+---
+Question: A group of protesters enter a hotel lobby and sit on the floor, singing and holding banners. They refuse to leave when asked and begin blocking access to the bar, preventing paying guests from entering. What is the BEST course of action for door supervisors?
+
+A) Immediately arrest them all for simple trespass
+B) Recognise this may amount to aggravated trespass and contact police while using only necessary, reasonable force to keep areas safe
+C) Ignore them because trespass is always a civil matter
+D) Use maximum force to drag them outside as quickly as possible
+
+Answer: B
+Explanation: Protesters who trespass with the intention of intimidating, obstructing or disrupting lawful activities may be committing aggravated trespass, a criminal offence. Door supervisors should manage safety, avoid excessive force, and contact police for criminal matters.
+
+---
+Q24 | Difficulty: Hard
+---
+Question: During a fight, a customer punches a door supervisor. The supervisor and a colleague bring the customer to the ground using reasonable force. Once on the floor, the customer stops resisting and lies still. The supervisor then punches him twice "to teach him a lesson". What is the LEGAL position regarding the final punches?
+
+A) They remain lawful self-defence because the customer punched first
+B) They are unlawful because the threat had ended and the force became punishment
+C) They are lawful as long as no serious injury is caused
+D) They are lawful because two staff were involved in the restraint
+
+Answer: B
+Explanation: Force used in self-defence or prevention of crime must stop once it is no longer necessary. Once the customer was under control and no longer resisting, further blows were retaliatory and punitive, making them unlawful and potentially amounting to assault (and possibly ABH or GBH).
+
+---
+Q25 | Difficulty: Hard
+---
+Question: A door supervisor lawfully restrains a violent customer at the entrance. The customer breaks free and runs away down the street. The supervisor sprints after him for 200 metres, catches him in a quiet side street and kicks him several times while he is on the ground. Which statement is MOST accurate?
+
+A) The continued use of force is clearly justified because the customer ran away
+B) Once the immediate threat at the premises had passed, chasing and attacking the customer is likely to be seen as revenge, not prevention of crime
+C) The force is lawful as long as the police later charge the customer
+D) Force is always lawful when used against someone who has assaulted staff
+
+Answer: B
+Explanation: Force must be necessary, reasonable and proportionate in the circumstances as they appear at the time. Once the immediate threat at the premises has ended and the person is fleeing, chasing them down and using violence is unlikely to be seen as necessary for prevention of crime or self-defence and is likely to be treated as unlawful assault.
+
+---
+Q26 | Difficulty: Hard
+---
+Question: A venue has a side exit leading directly onto an unlit canal towpath with steep steps. Door staff regularly eject drunk customers through this door to "keep them away from the taxi queue". One night, an intoxicated customer falls into the canal and is seriously injured. Which statement best describes the potential legal situation?
+
+A) No liability – once ejected, customers are responsible for themselves
+B) The venue and possibly door staff may face a civil claim for negligence for breaching their duty of care
+C) Only the customer is at fault for being drunk
+D) Police are automatically liable for failing to patrol the area
+
+Answer: B
+Explanation: Occupiers and their staff must take reasonable care to keep visitors reasonably safe and owe some duty even to trespassers where dangers are known. Ejecting intoxicated people into a known hazardous area may be a foreseeable risk and could amount to negligence and breach of duty of care.
+
+---
+Q27 | Difficulty: Hard
+---
+Question: Door staff suspect a man of dealing drugs in the toilets. They detain him and, instead of keeping him near the entrance, they bundle him into a car and drive him to a remote industrial estate "so he can't cause trouble for the club", where they hold him until police arrive. What serious offence might this behaviour risk, beyond false imprisonment?
+
+A) Theft
+B) Kidnapping
+C) Common assault only
+D) No offence if police are eventually called
+
+Answer: B
+Explanation: Kidnapping involves the unlawful restraint of a person (false imprisonment) combined with moving them from one place to another without their consent. For door supervisors, moving detained people unnecessarily, especially to remote locations, can create a serious risk of an allegation of kidnapping as well as false imprisonment.
+
+---
+Q28 | Difficulty: Hard
+---
+Question: A manager orders a door supervisor to "rough up" a troublesome customer to discourage him from returning. The supervisor follows the instruction and uses clearly excessive force, causing injury. Which statement best reflects the likely legal position?
+
+A) Only the manager is liable because he gave the order
+B) Only the employer is liable under vicarious liability
+C) The supervisor may be personally criminally liable, and both the supervisor and employer may face civil liability
+D) No one is liable because the customer caused trouble
+
+Answer: C
+Explanation: Each person is personally responsible for their own criminal actions; "just following orders" is not a defence. The supervisor could face criminal charges (e.g. assault) and personal civil liability. The employer may also be vicariously liable in civil law because the supervisor was acting in the course of employment, even if acting wrongly on the manager's instructions.
+
+================================================================================
+END OF CHAPTER 2.2
+================================================================================

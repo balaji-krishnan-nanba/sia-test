@@ -1,0 +1,365 @@
+================================================================================
+UNIT 2, CHAPTER 2.2: RECONNAISSANCE
+Question 1 [Easy] – Principles of Reconnaissance
+
+The saying “Time spent on reconnaissance is seldom wasted” mainly reminds a Close Protection team to:
+
+A) Reduce the need for contingency planning
+B) Minimise surprises by understanding the environment and identifying risks in advance
+C) Guarantee that no incidents will occur during the detail
+D) Avoid having to liaise with venue staff
+
+Correct Answer: B
+
+Explanation: The phrase emphasises that thorough reconnaissance helps you understand the environment, identify threats and hazards and plan effectively, reducing surprises on the day. It does not guarantee safety (C), nor remove the need for contingencies (A) or liaison (D).
+
+Question 2 [Medium] – Principles / Types of Reconnaissance
+
+Two weeks before an event, you are in the office studying online maps, satellite images and local crime information about a venue and surrounding area. What type of reconnaissance are you carrying out?
+
+A) Covert recce
+B) Overt recce
+C) Physical recce
+D) Map/desk recce
+
+Correct Answer: D
+
+Explanation: Using maps, plans, internet research and background information from an office is map/desk recce. Physical recce (C) involves visiting the location. Overt recce (B) and covert recce (A) describe how you visit in person (announced vs discreet), not map work.
+
+Question 3 [Easy] – Venue Reconnaissance (External)
+
+When carrying out a venue recce, which of the following is part of the external assessment?
+
+A) Checking approaches, car parking, and entry/exit points
+B) Inspecting toilets and changing rooms
+C) Testing the venue’s fire alarm panel
+D) Allocating radios to the team
+
+Correct Answer: A
+
+Explanation: External assessment focuses on approaches, parking, entry and exit points and the surrounding area. Toilets (B) and alarm panels (C) are internal checks. Radio allocation (D) is a team admin task, not venue assessment.
+
+Question 4 [Easy] – Venue Reconnaissance (Holding Areas)
+
+In venue reconnaissance, a holding area for the principal should be:
+
+A) A room used as the main control point for venue security
+B) A public area where guests gather before the event
+C) A private, secure room where the principal can wait or take refuge before or during the event
+D) A reserved parking space at the main entrance
+
+Correct Answer: C
+
+Explanation: Holding areas are private, safe rooms used as waiting or refuge areas for the principal. They are not public guest areas (B), general control rooms (A) or car parking (D).
+
+Question 5 [Medium] – Venue Reconnaissance (Hazards)
+
+During a recce of a nightclub where your principal will attend a private function, you notice that two emergency exits from the main room are partially blocked by stacked chairs. What is the MOST appropriate action?
+
+A) Note it in your report but assume staff will clear it later
+B) Ignore it; your role is close protection, not fire safety
+C) Move the chairs yourself and say nothing
+D) Raise the issue with venue management/security and ensure the exits are cleared and kept clear before approving the room for use
+
+Correct Answer: D
+
+Explanation: Venue recce includes identifying hazards such as blocked fire exits. The CPO should highlight the issue to management and ensure it is fixed (D). Ignoring it (A, B) or quietly moving chairs (C) does not ensure ongoing compliance or proper accountability.
+
+Question 6 [Medium] – Venue Reconnaissance (Internal Assessment)
+
+Which of the following BEST describes what should be achieved by the internal assessment during a venue recce?
+
+A) Understanding the layout and flow of the building, including rooms to be used, the principal’s route and internal emergency exits
+B) Deciding on team dress code and appearance standards
+C) Checking that every member of venue staff has a security qualification
+D) Rehearsing the entire event with all attendees present
+
+Correct Answer: A
+
+Explanation: Internal assessment covers layout, rooms to be used, the principal’s route, emergency exits, fire equipment and key facilities. Dress code (B) and staff qualifications (C) are separate issues; a full event rehearsal (D) is rarely necessary or realistic.
+
+Question 7 [Easy] – Route Reconnaissance (Primary Route)
+
+In route planning for a close protection move, how is the primary route best described?
+
+A) The fastest route between two points, regardless of risk
+B) The route that passes the greatest number of landmarks
+C) The preferred planned route that offers the best overall balance of security, practicality and time for the principal
+D) The route kept in reserve for emergencies only
+
+Correct Answer: C
+
+Explanation: The primary route is the main planned route that best balances security, practicality and timing. It is not simply the fastest (A), nor a sightseeing route (B), and it is not the emergency route (D).
+
+Question 8 [Medium] – Route Reconnaissance (Safe Havens)
+
+A police station, major hotel or hospital identified along a planned route would normally be classified on the route recce as:
+
+A) A choke point
+B) A safe haven
+C) An obstacle
+D) An ambush point
+
+Correct Answer: B
+
+Explanation: Locations such as police stations, hospitals and pre-arranged hotels can act as safe havens where the principal can be taken in an emergency. Choke points (A) are restrictive areas, obstacles (C) hinder movement, and ambush points (D) are potential threat locations, not places of safety.
+
+Question 9 [Medium] – Route Reconnaissance (Timing)
+
+To obtain realistic timings for a planned route between a hotel and a conference venue, the SAP should drive the route:
+
+A) Late at night when roads are quiet
+B) Once during the planning phase at any convenient time
+C) At maximum legal speed to see the quickest possible time
+D) At approximately the same time and day of the week as the principal will travel, under normal traffic conditions
+
+Correct Answer: D
+
+Explanation: Routes should be timed under conditions similar to the actual move, including time of day and typical traffic. Driving at quiet times (A), at random times (B) or at unrealistic speeds (C) gives misleading timings.
+
+Question 10 [Medium] – Route Reconnaissance (Choke Points)
+
+Which of the following is the BEST example of a choke point that should be noted in a route recce?
+
+A) A single-lane bridge controlled by temporary traffic lights where vehicles cannot easily turn around
+B) A four-lane dual carriageway with a central reservation
+C) An open car park with multiple exits
+D) A wide roundabout with several lanes and slip roads
+
+Correct Answer: A
+
+Explanation: A choke point is a location where movement is restricted or channelled, such as a narrow bridge with traffic lights and limited turning options (A). Wide roads (B, D) and open car parks with many exits (C) offer more freedom of movement.
+
+Question 11 [Easy] – Ground Appreciation (Cover vs Concealment)
+
+In ground appreciation, which statement BEST describes the difference between cover and concealment?
+
+A) Cover is used only by the principal, concealment only by CPOs
+B) Cover protects from hostile fire or effects, while concealment simply hides you from view without necessarily providing protection
+C) Concealment always provides more safety than cover
+D) There is no practical difference; the terms mean the same thing
+
+Correct Answer: B
+
+Explanation: Cover offers physical protection (e.g. from weapons or blast), while concealment hides you from observation but may not stop bullets or blast. The other options either confuse or deny this important distinction.
+
+Question 12 [Medium] – Ground Appreciation (OCOKA – O)
+
+In the OCOKA model used for ground appreciation, the first “O” refers to:
+
+A) Obstacles to vehicle movement
+B) Offensive capability of the team
+C) Observation and fields of fire
+D) Operational planning factors
+
+Correct Answer: C
+
+Explanation: OCOKA stands for Observation and fields of fire, Cover and concealment, Obstacles, Key terrain, Avenues of approach. The first “O” therefore relates to what can be seen from where, lines of sight and potential firing arcs.
+
+Question 13 [Medium] – Ground Appreciation (OCOKA – Avenues of Approach)
+
+During a recce of a conference centre, you note several side streets and service corridors that would allow people to approach the main entrance or event area. Within OCOKA, these are best described as:
+
+A) Obstacles
+B) Dead ground
+C) Key terrain
+D) Avenues of approach
+
+Correct Answer: D
+
+Explanation: Routes that allow people (or threats) to move towards or away from the venue are avenues of approach. Obstacles (A) restrict movement, dead ground (B) cannot be seen from your position, and key terrain (C) is ground that gives significant advantage to the controller.
+
+Question 14 [Easy] – SAP Procedures (Timeline – Day Before)
+
+According to standard SAP procedures, when should the physical recce of a venue normally be carried out, if time allows?
+
+A) The day before the event, after the initial map/desk recce
+B) Only when the principal is already on site
+C) Immediately after the event has finished
+D) It is not necessary if a desk recce has been completed
+
+Correct Answer: A
+
+Explanation: The SAP timeline is: advance notice (desk recce and planning), day before (physical recce and confirmation of arrangements), and day of event (arrive early, final checks). Waiting until the principal is on site (B) or skipping physical recce (D) is poor practice.
+
+Question 15 [Easy] – SAP Procedures (Role)
+
+What is the PRIMARY role of the Security Advance Party (SAP) at a venue?
+
+A) To provide media liaison for the principal
+B) To conduct reconnaissance, prepare the venue and coordinate with local security before the principal arrives
+C) To drive the principal’s vehicle during moves
+D) To replace venue security with their own staff
+
+Correct Answer: B
+
+Explanation: The SAP conducts recce, prepares the venue, liaises with management and security, and ensures arrangements are in place before the principal arrives. Driving (C) and media liaison (A) may be done by others; replacing venue security entirely (D) is rarely appropriate.
+
+Question 16 [Medium] – SAP Procedures (Changes at Venue)
+
+On arrival at a hotel for a recce, the SAP learns that the function room booked for the principal has been changed to a different room on another floor. What is the MOST appropriate action?
+
+A) Ignore the change; the layout will be similar
+B) Refuse the new room and cancel the event
+C) Ask reception to show the new room but rely on the previous recce plan
+D) Conduct a fresh assessment of the new room and associated routes, update the recce plan and immediately inform the Team Leader of the changes
+
+Correct Answer: D
+
+Explanation: Any change to rooms or layout requires a new assessment: routes, exits, holding areas, emergency plans and security measures must all be reconsidered, and the Team Leader updated. Ignoring it (A), cancelling without assessment (B), or viewing it but not updating the plan (C) is unprofessional.
+
+Question 17 [Hard] – SAP Procedures (Last-minute Change)
+
+During a high-profile visit, the principal decides at short notice to arrive 30 minutes earlier and use a side entrance that was not included in the original plan. The Team Leader radios the SAP at the venue with this request. What is the MOST appropriate response from the SAP leader?
+
+A) Immediately agree and redeploy the team to the side entrance without further checks
+B) Refuse the change and insist that the principal uses the original entrance
+C) Conduct a rapid but structured assessment of the proposed side entrance and surrounding area, checking routes, cover, escape options and liaison with venue security, before confirming to the Team Leader whether it is acceptable
+D) Wait until the principal arrives and then decide which entrance looks safest at the time
+
+Correct Answer: C
+
+Explanation: The SAP must remain flexible but threat- and recce-led. A rapid assessment of the new entrance and its routes is essential before agreeing the change. Automatically agreeing (A), automatically refusing (B) or improvising at the last minute (D) all fail to apply proper reconnaissance principles.
+
+Question 18 [Easy] – Principles of Reconnaissance (Purpose)
+
+Which of the following BEST describes the main purpose of reconnaissance in close protection operations?
+
+A) To understand the environment, identify threats and hazards, and gather information to support planning and contingencies
+B) To ensure the principal’s social schedule is fully booked
+C) To check whether the venue facilities meet luxury standards
+D) To replace the need for any contingency plans
+
+Correct Answer: A
+
+Explanation: Recce is about information and risk: understanding the environment, identifying threats and hazards, planning movements and preparing contingencies. It is not about luxury (C) or social diary planning (B), and it certainly does not remove the need for contingencies (D).
+
+Question 19 [Hard] – Recce Reports (Updating Information)
+
+During a three-day close protection task, you use the same primary route each day. After day one you record in your notebook that new roadworks have created a narrow single-lane section and that one of the previously identified safe havens is no longer accessible. The original route recce report has not been updated. Another CPO will lead the move on day two. What is the MOST professional course of action?
+
+A) Do nothing; if the other CPO needs details they can ask you on the radio
+B) Update the formal route recce report with the new information and brief the team on the changes before the next move
+C) Tell the Team Leader verbally that “there are a few changes” but keep your written notes for your own records
+D) Ask the other CPO to drive the route alone in their own time so they can discover the changes themselves
+
+Correct Answer: B
+
+Explanation: Recce reports provide a record and briefing tool. New information must be added to the formal report and shared with the team. That ensures accountability and consistency. Relying on informal chat (A, C) or leaving others to find out for themselves (D) is unsafe.
+
+Question 20 [Medium] – Recce Reports (Emergency Information)
+
+Which of the following would normally be included under “Emergency information” in a venue recce report?
+
+A) The full guest list for the event
+B) The menu choices for the principal’s table
+C) The nearest hospital with A&E and key emergency contact numbers
+D) The names of all the venue’s cleaning staff
+
+Correct Answer: C
+
+Explanation: Emergency information includes fire exits, assembly points, first aid facilities, nearest hospital and emergency contact numbers. Guest lists (A), menus (B) and cleaning staff details (D) belong elsewhere, if at all.
+
+Question 21 [Hard] – Route Reconnaissance / Recce Reports (Route Types)
+
+Your route recce between the airport and hotel identifies three options:
+
+Route 1: Fastest, but passes through a high-crime area and has several choke points with no nearby safe havens.
+
+Route 2: Slightly longer, but has good safe havens, better communications coverage and fewer choke points.
+
+Route 3: Quickest way from the airport to the nearest hospital, but takes you away from the hotel.
+
+The principal is travelling at a normal, non-emergency time of day. Based on this information, how should you classify the routes?
+
+A) Route 1 primary, Route 2 emergency, Route 3 alternate
+B) Route 1 emergency, Route 2 alternate, Route 3 primary
+C) Route 1 alternate, Route 2 emergency, Route 3 primary
+D) Route 2 primary, Route 1 alternate, Route 3 emergency route to hospital
+
+Correct Answer: D
+
+Explanation: The primary route is the best all-round option for security and practicality – Route 2. Route 3 is clearly the emergency route to hospital. Route 1, though fast, has higher risk and becomes the alternate. The other combinations ignore these principles.
+
+Question 22 [Easy] – Liaison During Recce (Who to Talk To)
+
+When carrying out a venue recce at a large hotel, who is usually the MOST appropriate person to speak to first about security arrangements?
+
+A) The head chef
+B) The security manager or head of hotel security
+C) The bar supervisor
+D) The entertainment manager
+
+Correct Answer: B
+
+Explanation: Liaison during recce should be with relevant decision-makers, such as the Security Manager for security issues. The chef (A), bar supervisor (C) or entertainment manager (D) may be involved later, but they are not normally the primary security contact.
+
+Question 23 [Hard] – Liaison During Recce (Confidentiality)
+
+During an overt venue recce, the Events Manager presses you for details about the principal’s identity, full itinerary and planned security measures. What is the MOST appropriate response?
+
+A) Provide all the information requested to build a good relationship with the venue
+B) Refuse to answer any questions and state that everything is “classified”
+C) Explain that you must maintain confidentiality, but provide only the necessary information about timings, areas to be used and any special requirements so the event can run smoothly
+D) Give a false identity for the principal and invent a cover story
+
+Correct Answer: C
+
+Explanation: Liaison must balance cooperation with confidentiality. You share information on a need‑to‑know basis, giving what is necessary for safety and planning while protecting sensitive details. Oversharing (A), being obstructive (B) or lying (D) are all unprofessional.
+
+Question 24 [Easy] – Liaison During Recce (Purpose)
+
+What is the MAIN purpose of liaison with venue staff, local police and other agencies during reconnaissance?
+
+A) To coordinate arrangements and exchange relevant information so that security plans and venue procedures work together
+B) To allow external agencies to take over responsibility for the principal’s safety
+C) To collect personal gossip about staff and guests
+D) To negotiate discounts for the principal and team
+
+Correct Answer: A
+
+Explanation: Effective liaison ensures that CP plans and local procedures are aligned, especially for emergencies, access control and communication. It does not hand over responsibility (B) nor serve social or financial aims (C, D).
+
+Question 25 [Hard] – Ground Appreciation (OCOKA – Key Terrain)
+
+During ground appreciation for an outdoor speech in a city square you note:
+
+The principal will speak from a raised temporary stage in the centre.
+
+A multi-storey car park overlooks the square from one side.
+
+Several narrow side streets lead into the crowd area.
+
+There is a small area of dead ground directly behind the stage.
+
+Using OCOKA, which feature is best described as key terrain?
+
+A) The area of dead ground directly behind the stage
+B) The temporary stage where the principal will stand
+C) The narrow side streets leading into the crowd
+D) The multi-storey car park that dominates the square and overlooks the principal and crowd
+
+Correct Answer: D
+
+Explanation: Key terrain is ground which, if controlled, gives a major advantage – typically dominant positions such as high ground or buildings overlooking the scene, like the car park (D). The side streets (C) are avenues of approach, the dead ground (A) is a blind spot, and the stage (B) is important but does not dominate the area in the same way.
+
+================================================================================
+END OF CHAPTER 2.2 QUESTIONS
+
+Total Questions: 25
+
+Easy: 10 (Q1, 3, 4, 7, 11, 14, 15, 18, 22, 24)
+
+Medium: 10 (Q2, 5, 6, 8, 9, 10, 12, 13, 16, 20)
+
+Hard: 5 (Q17, 19, 21, 23, 25)
+
+Answer Distribution:
+
+Correct answer A: 6 questions (3, 6, 10, 14, 18, 24)
+
+Correct answer B: 6 questions (1, 8, 11, 15, 19, 22)
+
+Correct answer C: 6 questions (4, 7, 12, 17, 20, 23)
+
+Correct answer D: 7 questions (2, 5, 9, 13, 16, 21, 25)

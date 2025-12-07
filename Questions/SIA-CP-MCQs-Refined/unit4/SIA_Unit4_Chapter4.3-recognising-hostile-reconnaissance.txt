@@ -1,0 +1,285 @@
+================================================================================
+UNIT 4, CHAPTER 4.3: RECOGNISING HOSTILE RECONNAISSANCE
+
+Question 1 [Easy]
+Which of the following BEST describes hostile reconnaissance in a close protection context?
+
+A) Pre-attack surveillance by hostile actors to identify routines, security measures and vulnerabilities
+B) Routine CCTV monitoring carried out by venue security staff
+C) General interest shown by members of the public in a high-profile principal
+D) Media photographers recording the principal at a publicised event
+
+Correct Answer: A
+
+Explanation:
+Hostile reconnaissance is deliberate surveillance by hostile actors to gather information for an attack. It focuses on the principal’s patterns, security measures and vulnerabilities in order to plan and test an attack. Routine CCTV (B) and media work (D) are usually legitimate activities, and general curiosity (C) alone is not hostile unless supported by other indicators. Recognising hostile reconnaissance early gives the CPO an opportunity to disrupt the planning cycle and protect the principal.
+
+Question 2 [Easy]
+When is hostile reconnaissance MOST likely to take place in relation to a planned terrorist attack?
+
+A) Only a few minutes before the attack begins
+B) Days, weeks or months beforehand, often over multiple visits
+C) Only after an attempted attack has failed
+D) Only when the principal is travelling overseas
+
+Correct Answer: B
+
+Explanation:
+Terrorist operatives almost always need time to plan and gather information. Hostile reconnaissance often occurs days, weeks or even months before an attack, and may involve multiple visits at different times to build a complete picture. It is rarely confined to the immediate minutes before an attack (A). It does not depend on a previous failed attack (C) and is just as relevant in the UK as overseas (D). This timescale gives CPOs a vital window to detect and report suspicious activity.
+
+Question 3 [Easy]
+A CPO at the principal’s residence notices the same person on several occasions standing opposite the gate, using a mobile phone to film the CCTV cameras and entry points. Which option BEST describes this behaviour?
+
+A) Normal behaviour for a neighbour taking an interest in local traffic
+B) Legitimate property survey work
+C) A potential indicator of hostile reconnaissance against the residence
+D) Innocent tourist activity with no security relevance
+
+Correct Answer: C
+
+Explanation:
+Repeated filming of security measures such as CCTV and entry points is a strong indicator of possible hostile reconnaissance. The person has a clear focus on security arrangements rather than the general area. While tourists may take photos (D), repeated visits and specific interest in cameras and gates make the activity more suspicious. There is no information suggesting they are a neighbour (A) or legitimate surveyor (B), so the CPO should treat this as potentially hostile and report it.
+
+Question 4 [Easy]
+In assessing behaviour, what is meant by the term baseline behaviour?
+
+A) The behaviour of any person a CPO finds suspicious
+B) How security staff are expected to respond to an incident
+C) The behaviour of the principal’s immediate family
+D) What is normal for that location in terms of people, activities and routines
+
+Correct Answer: D
+
+Explanation:
+Baseline behaviour is the normal pattern of people, activities and routines in a specific location. Once a CPO understands what is typical, they can identify anomalies or deviations that may indicate suspicious activity. It does not refer only to suspicious people (A), security responses (B) or the principal’s family (C). Knowing the baseline allows the CPO to spot when something “doesn’t fit” the environment.
+
+Question 5 [Medium]
+Which of the following is the BEST example of an anti-surveillance measure within a close protection operation?
+
+A) Regularly changing the principal’s routes and timings to make them unpredictable
+B) Using a Surveillance Detection Route (SDR) with trigger points and checkpoints
+C) Deploying a counter-surveillance team to observe for watchers
+D) Tasking a team member to maintain continuous visual contact with a suspected follower
+
+Correct Answer: A
+
+Explanation:
+Anti-surveillance is about preventing or making it harder for hostile actors to watch the principal. Varying routes and timings (A) reduces predictability and makes surveillance more difficult. Options B, C and D all involve actively detecting surveillance (finding watchers), which is counter-surveillance rather than anti-surveillance. Understanding this distinction helps CPOs design layered protective measures.
+
+Question 6 [Medium]
+A CPO is off duty in the hotel bar when another guest, who they do not know, begins a friendly conversation and asks detailed questions about the principal’s daily routine, security team size and typical travel times. How should the CPO MOST appropriately view this behaviour?
+
+A) As harmless social conversation that can be answered openly
+B) As potential elicitation aimed at gaining sensitive operational information
+C) As an opportunity to reassure the guest by explaining security procedures
+D) As normal curiosity that can be satisfied as long as names are not shared
+
+Correct Answer: B
+
+Explanation:
+Unsolicited, detailed questions about routines and security are a classic sign of elicitation and pose an information security risk. The CPO should treat this as a potential attempt to gather intelligence (B) and avoid sharing operational details. Viewing it as harmless (A, D) or an opportunity to reassure (C) undermines operational security and could assist hostile planning. CPOs must be alert to such conversations, especially when alcohol and flattery are involved.
+
+Question 7 [Easy]
+In the "Four D's of Reporting" approach to suspicious behaviour (Discover, Describe, Document, Deliver), which step comes IMMEDIATELY after you DISCOVER something that concerns you?
+
+A) Detain
+B) Deliver
+C) Describe
+D) Disperse
+
+Correct Answer: C
+
+Explanation:
+The “Four D’s” provide a simple structure: Discover, Describe, Document, Deliver. After you first discover suspicious activity, the next step is to describe exactly what you see in clear, specific terms. Only then do you document it formally and deliver the information through reporting channels. “Detain” and “Disperse” (A, D) are not part of the model and could lead to unsafe or inappropriate actions.
+
+Question 8 [Medium]
+A team is planning a movement from the principal’s hotel to a conference venue in a city where hostile reconnaissance is suspected. Which plan BEST describes a Surveillance Detection Route (SDR)?
+
+A) Taking the fastest route with blue light escorts to minimise time on the road
+B) Choosing a quiet back-street route that avoids all CCTV cameras
+C) Using the same familiar route as usual to reduce confusion in the convoy
+D) Following a pre-planned route with checkpoints, trigger points and deliberate turns or double-backs to force any surveillance to reveal itself
+
+Correct Answer: D
+
+Explanation:
+An SDR is designed to detect surveillance, not simply to get from A to B. It deliberately includes trigger points, checkpoints and unnatural manoeuvres (such as U-turns or double-backs) that make it difficult for hostile surveillance to continue without being noticed (D). The fastest route (A) may be predictable; avoiding CCTV (B) is more of an anti-surveillance measure; and repeating the same familiar route (C) increases predictability and vulnerability.
+
+Question 9 [Easy]
+Using the HOT protocol for suspicious items, what does the letter H stand for?
+
+A) Hidden
+B) Harmful
+C) Hazardous
+D) Heavy
+
+Correct Answer: A
+
+Explanation:
+In the HOT protocol, H = Hidden, O = Obviously suspicious, T = Typical (for the location). The first question is whether there has been an attempt to hide or conceal the item from view. If it appears deliberately hidden, that increases suspicion. “Harmful”, “Hazardous” and “Heavy” (B, C, D) may describe characteristics but are not what H stands for in this specific protocol.
+
+Question 10 [Medium]
+A CPO observes what appears to be repeated hostile reconnaissance of a venue several days before an event. The principal is safe, and there is no immediate threat to life. Internally, the CPO has informed the team leader and completed the security log. What is the MOST appropriate external reporting route in the UK?
+
+A) Do nothing further as it is not the CPO’s role to contact external agencies
+B) Call the confidential Anti-Terrorist Hotline on 0800 789 321
+C) Call 999 and request an immediate armed response
+D) Post the details on social media to warn the public
+
+Correct Answer: B
+
+Explanation:
+For non-immediate terrorist-related concerns in the UK, the Anti-Terrorist Hotline (0800 789 321) is the correct external route. It is confidential and available 24 hours, complementing internal reporting. 999 (C) is reserved for immediate threats to life. Doing nothing (A) ignores professional responsibility, and sharing on social media (D) breaches operational security and could cause panic or alert hostile actors.
+
+Question 11 [Medium]
+Within a counter-surveillance team, which role is primarily responsible for maintaining direct visual contact with a suspected surveillance individual once identified?
+
+A) Trigger
+B) Backup
+C) Eyeball
+D) Principal
+
+Correct Answer: C
+
+Explanation:
+The eyeball role is the team member who keeps continuous visual contact with the suspected surveillant. Once the trigger alerts the team to possible surveillance, the eyeball tracks the subject while remaining as covert as possible. The backup (B) supports the eyeball, providing additional cover and continuity. The principal (D) is the person being protected, not part of the counter-surveillance team structure.
+
+Question 12 [Easy]
+When a CPO observes a person they suspect of conducting hostile surveillance on their principal, which of the following actions should they AVOID?
+
+A) Observing discreetly and noting descriptions
+B) Recording times, locations and behaviour in the security log
+C) Reporting the suspicion through their team leader or control room
+D) Confronting or following the person themselves to “confirm” their suspicions
+
+Correct Answer: D
+
+Explanation:
+CPOs should not confront or follow suspected hostile surveillance (D). Doing so can escalate risk, compromise the operation and interfere with police investigations. Instead, they should observe discreetly, record accurate details (A, B) and report through the correct channels (C). The priority is to protect the principal and pass information, not to investigate personally.
+
+Question 13 [Medium]
+At a stadium event, a CPO notices a small rucksack pushed under a stairwell close to a VIP exit. No one nearby claims ownership, and it appears to have been deliberately placed out of sight. Applying the HOT protocol and close protection guidance, what is the MOST appropriate initial response?
+
+A) Move the principal and others away, clear the immediate area, and report urgently to venue security and police without touching the bag
+B) Open the bag carefully to check for identification before deciding what to do
+C) Leave the bag in place but place another object on top so it is less visible to the public
+D) Ask a member of venue cleaning staff to move the bag to a lost property area
+
+Correct Answer: A
+
+Explanation:
+The bag appears hidden and out of place near a key exit, so it meets HOT concerns and must be treated as suspicious. The correct response is to move people (especially the principal) away, clear the area and report immediately to venue security and police (A). Touching or opening the bag (B) is dangerous, and asking others to move it (D) simply transfers the risk. Concealing it further (C) is unsafe and obstructs proper response.
+
+Question 14 [Medium]
+When assessing whether behaviour is suspicious, which of the following approaches is MOST appropriate for a professional CPO?
+
+A) Focusing primarily on the person’s ethnicity and clothing style
+B) Concentrating on behaviour and context rather than appearance alone
+C) Discounting suspicion if the person claims to be a local resident
+D) Treating anyone who films in public as hostile
+
+Correct Answer: B
+
+Explanation:
+CPOs must avoid unfair profiling and remain objective. The correct approach is to focus on behaviour and context (B): what the person is doing, where, when and why, and how that compares to baseline behaviour. Relying on ethnicity or clothing (A) is unethical and ineffective. Accepting explanations at face value (C) or treating all filming as hostile (D) ignores context and can lead to missed threats or unnecessary escalation.
+
+Question 15 [Hard]
+During an advance recce of a hotel car park, a CPO spots an unlabelled cardboard box wedged behind a service stairwell, partly hidden from view. Staff in the area say they have never seen it before, and it feels unusually heavy when nudged with a boot from a distance. No wires are visible. Using the HOT protocol and close protection guidance, how should the CPO MOST appropriately interpret and act on this situation?
+
+A) Assume it is lost property because there are no visible wires and continue the recce
+B) Ask hotel maintenance to move the box to a more visible location
+C) Treat it as a suspicious item because it appears hidden and not typical for the location; move people away, avoid touching it and report immediately
+D) Move the box into an open space so that police can view it more easily if they attend later
+
+Correct Answer: C
+
+Explanation:
+The box appears deliberately hidden and is not typical for that location, so it fails the HOT test and must be treated as suspicious (C). The CPO should keep people away, avoid touching or moving the box and report urgently to the appropriate authorities. Assuming it is harmless (A), asking staff to move it (B) or moving it personally (D) all create unnecessary risk. Even without visible wires, the context and concealment are enough to justify full precautions.
+
+Question 16 [Hard]
+A close protection team has seen the same vehicle appear near the principal’s convoy on several journeys. For the next day’s move, they want to focus on counter-surveillance rather than only anti-surveillance. Which plan MOST clearly demonstrates counter-surveillance?
+
+A) Using a different departure time every day so the convoy is harder to predict
+B) Taking the most direct route at high speed so hostile actors have less chance to follow
+C) Closing all curtains in the principal’s vehicle so observers cannot see inside
+D) Running a pre-planned SDR with trigger points and team members positioned as triggers, eyeballs and backups to detect and track any vehicle that tries to follow
+
+Correct Answer: D
+
+Explanation:
+Counter-surveillance is about detecting surveillance, not just making it difficult. A structured SDR with triggers, eyeballs and backups (D) is a classic counter-surveillance approach and directly targets suspected watchers. Varying times (A) and reducing visibility (C) are anti-surveillance measures, while simply driving faster via the direct route (B) does little to detect who may be following. By using counter-surveillance, the team can identify and report potential hostile reconnaissance.
+
+Question 17 [Easy]
+Which statement BEST reflects the principle behind the ACT (Action Counters Terrorism) campaign and reporting suspicious activity?
+
+A) Trust your instincts and report any reasonable suspicion
+B) Only report if you are certain a crime is taking place
+C) Keep concerns to yourself so as not to alarm others
+D) Only report if you have photographic evidence
+
+Correct Answer: A
+
+Explanation:
+The ACT message emphasises that if something doesn’t feel right, you should trust your instincts and report it. Even information that seems minor may be valuable when combined with other reports. Waiting until you are certain (B) or have evidence (D) may mean missing crucial early warning. Keeping concerns to yourself (C) undermines the principle that “communities defeat terrorism”.
+
+Question 18 [Medium]
+The principal enjoys posting real-time photos and updates of their movements on social media, including locations and times. From an information security perspective, what is the MOST appropriate advice a CPO should give?
+
+A) Continue posting as normal but only when travelling within the UK
+B) Avoid posting real-time locations or future plans; if posting, do so after the event has finished
+C) Share even more detail so that security arrangements look professional
+D) Ask the principal to stop using social media completely
+
+Correct Answer: B
+
+Explanation:
+Real-time posts can reveal routines, locations and vulnerabilities that terrorists may exploit. Advising the principal to avoid real-time or forward-looking posts, and to post only after events (B), reduces risk while respecting their desire for a public profile. Option A ignores the risk inside the UK, and C makes the problem worse. Completely banning social media (D) is rarely realistic and may damage the relationship; a balanced, risk-based approach is better.
+
+Question 19 [Hard]
+As a CPO leaving a venue with your principal, you notice a large van parked unusually close to the VIP exit. Its rear appears heavily loaded, the suspension is low, and there is a strong smell similar to fertiliser. No driver is present. What is the MOST appropriate action?
+
+A) Ignore it as delivery vehicles are common near venues
+B) Approach the van and look through the windows to confirm if anything looks suspicious
+C) Move the principal and others away from the area, avoid line of sight to the van, and urgently report it as a suspicious vehicle to venue security and police
+D) Ask venue staff to move the van to a different parking space
+
+Correct Answer: C
+
+Explanation:
+The van shows multiple indicators of a potential vehicle-borne threat (location near exit, heavy load, fertiliser smell). The correct response is to move the principal and others away, keep out of line of sight, and report urgently to security and police (C). Approaching the van (B) or asking staff to move it (D) exposes people to unnecessary danger. Assuming it is normal (A) ignores strong contextual indicators and HOT-type concerns.
+
+Question 20 [Hard]
+During a concert, a CPO notices a lone individual on an upper balcony who is not watching the performance. Instead, they are repeatedly using their phone to film security staff, exits and the VIP area, and making frequent calls. There is no immediate attack underway. What is the MOST appropriate response?
+
+A) Immediately confront the individual and demand to see their phone
+B) Ignore the behaviour as they have paid to be at the event
+C) Ask venue staff to eject the individual without explanation
+D) Maintain discreet observation, note detailed descriptions and behaviour, and report promptly to the team leader and venue security
+
+Correct Answer: D
+
+Explanation:
+The behaviour is strongly suggestive of hostile reconnaissance focused on security and exits. The CPO should discreetly observe, record accurate details and report through the team and venue security (D), enabling a coordinated response. Direct confrontation (A) may escalate risk and compromise the CP operation. Ignoring it (B) or demanding ejection without proper reporting (C) misses the opportunity to build an intelligence picture for police and security professionals.
+
+================================================================================
+END OF CHAPTER 4.3 QUESTIONS
+
+Total Questions: 20
+
+Easy: 8
+
+Medium: 8
+
+Hard: 4
+
+Answer Distribution:
+
+Correct answer A: 5 questions (Q1, Q5, Q9, Q13, Q17)
+
+Correct answer B: 5 questions (Q2, Q6, Q10, Q14, Q18)
+
+Correct answer C: 5 questions (Q3, Q7, Q11, Q15, Q19)
+
+Correct answer D: 5 questions (Q4, Q8, Q12, Q16, Q20)
+
+================================================================================

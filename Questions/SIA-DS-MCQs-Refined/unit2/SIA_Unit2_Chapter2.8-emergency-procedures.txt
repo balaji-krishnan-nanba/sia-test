@@ -1,0 +1,165 @@
+================================================================================
+UNIT 2, CHAPTER 2.8: EMERGENCY PROCEDURES FOR DOOR SUPERVISORS
+================================================================================
+Meta: Total=12 | Easy=5 | Medium=5 | Hard=2 | A=3 | B=3 | C=3 | D=3
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: On hearing the fire alarm while working on a busy dancefloor, what should a door supervisor do FIRST?
+
+A) Begin directing customers in their area towards the nearest safe exit
+B) Check the fire alarm panel to see which zone has activated
+C) Look for the duty manager to ask what to do
+D) Go to look for signs of smoke or flames
+
+Answer: A
+Explanation: When the fire alarm sounds, the door supervisor's immediate priority is to start evacuation in their area, calmly directing customers to the nearest safe exit. Checking panels, looking for managers, or searching for smoke wastes vital time. Fire-fighting and investigation should only be done by trained persons and only when it is safe to do so.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: During a fire evacuation, which action is MOST appropriate for a door supervisor stationed at an external exit?
+
+A) Allow customers back in to collect their belongings if smoke seems light
+B) Direct people to use the lift if they have mobility issues
+C) Prevent anyone from re-entering the building until it is declared safe
+D) Go back inside to look for the source of the alarm
+
+Answer: C
+Explanation: Once people are outside, door supervisors must prevent re-entry until the building is declared safe by management or the fire service. Customers should not return for belongings, and lifts must never be used in a fire. Going back inside without authorisation puts the door supervisor and others at unnecessary risk.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: An unconscious customer is breathing normally after collapsing in the bar. What is the MOST appropriate position to place them in while waiting for help?
+
+A) Sitting upright in a chair
+B) Lying flat on their back
+C) Recovery position on their side
+D) Slumped forward over a table
+
+Answer: C
+Explanation: An unconscious but breathing casualty should be placed in the recovery position, on their side, with their airway kept open and breathing monitored. This helps prevent their tongue or vomit from blocking their airway. Sitting them up, lying them flat, or slumping them over a table does not protect the airway effectively.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Staff report a customer who has taken drugs and is now very drowsy and barely responding. Which action should the door supervisor ensure happens IMMEDIATELY?
+
+A) Call 999 and request an ambulance straight away
+B) Ask friends exactly what they took and then send them home in a taxi
+C) Give the customer strong coffee to wake them up
+D) Walk them around outside to keep them conscious
+
+Answer: A
+Explanation: A suspected overdose is a medical emergency and ambulance support is required immediately. The door supervisor should ensure 999 is called straight away and the casualty is closely monitored. Sending them home, giving coffee, or walking them around can delay treatment and may make the situation worse.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which of the following shows the correct order of actions in the "Run, Hide, Tell" guidance for a terrorist attack?
+
+A) Tell – Hide – Run
+B) Hide – Run – Tell
+C) Run – Tell – Hide
+D) Run – Hide – Tell
+
+Answer: D
+Explanation: Official guidance is to Run if it is safe to escape, Hide if you cannot escape, and Tell the police by calling 999 when it is safe to do so. This order maximises your chances of getting away from danger, staying safe, and then providing vital information to the emergency services.
+
+---
+Q6 | Difficulty: Medium
+---
+Question: While checking the smoking area, you find a man collapsed on the ground. He is not responding and is NOT breathing normally. A colleague has already called 999. What should you do NEXT if you have been trained?
+
+A) Place him in the recovery position and wait for the ambulance
+B) Give him water to see if he regains consciousness
+C) Move him to a quieter area before starting any treatment
+D) Begin chest compressions in the centre of his chest and continue until help arrives
+
+Answer: D
+Explanation: If a casualty is unresponsive and not breathing normally, start CPR immediately with chest compressions in the centre of the chest at 100-120 per minute. If trained in rescue breaths, give 30 compressions then 2 breaths. Compression-only CPR is acceptable if you are unable or unwilling to give rescue breaths. Continue until help arrives or the person recovers.
+
+---
+Q7 | Difficulty: Medium
+---
+Question: Two customers have been involved in a glassing incident. One has a deep cut to the face and is bleeding heavily. The area is now safe. What should the door supervisor do FIRST for the injured person?
+
+A) Apply firm pressure to the bleeding wound and ask someone to call 999
+B) Remove any glass from the wound before treating it
+C) Take the casualty outside to avoid upsetting other customers
+D) Clean the wound thoroughly with whatever is available
+
+Answer: A
+Explanation: Serious bleeding must be controlled quickly by applying firm pressure to the wound using a clean dressing if possible, while ensuring 999 is called. Any embedded objects should NOT be removed, as this can worsen bleeding. Moving the casualty unnecessarily or attempting to "clean" the wound first is lower priority than stopping the bleeding and getting medical help.
+
+---
+Q8 | Difficulty: Medium
+---
+Question: While working on the door, you see a customer inside the venue holding a knife after a fight. Other customers are backing away but no one appears injured yet. What is the MOST appropriate action?
+
+A) Enter the venue alone and try to take the knife from the customer
+B) Lock the front doors and ignore the situation until it calms down
+C) Ask another customer to help you disarm the person
+D) Immediately call 999, treat it as a major incident and monitor from a safe position
+
+Answer: D
+Explanation: Any incident involving a weapon must be treated as a major incident and the police should be called immediately. Door supervisors must prioritise their own safety, avoid trying to recover the weapon themselves, and observe from a safe position, ready to provide information. Involving other customers or ignoring the situation is highly dangerous.
+
+---
+Q9 | Difficulty: Medium
+---
+Question: You answer the venue phone and the caller calmly says, "There is a bomb in your club." What is the BEST way to deal with this call?
+
+A) Hang up immediately and evacuate the building on your own initiative
+B) Keep the caller talking, note exactly what is said, and quietly alert your manager and the police
+C) Put the caller on hold while you announce the threat over the public address system
+D) Challenge the caller aggressively to see if they are joking
+
+Answer: B
+Explanation: When a bomb threat is received, you should keep the caller talking if possible, note their exact words, ask questions (where, when, what kind, why), and notice any background sounds. The information must be passed to management and the police immediately. Evacuation routes and decisions are normally taken by management or the emergency services, not by a door supervisor acting alone.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: An ambulance arrives for a customer who has collapsed inside the venue. As a door supervisor, which action is the MOST helpful for the paramedics?
+
+A) Carry on with your normal duties so you do not get in their way
+B) Walk in front of them filming events in case evidence is needed
+C) Clear and maintain an access route, meet them at the entrance and direct them to the casualty
+D) Ask customers what happened while the paramedics work so you can complete your incident report
+
+Answer: C
+Explanation: When the ambulance arrives, door supervisors should meet them, guide them quickly to the casualty, and keep routes and working space clear. They should assist with crowd control and provide information when asked. Emergency services have command of the incident and the door supervisor's role is to support them, not obstruct or distract them.
+
+---
+Q11 | Difficulty: Hard
+---
+Question: After following "Hide" guidance during a suspected terrorist attack, you and several customers are locked in a back office. Armed police suddenly force entry to the room. What should you tell the customers to do?
+
+A) Rush towards the officers to show them where the attacker went
+B) Keep their hands visible and empty, stay still and follow every instruction given by the officers
+C) Start filming the officers to prove they have arrived
+D) Shout and point at each other so the police know who is staff and who is a customer
+
+Answer: B
+Explanation: When armed police arrive, they may treat everyone as a potential threat at first. People should keep their hands visible and empty, avoid sudden movements, and follow all instructions exactly. Running towards officers, shouting, or filming can be misinterpreted and put everyone at risk.
+
+---
+Q12 | Difficulty: Hard
+---
+Question: At a sell-out concert, you are working at the main entrance. The queue suddenly surges forward, people at the front are being crushed against the barriers and some are shouting that they cannot breathe. What is the MOST appropriate combination of actions?
+
+A) Push back hard against the crowd to stop them moving and speed up ticket checks
+B) Open or remove barriers where safe, stop any further entry, call for backup and calmly instruct people to move back and make space
+C) Ignore the problem and let people push their way inside to clear the queue more quickly
+D) Lock the entrance doors and leave the crowd outside to sort itself out
+
+Answer: B
+Explanation: Signs of crowd surge and crush must be dealt with immediately. Door supervisors should open or remove barriers where it is safe to relieve pressure, stop further entry, call for backup and communicate calmly so people understand what to do. Pushing back against the crowd, ignoring the problem, or locking doors can increase the risk of serious injury or death.
+
+================================================================================
+END OF CHAPTER 2.8
+================================================================================

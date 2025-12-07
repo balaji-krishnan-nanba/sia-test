@@ -1,0 +1,334 @@
+================================================================================
+UNIT 2, CHAPTER 2.3: SEARCHING PROCEDURES
+================================================================================
+Meta: Total=25 | Easy=10 | Medium=10 | Hard=5 | A=6 | B=6 | C=6 | D=7
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: What legal power do door supervisors have to search customers?
+
+A) Full search powers under the Licensing Act 2003
+B) Limited search powers under the Private Security Industry Act 2001
+C) No legal power – searches must be based on consent
+D) Search powers delegated from the police
+
+Answer: C
+Explanation: Door supervisors have NO statutory power to search anyone. All searches must be voluntary and based on the customer's consent. Venues can make search a condition of entry, but that does not give the door supervisor any legal search powers.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: On what main legal basis can a door supervisor search a customer?
+
+A) The customer's informed and voluntary consent
+B) A warrant issued by the local council
+C) Permission from the premises licence holder
+D) Authority given by the police on the night
+
+Answer: A
+Explanation: All searches carried out by door supervisors must be consent-based. Consent must be informed, freely given and voluntary. Without the person's consent, a search would normally amount to an assault.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: A customer refuses to be searched at the entrance. What are you legally allowed to do?
+
+A) Detain them until the police arrive
+B) Force the search if they look suspicious
+C) Refuse them entry and allow them to leave
+D) Search them if your colleague agrees
+
+Answer: C
+Explanation: Refusing a search is not an offence. Door supervisors cannot detain or force a search on that basis. If the venue has a "no search, no entry" policy, you may simply refuse entry and allow the person to leave.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Which of the following best describes a bag and belongings search?
+
+A) Customer opens the bag and removes items while you visually inspect
+B) Door supervisor reaches into the bag to remove items
+C) Bag is searched only by using a metal detector wand
+D) Bag is sent away to be searched by police
+
+Answer: A
+Explanation: For a bag search, you should ask the customer to open the bag and remove items themselves while you visually inspect. You should avoid reaching into bags yourself to reduce risk and avoid accusations of theft or inappropriate contact.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: What is the preferred arrangement for pat-down searches?
+
+A) Same-gender searches are preferred where possible
+B) Any gender may search any customer
+C) Only female staff may search customers
+D) Only male staff may search customers
+
+Answer: A
+Explanation: Best practice is for pat-down searches to be carried out by a door supervisor of the same gender as the customer. This helps maintain dignity and comfort, although customers may consent to other options if same-gender staff are unavailable.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Which technique is best practice when searching around sensitive areas of the body?
+
+A) Using the back of the hands
+B) Using fingertips and squeezing firmly
+C) Avoiding these areas completely
+D) Asking the customer to search themselves with your hands
+
+Answer: A
+Explanation: When patting down around sensitive areas, you should use the back of your hands. This helps maintain dignity, reduces the risk of allegations of inappropriate touching, and is standard professional practice.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: You find a knife during a search. What should you do with it?
+
+A) Return it if the person promises to go home
+B) Confiscate it and return it when they leave
+C) Ask them to put it in their car and come back
+D) Confiscate it, secure it safely and contact the police
+
+Answer: D
+Explanation: Weapons such as knives must never be returned to the person. They should be confiscated, secured safely with minimal handling and the police should be contacted. The find should then be documented.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which of the following is good practice when preserving evidence after finding drugs?
+
+A) Handling the drugs as much as possible
+B) Leaving the drugs where you found them
+C) Allowing another customer to look closely at the drugs
+D) Placing the drugs in a bag or container with minimal handling
+
+Answer: D
+Explanation: Evidence should be preserved with minimum handling. Wearing gloves where possible, place the drugs in a suitable bag or container, seal and label it, and maintain a clear record of when and by whom it was found.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: How should you explain the search process to avoid making customers feel like criminals?
+
+A) Say the search is routine and for everyone's safety
+B) Tell them they have been singled out for a search
+C) Warn them that refusal is suspicious behaviour
+D) Tell them management thinks they look risky
+
+Answer: A
+Explanation: To maintain good customer relations, explain that searches are routine and carried out for everyone's safety. Avoid language that suggests the customer has been specifically targeted or is being treated as a criminal.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: Which statement about using a hand-held metal detector wand is correct?
+
+A) It does not require consent because there is no touching
+B) It can only be used by the police
+C) It must always be followed by a full body search
+D) It still requires the customer's consent
+
+Answer: D
+Explanation: Even though a wand is less intrusive than a pat-down, it still involves a search and therefore requires the customer's consent. It is a useful tool for detecting weapons but must be used within the same consent-based framework.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: A venue has a clear "no search, no entry" sign at the door. A customer reaches the search point and appears to accept the queue system, but then says, "I don't want to be searched." What should you do?
+
+A) Inform them they must be searched because they joined the queue
+B) Tell them they can be searched against their will because of the sign
+C) Explain the policy, offer the search again, and if they still refuse, decline entry
+D) Call the police and detain the customer
+
+Answer: C
+Explanation: Signs support implied consent, but explicit consent is still best practice. You should calmly explain that searching is a condition of entry. If the customer refuses, you simply refuse entry and allow them to leave; you cannot detain or force a search.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: A female customer requests to be searched only by a female door supervisor, but there is currently no female staff member available. Which is the BEST response?
+
+A) Insist that a male door supervisor will search her
+B) Tell her she must leave immediately
+C) Offer options such as waiting for a female, a bag-only search, or declining entry
+D) Ignore the request and carry out the search anyway
+
+Answer: C
+Explanation: Same-gender searches are preferred, and customer requests should be respected. If same-gender staff are not available, offer reasonable options: wait for a suitable staff member, limit the search to bags only, or decline entry without pressure or hostility.
+
+---
+Q13 | Difficulty: Medium
+---
+Question: During a pat-down search, which sequence of actions is MOST appropriate?
+
+A) Start at the feet, move upward randomly, and put hands into pockets
+B) Ask the customer to stand still while you quickly grab all pockets
+C) Focus only on the torso, as weapons are rarely carried elsewhere
+D) Use a systematic top-to-bottom approach, keeping hands visible and asking the customer to empty pockets
+
+Answer: D
+Explanation: A safe and effective search uses a systematic approach, typically from top to bottom. Hands should be kept visible where possible, and customers should be asked to empty their own pockets to minimise risk and allegations.
+
+---
+Q14 | Difficulty: Medium
+---
+Question: You find a small wrap of suspected drugs in a customer's pocket during a consented search. What should you do next?
+
+A) Return the drugs and warn them not to use them inside
+B) Flush the drugs down the toilet immediately
+C) Let them enter but make a note in the incident book
+D) Seize the drugs, handle them as little as possible, and contact the police
+
+Answer: D
+Explanation: Drugs must never be returned to the customer. You should seize the suspected drugs, handle them minimally (using gloves if possible), preserve them as evidence, document the incident and follow venue policy, which usually includes contacting the police.
+
+---
+Q15 | Difficulty: Medium
+---
+Question: You discover a small folding knife in a customer's bag. The customer says, "It's just for work, I forgot it was there. I'll keep it in my pocket and behave." What is the BEST course of action?
+
+A) Allow them in with the knife after a warning
+B) Ask them to hide the knife in a nearby bin
+C) Return the knife after taking their name
+D) Confiscate and secure the knife and refuse entry
+
+Answer: D
+Explanation: Any weapon or potentially dangerous item, such as a knife, must not be returned to the customer. It should be safely confiscated, secured, and the customer should be refused entry to protect others. The incident should be documented, and the police contacted according to venue policy.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: Which piece of information is MOST important to include when documenting a confiscated prohibited item?
+
+A) What, where and when the item was found, and by whom
+B) How long you have worked at the venue
+C) The number of customers in the queue
+D) The price of the ticket for the event
+
+Answer: A
+Explanation: Good evidence records should clearly state what was found, where it was found, when it was found (date and time), and who found it. Recording any witnesses and actions taken also helps establish a clear chain of events.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: Which statement BEST compares a visual inspection with a pat-down search?
+
+A) A visual inspection is always more intrusive than a pat-down
+B) A pat-down search involves physical contact with outer clothing, while a visual inspection does not
+C) Both are identical and involve the same techniques
+D) A visual inspection never requires consent
+
+Answer: B
+Explanation: A pat-down search involves physical contact with the customer's outer clothing. A visual inspection involves only looking at the person or their belongings without physical contact. Both are still searches and should be carried out with consent and professionalism.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: A customer seems reluctant to be searched and says, "Why are you searching me? I've done nothing wrong." What is the best way to respond?
+
+A) "Because you look suspicious."
+B) "If you refuse, we'll call the police."
+C) "Searches are routine for everyone and are for the safety of all our customers."
+D) "It's none of your business, just do as you're told."
+
+Answer: C
+Explanation: Explaining that searches are routine and for everyone's safety helps maintain good customer relations and reduces the feeling of being singled out. Threatening or dismissive language is unprofessional and may escalate the situation.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: Which of the following BEST describes "explicit consent" to search?
+
+A) The customer walks towards the entrance where a search area is visible
+B) The customer reads the search sign above the door
+C) The customer does not complain while being searched
+D) The customer clearly agrees when asked if they consent to a search
+
+Answer: D
+Explanation: Explicit consent is when the person clearly and directly agrees, such as verbally confirming that they consent to being searched. Signs and behaviour at the entrance can suggest implied consent, but explicit consent is best practice.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: You are about to search a bag and are concerned about needle-stick injuries. What is the MOST appropriate action?
+
+A) Put your hands straight into the bag but work quickly
+B) Ask the customer if there are any sharp objects and have them remove items while you visually inspect
+C) Refuse to search any bags at all
+D) Shake the bag vigorously to dislodge any sharp items
+
+Answer: B
+Explanation: To manage the risk of needle-stick injuries, ask the customer if there are sharps and have them remove items while you visually inspect. Avoid reaching directly into bags, and use gloves where available.
+
+---
+Q21 | Difficulty: Hard
+---
+Question: Inside the venue, you suspect a customer may be carrying drugs. You ask for consent to search and they clearly refuse, but you position yourself in front of the exit and say, "You're not going anywhere until you let me search you." What is the MAIN legal risk in your actions?
+
+A) Breach of the Licensing Act 2003
+B) False imprisonment for preventing them from leaving
+C) Trespass to property
+D) Breach of CCTV regulations
+
+Answer: B
+Explanation: Door supervisors have no statutory power to search or detain someone who refuses a search. Blocking their exit after they refuse consent could amount to false imprisonment. The person must be free to leave, even if you suspect them, unless another lawful power applies (for example, a genuine citizen's arrest situation).
+
+---
+Q22 | Difficulty: Hard
+---
+Question: A customer who identifies as transgender approaches the search area. You are unsure which gendered searcher they would prefer. What is the MOST appropriate action?
+
+A) Refuse them entry because it is too complicated
+B) Decide for them based on how you think they look
+C) Politely and discreetly ask their preference and respect their choice
+D) Insist they are searched by a male door supervisor
+
+Answer: C
+Explanation: Transgender and non-binary customers should be treated with dignity and respect. If you are unsure, politely and discreetly ask their preference regarding who searches them, and follow venue policy. Respecting their identity and choice maintains professionalism and reduces the risk of complaints.
+
+---
+Q23 | Difficulty: Hard
+---
+Question: You are setting up a designated search area at a busy venue. Which combination of features BEST supports safety, dignity and evidence?
+
+A) Dark corner near the toilets, no cameras, plenty of space
+B) Well-lit area under CCTV, enough room to work, with some privacy from the main queue
+C) Completely isolated room with no witnesses or cameras
+D) Outside on a poorly lit pavement, so there is more fresh air
+
+Answer: B
+Explanation: A good search area should be well lit so you can see clearly, covered by CCTV for evidence and protection of both staff and customers, and arranged to offer some privacy while still ensuring there are witnesses. This combination supports safety, dignity and accountability.
+
+---
+Q24 | Difficulty: Hard
+---
+Question: During a search, you find a bag containing what appears to be a significant quantity of drugs. The customer becomes agitated and starts raising their voice. What should be your PRIMARY concern and first priority?
+
+A) Completing the search as quickly as possible
+B) Ensuring your own safety and the safety of others, and calling for assistance
+C) Weighing and counting the drugs for your report
+D) Allowing the customer to handle the drugs to calm them down
+
+Answer: B
+Explanation: Safety of staff, customers and yourself is always the first priority. If a person becomes agitated or aggressive after a find, you should seek assistance, create space, and follow your venue's procedures for dealing with conflict, while ensuring the drugs are preserved as evidence as far as is safely possible.
+
+---
+Q25 | Difficulty: Hard
+---
+Question: A customer objects to being searched and says, "You have no legal power to search me, this is illegal." Which response is MOST accurate and professional?
+
+A) "We can search anyone we like; it's the law."
+B) "You're right that we have no legal power to force a search, but searching is a condition of entry. If you don't consent, you won't be able to enter, and you're free to leave."
+C) "Because you refused, we now have the power to detain and search you."
+D) "If you refuse, we will search you anyway because of the sign."
+
+Answer: B
+Explanation: Door supervisors have no statutory power to search or to force a search. However, venues can make searching a condition of entry. The customer must be clearly informed that they are free to refuse and equally free to leave, but refusal may mean they are not allowed into the venue.
+
+================================================================================
+END OF CHAPTER 2.3
+================================================================================

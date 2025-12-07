@@ -1,0 +1,375 @@
+================================================================================
+UNIT 2, CHAPTER 2.6: EVIDENCE AND DATA MANAGEMENT
+Question 1 [Easy] – Evidence Integrity
+
+In a CCTV control room, what does evidence integrity mainly refer to?
+
+A) Proving that CCTV footage is genuine and has not been tampered with
+B) Making sure the cameras are the latest model
+C) Ensuring operators can zoom in on images
+D) Having as much recording storage as possible
+
+Correct Answer: A
+
+Explanation:
+Evidence integrity is about being able to show that the footage is genuine, complete and unchanged – with accurate timestamps, secure storage and proper handling. If integrity cannot be proven, a court may not trust or accept the footage as evidence.
+
+Question 2 [Easy] – Chain of Custody
+
+Which record best demonstrates chain of custody for exported CCTV footage?
+
+A) A copy of the CCTV maintenance log
+B) A document listing everyone who handled the evidence, with dates, times and reasons
+C) A list of camera locations in the building
+D) The weekly staff rota for the control room
+
+Correct Answer: B
+
+Explanation:
+Chain of custody is the documented record showing who handled the evidence, when, where it was stored or moved, and why. This demonstrates that there was no opportunity for tampering between preservation and court.
+
+Question 3 [Easy] – Preserving Evidence
+
+A CCTV operator sees a serious assault on town centre cameras. What is the most important immediate action to preserve the evidence?
+
+A) Print still images of the assault
+B) Notify local businesses via social media
+C) Mark or otherwise protect the relevant footage so it cannot be overwritten
+D) Eject the recorder and keep it on the operator’s desk
+
+Correct Answer: C
+
+Explanation:
+The first priority is to stop the system overwriting the relevant footage by marking it for retention or protecting it according to procedure. Other steps (like exporting, informing police, writing reports) follow afterwards.
+
+Question 4 [Easy] – Exporting Footage
+
+For evidential purposes, what is generally the preferred way to export CCTV footage for the police?
+
+A) Compress it heavily so the file is small
+B) Convert it only to MP4 so it plays on any device
+C) Provide a written statement instead of footage
+D) Export it in the system’s native format and supply the proprietary player if required
+
+Correct Answer: D
+
+Explanation:
+Native format with the manufacturer’s player usually preserves the highest quality and metadata, making it easier to prove authenticity. A standard format like MP4 may still be used, but native format is usually preferred for evidence.
+
+Question 5 [Easy] – Police Requests
+
+A police officer phones the control room asking for a copy of footage of a fight outside a nightclub. What should the operator do before releasing any footage?
+
+A) Verify the officer’s identity and the legitimacy of the request, and record the details
+B) Immediately email the footage to the officer without any checks
+C) Refuse all requests made by telephone
+D) Ask the officer to record the footage directly from the monitor using their mobile phone
+
+Correct Answer: A
+
+Explanation:
+Operators must verify the request is genuine (officer’s name, collar number, station, crime reference) and record what was requested before giving any footage. This protects the evidence and the organisation, and starts the chain of custody.
+
+Question 6 [Easy] – Subject Access Requests (SAR)
+
+Under UK GDPR and the Data Protection Act 2018, how long does an organisation normally have to respond to a valid Subject Access Request (SAR) for CCTV footage?
+
+A) 7 days
+B) One calendar month
+C) 28 working days
+D) Three calendar months in all cases
+
+Correct Answer: B
+
+Explanation:
+For a standard SAR, organisations must respond without undue delay and at the latest within one calendar month. For complex or multiple requests, they can extend by up to a further two months but must inform the requester within the first month.
+ICO
++2
+ICO
++2
+
+Question 7 [Easy] – Retention Periods
+
+For many UK CCTV schemes, what is a typical retention period for routine recordings where no incident has been identified?
+
+A) 7 days
+B) 1 year
+C) Around 31 days
+D) Until the hard drive becomes full
+
+Correct Answer: C
+
+Explanation:
+While each organisation must set its own justified period, around 31 days is a widely used ‘rule of thumb’ retention time for routine CCTV footage, unless there is a specific reason (such as an incident) to keep it longer.
+Clearway
++3
+Active Communication Company Ltd
++3
+Propertysec
++3
+
+Question 8 [Easy] – Data Security
+
+Which of the following is a technical security measure for protecting CCTV data?
+
+A) Locking the outer doors to the building
+B) Using a visitor sign‑in book at reception
+C) Giving staff an induction on CCTV policy
+D) Using individual user accounts and passwords on the CCTV system
+
+Correct Answer: D
+
+Explanation:
+Passwords and individual user accounts are technical controls. Locking doors and visitor books are physical/organisational controls, and staff training is an organisational control.
+
+Question 9 [Easy] – Third Party Disclosure
+
+A journalist phones the control room asking for a copy of CCTV showing a celebrity shopping in the town centre. What should the operator normally do?
+
+A) Refuse to release the footage and refer the request to a supervisor or data controller
+B) Provide the footage if the journalist sounds trustworthy
+C) Sell a copy of the footage to the journalist
+D) Upload the footage to social media and send the link
+
+Correct Answer: A
+
+Explanation:
+Media requests raise serious privacy issues. Footage is not normally released to the press, and any exceptional disclosure would be a senior management or data controller decision. The operator should not release the footage themselves.
+
+Question 10 [Medium] – Evidence Integrity (Time & Date)
+
+After an incident, a CCTV operator discovers the system clock was 10 minutes slow at the time of recording. What is the best way to protect evidence integrity?
+
+A) Quietly correct the clock and not mention it
+B) Record the time difference in the control room log and on any exhibit labels, explaining the offset
+C) Do nothing, because 10 minutes is not important
+D) Edit the exported footage to display the correct time, without noting the change
+
+Correct Answer: B
+
+Explanation:
+If timestamps are inaccurate, the discrepancy must be clearly documented so investigators and courts can understand the real time of events. Hiding or editing timestamps undermines evidence integrity and could lead to the footage being challenged.
+
+Question 11 [Medium] – Chain of Custody Details
+
+When an operator creates a new evidence disc for an incident, which of the following best meets the “who, what, when” requirements of chain of custody?
+
+A) Listing only the camera numbers and incident description
+B) Recording only the date and time range of the footage
+C) Recording the operator’s name and signature, a description of the footage, and the date and time it was created
+D) Recording only the crime reference number
+
+Correct Answer: C
+
+Explanation:
+Chain of custody needs clear information about who created or handled the exhibit, what it contains, and when it was produced. This information usually appears on an exhibit label and/or in an evidence log.
+
+Question 12 [Medium] – Preserving Evidence (Time‑Critical)
+
+A system normally overwrites footage after 31 days. An operator realises on day 29 that there was a serious “near miss” incident captured 29 days ago that nobody has yet requested. What is the most appropriate immediate action?
+
+A) Wait until the manager returns from leave next week
+B) Export the entire month’s footage from all cameras, just in case
+C) Make a brief note in the daily occurrence book and carry on normal duties
+D) Immediately identify and protect the relevant footage so it cannot be overwritten
+
+Correct Answer: D
+
+Explanation:
+There is a real risk that crucial footage will soon be overwritten. The operator must urgently preserve the specific relevant footage (for example by marking/tagging or exporting it) in line with procedures, and then document what has been done.
+
+Question 13 [Medium] – Exporting Footage (Verification)
+
+After exporting requested footage to a USB stick for the police, what should the operator do before sealing and handing it over?
+
+A) Play back the exported copy to confirm it is the correct footage and that the quality is acceptable
+B) Assume the system has exported correctly and hand it over
+C) Erase the original footage immediately to free space
+D) Hand over the USB unlabelled to save time
+
+Correct Answer: A
+
+Explanation:
+A playback check ensures the correct time period and cameras have been exported and the file is usable. This avoids wasted time for investigators and protects the operator and organisation from criticism.
+
+Question 14 [Medium] – Police Verbal Request
+
+A police officer attends the control room just after a robbery and verbally asks for a copy of the relevant footage, saying a written request will follow later. What should the operator do?
+
+A) Refuse to do anything until a written request arrives
+B) Verify the officer’s identity, record the details of the verbal request, and begin preserving/exporting the footage in line with procedure
+C) Give the officer unrestricted live access to the CCTV system
+D) Ask the officer to export the footage themselves using the control room equipment
+
+Correct Answer: B
+
+Explanation:
+In urgent cases, a verbal request may be appropriate, but it must still be verified and documented. The operator should preserve and export the footage promptly, while ensuring all details of the request and any handover are properly recorded.
+
+Question 15 [Medium] – SAR & Redaction
+
+A member of the public makes a Subject Access Request for CCTV footage of themselves in a busy shopping mall. The footage clearly shows many other identifiable people. What must the organisation generally do before providing a copy?
+
+A) Refuse the request entirely because other people are visible
+B) Charge a fee to cover the cost of editing
+C) Redact, blur or otherwise protect the identities of third parties where reasonably possible
+D) Tell the requester to obtain written consent from every person seen in the footage
+
+Correct Answer: C
+
+Explanation:
+The individual has the right of access to their own personal data, but others’ privacy must still be protected. The usual approach is to obscure or otherwise protect third‑party identities (where reasonable) before releasing a copy.
+
+Question 16 [Medium] – Extended Retention & Secure Deletion
+
+Footage of a minor slip‑and‑trip accident was kept beyond the usual 31‑day retention period because of an insurance claim. The insurer has now confirmed the case is closed and there are no further proceedings. What should happen to this footage?
+
+A) Keep it indefinitely in case it is ever useful
+B) Use it as a training video for staff
+C) Simply allow the system to overwrite it at some unknown future date, with no record
+D) Arrange secure deletion or destruction in line with policy and document the deletion
+
+Correct Answer: D
+
+Explanation:
+Personal data must not be kept longer than necessary for the purpose it was collected. Once the specific reason for extended retention (the claim) has ended, the footage should be securely deleted or destroyed according to policy, with records kept of what was deleted, when and by whom.
+ICO
+
+Question 17 [Medium] – Data Security & Access Control
+
+Which option best describes the principle of “minimum necessary” access to CCTV?
+
+A) Each user only has the access rights needed to perform their role
+B) Every member of the security team is given full administrator access
+C) All staff share a single generic CCTV login
+D) Contractors temporarily use the operator’s account while they are on site
+
+Correct Answer: A
+
+Explanation:
+Access should be role‑based and limited to what each person needs to do their job. This reduces the risk of misuse and makes it easier to investigate incidents using audit trails.
+
+Question 18 [Medium] – Third Party / Insurance Requests
+
+An insurance company writes to the CCTV control room requesting footage of a road traffic collision in a retail park. They enclose a signed authority form from the policyholder involved. What is the most appropriate response?
+
+A) Refuse the request because insurers are always third parties
+B) Treat it as a legitimate request, verify the documents, and follow the organisation’s disclosure procedure
+C) Only provide the footage if the insurer sends a USB stick
+D) Give the insurer live access to the CCTV system so they can copy what they need
+
+Correct Answer: B
+
+Explanation:
+Insurance companies may have a lawful basis to receive footage, especially where the data subject (policyholder) has authorised it. The operator must still verify the request and handle disclosure according to policy, recording what was released and why.
+
+Question 19 [Hard] – Evidence Integrity (Gaps in Recording)
+
+During a review of how CCTV was handled after an assault, the following issues are found:
+
+The control room clock was 2 minutes fast, but this was noted in the log and on the exhibit label.
+
+The footage was exported in the system’s native format with the proprietary player included.
+
+There is an unexplained 10‑minute gap in the recording from the relevant camera during the incident period.
+
+The exhibit label was handwritten instead of printed.
+
+Which issue is most likely to result in the evidence being seriously challenged or excluded in court?
+
+A) The clock being 2 minutes fast but clearly documented
+B) Using the native format and proprietary player
+C) The unexplained 10‑minute gap in the recording
+D) The label being handwritten instead of printed
+
+Correct Answer: C
+
+Explanation:
+An unexplained gap in recording at a crucial time raises serious doubts about whether evidence has been lost or tampered with. The other issues either support integrity (2) or are minor procedural points if properly documented (1, 4).
+
+Question 20 [Hard] – Chain of Custody Break
+
+A USB stick containing CCTV evidence is passed from Operator A to Supervisor B, then to Investigating Officer C. Operator A records handing it to B, and C records receiving it from B, but B forgot to sign the transfer section when giving it to C. The USB has remained sealed since leaving the control room. What is the best action now?
+
+A) Destroy the USB and secretly re‑export the footage so the paperwork looks correct
+B) Ask Officer C to sign B’s name and backdate the signature
+C) Ignore the missing signature because the seal is intact
+D) Record the omission in an additional statement or log, explaining the transfer, and inform the investigating officer/supervisor
+
+Correct Answer: D
+
+Explanation:
+You should never falsify or hide problems. The correct approach is to openly document the error, explain what actually happened, and inform the relevant people. Transparency helps the court assess any risk and may preserve the value of the evidence.
+
+Question 21 [Hard] – SAR vs Ongoing Investigation
+
+Someone who is under active police investigation sends a Subject Access Request asking for all CCTV of their arrest in a transport hub. The police ask the CCTV manager not to disclose the footage yet, as they believe it would prejudice their investigation. What should the organisation do?
+
+A) Consider using the crime prevention/detection exemption, document the decision, and respond within one month explaining why the footage cannot be supplied now and how to complain
+B) Ignore the Subject Access Request until the investigation ends
+C) Automatically provide all requested footage and ignore the police concerns
+D) Refuse the request without giving any explanation
+
+Correct Answer: A
+
+Explanation:
+Data protection law allows certain exemptions, including where disclosure would prejudice crime prevention or detection. The organisation may withhold or limit access, but must still respond to the SAR within the time limit, explain the exemption being relied on, and tell the individual about their right to complain or appeal.
+ICO
++1
+
+Question 22 [Hard] – Preserving Evidence (Lessons Learned)
+
+A control room has a 31‑day retention period. An operator witnesses a serious assault on day 1, makes no preservation action, and forgets to tell anyone. On day 35, the victim reports the assault, but the footage has already been overwritten. In future, which single action would be most effective in preventing this kind of loss?
+
+A) Emailing colleagues about the incident but taking no action on the system
+B) Immediately marking or exporting the relevant footage on the day of the incident in line with preservation procedures
+C) Increasing the recording frame rate on all cameras
+D) Calling the police but leaving the recording system to overwrite as normal
+
+Correct Answer: B
+
+Explanation:
+Preservation must be prompt and proactive. As soon as a serious incident is seen, relevant footage should be protected from overwriting (e.g. by tagging or export), with documentation to match. Relying on memory or informal emails is not enough.
+
+Question 23 [Hard] – Data Security & Breach Response
+
+An operator exports footage of a theft onto an unencrypted USB stick to give to the police the next day. On the way home, they realise they have left the USB in a café. What is the most appropriate immediate response?
+
+A) Wait to see if the café contacts them before saying anything
+B) Buy a new USB stick, re‑export the footage and keep quiet
+C) Report the incident immediately as a potential personal data breach, following the organisation’s breach procedure
+D) Do nothing because the footage was only intended for the police anyway
+
+Correct Answer: C
+
+Explanation:
+Losing an unencrypted USB containing identifiable CCTV footage is a potential personal data breach. The operator must report it at once so the organisation can assess the risk, try to contain the breach, and decide whether it needs to be reported to the ICO and/or affected individuals (sometimes within 72 hours).
+Sprintlaw UK
++3
+ICO
++3
+ICO
++3
+
+================================================================================
+END OF CHAPTER 2.6 QUESTIONS
+
+Total Questions: 23
+
+Easy: 9
+
+Medium: 9
+
+Hard: 5
+
+Answer Distribution:
+
+Correct answer A: 6 questions (1, 5, 9, 13, 17, 21)
+
+Correct answer B: 6 questions (2, 6, 10, 14, 18, 22)
+
+Correct answer C: 6 questions (3, 7, 11, 15, 19, 23)
+
+Correct answer D: 5 questions (4, 8, 12, 16, 20)
+
+================================================================================

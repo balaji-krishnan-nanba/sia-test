@@ -1,0 +1,302 @@
+================================================================================
+UNIT 2, CHAPTER 2.6: ELECTRONIC AND PHYSICAL PROTECTION SYSTEMS
+Question 1 [Easy]
+Which of the following is MOST clearly an electronic protection system rather than a physical barrier?
+A) Steel security door
+B) Chain-link perimeter fence
+C) Rising bollard
+D) CCTV system
+Correct Answer: D
+Explanation:
+CCTV is an electronic system that uses cameras, monitors and recorders. The other options are mainly physical barriers designed to delay or prevent access rather than electronically detect or monitor.
+
+Question 2 [Easy]
+Which measure is a physical protection system rather than an electronic one?
+A) Video intercom at a gate
+B) Dome CCTV camera
+C) Steel roller shutter across a shop front
+D) Intruder alarm control panel
+Correct Answer: C
+Explanation:
+A steel roller shutter is a physical security measure designed to provide a strong barrier. The other options are all electronic devices used for detection, monitoring or communication.
+
+Question 3 [Easy]
+Which detection device is commonly used to detect a door or window being opened on an intruder alarm system?
+A) Glass break detector
+B) Magnetic contact
+C) Passive Infrared (PIR) detector
+D) Pressure mat
+Correct Answer: B
+Explanation:
+Magnetic contacts are fitted to doors and windows so that when they are opened, the contact breaks and signals the alarm. PIRs detect movement/heat, glass break detectors listen for breaking glass, and pressure mats detect weight on the floor.
+
+Question 4 [Easy]
+What is the PRIMARY purpose of an intruder alarm system on a commercial site?
+A) To detect unauthorised entry and raise an alert
+B) To detect smoke and heat from a fire
+C) To provide continuous lighting at night
+D) To record staff working hours
+Correct Answer: A
+Explanation:
+Intruder alarm systems are designed to detect unauthorised entry and raise an alarm so that an appropriate response can be made. Time and attendance, fire detection and lighting are dealt with by other systems.
+
+Question 5 [Easy]
+What does CCTV stand for?
+A) Central Camera Telemetry Vision
+B) Closed Circuit Television
+C) Covert Camera Transmission Video
+D) Controlled Camera Tracking View
+Correct Answer: B
+Explanation:
+CCTV stands for Closed Circuit Television. The images are sent over a closed system to specific monitors or recorders, not broadcast publicly.
+
+Question 6 [Easy]
+Which of the following is a biometric method of access control?
+A) Magnetic stripe card
+B) Fingerprint reader
+C) Key-operated mortice lock
+D) PIN keypad
+Correct Answer: B
+Explanation:
+Biometric systems use unique physical or behavioural characteristics such as fingerprints, facial recognition or iris scans. Cards, keys and PINs are credential-based, not biometric.
+
+Question 7 [Easy]
+Which device is a manual means of raising the fire alarm?
+A) Aspirating (air sampling) detector
+B) Rate-of-rise heat detector
+C) Optical smoke detector
+D) Break-glass call point
+Correct Answer: D
+Explanation:
+A break-glass call point (manual call point) is operated by a person pressing or breaking the front to raise the alarm. The other devices are automatic detectors responding to smoke, heat or particles in the air.
+
+Question 8 [Easy]
+Which British Standard is commonly specified for high-security mortice locks on external doors in the UK?
+A) BS 2407
+B) BS 3621
+C) BS 5599
+D) BS 1010
+Correct Answer: B
+Explanation:
+BS 3621 is the British Standard often required by insurers for certain types of high-security locks on external doors. It indicates a tested level of resistance to forced entry.
+
+Question 9 [Easy]
+What is the main function of a DVR (Digital Video Recorder) in a CCTV system?
+A) To move cameras (pan, tilt and zoom)
+B) To automatically call the police
+C) To record and store images from cameras
+D) To provide power to the cameras
+Correct Answer: C
+Explanation:
+A DVR (or NVR in IP systems) records and stores video footage from cameras so it can be reviewed later as evidence. Camera power, police calls and camera movement are provided by other parts of the system.
+
+Question 10 [Easy]
+What term describes an unauthorised person entering a secure area by closely following an authorised person through an access-controlled door?
+A) Pass-back
+B) Tailgating
+C) Lock picking
+D) Shoulder surfing
+Correct Answer: B
+Explanation:
+Tailgating is when someone follows an authorised person through a controlled door without using their own credential. Pass-back is sharing a token after use, and shoulder surfing is watching someone enter a PIN.
+
+Question 11 [Easy]
+As a security officer, how should you treat a fire alarm activation until the cause is confirmed?
+A) Assume it is a false alarm
+B) Wait for a supervisor to arrive before doing anything
+C) Silence the alarm and then investigate
+D) Treat it as a real fire emergency
+Correct Answer: D
+Explanation:
+All fire alarm activations must be treated as real until proven otherwise. Evacuation procedures and fire safety actions must be followed to protect life.
+
+Question 12 [Easy]
+What should you ALWAYS do after responding to any alarm activation, whether it turns out to be genuine or false?
+A) Record the incident fully in the appropriate log
+B) Clear the area and leave it unrecorded
+C) Ignore it if nothing serious happened
+D) Reset the system immediately without checking
+Correct Answer: A
+Explanation:
+All alarm activations must be documented, including time, zone, cause, actions taken and any follow-up required. Accurate records support investigations, maintenance and legal requirements.
+
+Question 13 [Medium]
+Which statement best explains a limitation of CCTV systems?
+A) CCTV automatically repairs itself if a camera stops working.
+B) CCTV means there is no longer any need for human monitoring or response.
+C) CCTV always records perfectly in complete darkness without any lighting.
+D) CCTV can deter and record incidents but cannot physically prevent a crime from happening.
+Correct Answer: D
+Explanation:
+CCTV mainly deters and records; it does not physically stop offenders. It still needs suitable lighting, maintenance and human response, and it does not remove the need for security officers.
+
+Question 14 [Medium]
+In an integrated security system, an intruder alarm is linked to CCTV so that cameras automatically focus on the alarmed area and recording is flagged. What is the main advantage of this integration for the security officer?
+A) It removes the need to investigate the alarm at all.
+B) It provides clear video evidence directly linked to the alarm zone.
+C) It automatically calls the police without any human checks.
+D) It completely stops all false alarms.
+Correct Answer: B
+Explanation:
+Linking alarms and CCTV means that when an alarm activates, relevant video is captured and identified, helping the officer quickly assess what is happening and providing useful evidence.
+
+Question 15 [Medium]
+Cleaners are still working inside a building at night, but management wants doors and windows protected by the intruder alarm. Which alarm setting is MOST appropriate?
+A) Engineer mode
+B) Part set
+C) Fire test mode
+D) Full set
+Correct Answer: B
+Explanation:
+Part setting allows some zones (for example, perimeter detectors on doors and windows) to be armed while others (internal areas where people are working) remain unarmed.
+
+Question 16 [Medium]
+You review CCTV footage and find clear images of a theft. What should you do to preserve the evidence correctly?
+A) Allow all staff to watch the footage repeatedly.
+B) Leave it on the recorder and hope it is not overwritten.
+C) Delete the rest of the day’s recording to save storage space.
+D) Export the relevant footage, label it, and store it securely following the evidence log.
+Correct Answer: D
+Explanation:
+Evidence must be preserved securely and its handling recorded (continuity of evidence). Exporting, labelling and logging the footage helps ensure it is admissible in court and not lost or altered.
+
+Question 17 [Medium]
+A site uses swipe cards for access, but some staff have been sharing cards. Which change would MOST improve security?
+A) Allow staff to use each other’s cards if they forget theirs.
+B) Remove access control and use mechanical keys only.
+C) Introduce card plus PIN (two-factor authentication).
+D) Leave the doors propped open during busy times.
+Correct Answer: C
+Explanation:
+Combining a card with a PIN makes it harder for staff to share credentials without being detected. The other options weaken security or fail to address the problem.
+
+Question 18 [Medium]
+A kitchen area is causing frequent false fire alarms because cooking fumes are triggering a smoke detector. What is the MOST appropriate solution?
+A) Move the nearest manual call point to another floor.
+B) Replace the smoke detector with a suitable heat detector.
+C) Permanently silence the alarm for that zone.
+D) Remove the detector from the kitchen.
+Correct Answer: B
+Explanation:
+Kitchens are often protected by heat detectors because they are less affected by normal cooking fumes. Removing or silencing detection is unsafe and against fire safety procedures.
+
+Question 19 [Medium]
+Why might palisade fencing with anti-climb toppings be preferred over a low chain-link fence around a high‑risk site?
+A) It provides a stronger physical barrier and is harder to climb.
+B) It automatically detects intruders without any electronics.
+C) It completely removes the need for security patrols.
+D) It is always cheaper to install.
+Correct Answer: A
+Explanation:
+Palisade fencing with anti-climb features offers better delay and deterrence than a low chain-link fence. It is still only one layer of security and will usually be supported by patrols and electronic systems.
+
+Question 20 [Medium]
+During a night shift, the alarm panel shows an intruder alarm activation at the rear loading bay. You are the only officer on site. What is the SAFEST and most appropriate initial action?
+A) Go straight to the loading bay alone and enter in the dark.
+B) Switch the alarm off and deal with it at the end of the shift.
+C) Ignore the activation if there is no noise.
+D) Observe the area from a safe position (or via CCTV if available), assess the risk, and follow local procedures such as calling for backup or police if necessary.
+Correct Answer: D
+Explanation:
+Safety comes first. The officer should not rush into a potentially dangerous situation alone. They should assess the area safely and follow agreed procedures, involving police or support if an intruder is suspected.
+
+Question 21 [Medium]
+A PIR in a warehouse repeatedly causes false intruder alarms when a hanging banner moves in the airflow. What is the BEST action for the security officer?
+A) Cover the PIR with tape so it stops activating.
+B) Ignore future alarms from that zone as “known false alarms”.
+C) Turn off the entire intruder alarm system at night.
+D) Report the issue and its likely cause to a supervisor and log it so an engineer can adjust the detection or the banner can be removed.
+Correct Answer: D
+Explanation:
+False alarms must still be investigated, and the cause should be reported so it can be rectified by appropriate staff or engineers. Disabling detectors or ignoring alarms is unsafe and unprofessional.
+
+Question 22 [Medium]
+Why is it important that CCTV warning signs are displayed at site entrances?
+A) So visitors can decide which cameras to stand in front of.
+B) So staff know which cameras they can switch off.
+C) To inform people they are being monitored and to help comply with data protection requirements.
+D) To allow anyone recorded to demand instant deletion of footage.
+Correct Answer: C
+Explanation:
+Clear signage is a legal and ethical requirement under data protection law, informing people that CCTV is in operation, who is responsible and why images are being recorded.
+
+Question 23 [Medium]
+An employee reports that their access control card has been lost. What is the MOST appropriate immediate response by the security officer?
+A) Tell them to borrow a colleague’s card for the rest of the week.
+B) Arrange for the card to be cancelled/disabled and record the incident, following site procedures for issuing a replacement.
+C) Allow them to continue entering by tailgating through doors.
+D) Ignore it unless the card is found by someone else.
+Correct Answer: B
+Explanation:
+Lost credentials must be disabled quickly to prevent unauthorised use. The incident should be logged and the correct process followed for issuing a new card. Card sharing or tailgating increases risk.
+
+Question 24 [Medium]
+What is a key advantage of an addressable fire alarm system compared with a simple conventional zoned system?
+A) It is always cheaper to install and maintain.
+B) It can identify the exact device or location that has activated.
+C) It does not need any maintenance or testing.
+D) It never produces false alarms.
+Correct Answer: B
+Explanation:
+Addressable systems identify individual detectors or call points, making it easier and quicker to locate the source of an alarm. They still require proper design, maintenance and testing.
+
+Question 25 [Hard]
+A busy office reception already has an access-controlled door, CCTV covering the entrance and a staffed desk. Management is concerned about a vehicle being used to ram the front of the building. Which additional measure would MOST effectively improve protection against this specific threat?
+A) Installing fixed or rising anti-ram bollards in front of the entrance
+B) Increasing CCTV recording quality to ultra‑high definition
+C) Adding extra PIR detectors behind the reception desk
+D) Allowing staff to prop doors open during peak times for quicker access
+Correct Answer: A
+Explanation:
+Anti-ram bollards or similar hostile vehicle mitigation provide a strong physical barrier against vehicle attack. Better CCTV or extra internal detectors do not stop a vehicle physically entering the building.
+
+Question 26 [Hard]
+On a large site, the intruder alarm is part-set overnight: perimeter zones are armed, internal corridors are not. At 02:15 the panel shows an activation on a perimeter door zone, and CCTV shows no clear view of that door. What is the MOST appropriate next step?
+A) Follow procedures: note time and zone, assess the risk, and arrange a safe check of the door (for example, with a second person or police support if an intruder is suspected).
+B) Assume it is a fault because the internal zones are unset and do nothing.
+C) Immediately silence and reset the alarm without any checks.
+D) Switch the entire system to full set so all internal zones arm.
+Correct Answer: A
+Explanation:
+A perimeter activation on a part-set system may indicate an attempted intrusion. The officer must treat it seriously, record details and ensure the area is checked safely, involving police or additional support where the risk justifies it.
+
+Question 27 [Hard]
+You have exported CCTV footage of a serious assault to a secure USB device, labelled it, and placed it in the evidence cabinet. At shift handover, what action BEST maintains the continuity of evidence?
+A) Copy the footage to several USBs and give one to each supervisor.
+B) Leave the USB in the DVR and make no record of who accesses it.
+C) Brief the incoming officer, update the evidence log with who now has responsibility, and ensure cabinet access is controlled.
+D) Allow the new officer to take the USB home for safekeeping.
+Correct Answer: C
+Explanation:
+Continuity of evidence requires that every change of custody (who has control of the evidence) is recorded. Handover should include a briefing and an entry in the evidence log, with secure storage maintained at all times.
+
+Question 28 [Hard]
+An alarm panel shows activations on multiple zones, and CCTV shows two masked intruders moving inside the building. Access control logs show a door forced open. You are the only officer on site. What is the MOST appropriate priority action?
+A) Reset the alarm system so the noise does not disturb neighbours.
+B) Enter the building alone to check whether anything has been stolen.
+C) Confront the intruders immediately to try to detain them.
+D) Move to a safe location, contact the police immediately, provide them with all relevant information, and avoid entering the building until it is declared safe.
+Correct Answer: D
+Explanation:
+This is clearly a genuine intrusion. Officer safety is paramount. The correct action is to withdraw to safety, contact the police, give accurate information (zones, CCTV observations, access logs) and preserve the scene for investigation.
+
+Question 29 [Hard]
+A manager tells you, “We don’t need security patrols any more – we’ve got alarms and full CCTV coverage.” What is the BEST professional response based on system limitations?
+A) Agree, because technology always works and never fails.
+B) Explain that electronic systems have limitations (such as blind spots, false alarms and technical failures) and that layered security still needs human presence and response.
+C) Suggest turning off the alarms and using only CCTV.
+D) Tell staff to ignore all activations because the systems will deal with everything automatically.
+Correct Answer: B
+Explanation:
+No system is perfect. CCTV and alarms depend on power, coverage and correct use, and they cannot physically intervene. Human patrols, observation and response are important layers in effective security.
+
+Question 30 [Hard]
+A power cut affects a site. The CCTV monitors go blank, the intruder alarm panel shows “mains fail”, and some electronic locks release to a fail‑safe open position. Which limitation of security systems does this situation MOST clearly demonstrate?
+A) That CCTV cannot record sound as well as images
+B) That access control systems never unlock in an emergency
+C) That mechanical locks are less secure than electronic locks
+D) Dependence on power supplies and the need for suitable back‑up and manual procedures
+Correct Answer: D
+Explanation:
+Many electronic security systems depend on power. Without mains or adequate back‑up (batteries, generators, UPS), CCTV, alarms and access control may fail or behave differently. Procedures and physical measures must allow for this.
+

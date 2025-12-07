@@ -1,0 +1,480 @@
+================================================================================
+SIA DOOR SUPERVISOR - UNIT 2, CHAPTER 2.10
+QUEUE MANAGEMENT
+================================================================================
+
+YOUR TASK
+---------
+Generate 10 high-quality Multiple Choice Questions (MCQs) for Chapter 2.10 of 
+the SIA Door Supervisor Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE EXAM
+--------
+Unit 2: Working as a Door Supervisor
+- 50 multiple choice questions in actual exam
+- 75 minutes duration
+- 70% pass mark (35 correct answers required)
+- This chapter (2.10) is one of 10 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+Queue management is a fundamental skill for door supervisors. Poor queue 
+management can lead to frustration, conflict, crushing injuries, blocking 
+emergency routes, and complaints from neighbours. Good management ensures 
+safety, fairness, and a positive customer experience.
+
+================================================================================
+CHAPTER 2.10: QUEUE MANAGEMENT - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 10
+- Easy (direct recall): 4 questions
+- Medium (application): 4 questions
+- Hard (scenario-based): 2 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.1: PURPOSE OF QUEUE MANAGEMENT
+--------------------------------------------------------------------------------
+
+Safety:
+- Prevent crushing
+- Prevent blocking roads/pavements
+- Maintain clear emergency routes
+- Control crowd density
+- Prevent surges
+
+Fairness:
+- First come, first served principle
+- Transparent system
+- Consistent application
+- Reduce frustration and conflict
+
+Capacity Control:
+- Manage entry rate
+- Monitor venue capacity
+- One-in-one-out when full
+- Prevent overcrowding inside
+
+Customer Experience:
+- Reasonable wait times
+- Information about wait
+- Professional interaction
+- Sets positive tone for night
+
+Venue Reputation:
+- Well-managed queue looks professional
+- Reduces complaints
+- Shows venue cares about customers
+- Attracts quality customers
+
+Legal Compliance:
+- Capacity is legal limit
+- Blocking highways is offence
+- Noise disturbance to neighbours
+- Fire exit access
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.2: CAPACITY LIMITS
+--------------------------------------------------------------------------------
+
+What Sets Capacity:
+- Fire risk assessment
+- Licensing conditions
+- Venue's own policy (may be lower)
+- Legal maximum cannot be exceeded
+
+Why Capacity Matters:
+- Fire safety - evacuation time
+- Oxygen supply
+- Crush prevention
+- Customer comfort
+- Legal requirement
+
+Exceeding Capacity:
+- Criminal offence
+- Licence at risk
+- Dangerous situation
+- Door supervisor can face action
+
+Monitoring Capacity:
+- Clickers/counters
+- Count people in
+- Count people out
+- Know current number
+- Communicate with colleagues
+
+One-In-One-Out:
+- When at capacity
+- Each person in = one person must leave
+- Maintain exact count
+- No exceptions
+
+VIPs at Capacity:
+- Capacity still applies
+- Cannot exceed for anyone
+- VIPs wait or operate one-in-one-out
+- No exceptions regardless of status
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.3: QUEUE POSITIONING
+--------------------------------------------------------------------------------
+
+Location Considerations:
+- Away from roads/traffic
+- Not blocking pavements
+- Not blocking emergency exits
+- Not blocking neighbouring businesses
+- Consider local residents
+- Visible from door
+
+Barrier Systems:
+- Retractable belt barriers
+- Posts and ropes
+- Metal barriers
+- Create orderly queue shape
+- Define clear path
+
+Queue Route:
+- Logical flow
+- Single file or controlled width
+- Leads directly to entry point
+- No dead ends
+- Easy for staff to monitor
+
+Lighting:
+- Good lighting for safety
+- CCTV coverage
+- Staff can see queue
+- Customers feel safe
+- Deters crime
+
+Shelter:
+- If possible, covered area
+- Consideration in bad weather
+- Speed up processing in rain
+- Sympathetic to customers
+
+Neighbouring Premises:
+- Don't block their access
+- Don't cause noise issues
+- Be considerate
+- Respond to complaints
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.4: COMMUNICATION WITH QUEUE
+--------------------------------------------------------------------------------
+
+Keep Customers Informed:
+- Approximate wait time
+- Why there's a wait
+- When capacity available
+- Progress updates
+
+Managing Expectations:
+- Be honest about wait
+- Don't promise what you can't deliver
+- If unlikely to get in, say so
+- Alternative venue suggestions
+
+Professional Interaction:
+- Polite and friendly
+- Acknowledge customers
+- Thank for patience
+- Apologise for delays
+
+Dealing with Frustration:
+- Acknowledge frustration
+- Explain reasons calmly
+- Don't argue
+- Remain professional
+
+Communication Methods:
+- Verbal announcements
+- Speaking to individuals
+- Radio to inside team
+- Updates from colleagues
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.5: QUEUE JUMPING
+--------------------------------------------------------------------------------
+
+Why It's a Problem:
+- Unfair to others
+- Causes resentment
+- Can cause conflict
+- Undermines system
+
+Dealing with Queue Jumpers:
+- Approach promptly
+- Polite but firm
+- "The queue starts at the back"
+- Direct to correct position
+
+If They Refuse:
+- Remain calm
+- Explain policy clearly
+- May refuse entry
+- Document if necessary
+- Don't escalate unnecessarily
+
+Preventing Queue Jumping:
+- Clear barrier system
+- Staff positioned along queue
+- Visible monitoring
+- Quick intervention
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.6: GUEST LISTS AND VIPs
+--------------------------------------------------------------------------------
+
+Guest List Entry:
+- May have separate entrance
+- Verify names on list
+- Check ID matches name
+- Still apply entry criteria
+
+VIP Treatment:
+- Faster entry (if not at capacity)
+- May bypass main queue
+- Still cannot exceed capacity
+- Still apply rules (ID, sobriety)
+
+Managing Main Queue Perception:
+- Discrete VIP entry if possible
+- Don't flaunt preferential treatment
+- Acknowledge wait of main queue
+- Fair treatment overall
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.7: REFUSING ENTRY IN QUEUE
+--------------------------------------------------------------------------------
+
+When to Refuse:
+- Intoxication
+- Already banned
+- Dress code violation
+- Aggressive behaviour
+- Underage
+- Capacity full
+
+How to Refuse:
+- Polite but clear
+- Brief explanation if appropriate
+- Don't argue or debate
+- Firm and final
+- Ask them to leave area
+
+Documentation:
+- Document significant refusals
+- Especially if trouble anticipated
+- Description of person
+- Reason for refusal
+- Their reaction
+
+Watching After Refusal:
+- Monitor they leave
+- Watch for return to queue
+- Watch for targeting of other customers
+- Alert colleagues
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.8: WEATHER CONSIDERATIONS
+--------------------------------------------------------------------------------
+
+Cold Weather:
+- Speed up processing
+- Allow waiting inside if possible
+- Be sympathetic
+- Health risks for prolonged wait
+
+Hot Weather:
+- Hydration available
+- Shade if possible
+- Watch for heat exhaustion
+- Speed up entry
+
+Rain:
+- Shelter where possible
+- Speed processing
+- Sympathetic approach
+- Consider health impacts
+
+Impact on Behaviour:
+- Weather affects mood
+- Frustration increases
+- Patience decreases
+- Adjust approach accordingly
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.9: DISPERSAL
+--------------------------------------------------------------------------------
+
+End of Night:
+- Queue may form to leave
+- Encourage people to move on
+- Prevent congregation
+- Arrange transport
+
+Taxi Management:
+- Designated taxi area
+- Order of taxi queue
+- Communication with taxi companies
+- Safe waiting area
+
+Noise Considerations:
+- Neighbours affected
+- Encourage quiet departure
+- Address noisy customers
+- Respect local area
+
+Monitoring Outside:
+- Watch for post-venue conflicts
+- Prevent loitering
+- Presence until crowd gone
+- Report issues
+
+--------------------------------------------------------------------------------
+TOPIC 2.10.10: PUBLIC ORDER OUTSIDE
+--------------------------------------------------------------------------------
+
+Legal Position:
+- Queue is usually public space
+- Limited powers outside venue
+- Cannot arrest for queue behaviour (unless indictable offence)
+- Can refuse entry
+
+Managing Disorder:
+- De-escalation first
+- Refuse entry if appropriate
+- Call police for serious issues
+- Do not chase people
+
+Focus:
+- Protecting venue and queue
+- Don't pursue outside your area
+- Gather information for police
+- Be a good witness
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 10
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 4 questions (40%)
+- Medium (application): 4 questions (40%)
+- Hard (scenario-based): 2 questions (20%)
+
+TOPICS TO COVER:
+□ Purpose of queue management (1-2 questions)
+□ Capacity limits (2-3 questions)
+□ Queue positioning (1-2 questions)
+□ Communication with queue (1-2 questions)
+□ Queue jumping (1 question)
+□ Guest lists / VIPs (1 question)
+□ Refusing entry (1-2 questions)
+□ Dispersal (1 question)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Realistic door supervisor scenarios
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.10: QUEUE MANAGEMENT
+================================================================================
+
+Question 1 [Easy]
+When a venue has reached its maximum capacity, what system should be 
+operated for entry?
+
+A) Allow VIPs in regardless of capacity
+B) One-in-one-out
+C) Close the venue to new entry
+D) Increase the capacity limit temporarily
+
+Correct Answer: B
+
+Explanation: When at maximum capacity, a one-in-one-out system should be 
+operated. This means for each person who enters, one person must have left. 
+Capacity limits cannot be exceeded for anyone, including VIPs, and are set 
+by fire risk assessment for safety reasons.
+
+---
+
+[Continue for all 10 questions]
+
+================================================================================
+END OF CHAPTER 2.10 QUESTIONS
+================================================================================
+
+Total Questions: 10
+- Easy: 4
+- Medium: 4
+- Hard: 2
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+CAPACITY:
+- Set by fire risk assessment
+- Legal maximum - cannot exceed
+- Criminal offence to exceed
+- No exceptions for VIPs
+- One-in-one-out when full
+
+QUEUE POSITIONING:
+- Not blocking roads
+- Not blocking emergency exits
+- Consider neighbours
+- Good lighting
+
+COMMUNICATION:
+- Keep customers informed
+- Be honest about wait times
+- Manage expectations
+- Professional and polite
+
+QUEUE JUMPING:
+- Deal with promptly
+- Polite but firm
+- Direct to back of queue
+- May refuse entry if persist
+
+DISPERSAL:
+- Encourage people to move on
+- Arrange transport
+- Respect neighbours
+- Monitor until crowd gone
+
+COMMON DISTRACTORS:
+- VIPs exempt from capacity (wrong - no exceptions)
+- Can increase capacity for special events (wrong - it's a legal limit)
+- Queue is private property (wrong - usually public space)
+- Can force people to leave queue area (wrong - limited powers in public space)
+
+================================================================================
+END OF PROMPT
+================================================================================

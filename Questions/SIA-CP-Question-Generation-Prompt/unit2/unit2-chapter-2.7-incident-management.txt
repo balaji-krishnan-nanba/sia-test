@@ -1,0 +1,855 @@
+================================================================================
+SIA CLOSE PROTECTION - UNIT 2, CHAPTER 2.7
+INCIDENT MANAGEMENT
+================================================================================
+
+YOUR TASK
+---------
+Generate 25 high-quality Multiple Choice Questions (MCQs) for Chapter 2.7 of 
+the SIA Close Protection Operative Licence qualification.
+
+Think deeply about each question. Consider:
+- Is this what a real exam would ask?
+- Is there genuinely only ONE correct answer?
+- Would this help someone learn the material?
+- Is the explanation clear and educational?
+
+IMPORTANT: Distribute correct answers equally across A, B, C, D options.
+Aim for approximately 6-7 questions with each letter as the correct answer.
+
+================================================================================
+BACKGROUND CONTEXT
+================================================================================
+
+THE QUALIFICATION
+-----------------
+Level 3 Certificate for Working as a Close Protection Operative within the
+Private Security Industry
+
+THE EXAM
+--------
+Unit 2: Working as a Close Protection Operative
+- 30 multiple choice questions
+- 45 minutes duration
+- 70% pass mark (21 correct answers required)
+- This chapter (2.7) is one of 8 chapters in Unit 2
+
+WHY THIS CHAPTER MATTERS
+------------------------
+When incidents occur, there is no time to think - only to act. CPOs must 
+have pre-trained responses to attacks, medical emergencies, fires, and 
+other incidents. Incident management training creates automatic responses 
+that save lives.
+
+================================================================================
+CHAPTER 2.7: INCIDENT MANAGEMENT - DETAILED SYLLABUS
+================================================================================
+
+QUESTIONS REQUIRED: 25
+- Easy (direct recall): 10 questions
+- Medium (application): 10 questions
+- Hard (scenario-based): 5 questions
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.1: PRINCIPLES OF INCIDENT MANAGEMENT
+--------------------------------------------------------------------------------
+
+What is an Incident:
+- Any event disrupting operations
+- Threat to principal
+- Emergency situation
+- Unplanned occurrence
+- Requires response
+
+Types of Incidents:
+
+SECURITY INCIDENTS:
+- Attack (armed/unarmed)
+- Surveillance detected
+- Threat received
+- Intrusion
+- Suspicious activity
+
+SAFETY INCIDENTS:
+- Fire
+- Building emergency
+- Natural disaster
+- Structural failure
+- Environmental hazard
+
+MEDICAL INCIDENTS:
+- Principal illness
+- Injury
+- Team member emergency
+- Bystander emergency
+
+OPERATIONAL INCIDENTS:
+- Vehicle breakdown
+- Communication failure
+- Route blocked
+- Schedule disruption
+- Missing principal
+
+Incident Response Principles:
+
+PRIORITY:
+- Principal safety ALWAYS first
+- Then team safety
+- Then others
+- Then property
+
+SPEED:
+- Immediate action
+- No hesitation
+- Trained response
+- Time critical
+
+COMMUNICATION:
+- Report immediately
+- Clear information
+- Coordinate response
+- Updates throughout
+
+FLEXIBILITY:
+- Adapt to situation
+- Plans may fail
+- Decision making
+- Creative solutions
+
+The OODA Loop:
+- Observe (what's happening)
+- Orient (understand situation)
+- Decide (choose action)
+- Act (execute decision)
+- Repeat continuously
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.2: IMMEDIATE ACTION DRILLS (IADs)
+--------------------------------------------------------------------------------
+
+What are IADs:
+- Pre-trained responses
+- Automatic actions
+- No orders needed
+- Instant implementation
+- Muscle memory
+
+Why IADs:
+- No time to think
+- Consistent response
+- Team coordination
+- Effective action
+- Saves lives
+
+Types of IADs:
+
+CONTACT FRONT:
+- Threat from ahead
+- Cover principal
+- Evacuate rear
+- Engage if necessary
+
+CONTACT REAR:
+- Threat from behind
+- Cover principal
+- Evacuate forward
+- Rear team engages
+
+CONTACT LEFT/RIGHT:
+- Lateral threat
+- Cover principal
+- Evacuate opposite direction
+- Flanks respond
+
+CONTACT 360:
+- Threats all around
+- Maximum cover
+- Hold position
+- Fight out or await rescue
+
+The "Cover and Evacuate" Principle:
+
+COVER:
+- Body shield principal
+- Get between threat and principal
+- Reduce target profile
+- Maximum protection
+
+EVACUATE:
+- Move principal away
+- To pre-planned safe location
+- Fastest safe route
+- Maintain cover throughout
+
+IAD Execution:
+- Shout warning (if time)
+- Immediate action
+- Team responds together
+- No verbal commands needed
+- Trained response
+
+Training IADs:
+- Regular practice
+- Realistic scenarios
+- Automatic response
+- Team coordination
+- Muscle memory development
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.3: ACTIONS ON ATTACK
+--------------------------------------------------------------------------------
+
+Types of Attack:
+
+UNARMED ATTACK:
+- Physical assault
+- Grab or strike
+- Lower lethality
+- Physical response
+
+ARMED ATTACK (EDGED WEAPON):
+- Knife or blade
+- Close range threat
+- Serious injury risk
+- Distance critical
+
+ARMED ATTACK (FIREARM):
+- Gun threat
+- Distance attack
+- Highest lethality
+- Cover essential
+
+VEHICLE ATTACK:
+- Vehicle as weapon
+- Ramming
+- Drive-by
+- Mobility threat
+
+IED/EXPLOSIVE:
+- Bomb attack
+- Blast and fragmentation
+- Area effect
+- Evacuation critical
+
+Response Priorities:
+
+1. PROTECT PRINCIPAL:
+   - Body shield
+   - Cover
+   - Distance from threat
+
+2. EVACUATE:
+   - Away from threat
+   - To safe location
+   - Maintain cover
+
+3. ENGAGE THREAT (if necessary):
+   - Minimum force
+   - Proportionate
+   - To enable evacuation
+
+4. REPORT:
+   - Police
+   - Control
+   - Medical if needed
+
+Unarmed Attack Response:
+- Block/deflect attack
+- Control attacker if possible
+- Create distance
+- Evacuate principal
+- Physical intervention if trained
+
+Edged Weapon Response:
+- DISTANCE is critical
+- Do not grab blade
+- Cover and evacuate
+- Create distance
+- Engage only if no choice
+
+Firearm Response:
+- GET DOWN/COVER
+- Evacuate away from shooter
+- Use cover (stops bullets)
+- Run-Hide-Tell principles
+- Do not engage unless trained
+
+"Run, Hide, Tell" (for Active Shooter):
+- RUN: Evacuate if possible
+- HIDE: If can't run, find cover
+- TELL: Report to police when safe
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.4: EVACUATION PROCEDURES
+--------------------------------------------------------------------------------
+
+When to Evacuate:
+- Attack occurring
+- Threat imminent
+- Fire or emergency
+- Venue compromised
+- Order given
+
+Types of Evacuation:
+
+PLANNED EVACUATION:
+- Orderly exit
+- Controlled movement
+- Standard procedures
+- Lower urgency
+
+EMERGENCY EVACUATION:
+- Immediate exit
+- Life threat
+- Speed priority
+- Adapt plans
+
+FIGHTING WITHDRAWAL:
+- Under attack
+- Fighting while moving
+- Cover and move
+- Team coordination
+
+Evacuation Planning:
+
+PRIMARY EXIT:
+- Planned route
+- Tested and known
+- SAP prepared
+
+ALTERNATE EXIT:
+- Different route
+- If primary blocked
+- Known to team
+
+EMERGENCY EXIT:
+- Fastest route
+- Fire escapes
+- Windows (if necessary)
+- Any means available
+
+Evacuation Execution:
+
+ON FOOT:
+- Formation adapts
+- Cover principal
+- Point clears path
+- Move quickly
+- Communicate
+
+BY VEHICLE:
+- Emergency embus
+- Vehicle ready
+- Fastest to safety
+- Pre-planned route
+
+Evacuation Commands:
+- "EVACUATE FRONT"
+- "EVACUATE REAR"
+- "EVACUATE LEFT/RIGHT"
+- Team responds instantly
+- No debate
+
+Rally Points:
+- Pre-designated
+- If separated
+- Known to all
+- Safe locations
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.5: ACTIONS ON MEDICAL EMERGENCY
+--------------------------------------------------------------------------------
+
+Types of Medical Emergency:
+
+PRINCIPAL:
+- Highest priority
+- Immediate response
+- All resources deployed
+
+TEAM MEMBER:
+- Important but secondary
+- Maintain principal protection
+- Delegate response
+
+BYSTANDER:
+- Assess involvement
+- Maintain primary mission
+- Assist if possible
+
+Initial Response:
+
+ASSESS:
+- What's happened?
+- Severity?
+- Immediate dangers?
+- Resources needed?
+
+PROTECT:
+- Scene security
+- Principal safety maintained
+- Access for medical
+
+RESPOND:
+- First aid if trained
+- Call emergency services
+- Hospital route activated
+
+Medical Emergencies - Principal:
+
+ACTIONS:
+- Secure immediate area
+- Call emergency services
+- First aid if trained
+- Prepare hospital route
+- Communication to control
+
+EVACUATION:
+- To hospital if serious
+- Emergency route
+- Escort ambulance or convoy
+- Maintain security
+
+Medical Emergencies - Team:
+- Do not abandon principal
+- Delegate care to team member
+- Call for backup
+- Maintain operations
+- Post-incident care
+
+First Aid Priorities:
+- Danger (make safe)
+- Response (conscious?)
+- Airway (clear?)
+- Breathing (present?)
+- Circulation (bleeding?)
+- Disability (injuries?)
+- Exposure (check body)
+
+Equipment:
+- First aid kit
+- AED if available
+- Trauma kit
+- Communication to services
+
+Recording:
+- What happened
+- Time of incident
+- Actions taken
+- Ambulance details
+- Hospital details
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.6: ACTIONS ON FIRE
+--------------------------------------------------------------------------------
+
+Fire Discovery:
+
+ACTIONS:
+- Raise alarm
+- Evacuate principal immediately
+- Do not fight fire unless trained
+- Report location and severity
+- Assemble at rally point
+
+Fire Evacuation:
+
+PRINCIPLES:
+- Get out and stay out
+- Don't use lifts
+- Close doors behind
+- Feel doors before opening
+- Stay low in smoke
+
+PRINCIPAL PRIORITY:
+- Immediate evacuation
+- Nearest safe exit
+- Maintain escort
+- To assembly point
+
+Fire in Building:
+- Activate alarm
+- Evacuate immediately
+- Pre-planned routes
+- Rally at assembly point
+- Account for principal
+
+Fire in Vehicle:
+- Stop immediately
+- Exit vehicle
+- Move away (fuel explosion risk)
+- Do not open bonnet
+- Call emergency services
+
+If Trapped:
+- Close doors
+- Block gaps with cloth
+- Signal at window
+- Stay low
+- Wait for rescue
+
+CPO Responsibilities:
+- Know fire exits
+- Know assembly points
+- Principal evacuation priority
+- Do not delay for belongings
+- Report to control
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.7: ACTIONS ON CIVIL UNREST
+--------------------------------------------------------------------------------
+
+Types of Civil Unrest:
+- Protests/demonstrations
+- Riots
+- Strike action
+- Political unrest
+- Public disorder
+
+Recognition:
+- Crowds gathering
+- Police presence
+- Barriers erected
+- Noise/chanting
+- Media presence
+
+Initial Response:
+
+ASSESS:
+- Scale of disturbance
+- Direction of movement
+- Threat to principal
+- Escape routes
+
+DECIDE:
+- Avoid area
+- Wait it out
+- Evacuate
+- Shelter in place
+
+Actions:
+
+AVOIDANCE:
+- Alternative routes
+- Change schedule
+- Cancel if serious
+- Principal safety first
+
+IF CAUGHT:
+- Secure location
+- Low profile
+- Await advice
+- Monitor situation
+
+Vehicle Caught in Crowd:
+- Do not stop if moving
+- Doors locked
+- Windows up
+- Keep moving slowly
+- Protect principal
+
+On Foot in Crowd:
+- Tight formation
+- Move to edge
+- Find exit point
+- Building refuge
+- Police assistance
+
+Communication:
+- Report situation
+- Request guidance
+- Monitor media/police
+- Regular updates
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.8: POST-INCIDENT PROCEDURES
+--------------------------------------------------------------------------------
+
+Immediate Post-Incident:
+
+SECURE:
+- Principal safe
+- Area secured
+- Team accounted for
+- Threats neutralised
+
+ASSESS:
+- Injuries?
+- Ongoing threat?
+- Resources needed?
+- Support required?
+
+REPORT:
+- Police if criminal
+- Control/TL
+- Client
+- Relevant parties
+
+Medical Attention:
+- Check all for injuries
+- First aid as needed
+- Professional medical if needed
+- Delayed shock awareness
+
+Evidence Preservation:
+- Do not disturb scene
+- Note observations
+- Photograph if safe
+- Preserve CCTV
+- Witness details
+
+Documentation:
+
+INCIDENT REPORT:
+- Time and location
+- What happened (factual)
+- Actions taken
+- Persons involved
+- Outcome
+
+WITNESS STATEMENTS:
+- From team members
+- While memory fresh
+- Factual account
+- Signed and dated
+
+Police Liaison:
+- Report crimes
+- Provide information
+- Cooperate fully
+- Legal advice if needed
+- Principal protection continues
+
+Welfare:
+- Team wellbeing
+- Stress reactions normal
+- Debriefing
+- Professional support if needed
+- Time to recover
+
+Lessons Learned:
+- What went well
+- What could improve
+- Training needs
+- SOP/EOP updates
+- Share learning
+
+--------------------------------------------------------------------------------
+TOPIC 2.7.9: TERRORISM INCIDENT RESPONSE
+--------------------------------------------------------------------------------
+
+Recognising Terrorism:
+- Multiple casualties
+- Explosions
+- Active shooter
+- Vehicle attacks
+- Chemical/biological
+
+Immediate Response:
+
+RUN:
+- Evacuate if safe to do so
+- Insist principal moves
+- Leave belongings
+- Do not stop
+
+HIDE:
+- If cannot run
+- Find cover/concealment
+- Lock/barricade doors
+- Stay quiet
+- Turn off phone sounds
+
+TELL:
+- When safe
+- Call 999
+- Location
+- What you've seen
+- Description of attacker(s)
+
+Principal Protection Priorities:
+- Get principal away
+- To safe location
+- Maintain security
+- Communication when safe
+- Await police response
+
+Post-Attack:
+- Police will take control
+- Follow instructions
+- Provide information
+- Principal welfare
+- Debrief and documentation
+
+Marauding Terrorist Attack (MTA):
+- Active attackers
+- Moving through area
+- Multiple casualties
+- Police response pending
+- Survival priority
+
+================================================================================
+QUESTION GENERATION REQUIREMENTS
+================================================================================
+
+TOTAL QUESTIONS: 25
+
+DIFFICULTY DISTRIBUTION:
+- Easy (direct recall): 10 questions (40%)
+- Medium (application): 10 questions (40%)
+- Hard (scenario-based): 5 questions (20%)
+
+ANSWER DISTRIBUTION:
+- Correct answer A: 6-7 questions
+- Correct answer B: 6-7 questions
+- Correct answer C: 6-7 questions
+- Correct answer D: 6-7 questions
+
+TOPICS TO COVER:
+□ Principles of incident management (2-3 questions)
+□ Immediate action drills (3-4 questions)
+□ Actions on attack (4-5 questions)
+□ Evacuation procedures (3-4 questions)
+□ Medical emergency (3-4 questions)
+□ Fire (2-3 questions)
+□ Civil unrest (2-3 questions)
+□ Post-incident procedures (2-3 questions)
+□ Terrorism response (2-3 questions)
+
+QUESTION RULES:
+1. Exactly 4 options per question (A, B, C, D)
+2. Only ONE correct answer
+3. No "All of the above" or "None of the above"
+4. UK English spelling
+5. Close Protection scenarios throughout
+6. Equal distribution of correct answers across A, B, C, D
+
+================================================================================
+OUTPUT FORMAT
+================================================================================
+
+================================================================================
+UNIT 2, CHAPTER 2.7: INCIDENT MANAGEMENT
+================================================================================
+
+Question 1 [Easy]
+In close protection, what is ALWAYS the first priority during any incident?
+
+A) Preserving evidence
+B) Reporting to police
+C) Principal safety
+D) Team coordination
+
+Correct Answer: C
+
+Explanation: Principal safety is ALWAYS the first priority during any 
+incident in close protection. All other considerations - team safety, 
+evidence preservation, reporting, and coordination - come after ensuring 
+the principal is safe. This fundamental principle guides all incident 
+response decisions.
+
+---
+
+[Continue for all 25 questions]
+
+================================================================================
+END OF CHAPTER 2.7 QUESTIONS
+================================================================================
+
+Total Questions: 25
+- Easy: 10
+- Medium: 10
+- Hard: 5
+
+Answer Distribution:
+- Correct answer A: [X] questions
+- Correct answer B: [X] questions
+- Correct answer C: [X] questions
+- Correct answer D: [X] questions
+
+================================================================================
+
+================================================================================
+KEY POINTS FOR THIS CHAPTER
+================================================================================
+
+MUST GET CORRECT:
+
+PRIORITY ORDER:
+1. Principal safety (ALWAYS FIRST)
+2. Team safety
+3. Others
+4. Property
+
+COVER AND EVACUATE:
+- Get between threat and principal
+- Move principal away from threat
+- To pre-planned safe location
+- Maintain cover throughout
+
+IAD TYPES:
+- Contact Front (evacuate rear)
+- Contact Rear (evacuate forward)
+- Contact Left (evacuate right)
+- Contact Right (evacuate left)
+
+RUN-HIDE-TELL (Active Shooter):
+- RUN: Evacuate if possible
+- HIDE: Find cover if can't run
+- TELL: Report when safe
+
+OODA LOOP:
+- Observe
+- Orient
+- Decide
+- Act
+
+EVACUATION TYPES:
+- Planned (orderly, controlled)
+- Emergency (immediate, life threat)
+- Fighting withdrawal (under attack)
+
+FIRE RESPONSE:
+- Raise alarm
+- Evacuate immediately
+- Don't use lifts
+- Don't fight fire unless trained
+- Assembly point
+
+POST-INCIDENT:
+- Secure → Assess → Report
+- Evidence preservation
+- Documentation
+- Welfare checks
+
+MEDICAL PRIORITY (Principal):
+- Secure area
+- Call emergency services
+- First aid if trained
+- Hospital route
+- Maintain security
+
+COMMON DISTRACTORS:
+- Engage threat first (wrong - protect and evacuate first)
+- Team safety equals principal (wrong - principal always first)
+- Contact front = evacuate forward (wrong - evacuate rear)
+- Use lift in fire (wrong - never use lifts)
+- Clean up scene before police (wrong - preserve evidence)
+
+================================================================================
+CLOSE PROTECTION SCENARIOS FOR THIS CHAPTER
+================================================================================
+
+Use these scenario types in questions:
+
+- "A threat appears from the front. The team should..."
+- "The first priority during an attack is always..."
+- "If the principal collapses with a medical emergency..."
+- "During a fire at a venue, the CPO should..."
+- "An active shooter situation requires..."
+- "After an incident, evidence should be..."
+- "The OODA loop stands for..."
+
+================================================================================
+END OF PROMPT
+================================================================================

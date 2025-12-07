@@ -1,0 +1,722 @@
+================================================================================
+UNIT 1, CHAPTER 1.2: LEGISLATION FOR SECURITY OPERATIVES
+================================================================================
+Meta: Total=55 | Easy=22 | Medium=22 | Hard=11 | A=14 | B=14 | C=14 | D=13
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Which statement best describes criminal law?
+
+A) It deals only with health and safety in the workplace
+B) It deals only with money owed between two businesses
+C) It deals with offences against the state or society as a whole
+D) It deals with disputes between individuals over contracts
+
+Answer: C
+Explanation: Criminal law is concerned with offences against the state or society, such as assault or theft. These cases are prosecuted on behalf of the state, usually by the Crown Prosecution Service (CPS).
+
+---
+Q2 | Difficulty: Easy
+---
+Question: In a criminal case, what is the usual burden of proof?
+
+A) On the balance of probabilities
+B) Beyond reasonable doubt
+C) Clear and convincing evidence
+D) On the balance of possibilities
+
+Answer: B
+Explanation: In criminal law the prosecution must prove the case "beyond reasonable doubt". This is a high standard of proof because a conviction can lead to serious penalties such as imprisonment.
+
+---
+Q3 | Difficulty: Medium
+---
+Question: A customer is accused of stealing from a venue and is later prosecuted in the Crown Court. Which type of law is mainly being applied at this stage?
+
+A) Administrative law
+B) Criminal law
+C) Contract law
+D) Civil law
+
+Answer: B
+Explanation: Theft is a criminal offence and serious criminal cases are heard in the Crown Court. Civil law would deal with disputes such as unpaid debts or negligence, not the criminal charge of theft.
+
+---
+Q4 | Difficulty: Medium
+---
+Question: A customer sues a shopping centre for injuries after slipping on a wet floor. Which legal principle will the civil court mainly use to decide the case?
+
+A) Clear and convincing certainty
+B) Balance of probabilities
+C) Beyond reasonable doubt
+D) Absolute certainty
+
+Answer: B
+Explanation: Civil courts decide cases on the "balance of probabilities", meaning they decide what is more likely than not to have happened. This is a lower standard of proof than in criminal cases.
+
+---
+Q5 | Difficulty: Hard
+---
+Question: A security guard uses excessive force when removing a customer. The customer complains to the police and also sues the guard and their employer. Which statement is most accurate?
+
+A) Only the civil claim can proceed, not the criminal case
+B) The civil case must wait until after any appeal in the criminal case
+C) Only the criminal case can proceed, not the civil claim
+D) Both criminal and civil cases can proceed from the same incident
+
+Answer: D
+Explanation: The same incident can lead to both a criminal prosecution (e.g. for assault) and a civil claim for compensation. The criminal and civil courts are separate, with different standards of proof and possible outcomes.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Which Article of the Human Rights Act 1998 protects the right to life?
+
+A) Article 8
+B) Article 2
+C) Article 5
+D) Article 3
+
+Answer: B
+Explanation: Article 2 protects the right to life and places a duty on the state and its agents to protect life where possible. For security operatives this includes taking reasonable steps to prevent foreseeable harm.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Which Human Rights Article prohibits torture and inhuman or degrading treatment?
+
+A) Article 5
+B) Article 8
+C) Article 3
+D) Article 10
+
+Answer: C
+Explanation: Article 3 prohibits torture and inhuman or degrading treatment or punishment. This is directly relevant to how detainees are restrained, handled and spoken to by security staff.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Which Human Rights Article is most relevant to false imprisonment by a security operative?
+
+A) Article 8 – Right to respect for private life
+B) Article 5 – Right to liberty and security
+C) Article 2 – Right to life
+D) Article 10 – Freedom of expression
+
+Answer: B
+Explanation: Article 5 protects the right to liberty and security, meaning people must not be deprived of their liberty except in accordance with the law. Unlawfully detaining someone could breach Article 5.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which Human Rights Article is most relevant when dealing with CCTV and searches of customers?
+
+A) Article 6 – Right to a fair trial
+B) Article 14 – Prohibition of discrimination
+C) Article 8 – Right to respect for private and family life
+D) Article 10 – Freedom of expression
+
+Answer: C
+Explanation: Article 8 covers the right to respect for private and family life, home and correspondence. This includes issues of privacy around searches, surveillance and handling of personal information.
+
+---
+Q10 | Difficulty: Medium
+---
+Question: A security guard removes a member of the public from a workplace reception area but continues to hold them in a locked store room for 45 minutes with no lawful reason. Which Human Rights Article is most likely to have been breached?
+
+A) Article 2 – Right to life
+B) Article 11 – Freedom of assembly
+C) Article 3 – Prohibition of torture
+D) Article 5 – Right to liberty and security
+
+Answer: D
+Explanation: Keeping someone locked in a room without lawful authority is likely to amount to unlawful deprivation of liberty. This would be a breach of Article 5, which protects the right to liberty and security.
+
+---
+Q11 | Difficulty: Medium
+---
+Question: A security operative is overheard making mocking comments about a customer's religion while escorting them off the premises, causing humiliation. Which combination of Human Rights Articles is most likely to be relevant?
+
+A) Article 2 and Article 5
+B) Article 3 and Article 9
+C) Article 8 and Article 11
+D) Article 3 and Article 14
+
+Answer: D
+Explanation: Article 3 prohibits inhuman or degrading treatment, which can include serious humiliation. Article 14 prohibits discrimination in the enjoyment of Convention rights, including on religious grounds.
+
+---
+Q12 | Difficulty: Medium
+---
+Question: A protest outside an office building becomes loud but remains peaceful. The manager asks security to move people on immediately because they do not like the message. What should the security guard understand about the protestors' rights?
+
+A) Their right to protest only applies during daytime
+B) Their right to peaceful assembly is protected but can be restricted for safety
+C) They have an absolute right to protest and cannot be moved on
+D) Their right to protest does not apply near licensed premises
+
+Answer: B
+Explanation: Article 11 protects the right to peaceful assembly, but this is a qualified right. It can be restricted for reasons such as public safety or prevention of disorder, provided any restriction is lawful and proportionate.
+
+---
+Q13 | Difficulty: Hard
+---
+Question: A security guard searches a customer's bag thoroughly in full view of a queue, comments loudly about medicines they find, and later discusses the customer's health with friends. Which Human Rights Article is most clearly engaged by this conduct?
+
+A) Article 10 – Freedom of expression
+B) Article 5 – Right to liberty and security
+C) Article 2 – Right to life
+D) Article 8 – Right to respect for private life
+
+Answer: D
+Explanation: Article 8 protects the privacy of a person's private life, including health information and personal belongings. Conduct that unnecessarily exposes and shares such information may be an unjustified interference with Article 8 rights.
+
+---
+Q14 | Difficulty: Hard
+---
+Question: A security operative uses force which causes unnecessary pain to a compliant, handcuffed person for no safety reason. Which Article is most likely to be breached?
+
+A) Article 10 – Freedom of expression
+B) Article 2 – Right to life
+C) Article 3 – Prohibition of torture and inhuman or degrading treatment
+D) Article 6 – Right to a fair trial
+
+Answer: C
+Explanation: Article 3 prohibits torture and inhuman or degrading treatment in all circumstances. Using gratuitous or excessive force on a compliant detainee could amount to inhuman or degrading treatment.
+
+---
+Q15 | Difficulty: Easy
+---
+Question: Which type of right under the Human Rights Act cannot be limited or interfered with in any circumstances?
+
+A) Conditional rights
+B) Limited rights
+C) Absolute rights
+D) Qualified rights
+
+Answer: C
+Explanation: Absolute rights, such as the prohibition of torture, cannot be limited or justified under any circumstances. Security operatives must always respect these rights.
+
+---
+Q16 | Difficulty: Medium
+---
+Question: Which of the following is an example of a qualified right?
+
+A) Freedom from slavery
+B) Freedom of expression
+C) Right to life
+D) Freedom from torture
+
+Answer: B
+Explanation: Freedom of expression is a qualified right, meaning it can be restricted where necessary and proportionate, for example to prevent crime or protect the rights of others. Absolute rights, such as freedom from torture, cannot be restricted.
+
+---
+Q17 | Difficulty: Hard
+---
+Question: A security guard is asked to share detailed footage of a customer with a friend "just for a laugh". They refuse, explaining that any interference with privacy must be proportionate and for a legitimate aim. Which type of right are they correctly applying?
+
+A) A limited right that only applies in court
+B) A contractual right that belongs only to the employer
+C) An absolute right that can never be limited
+D) A qualified right that must be balanced against other interests
+
+Answer: D
+Explanation: Article 8 (right to respect for private life) is a qualified right, which means any interference must pursue a legitimate aim and be proportionate. Sharing CCTV for entertainment would not be a legitimate or proportionate reason.
+
+---
+Q18 | Difficulty: Easy
+---
+Question: How many protected characteristics are there under the Equality Act 2010?
+
+A) 10
+B) 8
+C) 7
+D) 9
+
+Answer: D
+Explanation: The Equality Act 2010 lists exactly nine protected characteristics. These include characteristics such as age, disability and race.
+
+---
+Q19 | Difficulty: Easy
+---
+Question: Which of the following IS a protected characteristic under the Equality Act 2010?
+
+A) Political opinion
+B) Race
+C) Criminal record
+D) Social class
+
+Answer: B
+Explanation: Race is a protected characteristic and includes colour, nationality and ethnic or national origin. Political opinion, social class and criminal record are not protected characteristics under the Act.
+
+---
+Q20 | Difficulty: Easy
+---
+Question: Which of the following is NOT one of the nine protected characteristics?
+
+A) Age
+B) Gender reassignment
+C) Disability
+D) Appearance
+
+Answer: D
+Explanation: Appearance on its own is not a protected characteristic. The nine protected characteristics include age, disability and gender reassignment, among others.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: A security guard refuses entry to a pregnant woman, saying, "We don't want any trouble if something happens to your baby." Which is the most accurate statement?
+
+A) This is acceptable if the venue is very busy
+B) This is likely unlawful discrimination because pregnancy is protected
+C) This is acceptable because he is worried about safety
+D) This is lawful if the woman has not booked in advance
+
+Answer: B
+Explanation: Pregnancy and maternity are protected characteristics. Refusing entry purely because someone is pregnant is likely to be direct discrimination, even if the supervisor claims to be acting for her own good.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: Which pair BOTH represent protected characteristics under the Equality Act 2010?
+
+A) Criminal record and accent
+B) Height and weight
+C) Religion or belief and sexual orientation
+D) Political opinion and social class
+
+Answer: C
+Explanation: Religion or belief (including lack of belief) and sexual orientation are both protected characteristics. Political opinion, social class and physical appearance alone are not protected characteristics.
+
+---
+Q23 | Difficulty: Medium
+---
+Question: A venue policy states "No one over 25 allowed in on Fridays" without any justification. Which statement best describes this policy under the Equality Act 2010?
+
+A) It is lawful if staff do not explain the reason
+B) It is always lawful because venues can choose their age group
+C) It is lawful as long as it is written down
+D) It may be discriminatory because age is a protected characteristic
+
+Answer: D
+Explanation: Age is a protected characteristic. Blanket age limits can amount to direct discrimination unless they can be objectively justified, which may be difficult in a leisure setting.
+
+---
+Q24 | Difficulty: Hard
+---
+Question: A workplace reception has a rule banning all head coverings. A Sikh man wearing a turban and a Muslim woman wearing a hijab are refused entry. Which is the best description of the potential issue under the Equality Act?
+
+A) Indirect discrimination because a neutral rule disadvantages certain religions
+B) Harassment because staff spoke to them politely
+C) Victimisation because they asked to see the manager
+D) Direct discrimination because they were treated the same
+
+Answer: A
+Explanation: A rule that applies to everyone but disproportionately disadvantages people with certain religious beliefs can amount to indirect discrimination. The policy would need strong justification to be lawful.
+
+---
+Q25 | Difficulty: Easy
+---
+Question: What is direct discrimination under the Equality Act 2010?
+
+A) Treating someone worse because of a protected characteristic
+B) Allowing someone to complain about discrimination
+C) Treating someone worse because they did not complain
+D) Applying a policy that accidentally disadvantages some people
+
+Answer: A
+Explanation: Direct discrimination is when a person is treated less favourably specifically because of a protected characteristic, such as refusing entry because of their race or sex.
+
+---
+Q26 | Difficulty: Easy
+---
+Question: What is victimisation under the Equality Act 2010?
+
+A) Applying a neutral rule to everyone
+B) Making a joke about someone's accent
+C) Bullying a customer because they are disabled
+D) Treating someone badly because they complained about discrimination
+
+Answer: D
+Explanation: Victimisation is when someone is treated badly because they have made or supported a complaint about discrimination, or are suspected of doing so. This protection encourages people to raise concerns.
+
+---
+Q27 | Difficulty: Medium
+---
+Question: A venue introduces a rule that all security staff must be over 30 "because they are more mature". What type of discrimination could this be?
+
+A) Harassment on grounds of age
+B) Indirect discrimination based on age
+C) Victimisation of older workers
+D) Direct discrimination based on age
+
+Answer: D
+Explanation: Refusing to hire or retain staff purely because they are under 30 treats them less favourably because of age. Age is a protected characteristic, so this is likely to be direct discrimination unless it can be objectively justified.
+
+---
+Q28 | Difficulty: Medium
+---
+Question: A female customer is repeatedly subjected to sexual jokes by a member of the security team, making her feel intimidated. What form of unlawful conduct does this describe?
+
+A) Victimisation
+B) Indirect discrimination
+C) Direct discrimination
+D) Harassment
+
+Answer: D
+Explanation: Harassment includes unwanted conduct related to a protected characteristic, such as sex, which violates a person's dignity or creates an intimidating, hostile or humiliating environment.
+
+---
+Q29 | Difficulty: Hard
+---
+Question: A new entry policy states that all visitors to a corporate site must remove religious symbols "to keep things neutral". This mainly affects people of certain faiths. What type of discrimination is this most likely to be?
+
+A) Indirect discrimination because a neutral rule disadvantages some religious groups
+B) Harassment because customers feel embarrassed
+C) Direct discrimination because everyone is treated differently
+D) Victimisation because customers might complain
+
+Answer: A
+Explanation: A neutral rule that applies to everyone but puts those with particular religious beliefs at a disadvantage can amount to indirect discrimination. It would need strong, proportionate justification to be lawful.
+
+---
+Q30 | Difficulty: Easy
+---
+Question: What is meant by a "reasonable adjustment" under the Equality Act 2010?
+
+A) A change made to avoid discriminating against disabled people
+B) Any change requested by any customer
+C) A minor change to the venue's prices
+D) A change that only benefits the business
+
+Answer: A
+Explanation: A reasonable adjustment is a change made to remove or reduce a disadvantage experienced by disabled people. Employers and service providers have a duty to make reasonable adjustments where needed.
+
+---
+Q31 | Difficulty: Medium
+---
+Question: A wheelchair user arrives at a venue with a step at the entrance. The venue has a portable ramp stored nearby but staff say "we never use that". What should a security guard recognise?
+
+A) Using the ramp is optional and up to staff
+B) Using the ramp may be a reasonable adjustment the venue should make
+C) The customer should pay extra for staff to use the ramp
+D) The customer must find another venue
+
+Answer: B
+Explanation: Providing access using a ramp is a good example of a reasonable adjustment to remove a barrier for a disabled person. Failing to use available equipment without good reason could amount to disability discrimination.
+
+---
+Q32 | Difficulty: Easy
+---
+Question: Under data protection law, personal information must be collected and used in a way that is lawful, fair and clear. Which data protection principle does this describe?
+
+A) Storage limitation
+B) Data minimisation
+C) Lawfulness, fairness and transparency
+D) Purpose limitation
+
+Answer: C
+Explanation: The first data protection principle requires processing to be lawful, fair and transparent. Individuals should understand how and why their personal data is used.
+
+---
+Q33 | Difficulty: Easy
+---
+Question: Which of the following is an example of the data minimisation principle?
+
+A) Sharing all incident reports with anyone who asks
+B) Only recording information that is necessary for a specific purpose
+C) Keeping CCTV footage forever
+D) Collecting as much data as possible "just in case"
+
+Answer: B
+Explanation: Data minimisation means only collecting and keeping the personal data that is genuinely necessary for a specific, legitimate purpose. Excessive collection breaches this principle.
+
+---
+Q34 | Difficulty: Easy
+---
+Question: How many key data protection principles are there under the UK GDPR and Data Protection Act 2018?
+
+A) 8
+B) 7
+C) 5
+D) 6
+
+Answer: B
+Explanation: The UK GDPR sets out seven key data protection principles: lawfulness, fairness and transparency; purpose limitation; data minimisation; accuracy; storage limitation; integrity and confidentiality (security); and accountability.
+
+---
+Q35 | Difficulty: Medium
+---
+Question: A security guard writes an incident report including a customer's full name, address, date of birth and detailed medical history, even though only their name and a brief description are needed. Which principle is most likely to have been breached?
+
+A) Accuracy
+B) Integrity and confidentiality
+C) Purpose limitation
+D) Data minimisation
+
+Answer: D
+Explanation: Collecting far more information than is needed breaches the data minimisation principle. Only information necessary for the specific purpose of recording the incident should be included.
+
+---
+Q36 | Difficulty: Medium
+---
+Question: A venue routinely keeps all incident reports and CCTV footage indefinitely, even when there is no ongoing investigation. Which data protection principle is most clearly being ignored?
+
+A) Purpose limitation
+B) Accuracy
+C) Storage limitation
+D) Integrity and confidentiality
+
+Answer: C
+Explanation: Storage limitation requires organisations not to keep personal data for longer than necessary for the purpose for which it was collected. Keeping records and footage indefinitely without justification may breach this principle.
+
+---
+Q37 | Difficulty: Medium
+---
+Question: A colleague asks to look at an incident report "just because I'm curious", even though they were not involved and do not need to know. According to data protection principles, what should the security operative do?
+
+A) Let them read it but not take a copy
+B) Show the report as long as they are a colleague
+C) Refuse access because information should be shared on a need-to-know basis
+D) Read it aloud instead of showing it
+
+Answer: C
+Explanation: The integrity and confidentiality principle requires personal data to be kept secure and only accessed by people who have a legitimate need to know. Curiosity is not a lawful reason to access personal information.
+
+---
+Q38 | Difficulty: Hard
+---
+Question: After an email containing customers' personal details is sent to the wrong person, the manager decides not to tell anyone because "it's only a small mistake". Which two obligations under data protection law might this decision fail to meet?
+
+A) Lawfulness and data portability
+B) Data minimisation and purpose limitation
+C) Storage limitation and transparency
+D) Accountability and breach reporting within 72 hours where required
+
+Answer: D
+Explanation: Organisations must be accountable for how they handle personal data and, where a breach is likely to risk individuals' rights and freedoms, they must report it to the ICO without undue delay and within 72 hours. Failing to assess and record the breach properly may breach these duties. Note: The 72-hour reporting requirement only applies to breaches likely to result in risk to individuals' rights and freedoms, not all breaches.
+
+---
+Q39 | Difficulty: Easy
+---
+Question: Which of the following is a right that individuals have under data protection law?
+
+A) Right to stop all CCTV in public places
+B) Right of access to their personal data
+C) Right to remove all information from police systems
+D) Right to demand cash compensation immediately
+
+Answer: B
+Explanation: Individuals have the right to access personal data held about them, often through a subject access request. They do not have an automatic right to stop all CCTV or remove lawfully held police records.
+
+---
+Q40 | Difficulty: Medium
+---
+Question: A customer asks to see the information a venue holds about them, including CCTV footage of an incident. How should the security team view this request?
+
+A) As a subject access request which may need to be passed to management
+B) As a breach of the Data Protection Act
+C) As harassment which can be ignored
+D) As a criminal offence
+
+Answer: A
+Explanation: Individuals have the right of access to personal data held about them. A request to see records or CCTV is a subject access request and should be handled according to the organisation's procedures, usually by management or a data protection lead.
+
+---
+Q41 | Difficulty: Hard
+---
+Question: A customer asks a security guard to correct their name on an incident report because it was spelt wrongly. The guard refuses, saying "it's written now, we can't change it". Which data protection right is most relevant?
+
+A) Right to data portability
+B) Right to rectification
+C) Right to restrict processing
+D) Right to be forgotten
+
+Answer: B
+Explanation: Individuals have the right to have inaccurate personal data corrected. Refusing to correct an obvious spelling error could breach the right to rectification and the accuracy principle.
+
+---
+Q42 | Difficulty: Easy
+---
+Question: Under the Health and Safety at Work etc. Act 1974, what is the main duty of employers towards their employees?
+
+A) To guarantee that no accidents will ever occur
+B) To provide free meals during every shift
+C) To provide the highest possible wages
+D) To ensure, so far as is reasonably practicable, their health, safety and welfare at work
+
+Answer: D
+Explanation: Section 2 of the Act requires employers to ensure, as far as is reasonably practicable, the health, safety and welfare at work of their employees. This includes safe systems of work, training and equipment.
+
+---
+Q43 | Difficulty: Easy
+---
+Question: Which section of the Health and Safety at Work etc. Act 1974 sets out the duties of employees?
+
+A) Section 2
+B) Section 3
+C) Section 7
+D) Section 8
+
+Answer: C
+Explanation: Section 7 places duties on employees, requiring them to take reasonable care for their own health and safety and that of others, and to cooperate with their employer on health and safety matters.
+
+---
+Q44 | Difficulty: Medium
+---
+Question: A security guard deliberately ignores a faulty handrail they know is unsafe, saying "it's not my job". Which duty under health and safety law are they most at risk of breaching?
+
+A) Duty to non-employees (Section 3)
+B) Duty not to interfere with safety equipment (Section 8)
+C) Employee's duty to take reasonable care (Section 7)
+D) Employer's duty to employees (Section 2)
+
+Answer: C
+Explanation: Section 7 requires employees to take reasonable care for their own health and safety and that of others affected by their work. Ignoring a known hazard that could injure someone may breach this duty.
+
+---
+Q45 | Difficulty: Medium
+---
+Question: A member of the public deliberately removes a safety barrier to get a better view of a performance, creating a trip hazard. Which section of the Health and Safety at Work etc. Act 1974 is most relevant?
+
+A) Section 7 – Employee's duties
+B) Section 8 – Duty not to interfere with or misuse safety equipment
+C) Section 2 – Employer's duty to employees
+D) Section 3 – Duty to non-employees
+
+Answer: B
+Explanation: Section 8 states that no one shall intentionally or recklessly interfere with or misuse anything provided in the interests of health, safety or welfare. Removing safety barriers is likely to breach this duty.
+
+---
+Q46 | Difficulty: Hard
+---
+Question: A risk assessment identifies that glass bottles in a busy outdoor area create a high risk of serious injury if fights occur. The venue considers switching to plastic at higher cost. What principle helps decide what measures are required?
+
+A) Reasonably practicable
+B) Zero tolerance
+C) Absolute safety
+D) Balance of probabilities
+
+Answer: A
+Explanation: Health and safety law requires risks to be reduced so far as is reasonably practicable. This means weighing the level of risk against the time, trouble and cost of controlling it, with higher risks demanding more stringent measures.
+
+---
+Q47 | Difficulty: Easy
+---
+Question: Under RIDDOR, which of the following incidents must be reported?
+
+A) Any injury, however small
+B) A minor cut treated with a plaster
+C) Any complaint from a customer
+D) A work-related injury that keeps an employee off work for more than 7 consecutive days
+
+Answer: D
+Explanation: Over-seven-day injuries, where a worker cannot perform their normal duties for more than seven consecutive days, must be reported under RIDDOR within the specified timescale.
+
+---
+Q48 | Difficulty: Easy
+---
+Question: Who is normally responsible for making RIDDOR reports to the enforcing authority?
+
+A) The employer or responsible person
+B) Any member of the public
+C) The security operative on duty
+D) The injured person
+
+Answer: A
+Explanation: RIDDOR places the duty to report on the employer or other responsible person, such as the person in control of the premises. Security operatives may need to provide information but do not usually make the formal report themselves.
+
+---
+Q49 | Difficulty: Medium
+---
+Question: An employee suffers a work-related injury and is unable to perform their normal work for 9 consecutive days. Within what time must this over-seven-day injury normally be reported under RIDDOR?
+
+A) Within 15 days
+B) Immediately and no later than 24 hours
+C) Within 10 days
+D) Within 3 days
+
+Answer: A
+Explanation: Over-seven-day injuries must be reported within 15 days of the accident. The injury is reportable if the person is incapacitated for more than 7 consecutive days, not counting the day of the accident.
+
+---
+Q50 | Difficulty: Medium
+---
+Question: A member of the public is struck by falling equipment in a shopping centre and is taken straight to hospital for treatment. Which statement is correct?
+
+A) It only needs reporting if they stay in hospital overnight
+B) It does not need reporting because they are not an employee
+C) This must be reported under RIDDOR as an injury to a non-worker
+D) It is only reportable if they make a complaint
+
+Answer: C
+Explanation: Certain injuries to members of the public that result from work activities and require them to be taken to hospital for treatment are reportable under RIDDOR as injuries to non-workers.
+
+---
+Q51 | Difficulty: Hard
+---
+Question: A serious accident occurs during an event, causing a specified injury to an employee. What should a competent security guard understand about RIDDOR reporting in this situation?
+
+A) It can wait until the next staff meeting
+B) It must be reported immediately and followed up with a written report within the required period
+C) It only needs reporting if the venue closes
+D) It only needs reporting if the employee asks
+
+Answer: B
+Explanation: Deaths and specified injuries must be reported IMMEDIATELY by the quickest means (usually online or by phone), with a written report within 10 days. The initial notification must be immediate. Security guards should ensure incidents are reported promptly through their organisation's procedures.
+
+---
+Q52 | Difficulty: Easy
+---
+Question: Which Act makes it an offence to dishonestly appropriate property belonging to another with the intention of permanently depriving them of it?
+
+A) Criminal Damage Act 1971
+B) Theft Act 1968
+C) Public Order Act 1986
+D) Protection from Harassment Act 1997
+
+Answer: B
+Explanation: The Theft Act 1968 defines theft as the dishonest appropriation of property belonging to another with the intention of permanently depriving them of it. Security staff often deal with suspected theft in premises.
+
+---
+Q53 | Difficulty: Medium
+---
+Question: A person repeatedly shouts threats and abusive language at customers outside a venue, causing alarm and distress. Which legislation is most likely to apply?
+
+A) Public Order Act 1986
+B) Criminal Damage Act 1971
+C) Protection from Harassment Act 1997
+D) Theft Act 1968
+
+Answer: A
+Explanation: The Public Order Act 1986 covers offences such as using threatening, abusive or insulting words or behaviour likely to cause harassment, alarm or distress. Security guards frequently encounter such public order situations.
+
+---
+Q54 | Difficulty: Medium
+---
+Question: A neighbour repeatedly waits outside a security guard's home, follows them to work and sends unwanted messages that cause fear of violence. Which legislation is most relevant?
+
+A) Health and Safety at Work etc. Act 1974
+B) Protection from Harassment Act 1997
+C) Criminal Damage Act 1971
+D) Public Order Act 1986
+
+Answer: B
+Explanation: The Protection from Harassment Act 1997 covers a course of conduct that amounts to harassment and can include stalking behaviour and putting someone in fear of violence.
+
+---
+Q55 | Difficulty: Hard
+---
+Question: While a customer is being removed from the premises, they deliberately smash several glasses and kick a fire door, causing damage to the building. Which statement best describes the likely offence in relation to the damage?
+
+A) It is not an offence because the customer was angry
+B) It is criminal damage because property was damaged intentionally or recklessly without lawful excuse
+C) It is only an offence if the customer refuses to apologise
+D) It is a civil matter only because the venue can claim on insurance
+
+Answer: B
+Explanation: Under the Criminal Damage Act 1971, it is an offence to intentionally or recklessly destroy or damage property belonging to another without lawful excuse. Deliberately breaking glasses and damaging doors would normally fall under this offence.
+
+

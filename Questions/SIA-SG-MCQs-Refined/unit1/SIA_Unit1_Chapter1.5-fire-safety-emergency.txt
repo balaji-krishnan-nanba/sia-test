@@ -1,0 +1,594 @@
+================================================================================
+UNIT 1, CHAPTER 1.5: FIRE SAFETY AND EMERGENCY PROCEDURES
+================================================================================
+Meta: Total=45 | Easy=19 | Medium=16 | Hard=10 | A=11 | B=12 | C=11 | D=11
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Which legislation is the primary fire safety law covering most non-domestic premises in England and Wales?
+
+A) Fire Precautions Act 1971
+B) Regulatory Reform (Fire Safety) Order 2005
+C) Building Regulations 2010
+D) Health and Safety at Work etc. Act 1974
+
+Answer: B
+Explanation: The Regulatory Reform (Fire Safety) Order 2005 is the main fire safety legislation for non-domestic premises and workplaces in England and Wales.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Under the Fire Safety Order, who is normally defined as the "responsible person" for fire safety in a workplace?
+
+A) The security guard on duty
+B) The local fire and rescue service
+C) The employer or person who has control of the premises
+D) Any employee nominated by the staff
+
+Answer: C
+Explanation: The "responsible person" is generally the employer, owner, landlord or any person having control over the premises — not a security guard by default.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which of the following must the responsible person ensure is carried out for the premises?
+
+A) An annual inspection by a fire-service official
+B) A formal fire risk assessment
+C) A monthly fire drill
+D) A full evacuation plan including every guest's personal details
+
+Answer: B
+Explanation: Under the Fire Safety Order, a suitable and sufficient fire risk assessment must be carried out by the responsible person (or a competent appointed person).
+
+---
+Q4 | Difficulty: Easy
+---
+Question: If a premises has five or more employees, what is required concerning the fire risk assessment?
+
+A) It must be reviewed quarterly
+B) It must be recorded in writing
+C) It must be filed with the local fire authority
+D) It must include CCTV coverage
+
+Answer: B
+Explanation: When there are five or more employees, the significant findings of the fire risk assessment must be recorded. This helps ensure risks are properly documented and managed.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which three elements make up the "fire triangle" — meaning all are needed for a fire to start and continue?
+
+A) Heat, fuel, and water
+B) Heat, fuel, and oxygen
+C) Sparks, smoke, and oxygen
+D) Ignition, combustion, and fuel
+
+Answer: B
+Explanation: The fire triangle consists of heat, fuel (combustible material) and oxygen. Removing any one of these will prevent or extinguish a fire.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: What class of fire involves ordinary combustible materials such as wood, paper, furniture, or textiles?
+
+A) Class B
+B) Class C
+C) Class A
+D) Class F
+
+Answer: C
+Explanation: Class A fires involve solid combustible materials — wood, paper, fabrics, etc. — and are among the most common in general premises.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Which class of fire involves flammable liquids, such as petrol, oil, paint or spirits?
+
+A) Class A
+B) Class B
+C) Class C
+D) Class D
+
+Answer: B
+Explanation: Class B fires are fires involving flammable or combustible liquids like petrol, oil, solvents or paints.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: Fires involving cooking oils or fats (e.g., from chip pans or deep fat fryers) fall under which fire class?
+
+A) Class A
+B) Class B
+C) Class D
+D) Class F
+
+Answer: D
+Explanation: Cooking oils and fats produce Class F fires, which require special consideration and suitable extinguishers designed for high-temperature fat fires.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: What colour band (on a red-bodied cylinder) identifies a water fire extinguisher in the UK?
+
+A) Cream
+B) Black
+C) Blue
+D) Red band (5% colored zone)
+
+Answer: D
+Explanation: According to BS EN 3 standards, water fire extinguishers have a red body with a red label/band covering 5% of the extinguisher surface. All modern extinguishers must have a colored zone to identify their type - water extinguishers use red for both the body and the identification band.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: Which colour label identifies a dry powder fire extinguisher?
+
+A) Black
+B) Cream
+C) Blue
+D) Yellow
+
+Answer: C
+Explanation: Dry powder fire extinguishers carry a blue band on a red cylinder, indicating their type.
+
+---
+Q11 | Difficulty: Easy
+---
+Question: What types of fires is a dry powder extinguisher typically suitable for?
+
+A) Only Class A
+B) Class A, B and C (and some electrical fires)
+C) Class F only
+D) Class D only
+
+Answer: B
+Explanation: Dry powder extinguishers are versatile — they can be used on Class A (solids), Class B (liquids), Class C (gases), and in many cases electrical fires (subject to suitability).
+
+---
+Q12 | Difficulty: Easy
+---
+Question: Which colour band indicates a CO₂ (carbon dioxide) fire extinguisher?
+
+A) Cream
+B) Black
+C) Yellow
+D) Blue
+
+Answer: B
+Explanation: CO₂ extinguishers are marked with a black band on a red cylinder in the UK colour-coding system.
+
+---
+Q13 | Difficulty: Easy
+---
+Question: CO₂ extinguishers are particularly suitable for which of the following scenarios?
+
+A) Fires involving cooking oil
+B) Pure wood or paper fires only
+C) Electrical fires or fires involving flammable liquids
+D) Combustible metal fires
+
+Answer: C
+Explanation: CO₂ extinguishers work by displacing oxygen and are effective on electrical fires and flammable liquid fires (Class B).
+
+---
+Q14 | Difficulty: Easy
+---
+Question: Which colour band identifies a wet chemical fire extinguisher in the UK?
+
+A) Blue
+B) Cream
+C) Yellow
+D) Black
+
+Answer: C
+Explanation: Wet chemical extinguishers are identified by a yellow band on the standard red body.
+
+---
+Q15 | Difficulty: Easy
+---
+Question: For what type of fire is a wet chemical extinguisher primarily intended?
+
+A) Class A (wood, paper) fires
+B) Class B (liquid) fires
+C) Class C (gas) fires
+D) Class F (cooking oil / fat) fires
+
+Answer: D
+Explanation: Wet chemical extinguishers are designed for Class F fires involving cooking oils or fats (e.g. chip pans, deep fryers).
+
+---
+Q16 | Difficulty: Easy
+---
+Question: Which of these is the correct and safe action when you discover a fire in a public venue?
+
+A) Attempt to put it out immediately without raising the alarm
+B) Raise the alarm first (shout or use a call point), then call the fire service
+C) Open all windows and wait
+D) Ignore it if it appears small
+
+Answer: B
+Explanation: On discovering a fire, you must first raise the alarm so that evacuation procedures can begin and emergency services can be alerted — then, if safe and trained, attempt to extinguish if appropriate.
+
+---
+Q17 | Difficulty: Easy
+---
+Question: If you hear a fire alarm in a venue, what should you do?
+
+A) Stop what you're doing, collect your belongings, and leave by lift
+B) Wait to see if the alarm stops before acting
+C) Leave immediately by the nearest safe exit and go to the assembly point
+D) Inform management and wait for instructions
+
+Answer: C
+Explanation: On hearing a fire alarm you should evacuate immediately via the nearest exit (not use lifts) and proceed to the designated assembly point — no delays or collecting belongings.
+
+---
+Q18 | Difficulty: Easy
+---
+Question: Why must escape routes in premises always be kept clear and unobstructed?
+
+A) To make cleaning easier
+B) To allow deliveries to be made quickly
+C) To ensure safe, unimpeded evacuation in case of fire or emergency
+D) To store extra fire extinguishers
+
+Answer: C
+Explanation: Escape routes form part of means of escape — they must always remain clear so that people can evacuate safely and without delay in an emergency.
+
+---
+Q19 | Difficulty: Easy
+---
+Question: Which type of fire extinguisher should NEVER be used on cooking oil or fat fires (chip pans)?
+
+A) Wet chemical (yellow)
+B) Dry powder (blue)
+C) CO₂ (black)
+D) Water (red)
+
+Answer: D
+Explanation: Water extinguishers must NEVER be used on cooking oil/fat fires - water causes violent reactions and explosive steam. Wet chemical extinguishers are specifically designed for Class F fires and are the preferred choice.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: During a pre-shift check at a site, you notice a narrow corridor (part of the escape route) blocked by stacked boxes. As a security guard, what should you do?
+
+A) Assume staff will move them eventually
+B) Move the boxes yourself and report to management that the escape route was obstructed
+C) Lock the corridor door so no one uses that exit
+D) Ignore — as long as main exits are clear, it's okay
+
+Answer: B
+Explanation: Escape routes must be kept clear at all times. As a security guard you should proactively remove obstacles (if safe) and report the obstruction so it doesn't recur.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: A venue's layout is being altered, with new partitions and extra seating added. What fire safety action should be taken before re-opening?
+
+A) Nothing — small changes don't matter
+B) Replace all fire extinguishers immediately
+C) Review and, if necessary, re-do the fire risk assessment to reflect the new layout
+D) Reduce staff numbers to compensate
+
+Answer: C
+Explanation: Significant changes to layout, occupancy or use can alter fire risks; the responsible person must review and update the fire risk assessment accordingly.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: What is the main reason fire extinguishers in the UK use a red body with a coloured band rather than being entirely coloured?
+
+A) It's more aesthetic
+B) Smoke visibility — red remains visible in smoke-filled or low-light conditions
+C) To avoid confusion with police/fire vehicles
+D) To comply with company branding rules
+
+Answer: B
+Explanation: The red body improves visibility in smoke-filled or low-light conditions; the coloured band indicates the extinguisher type (per standard UK colour-coding).
+
+---
+Q23 | Difficulty: Medium
+---
+Question: An electrical equipment fire starts in an office reception area. There is a CO₂ extinguisher nearby. What is the safest correct response?
+
+A) Use the CO₂ extinguisher, having first isolated the power if safe to do so
+B) Use a water extinguisher because it cools the fire
+C) Use a foam extinguisher for quick smothering
+D) Wait for the fire service without raising the alarm
+
+Answer: A
+Explanation: CO₂ extinguishers are suitable for electrical fires and flammable liquid fires. First isolate electrical supply (if safe), raise the alarm, and then use the CO₂ extinguisher from a safe distance. Water or foam would be dangerous on live electrics.
+
+---
+Q24 | Difficulty: Medium
+---
+Question: Which types of hazards should be attended to when conducting a fire risk assessment in a venue?
+
+A) Only obvious fire hazards like naked flames
+B) All possible hazards — ignition sources, combustible materials, escape routes, occupancy, vulnerable persons
+C) Only hazards visible to customers
+D) Just the kitchen and storage areas
+
+Answer: B
+Explanation: A proper fire risk assessment must consider all hazards — ignition sources (heat), fuel (combustibles), oxygen/fire spread potential, escape routes, occupancy, and vulnerable persons — to reduce risk.
+
+---
+Q25 | Difficulty: Medium
+---
+Question: During a fire alarm test, the alarm system fails to activate. As a security guard you notice this — what should be your action?
+
+A) Ignore — it's just a test
+B) Report the failure immediately to the responsible person or management for repair
+C) Attempt to fix the system yourself
+D) Tell customers it's a drill and continue service
+
+Answer: B
+Explanation: Alarm systems must be maintained and functional. Any failures must be reported so the system can be tested properly and repaired — ensuring safety of staff and customers.
+
+---
+Q26 | Difficulty: Medium
+---
+Question: A customer with mobility difficulties visits a venue regularly and requires assistance to evacuate. What should the venue have in place to ensure safe evacuation for them?
+
+A) A lift they can use during evacuation
+B) A Personal Emergency Evacuation Plan (PEEP) tailored for them
+C) Staff to carry them at the last minute
+D) A separate back exit always unlocked
+
+Answer: B
+Explanation: A PEEP should be in place for persons with disabilities or mobility issues; this ensures staff know how to assist them safely during an emergency.
+
+---
+Q27 | Difficulty: Medium
+---
+Question: You find a small bag under a seat in an empty area of an office building late at night. No one claims it and it seems out of place. What should you do?
+
+A) Open it to check contents
+B) Ignore it — lost property is common
+C) Treat it as suspicious: do not touch, cordon off area if possible and report to management / authorities
+D) Move it behind the reception desk for lost property collection
+
+Answer: C
+Explanation: Under "suspicious item" protocol, if an object is hidden and out-of-place, you should not handle it. Instead, clear the area, keep people away and report immediately per security/terrorism procedures.
+
+---
+Q28 | Difficulty: Medium
+---
+Question: Over a period you notice the same individual standing near the venue entrance at different times, photographing exits, security cameras and staff movement patterns but never entering. What is the most appropriate interpretation of this behaviour?
+
+A) They are a fan of the venue
+B) Harmless — ignore them
+C) Possible hostile reconnaissance; record details and report concerns through proper channels
+D) Suspicious — confront them and demand ID
+
+Answer: C
+Explanation: Repeated observation of security measures and staff routines without entering can indicate hostile reconnaissance. The correct response is to log details and report to management or authorities — not confrontation.
+
+---
+Q29 | Difficulty: Medium
+---
+Question: If there is a gas leak suspected inside a venue (no fire yet), what is the safest immediate action?
+
+A) Turn lights on and off to find the leak
+B) Light a match to try to see where the gas is strongest
+C) Evacuate, do NOT switch electrical devices or lights, and contact the gas emergency number or 999
+D) Wait for confirmation before acting
+
+Answer: C
+Explanation: A gas leak can lead to explosion or fire. You must evacuate, avoid any ignition (including electrical switches), and call the appropriate emergency service.
+
+---
+Q30 | Difficulty: Medium
+---
+Question: During a major incident (e.g. explosion, structural collapse), what is one of the primary roles of a security guard after immediate dangers are addressed?
+
+A) Move debris to clear the area
+B) Allow people to walk freely again to calm them
+C) Control access, preserve evidence if relevant, assist emergency services and manage crowds safely
+D) Turn off all lights and alarms to avoid panic
+
+Answer: C
+Explanation: In major incidents, security guards should help secure the scene — control access, support emergency services, manage the crowd, preserve evidence if applicable, and ensure safety of all involved.
+
+---
+Q31 | Difficulty: Hard
+---
+Question: A venue's rear fire exit is discovered to be chained and padlocked from inside during pre-opening checks. Management says "We never use that exit, ignore it." What should you, as a security guard, do?
+
+A) Accept their instruction and proceed
+B) Remove the chain if safe, insist exit must be usable, and report the issue to management/responsible person before opening to public
+C) Close the venue immediately regardless of their decision
+D) Ignore and rely on other exits
+
+Answer: B
+Explanation: Fire exits must always be available and usable in case of emergency. A chained/padlocked exit is a serious fire safety breach. You must ensure it's usable and raise the concern — ignoring it is unsafe and likely unlawful.
+
+---
+Q32 | Difficulty: Hard
+---
+Question: Why is it dangerous to wedge open a self-closing fire door during normal operation?
+
+A) It interferes with CCTV coverage
+B) It could block ventilation
+C) Fire and smoke can spread unchecked, invalidating compartmentation and creating hazard to escape routes
+D) It annoys customers
+
+Answer: C
+Explanation: Fire doors are designed to contain fire and smoke within compartments. Wedging them open removes that protection, allowing rapid spread and compromising escape routes.
+
+---
+Q33 | Difficulty: Hard
+---
+Question: During a fire emergency in a venue, emergency lighting fails to operate. What is the potential impact — and what should have been done under fire safety obligations?
+
+A) No major impact — people can use phone torches
+B) Panic and disorientation; as part of fire precautions, emergency lighting should be maintained and tested regularly
+C) Only a problem for staff, not customers
+D) It's acceptable if the alarm sounded
+
+Answer: B
+Explanation: Emergency lighting ensures escape routes remain visible in power failure or smoke conditions. Under fire safety law, lighting must be maintained, tested regularly, and any failures fixed to allow safe evacuation.
+
+---
+Q34 | Difficulty: Hard
+---
+Question: A small bin of waste paper ignites in a storeroom. You raise the alarm but the only extinguisher nearby is dry powder, and you are trained to use it. What should you do after raising the alarm?
+
+A) Attempt to fight the fire using the dry powder extinguisher — if safe
+B) Wait for the fire service even though fire might spread quickly
+C) Carry the bin outside to extinguish it in the open
+D) Ignore, because it's small
+
+Answer: A
+Explanation: Dry powder extinguishers are suitable for Class A fires (paper, cardboard) and — after raising alarm — if safe and trained, using the extinguisher may help stop the fire spreading. But safety and escape routes must be ensured first.
+
+---
+Q35 | Difficulty: Hard
+---
+Question: In a busy venue, there is a sudden power failure, the crowd becomes nervous and starts pushing toward the main exit where only two security guards are positioned. What should be the guards' priority?
+
+A) Open as many exit doors as possible and let people rush out
+B) Calmly manage and control the flow through the exit, keeping the route clear and preventing crush injuries
+C) Check IDs as people leave
+D) Lock the exit until emergency services arrive
+
+Answer: B
+Explanation: In crowded evacuation, unmanaged flow can cause crush injuries. Supervisors must control exit flow, keep exits unobstructed, and ensure safe evacuation even under pressure.
+
+---
+Q36 | Difficulty: Hard
+---
+Question: You receive a telephone bomb threat at the venue. During the call, what is the BEST approach?
+
+A) Hang up immediately and evacuate
+B) Stay calm, try to keep the caller talking; ask relevant questions (location, time, description), and signal a colleague to alert management or police if possible
+C) Argue with the caller to expose them
+D) Ignore and wait for police instructions
+
+Answer: B
+Explanation: On receiving a bomb threat call you should keep calm, collect as much information as possible (e.g. device location, time, type), and alert others to call police — while continuing the call if safe to do so, to gather more info.
+
+---
+Q37 | Difficulty: Hard
+---
+Question: After the bomb threat call ends, what should you do before making any decision about evacuation or search?
+
+A) Post about it on social media
+B) Immediately evacuate everyone without consulting management
+C) Report everything to management/police, make detailed written notes of the call while fresh, then await instructions — do not handle any suspicious items
+D) Conduct a search yourself
+
+Answer: C
+Explanation: After a threat call, you must report it, document all details (caller voice, background sounds, time, content) and await guidance. Never handle or move suspicious items unless authorised and trained.
+
+---
+Q38 | Difficulty: Hard
+---
+Question: A group of customers are trapped in a smoke-filled room because a fire has blocked the main exit. The alternate escape route is partly obstructed. What should be your immediate action?
+
+A) Direct them back to the blocked exit
+B) Tow them out as fast as possible
+C) Use dynamic risk assessment — if safe, clear the obstruction on the escape route or guide them to any safe exit; otherwise wait for fire service instruction
+D) Keep them where they are and send someone to call fire service
+
+Answer: C
+Explanation: In emergencies, you must assess risks and act accordingly — clear escape routes if safe, guide evacuees via safest available route, and avoid unnecessary risk. If unsafe, await fire service instructions.
+
+---
+Q39 | Difficulty: Hard
+---
+Question: Why is regular review of a fire risk assessment necessary after the initial assessment?
+
+A) It helps to reduce insurance premiums
+B) Building layout, occupancy, use, furniture, fire hazards and staff may change — reviews ensure fire safety measures stay appropriate
+C) It updates the names of staff responsible
+D) Only required when you apply for a licence
+
+Answer: B
+Explanation: Fire risk assessments must be reviewed regularly — especially after changes in layout, use or occupancy — because fire risks may change over time and controls must remain appropriate.
+
+---
+Q40 | Difficulty: Hard
+---
+Question: A venue stores cleaning solvents, paint thinners and combustible liquids near an electrical panel. According to fire safety principles, what is the best action?
+
+A) Leave them — they are stored inside cupboards
+B) Move them into a designated flammable-storage cabinet away from ignition sources
+C) Keep them close to fire extinguishers for easy access
+D) Mix them in larger containers to reduce number of bottles
+
+Answer: B
+Explanation: Flammable liquids should be stored in proper, labelled flammable storage cabinets, away from ignition sources (including electrical panels), as part of control measures identified in the fire risk assessment.
+
+---
+Q41 | Difficulty: Hard
+---
+Question: Which type of extinguisher must NEVER be used on a chip-pan (deep-fat fryer) fire?
+
+A) Wet chemical (yellow)
+B) Dry powder (blue)
+C) Water (red)
+D) CO₂ (black)
+
+Answer: C
+Explanation: Water must never be used on chip-pan fires due to risk of explosion. While wet chemical is the preferred extinguisher for Class F fires, dry powder can be used in emergencies.
+
+---
+Q42 | Difficulty: Hard
+---
+Question: As a security guard, you are told to wedge open a fire door to make it easier for staff carrying trays during busy periods. What is the correct response?
+
+A) Do it — efficiency is important
+B) Do it only during busy times, then close afterwards
+C) Refuse — wedging open fire doors compromises means of escape and firespread protection, which is a serious safety breach
+D) Ignore the instruction and hope no one notices
+
+Answer: C
+Explanation: Fire doors are critical for compartmentation and safe escape routes. Wedging them open removes those protections and constitutes a serious breach of fire safety — the instruction should be refused and reported.
+
+---
+Q43 | Difficulty: Hard
+---
+Question: In a premises with more than one "responsible person" (e.g. owner and a managing agent), what is required under the Fire Safety Order?
+
+A) Only the owner remains responsible
+B) They must cooperate to meet all fire safety duties together
+C) Responsibility shifts to the occupier only
+D) They can each ignore fire safety if they assume the other will handle it
+
+Answer: B
+Explanation: If more than one responsible person exists, they share duties under the Fire Safety Order and must cooperate to ensure fire safety measures and risk assessments are implemented and maintained.
+
+---
+Q44 | Difficulty: Hard
+---
+Question: Which of the following summarizes the core requirements for fire safety under the Fire Safety Order?
+
+A) Fire drills every month, CCTV coverage, and fire-blankets in kitchens
+B) Carry out a fire risk assessment, implement general fire precautions, maintain escape routes, fire detection and warning systems, provide staff instruction/training, prepare an emergency plan
+C) Only install smoke detectors and call the fire brigade when needed
+D) Only store flammables safely and leave rest to chance
+
+Answer: B
+Explanation: The Fire Safety Order requires a suitable and sufficient fire risk assessment; appropriate fire precautions (escape routes, detection, alarms, extinguishers, emergency planning); maintenance of systems; and training/instruction to staff.
+
+---
+Q45 | Difficulty: Hard
+---
+Question: During an emergency evacuation, a staff member notices a person with mobility impairment at the top of a staircase who cannot descend quickly. According to best practise, what should happen?
+
+A) Leave them and evacuate the rest — emergencies are not a time for delays
+B) Attempt to carry them down the stairs in a hurry
+C) Follow the pre-agreed Personal Emergency Evacuation Plan (PEEP) — assist them as planned or direct them to a refuge area if available and wait for assistance
+D) Lock them in a room for their own safety
+
+Answer: C
+Explanation: For people with mobility or other impairments a PEEP should exist. Staff should follow the plan — which may include assisting them to safety or moving them to a refuge area and waiting for trained assistance — rather than rushing or abandoning them.
+
+================================================================================
+END OF CHAPTER 1.5
+================================================================================

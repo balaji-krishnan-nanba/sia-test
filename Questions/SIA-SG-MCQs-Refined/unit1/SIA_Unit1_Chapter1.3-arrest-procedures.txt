@@ -1,0 +1,527 @@
+================================================================================
+UNIT 1, CHAPTER 1.3: ARREST PROCEDURES
+================================================================================
+Meta: Total=40 | Easy=16 | Medium=16 | Hard=8 | A=10 | B=10 | C=10 | D=10
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Under Section 24A of PACE 1984, a citizen's arrest can lawfully be made only in relation to which category of offences?
+
+A) Indictable offences
+B) Road traffic offences
+C) Any offence that seems serious
+D) Summary-only offences
+
+Answer: A
+Explanation: Section 24A of the Police and Criminal Evidence Act 1984 restricts a citizen's arrest to indictable offences, which includes either-way offences but excludes summary-only offences such as common assault or drunk and disorderly.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: Which statement best describes the arrest powers of a security guard in the UK?
+
+A) They have no power of arrest in any circumstances
+B) They have the same arrest powers as a police constable
+C) They have more arrest powers than an ordinary member of the public
+D) They have the same arrest powers as any ordinary citizen
+
+Answer: D
+Explanation: A security guard is a private citizen and therefore only has the same arrest powers as any ordinary member of the public under Section 24A PACE 1984. They have no special or extra powers of arrest.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Which of the following is a key difference between police arrest powers and citizen's arrest powers?
+
+A) Police can only arrest for indictable offences
+B) Citizens have wider arrest powers than police
+C) Police can arrest on reasonable suspicion
+D) Citizens can arrest on reasonable suspicion
+
+Answer: C
+Explanation: Under Section 24 PACE, police officers can arrest on reasonable suspicion that someone has committed an offence. Citizens under Section 24A must be sure the offence has actually occurred and that the person is actually guilty.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Under Section 24A PACE, a citizen's arrest must be handed over to the police:
+
+A) Within 24 hours
+B) When the suspect calms down
+C) Before the end of the shift
+D) As soon as practicable
+
+Answer: D
+Explanation: The law requires that a person arrested by a private citizen is handed over to a constable "as soon as practicable", meaning without unnecessary delay.
+
+---
+Q5 | Difficulty: Easy
+---
+Question: Which of the following is an indictable offence for which a citizen's arrest may be lawful?
+
+A) Common assault
+B) Drunk and disorderly
+C) Theft
+D) Littering
+
+Answer: C
+Explanation: Theft is an either-way offence, which counts as indictable for arrest purposes. Drunk and disorderly, common assault and littering are summary offences and do not give a citizen power of arrest.
+
+---
+Q6 | Difficulty: Easy
+---
+Question: Which of the following is a summary-only offence with NO power of citizen's arrest?
+
+A) Actual bodily harm (ABH)
+B) Common assault
+C) Burglary
+D) Robbery
+
+Answer: B
+Explanation: Common assault (with no injury) is a summary-only offence. Citizen's arrest powers under Section 24A do not apply to summary-only offences.
+
+---
+Q7 | Difficulty: Easy
+---
+Question: Which legislation allows a person to use reasonable force in preventing crime or assisting in a lawful arrest?
+
+A) Serious Organised Crime and Police Act 2005, Section 110
+B) Police and Criminal Evidence Act 1984, Section 24A
+C) Human Rights Act 1998, Article 5
+D) Criminal Law Act 1967, Section 3
+
+Answer: D
+Explanation: Section 3 of the Criminal Law Act 1967 states that a person may use such force as is reasonable in the circumstances in the prevention of crime or in effecting or assisting in the lawful arrest of offenders or suspected offenders.
+
+---
+Q8 | Difficulty: Easy
+---
+Question: When using force during an arrest, which combination best describes the requirements for lawful force?
+
+A) Strong, immediate and intimidating
+B) Decisive, forceful and aggressive
+C) Quick, firm and painful
+D) Necessary, reasonable and proportionate
+
+Answer: D
+Explanation: Lawful force must be necessary, reasonable and proportionate to the threat. Only the minimum force required to achieve a legitimate aim should be used.
+
+---
+Q9 | Difficulty: Easy
+---
+Question: Which of the following is a required step when performing a lawful citizen's arrest?
+
+A) Telling the person they are under arrest
+B) Reading the person the full police caution
+C) Searching the person for evidence
+D) Issuing a written notice of arrest
+
+Answer: A
+Explanation: When performing a lawful citizen's arrest, you must clearly tell the person that they are under arrest. Citizens are not required to give a formal police caution or issue written notices.
+
+---
+Q10 | Difficulty: Easy
+---
+Question: What should a security guard state to the person when making a citizen's arrest, in addition to saying "You are under arrest"?
+
+A) Their own job title and company name
+B) The offence for which they are being arrested
+C) The time of the arrest
+D) The maximum possible sentence
+
+Answer: B
+Explanation: A key part of a lawful arrest is informing the person what offence they are being arrested for, such as "for theft" or "for assault".
+
+---
+Q11 | Difficulty: Easy
+---
+Question: Which of the following best describes an "either way" offence?
+
+A) An offence that can only be tried in the Crown Court
+B) An offence that can be tried either in the Magistrates' Court or the Crown Court
+C) An offence that is only dealt with by fixed penalty
+D) An offence that is always minor
+
+Answer: B
+Explanation: Either-way offences can be tried in the Magistrates' Court or the Crown Court. For arrest purposes they count as indictable offences.
+
+---
+Q12 | Difficulty: Easy
+---
+Question: Which of these is an example of an indictable offence?
+
+A) Being drunk in a public place
+B) Parking on double yellow lines
+C) Minor criminal damage under £5,000
+D) Supply of controlled drugs
+
+Answer: D
+Explanation: Supply of controlled drugs is a serious indictable offence. Being drunk in public, minor criminal damage under £5,000 and parking offences are summary-only and not arrestable by a citizen.
+
+---
+Q13 | Difficulty: Easy
+---
+Question: Which of the following should a security guard NOT do after making a citizen's arrest?
+
+A) Conduct a full search for evidence
+B) Keep a note of what happened
+C) Monitor the person's breathing and welfare
+D) Call the police immediately
+
+Answer: A
+Explanation: A security guard may conduct a brief safety pat-down for weapons if necessary, but not a full search for evidence. Evidence gathering is for the police.
+
+---
+Q14 | Difficulty: Easy
+---
+Question: What is the main risk associated with keeping a restrained person face down for a prolonged period?
+
+A) Positional asphyxia
+B) Dehydration
+C) Food poisoning
+D) Heat exhaustion
+
+Answer: A
+Explanation: Positional asphyxia is a serious risk when someone is held face down, especially with weight on their back or chest, as it can restrict breathing and lead to collapse or death.
+
+---
+Q15 | Difficulty: Easy
+---
+Question: Which of the following is a possible consequence for a security guard who makes an unlawful arrest?
+
+A) Free legal support from the police
+B) Automatic promotion at work
+C) Criminal charges and loss of SIA licence
+D) A warning letter from the SIA only
+
+Answer: C
+Explanation: Unlawful arrest can lead to criminal charges such as false imprisonment or assault, civil claims for damages, and loss of employment or SIA licence.
+
+---
+Q16 | Difficulty: Easy
+---
+Question: Before deciding to make a citizen's arrest, what should a security guard consider first?
+
+A) Whether it is an indictable offence and the arrest is necessary
+B) Whether the police station is nearby
+C) Whether the person is known to staff
+D) Whether the person will be angry
+
+Answer: A
+Explanation: A key part of the decision is confirming that an indictable offence has definitely occurred and that the arrest is necessary, rather than using other, safer options.
+
+---
+Q17 | Difficulty: Medium
+---
+Question: A customer punches another customer, causing a bloody nose and visible bruising. Which category does this offence most likely fall into?
+
+A) Actual bodily harm (ABH) – indictable
+B) Common assault (summary)
+C) Public order offence only
+D) Grievous bodily harm (GBH) with intent – indictable
+
+Answer: A
+Explanation: Where there is more than trivial injury (such as bruising and a bloody nose), the offence is likely to be ABH, an either-way offence treated as indictable for arrest purposes.
+
+---
+Q18 | Difficulty: Medium
+---
+Question: A security guard witnesses a man smashing several expensive bottles in a supermarket alcohol aisle, causing over £5,000 worth of damage. Which statement is most accurate regarding citizen's arrest?
+
+A) Arrest power only exists if the man is drunk
+B) No arrest power because it is criminal damage
+C) Arrest power exists because it is summary-only
+D) Arrest power exists because it is indictable criminal damage
+
+Answer: D
+Explanation: Criminal damage over £5,000 is an either-way offence and therefore indictable. Provided the other conditions are met, a citizen's arrest power exists.
+
+---
+Q19 | Difficulty: Medium
+---
+Question: A woman is drunk and shouting abuse at staff at the entrance to a shopping centre. She has not assaulted anyone or caused damage. What is usually the most appropriate response for the security guard?
+
+A) Perform a citizen's arrest for being drunk and disorderly
+B) Lock her in a back room until she sobers up
+C) Strike her to calm her down
+D) Ask her to leave and, if necessary, escort her off the premises
+
+Answer: D
+Explanation: Drunk and disorderly is a summary offence with no citizen's arrest power. The appropriate option is usually to ask the person to leave and, if necessary, escort them off the premises using reasonable force, rather than arresting.
+
+---
+Q20 | Difficulty: Medium
+---
+Question: A shop security officer sees a man conceal a bottle of alcohol inside his coat and leave without paying. The officer stops him just outside, and the man still has the bottle. Which factor supports a lawful citizen's arrest for theft?
+
+A) The offence is indictable and has definitely occurred
+B) The man is arguing about the price
+C) The police station is far away
+D) The offence is summary-only
+
+Answer: A
+Explanation: Theft is an either-way indictable offence. The officer has directly seen the theft occur and the property is still on the suspect, satisfying the requirement that the offence has actually occurred and the person is actually guilty.
+
+---
+Q21 | Difficulty: Medium
+---
+Question: A security guard sees a fight start and believes one person is about to punch another in the face. The guard intervenes and uses a controlled push to separate them before any punch lands. Which principle justifies this action?
+
+A) Force can only be used after the assault happens
+B) Force is never allowed in any workplace
+C) Force must always cause pain
+D) Pre-emptive force can be reasonable if the threat is imminent
+
+Answer: D
+Explanation: Reasonable and proportionate pre-emptive force is permitted when the threat of violence is imminent. You do not have to wait to be hit before acting to prevent injury.
+
+---
+Q22 | Difficulty: Medium
+---
+Question: Which of the following BEST shows that the "necessity" condition for a citizen's arrest is met?
+
+A) The suspect is likely to cause injury or escape before police arrive
+B) The suspect has apologised for what they did
+C) The offence is minor, but the suspect is rude
+D) The suspect is clearly guilty but calm and staying put
+
+Answer: A
+Explanation: A citizen's arrest must be necessary, for example to prevent injury, prevent damage, stop the suspect escaping or because it is impracticable for a constable to make the arrest.
+
+---
+Q23 | Difficulty: Medium
+---
+Question: A security guard arrests a man for serious assault and restrains him on the ground. The man stops struggling and lies still. What should the guard do regarding the level of force being used?
+
+A) Maintain the same level of pressure to punish him
+B) Keep him face down with maximum pressure until police arrive
+C) Increase pressure to prevent escape
+D) Reduce or remove force, using only what is still necessary for safety
+
+Answer: D
+Explanation: Force must always be proportionate and stop when the threat ends. Once the person is under control, force should be reduced to the minimum necessary, and the risk of positional asphyxia must be considered.
+
+---
+Q24 | Difficulty: Medium
+---
+Question: A security guard believes an indictable offence has occurred but is not sure the person they are dealing with is the actual offender. What should they do?
+
+A) Lock the doors and stop everyone leaving
+B) Threaten arrest to get a confession
+C) Arrest the person anyway, just in case
+D) Only arrest if they are sure this person is actually guilty
+
+Answer: D
+Explanation: Under Section 24A, a citizen can only arrest where an indictable offence has actually occurred and the person arrested is actually guilty. Arresting the wrong person would be unlawful.
+
+---
+Q25 | Difficulty: Medium
+---
+Question: A security guard has arrested a suspect for burglary inside a venue. The police say they will be delayed. What is the most appropriate action?
+
+A) Detain the suspect indefinitely until police arrive
+B) Release the suspect immediately without recording anything
+C) Consider whether continued detention is still necessary and safe
+D) Move the suspect to a secret location
+
+Answer: C
+Explanation: The arrested person must be handed over "as soon as practicable". If there is a significant delay, the supervisor must continually assess whether continued detention is necessary, safe and justified.
+
+---
+Q26 | Difficulty: Medium
+---
+Question: A customer is restrained on the ground and suddenly goes quiet, their lips appear blue and their breathing seems shallow. What should the security team do first?
+
+A) Take photos for evidence before doing anything else
+B) Assume they are pretending and apply more pressure
+C) Ignore it because the police are on the way
+D) Immediately reposition them, check their airway and call emergency medical help
+
+Answer: D
+Explanation: These are warning signs of a potential medical emergency, such as positional asphyxia. Preservation of life must come first: reposition, check breathing and call an ambulance immediately.
+
+---
+Q27 | Difficulty: Medium
+---
+Question: Which of the following is the BEST example of a suitable alternative to making a citizen's arrest for a minor incident?
+
+A) Arrest the person for common assault
+B) Detain the person for several hours to teach them a lesson
+C) Escort the person off the premises and record the incident
+D) Apply handcuffs and wait until the next day for police
+
+Answer: C
+Explanation: For minor issues, escorting someone off the premises, recording the incident and possibly barring the person are often safer and more appropriate than making a citizen's arrest, especially where there is no power to arrest.
+
+---
+Q28 | Difficulty: Medium
+---
+Question: Which statement best describes the duty of care owed to a person who has been arrested by a security guard?
+
+A) Limited duty of care only to avoid injuries
+B) No duty of care because they are a suspect
+C) A duty of care to monitor their welfare and obtain medical help if needed
+D) Duty of care ends once they are handcuffed
+
+Answer: C
+Explanation: Once someone is in your custody, you have a duty of care to monitor their physical and mental welfare, keep them as safe as reasonably possible and obtain medical assistance when required.
+
+---
+Q29 | Difficulty: Medium
+---
+Question: After handing an arrested person to the police, what is the MOST important documentation task for the security guard?
+
+A) Writing a full, accurate account of the incident as soon as possible
+B) Posting about the incident on social media
+C) Destroying any notes to protect themselves
+D) Only recording the person's name
+
+Answer: A
+Explanation: A full written account completed as soon as practicable helps ensure accuracy and may be required later in court. It should cover what happened, why force was used and any witnesses or evidence.
+
+---
+Q30 | Difficulty: Medium
+---
+Question: A security guard uses force to remove a customer who is refusing to leave but has committed no indictable offence. Which legal basis justifies the use of reasonable force in this situation?
+
+A) The security guard's company policy alone
+B) Section 3 Criminal Law Act 1967 (prevention of crime / trespass)
+C) Section 24A PACE 1984
+D) The customer's consent
+
+Answer: B
+Explanation: Section 3 of the Criminal Law Act 1967 allows reasonable force in the prevention of crime, which includes dealing with trespass and protecting property, even when no citizen's arrest is made.
+
+---
+Q31 | Difficulty: Hard
+---
+Question: You are a security guard at a busy shopping centre. You see a man punch another customer several times, knocking him unconscious and leaving him with a deep cut and suspected broken nose. The attacker starts to walk quickly towards the exit. Which is the BEST option?
+
+A) Do nothing and let him leave because police can find him later
+B) Make a citizen's arrest using necessary, reasonable force and call police immediately
+C) Lock all customers inside until police arrive
+D) Block the door and threaten to beat him if he tries to leave
+
+Answer: B
+Explanation: The level of injury suggests at least ABH or possibly GBH, which are indictable offences. The offender is trying to leave, so arrest may be necessary to prevent escape and further harm. Any force used must be necessary, reasonable and proportionate.
+
+---
+Q32 | Difficulty: Hard
+---
+Question: You suspect a man of stealing a phone from a table, but you did not actually see the theft and no one is certain who took it. The man is about to leave the premises. What is the MOST appropriate response?
+
+A) Carry out a citizen's arrest based on suspicion
+B) Lock him in an office until he confesses
+C) Ask him politely to stay and speak to police, but do not arrest
+D) Grab him and search his pockets for the phone
+
+Answer: C
+Explanation: Under Section 24A, citizens cannot arrest on reasonable suspicion alone; the offence must actually have occurred and the person must be actually guilty. Without certainty, arrest would be unlawful. You can request he remains and gather evidence for police.
+
+---
+Q33 | Difficulty: Hard
+---
+Question: During a fight, one man clearly attacked another, causing serious facial injuries. The attacker is now calm but trying to leave, while the victim agrees to wait for police. Which ONE of the following is the BEST approach?
+
+A) Allow both to leave because the venue is busy
+B) Arrest and restrain both men on the floor
+C) Consider a citizen's arrest on the man trying to escape who clearly caused serious injury
+D) Arrest the calm man and let the violent one go
+
+Answer: C
+Explanation: Where there is clear evidence that one man has committed an indictable assault and is likely to escape, a citizen's arrest may be necessary and lawful. The calm man who agrees to stay may not need arrest if he remains on scene for police.
+
+---
+Q34 | Difficulty: Hard
+---
+Question: You and another security guard have restrained a violent suspect on the ground after a serious assault. He is handcuffed, face down, and struggling. A crowd is gathering, and police are five minutes away. What is the MOST important priority now?
+
+A) Take photos and videos for social media
+B) Maintain control while monitoring his breathing and reducing any risk of positional asphyxia
+C) Ignore his complaints and focus on crowd control only
+D) Apply more pressure to stop him talking
+
+Answer: B
+Explanation: Once the suspect is under control, the priority is safety and welfare. You must continually check breathing, avoid prolonged face-down restraint and manage the crowd while minimising the risk of positional asphyxia.
+
+---
+Q35 | Difficulty: Hard
+---
+Question: A security guard arrests a man for shoplifting after seeing him leave without paying. Later, CCTV shows the man had actually paid at a self-service till and the guard was mistaken. What is the most likely legal position?
+
+A) The arrest is lawful because the police agreed with it
+B) The arrest was still lawful because the guard honestly believed a crime occurred
+C) The arrest is unlawful because the offence had not actually occurred
+D) The arrest is lawful because the man looked suspicious
+
+Answer: C
+Explanation: Under Section 24A PACE, the offence must have actually occurred. While honest belief may provide defenses against criminal charges for wrongful arrest, the arrest itself remains technically unlawful if no offence occurred. This is why thorough assessment is crucial before arrest.
+
+---
+Q36 | Difficulty: Hard
+---
+Question: A security guard arrests a suspect for serious assault and then keeps him handcuffed in a locked storeroom for over an hour, even though police could have attended sooner if called immediately. Which is the MOST accurate statement?
+
+A) This could amount to false imprisonment and unlawful detention
+B) This is required to teach the suspect a lesson
+C) This is acceptable as long as the suspect is guilty
+D) This is lawful if the suspect does not complain
+
+Answer: A
+Explanation: Detaining someone longer than necessary and failing to hand them to police as soon as practicable may amount to false imprisonment and unlawful arrest, leading to criminal and civil consequences.
+
+---
+Q37 | Difficulty: Hard
+---
+Question: A security guard witnesses a man commit criminal damage over £5,000 in the car park by smashing several car windows. The man starts walking quickly towards a nearby train station. Police estimate they will be 20 minutes. Which option BEST satisfies the necessity test for a citizen's arrest?
+
+A) Arrest him if necessary to prevent further damage and stop him escaping before police arrive
+B) Let him go because it is only property damage
+C) Follow him but do nothing else
+D) Wait and hope the police arrive before he leaves
+
+Answer: A
+Explanation: Criminal damage over £5,000 is an indictable offence. Given the seriousness, risk of further damage and likelihood he will escape before police arrive, arrest may be necessary and lawful if carried out with reasonable force.
+
+---
+Q38 | Difficulty: Hard
+---
+Question: A security officer has arrested a suspect for robbery. While waiting for the police, the suspect becomes very agitated, complains of chest pain and then collapses. What should the officer do?
+
+A) Ignore it because the suspect might be pretending
+B) Tighten the restraints to stop them moving
+C) Immediately call an ambulance and start first aid if trained
+D) Continue questioning the suspect about the robbery
+
+Answer: C
+Explanation: Preservation of life takes priority over the arrest. When someone becomes unwell, you must obtain medical help immediately and provide first aid if you are trained, while still keeping yourself safe.
+
+---
+Q39 | Difficulty: Hard
+---
+Question: A security guard is considering arresting someone for a serious offence but realises the police are only two minutes away and can see the main entrance from their parked car. The suspect is calm and not trying to leave. Which is the BEST course of action?
+
+A) Lock the suspect in a room until police arrive
+B) Make a citizen's arrest anyway to show authority
+C) Wait for the police to attend and let them deal with it
+D) Use force to restrain the suspect on the floor
+
+Answer: C
+Explanation: One of the necessity conditions is that it is impracticable for a constable to make the arrest. If police are close by and able to intervene, a citizen's arrest is usually not necessary and could be harder to justify.
+
+---
+Q40 | Difficulty: Hard
+---
+Question: A venue manager pressures a security guard to arrest a customer for being rude to staff, despite no crime having been committed. The guard refuses. Which statement best describes this decision?
+
+A) Correct, because the customer apologised
+B) Wrong, because staff must obey management instructions
+C) Wrong, because rudeness is an indictable offence
+D) Correct, because arrest without a crime would be unlawful
+
+Answer: D
+Explanation: A citizen's arrest requires that an indictable offence has actually been committed and the person arrested is actually guilty. Being rude alone is not a criminal offence and arresting for it would be unlawful, regardless of management pressure.
+
+

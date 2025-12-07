@@ -1,0 +1,139 @@
+================================================================================
+UNIT 2, CHAPTER 2.10: QUEUE MANAGEMENT
+================================================================================
+Meta: Total=10 | Easy=4 | Medium=4 | Hard=2 | A=2 | B=3 | C=2 | D=3
+================================================================================
+
+---
+Q1 | Difficulty: Easy
+---
+Question: Which of the following is the main safety reason for having an organised queue outside a busy venue?
+
+A) To prevent crushing and surges at the entrance
+B) To make the venue look more popular on social media
+C) To give bar staff more time to set up inside
+D) To allow smokers to stand nearer the door
+
+Answer: A
+Explanation: A properly controlled queue helps prevent surges and crushing at the entrance. It also helps control crowd density and keeps emergency routes clear. Safety is always the first priority in queue management.
+
+---
+Q2 | Difficulty: Easy
+---
+Question: What mainly determines the legal maximum capacity for a venue?
+
+A) The door supervisor's judgement on the night
+B) How many people the promoter has sold tickets to
+C) The bar manager's preferred number of customers
+D) The fire risk assessment and licence conditions
+
+Answer: D
+Explanation: Capacity limits are set by the fire risk assessment and licensing conditions. The venue's own policy may set a lower limit, but the legal maximum cannot be exceeded. Going over capacity is both dangerous and a potential criminal offence.
+
+---
+Q3 | Difficulty: Easy
+---
+Question: Where should a queue for a town-centre nightclub be positioned?
+
+A) Along the edge of the road, even if customers stand in the carriageway
+B) Across neighbouring shop doorways if the shops are closed
+C) Anywhere customers choose, as it is a public space
+D) So that it does not block pavements, roads or emergency exits
+
+Answer: D
+Explanation: Queue positioning must avoid blocking pavements, roads, emergency exits and neighbouring premises. The queue should be located where it is safe, visible to staff, and does not cause obstruction or risk to others.
+
+---
+Q4 | Difficulty: Easy
+---
+Question: Two people push past others near the front of the queue to join their friends. What is the most appropriate first response?
+
+A) Ignore it because it keeps the queue moving
+B) Shout at them so everyone can hear the warning
+C) Immediately ban them for the night without speaking to them
+D) Approach calmly and direct them to join the back of the queue
+
+Answer: D
+Explanation: Queue jumping undermines fairness and can quickly lead to resentment and conflict. Door supervisors should deal with it promptly, politely but firmly, and direct the jumpers to the correct position at the back of the queue.
+
+---
+Q5 | Difficulty: Medium
+---
+Question: It is 23:30 and the venue is at capacity. There is a long queue and some customers have already waited 30 minutes. They ask how long it will be before they get in. What is the BEST way to manage their expectations?
+
+A) Tell them they will definitely be inside within 10 minutes to keep them calm
+B) Say it is not your problem and walk away
+C) Explain honestly that the venue is full, that you are operating one-in-one-out, and you will keep them updated
+D) Refuse to give any information in case they complain later
+
+Answer: C
+Explanation: Door supervisors should be honest about waiting times and explain why there is a delay (such as capacity limits and one-in-one-out). Keeping customers informed, thanking them for their patience and providing updates helps reduce frustration and maintain a professional atmosphere.
+
+---
+Q6 | Difficulty: Medium
+---
+Question: The venue is at its licensed capacity and you are operating one-in-one-out. Your manager radios to say a well-known local footballer and six friends are outside and tells you to "just get them in now" without waiting. What should you do?
+
+A) Let them all in immediately because the manager has instructed it
+B) Let only the VIP in and refuse entry to their friends
+C) Explain you must obey capacity limits and only allow them in using one-in-one-out
+D) Ask the queue to squeeze closer together so you can fit them in
+
+Answer: C
+Explanation: Capacity limits are legal requirements under fire safety and licensing law. They cannot be exceeded for anyone. If a manager instructs you to breach capacity: (1) politely refuse and explain the legal position, (2) suggest one-in-one-out, (3) if pressured, escalate to senior management or DPS. Following an illegal instruction does NOT exempt you from personal liability.
+
+---
+Q7 | Difficulty: Medium
+---
+Question: A group approaches the queue. One member is clearly intoxicated, shouting at people and stumbling. What is the MOST appropriate way to deal with this person?
+
+A) Tell them loudly that they are drunk and start an argument
+B) Politely but firmly refuse them entry, briefly explain it is due to their condition and behaviour, and ask them to leave the area
+C) Grab them and physically drag them away from the queue
+D) Allow them in to avoid confrontation, but warn them to behave
+
+Answer: B
+Explanation: Door supervisors should refuse entry to people who are intoxicated or aggressive. Refusals must be polite, clear, firm and final, with a brief explanation if appropriate. The individual should be asked to leave the area and monitored to ensure they do not return to the queue or target others.
+
+---
+Q8 | Difficulty: Medium
+---
+Question: At closing time there is a group of around 40 people outside waiting for taxis. They are noisy, and neighbours have previously complained about disturbance. What is the BEST course of action?
+
+A) Lock the doors and go back inside once the last customer has left
+B) Encourage customers to move on promptly, use any designated taxi area, and ask them to keep noise down while you remain visible until the area clears
+C) Turn off the outside lights so people will leave more quickly
+D) Allow them to stay as long as they like because it is a public road
+
+Answer: B
+Explanation: Dispersal is part of queue and crowd management. Door supervisors should encourage people to move on, use agreed taxi points, and keep noise to a minimum to respect neighbours. The team should remain present outside until the crowd has dispersed and any risk of disorder has passed.
+
+---
+Q9 | Difficulty: Hard
+---
+Question: On a wet Saturday night the queue has grown and wraps around the corner of the building. Some customers have moved under a covered doorway, which turns out to be a fire exit for a neighbouring cafe and the entrance to residential flats. The pavement is narrow and people are being pushed closer to the road. What should be your FIRST priority?
+
+A) Move people away from the fire exit and flat doorway and reposition the queue so exits and pavements remain clear, even if people have to stand in the rain
+B) Ask the cafe and residents to keep their doors locked until the queue has gone
+C) Leave the queue where it is so customers do not get wet
+D) Go inside to ask the manager for written permission before moving the queue
+
+Answer: A
+Explanation: Safety and legal compliance come before comfort. Queues must never block emergency exits, residential entrances or create risks near traffic. The immediate action is to move people away from the blocked exits and reposition or reshape the queue so that all access routes and pavements are kept clear, even in bad weather.
+
+---
+Q10 | Difficulty: Hard
+---
+Question: You are supervising a queue on the public pavement outside your venue. Two men who were refused entry earlier start shouting and pushing each other about 10 metres away from the door. They move further down the street still fighting. What is the MOST appropriate response?
+
+A) Run after them and physically separate them, even if it leaves the door and queue unattended
+B) Stay near the door to protect the queue and venue, observe the incident from a safe distance and contact the police or your control room
+C) Ignore the situation completely because it is off the premises
+D) Tell people in the queue to go and help break up the fight
+
+Answer: B
+Explanation: The queue is usually in a public space, and door supervisors have limited powers outside the venue. Their priority is to protect the venue, queue and immediate area. They should not chase people down the street or leave the entrance unguarded. Instead, they should observe from a safe position, call the police for a public order issue, and be prepared to act as good witnesses.
+
+================================================================================
+END OF CHAPTER 2.10
+================================================================================

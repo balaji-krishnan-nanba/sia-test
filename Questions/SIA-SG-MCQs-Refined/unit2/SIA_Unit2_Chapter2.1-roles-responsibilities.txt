@@ -1,0 +1,397 @@
+================================================================================
+UNIT 2, CHAPTER 2.1: ROLES AND RESPONSIBILITIES OF SECURITY OFFICERS
+
+Question 1 [Easy]
+Which of the following is a PRIMARY role of a security officer on most sites?
+
+A) Conducting criminal investigations and interviewing suspects
+B) Protecting people and property from harm and loss
+C) Issuing fixed penalty notices to anyone breaking site rules
+D) Deciding whether to prosecute offenders
+
+Correct Answer: B
+
+Explanation: A core function of a security officer is to protect people and property, mainly through prevention, deterrence and observation. They do not run criminal investigations, issue penalties or decide on prosecutions – those are police and court functions.
+
+Question 2 [Easy]
+Which workplace is MOST typical for a security officer rather than a door supervisor?
+
+A) A nightclub where alcohol is the main business
+B) A busy pub on Saturday night
+C) An office block with no alcohol sales
+D) A late-night bar and live music venue
+
+Correct Answer: C
+
+Explanation: Security officers usually work in non-licensed premises such as offices and warehouses. Door supervisors normally cover licensed venues where alcohol is the primary business, such as pubs and nightclubs.
+
+Question 3 [Easy]
+Which example BEST shows professional personal presentation for a security officer on duty?
+
+A) Clean, ironed uniform, visible SIA licence and tidy appearance
+B) Wearing a hoodie over the uniform but showing the licence if asked
+C) Wearing trainers instead of safety boots to be more comfortable
+D) Keeping the SIA licence in a bag so it does not get damaged
+
+Correct Answer: A
+
+Explanation: Professional presentation includes a clean, well-maintained uniform, good personal hygiene and wearing the SIA licence where it can be seen while working in a licensable role. 
+GOV.UK
+
+Question 4 [Easy]
+Why is good customer service important for security officers working on reception?
+
+A) It allows them to bend rules for anyone who is polite
+B) It means they can avoid enforcing site procedures
+C) It reduces the need to complete paperwork
+D) They are often the first person visitors meet and represent the client’s business
+
+Correct Answer: D
+
+Explanation: Security officers are often the first point of contact. Polite, helpful and professional behaviour gives a good impression of both the security company and the client, while still enforcing procedures.
+
+Question 5 [Easy]
+In the UK, what extra legal powers does an SIA-licensed security officer have compared with any other member of the public?
+
+A) Power to stop and search anyone on the client’s request
+B) No extra legal powers – they have the same powers as any ordinary citizen
+C) Power to issue fines for minor offences
+D) Power to demand a person’s name and address
+
+Correct Answer: B
+
+Explanation: Holding an SIA licence does not give additional legal powers; security officers have the same powers as any other member of the public. Their authority mainly comes from the property owner or employer rather than special legal status. 
+NFPS Ltd
++1
+
+Question 6 [Easy]
+When may a security officer search a person’s bag on private premises?
+
+A) Whenever they believe the person has stolen something
+B) Only if the police have given permission over the phone
+C) Only with the person’s consent, for example as a condition of entry
+D) At any time, provided the search is recorded in the incident log
+
+Correct Answer: C
+
+Explanation: Security officers have no general power to search people or bags. They may only search with the person’s consent, such as when bag checks are a condition of entry; the person can refuse, but may then be refused entry or service. 
+NFPS Ltd
+
+Question 7 [Easy]
+Which of the following is a typical CORE duty of a security officer?
+
+A) Controlling access to the premises and checking identification of visitors
+B) Providing legal advice to staff and visitors
+C) Repairing CCTV and alarm equipment
+D) Negotiating staff employment contracts
+
+Correct Answer: A
+
+Explanation: Controlling access and egress, including checking passes or IDs, is a core part of security work. Providing legal advice, carrying out repairs and dealing with employment contracts fall outside normal guarding duties.
+
+Question 8 [Easy]
+Which incident should definitely be recorded in the daily occurrence log (DOB)?
+
+A) A member of staff saying hello as they pass
+B) A delivery arriving on time with the correct paperwork
+C) The officer making a routine patrol at the scheduled time
+D) A minor leak discovered in a stairwell causing a slip hazard
+
+Correct Answer: D
+
+Explanation: Hazards such as leaks that could cause slips or injury must be reported and recorded. The DOB provides an audit trail showing that the officer identified and reported the risk.
+
+Question 9 [Easy]
+What is the MOST appropriate way for a security officer to deal with police officers attending site?
+
+A) Refuse to give any information and refer them to the client
+B) Cooperate fully, provide accurate information and follow lawful instructions
+C) Take charge of the incident and direct the police
+D) Question the officers about the legality of their actions
+
+Correct Answer: B
+
+Explanation: Security officers should work in partnership with the police, providing accurate information, preserving evidence and handing over any detained persons, without obstructing police duties.
+
+Question 10 [Easy]
+Which situation is an example of lone working?
+
+A) Two officers patrolling a shopping centre together
+B) An officer sitting in a control room with two CCTV operators
+C) An officer working alone at a small warehouse during the night
+D) An officer working on a busy reception desk with several staff present
+
+Correct Answer: C
+
+Explanation: Lone working means working without direct supervision and without colleagues nearby. A single officer at a warehouse at night is a clear example of lone working.
+
+Question 11 [Easy]
+What is the MAIN purpose of assignment instructions?
+
+A) To set out site-specific duties, procedures and emergency arrangements for the officer
+B) To replace the need for company policies and training
+C) To allow each officer to decide their own way of working
+D) To record staff holidays and sickness
+
+Correct Answer: A
+
+Explanation: Assignment instructions give clear guidance on what an officer must do on a particular site, including patrols, access control, reporting and emergency procedures. They support, not replace, company policies and training.
+
+Question 12 [Easy]
+Which of the following is MOST likely to be treated as confidential information?
+
+A) The colour of the staff uniforms
+B) The opening hours printed on the front door
+C) The location of the staff canteen
+D) Alarm codes and details of security vulnerabilities
+
+Correct Answer: D
+
+Explanation: Alarm codes and security vulnerabilities are highly sensitive and must be protected. Public information such as opening hours or uniform colours is not confidential.
+
+Question 13 [Medium]
+You are on reception at a corporate office. A person follows an employee through the door without using a pass (tailgating). What is the MOST appropriate action?
+
+A) Ignore it because they are probably a visitor
+B) Politely challenge the person, verify their identity and follow site access procedures
+C) Immediately grab the person and search their bag
+D) Sound the fire alarm to clear the building
+
+Correct Answer: B
+
+Explanation: Security officers must control access while maintaining good customer service. Politely challenging tailgaters and checking their authorisation protects security without being aggressive.
+
+Question 14 [Medium]
+A visitor becomes rude and impatient while you check their identity at the gate. What should you do to remain professional?
+
+A) Raise your voice to show authority
+B) Refuse to deal with them and walk away
+C) Stay calm, use polite but firm language, and continue to follow the procedure
+D) Let them in quickly to avoid further conflict
+
+Correct Answer: C
+
+Explanation: Professionalism means keeping your composure, using respectful language and still following security procedures, even under pressure or when people are rude.
+
+Question 15 [Medium]
+Under what circumstances should a security officer consider making a citizen’s arrest?
+
+A) Only when they reasonably believe an indictable offence has been committed and it is necessary to detain the person until police arrive
+B) Whenever someone refuses to follow the site rules
+C) Whenever they suspect a person of any minor offence
+D) To punish someone who has been abusive towards staff
+
+Correct Answer: A
+
+Explanation: A citizen’s arrest should only be used for more serious offences (generally those punishable by imprisonment) and only when it is necessary and proportionate to prevent the person causing harm or escaping before police arrive. 
+London Security College
++1
+
+Question 16 [Medium]
+While working at an office block you ask a disruptive visitor to leave the building. They step outside onto the public pavement and continue shouting. What is the MOST appropriate course of action now?
+
+A) Arrest them for breach of the peace
+B) Force them to go home because they upset staff
+C) Insist they show you identification
+D) Withdraw to a safe position and, if necessary, contact the police
+
+Correct Answer: D
+
+Explanation: Your delegated authority applies mainly on private premises. Once the person is on public land, you should prioritise safety, avoid confrontation and contact the police if the behaviour may be an offence or risk to others.
+
+Question 17 [Medium]
+You are monitoring CCTV when a fire alarm activates in the warehouse. What should you do FIRST?
+
+A) Continue watching CCTV until you see smoke
+B) Follow the site’s emergency procedures, such as raising the alarm, initiating evacuation and informing the control room or emergency services
+C) Ignore the alarm unless a manager calls you
+D) Immediately run into the building alone to look for the fire
+
+Correct Answer: B
+
+Explanation: When an alarm sounds, you must follow the established emergency procedures. That will usually involve confirming the alarm status, supporting evacuation and alerting the appropriate people – not taking unnecessary personal risks.
+
+Question 18 [Medium]
+The client’s supervisor tells you to allow contractors to enter without signing the visitor book, but your company procedures and assignment instructions say all visitors must sign in. What should you do?
+
+A) Do as the client asks, because they pay for the service
+B) Ignore both instructions and use your own judgement
+C) Politely explain you must follow your company’s procedures and assignment instructions, and refer the issue to your own supervisor
+D) Refuse to speak to the client about procedures
+
+Correct Answer: C
+
+Explanation: You must follow your employer’s procedures and the agreed assignment instructions. If the client wants a change, it should be discussed and agreed through the correct management channels, not decided on the spot by the officer.
+
+Question 19 [Medium]
+After a serious incident, a colleague asks you in the canteen to tell them what you saw on CCTV “for a laugh”. They were not involved in the incident. What is the BEST response?
+
+A) Refuse to discuss it and explain that incident details and CCTV are confidential
+B) Tell them everything as long as they promise not to repeat it
+C) Show them the footage on your phone
+D) Make up details to keep them entertained
+
+Correct Answer: A
+
+Explanation: Incident information and CCTV images should only be shared with authorised people for legitimate purposes. Gossiping about incidents breaches confidentiality and may break data protection rules.
+
+Question 20 [Medium]
+You are scheduled to patrol a large, poorly lit car park on your own at night. Which control measure would MOST improve your safety as a lone worker?
+
+A) Turning your radio off so it does not attract attention
+B) Leaving your patrol route unrecorded so no one knows where you are
+C) Keeping concerns to yourself so you do not worry others
+D) Having a clear check-in procedure and reliable communications with the control room
+
+Correct Answer: D
+
+Explanation: Lone-working procedures should include regular check-ins and reliable communications. This allows others to monitor your safety and respond quickly if something goes wrong.
+
+Question 21 [Medium]
+During your shift you notice that building works have blocked a fire exit, but the assignment instructions do not mention any temporary changes. What should you do?
+
+A) Do nothing because the instructions have not been updated
+B) Report the hazard immediately, follow the site’s emergency and health and safety procedures, and ensure your supervisor/client are aware so instructions can be reviewed
+C) Move the builders’ equipment yourself without telling anyone
+D) Ignore it and hope it will be cleared before an emergency occurs
+
+Correct Answer: B
+
+Explanation: You have a duty of care to report hazards and ensure they are dealt with. Assignment instructions should then be updated so all officers know about the change and how to respond.
+
+Question 22 [Medium]
+After dealing with a major incident at a shopping centre, you want to post about it on social media. What is the MOST appropriate action?
+
+A) Post details but avoid using the company name
+B) Share photos as long as no faces are visible
+C) Do not post anything about the incident and keep details confidential
+D) Ask friends to post about it instead
+
+Correct Answer: C
+
+Explanation: Posting about incidents can reveal confidential information, damage the client’s reputation and potentially breach data protection. Security officers should not discuss or share incident details on social media.
+
+Question 23 [Medium]
+At a retail store, the customer exit has a sign saying “Bags may be searched”. You politely ask to look in a customer’s bag and they refuse. What should you do?
+
+A) Do not force the search. Follow store procedures, such as monitoring the person, refusing future entry if appropriate, and contacting the police if you reasonably suspect theft
+B) Physically grab the bag and open it
+C) Block the exit and refuse to let the customer leave until they agree
+D) Take the customer to a back room and search them
+
+Correct Answer: A
+
+Explanation: A sign does not give you the legal power to force a search. You may request consent but cannot compel it; you can, however, refuse entry or call the police if you reasonably suspect a crime. 
+NFPS Ltd
++1
+
+Question 24 [Medium]
+Which information is MOST important to include in a handover briefing at the end of your shift?
+
+A) Your personal opinions of each member of staff
+B) Details of your holiday plans
+C) The TV programmes you watched in the control room
+D) Significant incidents, ongoing issues, equipment faults and any actions still required
+
+Correct Answer: D
+
+Explanation: Handover briefings and reports must focus on information that affects security and safety, such as incidents, hazards, system faults and tasks that still need attention.
+
+Question 25 [Hard]
+The site manager tells you to search every contractor’s vehicle before it leaves, even if the driver does not agree. They say, “If they refuse, just stop them leaving and search it anyway – I’ll back you up.” What should you do?
+
+A) Follow the manager’s instruction because they are responsible for the site
+B) Explain politely that you cannot search vehicles or detain people without lawful authority or consent, refuse to carry out the unlawful instruction, and report the issue to your supervisor
+C) Search only the vehicles that look suspicious
+D) Ask another guard to carry out the searches instead
+
+Correct Answer: B
+
+Explanation: Security officers cannot search vehicles or detain people without lawful authority or consent, even if a client asks them to. They must refuse unlawful instructions and report them through their company’s management. 
+NFPS Ltd
++1
+
+Question 26 [Hard]
+While patrolling a construction site at night, you see a teenager climbing over the fence. As you approach, they fall and appear to injure their leg. What is your PRIMARY responsibility?
+
+A) Ignore them because they are trespassing and should not be there
+B) Immediately chase them to detain them for trespass
+C) Ensure their safety by calling for medical assistance, following site emergency procedures and recording the incident
+D) Take a photo for evidence and post it in the staff chat group
+
+Correct Answer: C
+
+Explanation: Security officers have a duty of care to people on site, including trespassers in some circumstances. The priority is to protect life and safety by getting help and following emergency procedures, then record the incident.
+
+Question 27 [Hard]
+You witness a colleague accepting money from a supplier in return for “turning a blind eye” to extra goods being removed from the warehouse. Later, the supplier offers you cash to do the same. What should you do?
+
+A) Refuse the bribe and report both the supplier and your colleague through your company’s reporting procedures
+B) Accept the money but keep it secret from your colleague
+C) Accept the bribe and then confront your colleague privately
+D) Ignore it because it does not directly affect you
+
+Correct Answer: A
+
+Explanation: Accepting bribes is dishonest and may be criminal. Security officers must not abuse their position of trust and should report wrongdoing, including colleague misconduct, through the correct channels.
+
+Question 28 [Hard]
+During a busy afternoon, you see a shoplifter violently pushing a member of staff while trying to escape. What is the MOST appropriate response?
+
+A) Punch the shoplifter to teach them a lesson
+B) Lock the doors and keep the person on the floor for as long as you like
+C) Do nothing and hope the incident resolves itself
+D) Use only reasonable force if necessary to protect people and, if making a citizen’s arrest, detain the person safely and call the police as soon as possible
+
+Correct Answer: D
+
+Explanation: Any force used must be reasonable, necessary and proportionate, with the aim of protecting people and detaining the suspect only until police arrive. Excessive or punitive force is unlawful and unprofessional. 
+London Security College
++1
+
+Question 29 [Hard]
+On patrol you find an unlabelled USB stick lying near the entrance. When you plug it into a secure terminal, you see files containing staff personal details. What is the BEST action to take next?
+
+A) Copy the files to your own device in case they are needed later
+B) Secure the USB stick, report it immediately to the client’s management or data protection contact, and record the incident
+C) Delete the files to protect privacy and throw the USB stick away
+D) Email the files to colleagues so they can see whose details are on it
+
+Correct Answer: B
+
+Explanation: Personal data must be handled securely and only by authorised people. The correct response is to secure the device, report the potential data breach and document what you have found – not to copy, delete or share the files yourself.
+
+Question 30 [Hard]
+You are the only security officer on duty at a remote warehouse during the night. You hear noises from a dark area of the site and suspect intruders, but your nearest backup is 30 minutes away. What is the MOST appropriate action?
+
+A) Immediately walk into the dark area alone to confront whoever is there
+B) Switch off your radio so intruders cannot hear you
+C) Move to a safe position, observe from a distance if possible, contact the police and your control room, and follow lone worker/emergency procedures
+D) Ignore the noises because it is probably just the wind
+
+Correct Answer: C
+
+Explanation: Lone workers must not take unnecessary risks. The priority is personal safety: maintain distance, use communication devices, follow lone-working procedures and call the police if you suspect intruders.
+
+================================================================================
+END OF CHAPTER 2.1 QUESTIONS
+
+Total Questions: 30
+
+Easy: 12
+
+Medium: 12
+
+Hard: 6
+
+Answer Distribution:
+
+Correct answer A: 7 questions
+
+Correct answer B: 8 questions
+
+Correct answer C: 8 questions
+
+Correct answer D: 7 questions
+
+================================================================================

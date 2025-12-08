@@ -16,19 +16,28 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
-## [2025-12-08] - Fix Mock Exam Timing Constants
+## [2025-12-08] - Fix White Screen + Timing Issues
 
 ### Fixed
+- **White Screen on Mock Test**: Protected routes now allow access when Supabase isn't configured
+  - Root cause: ProtectedRoute was redirecting to login when Supabase wasn't set up
+  - Solution: Added dev mode bypass in ProtectedRoute component
 - **TIMING.MOCK_EXAM_DURATION**: Corrected exam timing values to match official SIA specifications
   - Security Guard: 75 → 60 minutes
   - CCTV Operator: 80 → 60 minutes
   - Close Protection: 120 → 200 minutes
   - Door Supervisor: 90 minutes (unchanged, was already correct)
 
+### Added
+- **ErrorBoundary component**: Catches runtime JavaScript errors and displays friendly UI
+  - Shows error details in development mode
+  - Provides "Try Again" and "Go to Home" buttons
+  - Prevents white screen crashes
+
 ### Technical
 - Values now correctly match `EXAM_DETAILS.totalTimeMinutes`
 - Added JSDoc comments documenting paper breakdown
-- Fixes discrepancy found via ultrathink analysis using subagents
+- Wrapped main app content with ErrorBoundary for better error handling
 
 ---
 

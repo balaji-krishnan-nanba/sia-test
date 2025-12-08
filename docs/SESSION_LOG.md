@@ -1,10 +1,10 @@
 # Session Log
 
-## Session: 2025-12-08 (Fix Mock Exam Timing Constants)
+## Session: 2025-12-08 (Fix White Screen + Timing Issues)
 
 ### 🎯 Session Goals
 - Fix critical timing discrepancy in TIMING.MOCK_EXAM_DURATION constant
-- Ensure all mock exam specifications match official SIA exam structure
+- Fix white screen issue when clicking mock test
 
 ### ✅ Completed
 
@@ -14,19 +14,30 @@
 - [x] **Close Protection**: Changed 120 → 200 minutes
 - [x] Added JSDoc comments documenting paper breakdown
 
-#### 2. Verification
+#### 2. Fixed White Screen Issue
+- [x] **Root Cause**: Protected routes required authentication, but Supabase wasn't configured
+- [x] **ProtectedRoute Fix**: Now allows access when Supabase is not configured (dev mode)
+- [x] **ErrorBoundary Added**: Catches runtime errors and displays helpful UI instead of white screen
+- [x] **App.tsx Updated**: Wrapped main content with ErrorBoundary
+
+#### 3. Verification
 - [x] TypeScript type-check passed
-- [x] Build successful
+- [x] Build successful (165 modules transformed)
+- [x] Dev server HMR working
 - [x] Changes committed and pushed
 
 ### 📁 Files Modified This Session
 - `src/utils/constants.ts` - Fixed TIMING.MOCK_EXAM_DURATION values
+- `src/components/auth/ProtectedRoute.tsx` - Allow access when Supabase not configured
+- `src/components/ErrorBoundary.tsx` - NEW: Error boundary component
+- `src/App.tsx` - Added ErrorBoundary wrapper
 - `docs/CHANGELOG.md` - Added changelog entries
 - `docs/SESSION_LOG.md` - This update
 
 ### 💡 Notes for Next Session
 - All mock exam timing now correctly matches EXAM_DETAILS.totalTimeMinutes
-- The system is now consistent: both EXAM_DETAILS and TIMING use the same values
+- App now works without Supabase configuration (for development)
+- ErrorBoundary will show friendly error messages instead of white screen
 - Consider removing TIMING.MOCK_EXAM_DURATION in favor of deriving from EXAM_DETAILS to avoid future discrepancies
 
 ---

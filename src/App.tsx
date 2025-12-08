@@ -8,6 +8,7 @@ import { Toaster } from 'react-hot-toast';
 import { ROUTES } from '@utils/constants';
 import { AuthProvider } from '@/contexts/AuthContext';
 import { ProtectedRoute } from '@/components/auth/ProtectedRoute';
+import { ErrorBoundary } from '@/components/ErrorBoundary';
 
 // Eager load home page for better initial load
 import { HomePage } from '@pages/HomePage';
@@ -51,8 +52,9 @@ export default function App() {
   return (
     <BrowserRouter basename="/sia-test">
       <AuthProvider>
-        <Suspense fallback={<LoadingFallback />}>
-          <Routes>
+        <ErrorBoundary>
+          <Suspense fallback={<LoadingFallback />}>
+            <Routes>
             {/* Public Routes */}
             <Route path={ROUTES.HOME} element={<HomePage />} />
             <Route path={ROUTES.LOGIN} element={<LoginPage />} />
@@ -101,9 +103,10 @@ export default function App() {
                 </ProtectedRoute>
               }
             />
-          </Routes>
-        </Suspense>
-        <Toaster position="top-right" />
+            </Routes>
+          </Suspense>
+          <Toaster position="top-right" />
+        </ErrorBoundary>
       </AuthProvider>
     </BrowserRouter>
   );

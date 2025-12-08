@@ -1,6 +1,9 @@
 /**
  * Protected Route Component
  * Requires user to be authenticated to access
+ *
+ * In development mode (when Supabase is not configured), allows access
+ * without authentication to enable local testing and development.
  */
 
 import { Navigate } from 'react-router-dom';
@@ -12,7 +15,7 @@ interface ProtectedRouteProps {
 }
 
 export function ProtectedRoute({ children }: ProtectedRouteProps) {
-  const { user, loading } = useAuth();
+  const { user, loading, isConfigured } = useAuth();
 
   // Show loading spinner while checking auth
   if (loading) {
@@ -24,6 +27,12 @@ export function ProtectedRoute({ children }: ProtectedRouteProps) {
         </div>
       </div>
     );
+  }
+
+  // In development mode without Supabase configured, allow access without auth
+  // This enables local development and testing without needing Supabase setup
+  if (!isConfigured) {
+    return <>{children}</>;
   }
 
   // Redirect to login if not authenticated

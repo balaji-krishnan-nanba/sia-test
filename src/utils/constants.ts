@@ -307,11 +307,15 @@ export const QUIZ_SETTINGS = {
  * Timing constants
  */
 export const TIMING = {
+  /**
+   * Mock exam durations in seconds - MUST match EXAM_DETAILS.totalTimeMinutes
+   * These are used for full qualification mock exams (all papers combined)
+   */
   MOCK_EXAM_DURATION: {
-    'door-supervisor': 90 * 60, // 90 minutes in seconds
-    'security-guard': 75 * 60, // 75 minutes in seconds
-    'cctv-operator': 80 * 60, // 80 minutes in seconds
-    'close-protection': 120 * 60, // 120 minutes in seconds
+    'door-supervisor': 90 * 60, // 90 minutes (2 papers: 60 + 30 min)
+    'security-guard': 60 * 60, // 60 minutes (2 papers: 30 + 30 min)
+    'cctv-operator': 60 * 60, // 60 minutes (2 papers: 30 + 30 min)
+    'close-protection': 200 * 60, // 200 minutes (4 papers: 80 + 45 + 30 + 45 min)
   },
   AUTO_SAVE_INTERVAL: 30000, // 30 seconds
   SESSION_TIMEOUT: 3600000, // 1 hour

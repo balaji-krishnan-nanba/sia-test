@@ -131,9 +131,15 @@ export async function generateMockExam(
     shuffleAnswers?: boolean;
     ensureBalancedUnits?: boolean;
     seed?: number; // Optional seed for reproducible question selection
+    filterUnits?: number[]; // Optional filter by unit numbers (for exam-paper-specific tests)
   } = {}
 ): Promise<Question[]> {
-  const { shuffleAnswers: shouldShuffleAnswers = true, ensureBalancedUnits = true, seed } = options;
+  const {
+    shuffleAnswers: shouldShuffleAnswers = true,
+    ensureBalancedUnits = true,
+    seed,
+    filterUnits,
+  } = options;
 
   // Create shuffle function based on whether seed is provided
   const shuffleFn = <T>(array: T[]): T[] => {
@@ -141,7 +147,15 @@ export async function generateMockExam(
   };
 
   // Load all questions for the exam
-  const allQuestions = await loadExamQuestions(examSlug);
+  let allQuestions = await loadExamQuestions(examSlug);
+
+  // Filter by units if specified (for exam-paper-specific tests)
+  if (filterUnits && filterUnits.length > 0) {
+    allQuestions = allQuestions.filter((q) => {
+      const unitNumber = parseInt(q.unitId.substring(1));
+      return filterUnits.includes(unitNumber);
+    });
+  }
 
   if (allQuestions.length === 0) {
     throw new Error(`No questions found for exam: ${examSlug}`);

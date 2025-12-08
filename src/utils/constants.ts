@@ -11,17 +11,31 @@ import type { SIAQualification } from '@/types/question';
 export type ExamSlug = 'door-supervisor' | 'security-guard' | 'cctv-operator' | 'close-protection';
 
 /**
- * Exam information
+ * Individual exam specification - reflects real SIA exam structure
+ * Note: SIA exams are structured as separate exam papers, not per-unit
+ */
+export interface ExamPaperSpec {
+  examNumber: number;
+  examName: string;
+  unitsCovered: number[]; // Which units this exam covers
+  questions: number;
+  timeMinutes: number;
+  passingScore: number; // percentage (70% standard, 80% for CP Unit 7)
+}
+
+/**
+ * Exam information with exam paper breakdown
+ * Based on official SIA/Highfield qualification specifications
  */
 export interface ExamInfo {
   slug: ExamSlug;
   code: SIAQualification;
   name: string;
   description: string;
-  totalQuestions: number;
-  passingScore: number; // percentage
-  timeLimit: number; // in minutes
-  units: number;
+  totalMcqQuestions: number; // Total MCQ questions across all exam papers
+  totalUnits: number;
+  totalTimeMinutes: number; // Total time across all exam papers
+  examPapers: ExamPaperSpec[]; // Individual exam papers
 }
 
 /**
@@ -36,47 +50,141 @@ export const EXAM_SLUGS = {
 
 /**
  * Exam details for each qualification
+ * Based on official SIA/Highfield qualification specifications
+ * Source: docs/EXAMS.md and Questions/SIA-ALL-QUALIFICATIONS-MASTER-README.txt
+ *
+ * IMPORTANT: These reflect the ACTUAL exam structure used by awarding bodies.
+ * - Door Supervisor: 2 MCQ exams (60 total questions, 90 minutes)
+ * - Security Guard: 2 MCQ exams (40 total questions, 60 minutes)
+ * - CCTV Operator: 2 MCQ exams (40 total questions, 60 minutes)
+ * - Close Protection: 4 MCQ exams (132 total questions, 200 minutes)
  */
 export const EXAM_DETAILS: Record<ExamSlug, ExamInfo> = {
   'door-supervisor': {
     slug: 'door-supervisor',
     code: 'DS',
     name: 'Door Supervisor',
-    description: 'SIA Door Supervisor Licence qualification',
-    totalQuestions: 50,
-    passingScore: 70,
-    timeLimit: 90, // 90 minutes
-    units: 4,
+    description: 'Level 2 Award for Door Supervisors in the Private Security Industry',
+    totalMcqQuestions: 60,
+    totalUnits: 4,
+    totalTimeMinutes: 90,
+    examPapers: [
+      {
+        examNumber: 1,
+        examName: 'Working in Private Security & Conflict Management',
+        unitsCovered: [1, 3],
+        questions: 40,
+        timeMinutes: 60,
+        passingScore: 70, // 28/40 to pass
+      },
+      {
+        examNumber: 2,
+        examName: 'Working as a Door Supervisor',
+        unitsCovered: [2],
+        questions: 20,
+        timeMinutes: 30,
+        passingScore: 70, // 14/20 to pass
+      },
+      // Note: Unit 4 (Physical Intervention) is assessed via practical demonstration
+    ],
   },
   'security-guard': {
     slug: 'security-guard',
     code: 'SG',
     name: 'Security Guard',
-    description: 'SIA Security Guard Licence qualification',
-    totalQuestions: 40,
-    passingScore: 70,
-    timeLimit: 75, // 75 minutes
-    units: 3,
+    description: 'Level 2 Award for Security Officers (Guarding) in the Private Security Industry',
+    totalMcqQuestions: 40,
+    totalUnits: 3,
+    totalTimeMinutes: 60,
+    examPapers: [
+      {
+        examNumber: 1,
+        examName: 'Working in Private Security & Conflict Management',
+        unitsCovered: [1, 3],
+        questions: 20,
+        timeMinutes: 30,
+        passingScore: 70, // 14/20 to pass
+      },
+      {
+        examNumber: 2,
+        examName: 'Working as a Security Officer',
+        unitsCovered: [2],
+        questions: 20,
+        timeMinutes: 30,
+        passingScore: 70, // 14/20 to pass
+      },
+    ],
   },
   'cctv-operator': {
     slug: 'cctv-operator',
     code: 'CCTV',
     name: 'CCTV Operator',
-    description: 'SIA CCTV Operator (Public Space Surveillance) Licence qualification',
-    totalQuestions: 45,
-    passingScore: 70,
-    timeLimit: 80, // 80 minutes
-    units: 3,
+    description: 'Level 2 Award for Working as a CCTV Operator (Public Space Surveillance)',
+    totalMcqQuestions: 40,
+    totalUnits: 2,
+    totalTimeMinutes: 60,
+    examPapers: [
+      {
+        examNumber: 1,
+        examName: 'Working in the Private Security Industry',
+        unitsCovered: [1],
+        questions: 20,
+        timeMinutes: 30,
+        passingScore: 70, // 14/20 to pass
+      },
+      {
+        examNumber: 2,
+        examName: 'Working as a CCTV Operator',
+        unitsCovered: [2],
+        questions: 20,
+        timeMinutes: 30,
+        passingScore: 70, // 14/20 to pass
+      },
+    ],
   },
   'close-protection': {
     slug: 'close-protection',
     code: 'CP',
     name: 'Close Protection',
-    description: 'SIA Close Protection Operative Licence qualification',
-    totalQuestions: 60,
-    passingScore: 75,
-    timeLimit: 120, // 120 minutes
-    units: 5,
+    description: 'Level 3 Certificate for Working as a Close Protection Operative',
+    totalMcqQuestions: 132,
+    totalUnits: 7,
+    totalTimeMinutes: 200,
+    examPapers: [
+      {
+        examNumber: 1,
+        examName: 'Principles of Working as a CPO',
+        unitsCovered: [1],
+        questions: 52,
+        timeMinutes: 80,
+        passingScore: 70, // 37/52 to pass
+      },
+      {
+        examNumber: 2,
+        examName: 'Working as a CPO',
+        unitsCovered: [2],
+        questions: 30,
+        timeMinutes: 45,
+        passingScore: 70, // 21/30 to pass
+      },
+      {
+        examNumber: 3,
+        examName: 'Conflict Management for CP',
+        unitsCovered: [3],
+        questions: 20,
+        timeMinutes: 30,
+        passingScore: 70, // 14/20 to pass
+      },
+      {
+        examNumber: 4,
+        examName: 'Physical Intervention Skills',
+        unitsCovered: [7],
+        questions: 30,
+        timeMinutes: 45,
+        passingScore: 80, // 24/30 to pass - ELEVATED due to critical safety content
+      },
+      // Note: Units 4, 5, 6 are assessed via portfolio/practical, not MCQ
+    ],
   },
 };
 

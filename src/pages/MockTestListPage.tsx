@@ -1,11 +1,17 @@
 /**
- * Mock Test List Page - Shows 10 pre-defined mock tests for an exam
+ * Mock Test List Page - Shows exam-paper-based mock tests matching real SIA exams
  *
  * Features:
- * - Display 10 mock tests with completion status
+ * - Display exam papers matching official SIA structure
  * - Syllabus preview modal before starting
- * - Progress tracking for each test
+ * - Progress tracking for each exam paper
  * - Seeded question generation for consistency
+ *
+ * Real exam structures:
+ * - Door Supervisor: 2 exams (Exam 1: Units 1&3, Exam 2: Unit 2)
+ * - Security Guard: 2 exams (Exam 1: Units 1&3, Exam 2: Unit 2)
+ * - CCTV Operator: 2 exams (Exam 1: Unit 1, Exam 2: Unit 2)
+ * - Close Protection: 4 exams (Unit 1, Unit 2, Unit 3, Unit 7)
  */
 
 import { useState, useEffect } from 'react';
@@ -13,53 +19,26 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { Card } from '@/components/ui/Card';
 import { Button } from '@/components/ui/Button';
 import { Modal } from '@/components/ui/Modal';
-import { EXAM_DETAILS, type ExamSlug } from '@/utils/constants';
+import { EXAM_DETAILS, type ExamSlug, type ExamPaperSpec } from '@/utils/constants';
 import { getMockTestResult, getMockTestStats, type MockTestResult } from '@/utils/mockTestProgress';
 
-interface MockTestCardData {
-  testNumber: number;
+interface ExamPaperCardData {
+  examNumber: number;
+  examPaper: ExamPaperSpec;
   status: 'not-attempted' | 'attempted';
   result?: MockTestResult | null;
 }
-
-// Unit distribution for each exam type (approximate percentages)
-const UNIT_DISTRIBUTIONS: Record<ExamSlug, { unitNumber: number; title: string; percentage: number }[]> = {
-  'door-supervisor': [
-    { unitNumber: 1, title: 'Working in the Private Security Industry', percentage: 30 },
-    { unitNumber: 2, title: 'Working as a Door Supervisor', percentage: 30 },
-    { unitNumber: 3, title: 'Health and Safety', percentage: 20 },
-    { unitNumber: 4, title: 'Emergency Procedures', percentage: 20 },
-  ],
-  'security-guard': [
-    { unitNumber: 1, title: 'Working in the Private Security Industry', percentage: 50 },
-    { unitNumber: 2, title: 'Working as a Security Officer', percentage: 50 },
-  ],
-  'cctv-operator': [
-    { unitNumber: 1, title: 'Working in the Private Security Industry', percentage: 40 },
-    { unitNumber: 2, title: 'CCTV Operations', percentage: 35 },
-    { unitNumber: 3, title: 'Legal and Regulatory Framework', percentage: 25 },
-  ],
-  'close-protection': [
-    { unitNumber: 1, title: 'Working in the Private Security Industry', percentage: 15 },
-    { unitNumber: 2, title: 'Close Protection Operations', percentage: 20 },
-    { unitNumber: 3, title: 'Threat Assessment', percentage: 15 },
-    { unitNumber: 4, title: 'Route Planning', percentage: 15 },
-    { unitNumber: 5, title: 'Surveillance Awareness', percentage: 15 },
-    { unitNumber: 6, title: 'Conflict Management', percentage: 10 },
-    { unitNumber: 7, title: 'Emergency Procedures', percentage: 10 },
-  ],
-};
 
 export function MockTestListPage() {
   const { examSlug } = useParams<{ examSlug: ExamSlug }>();
   const navigate = useNavigate();
 
-  const [mockTests, setMockTests] = useState<MockTestCardData[]>([]);
-  const [selectedTest, setSelectedTest] = useState<number | null>(null);
+  const [examPapers, setExamPapers] = useState<ExamPaperCardData[]>([]);
+  const [selectedExam, setSelectedExam] = useState<ExamPaperCardData | null>(null);
   const [showPreview, setShowPreview] = useState(false);
   const [stats, setStats] = useState({
     completed: 0,
-    notAttempted: 10,
+    notAttempted: 0,
     passed: 0,
     failed: 0,
     averageScore: 0,
@@ -74,38 +53,39 @@ export function MockTestListPage() {
       return;
     }
 
-    // Load mock test results from localStorage
-    const tests: MockTestCardData[] = [];
-    for (let i = 1; i <= 10; i++) {
-      const result = getMockTestResult(examSlug, i);
-      tests.push({
-        testNumber: i,
+    // Load exam paper results from localStorage
+    const papers: ExamPaperCardData[] = examInfo.examPapers.map((paper) => {
+      const result = getMockTestResult(examSlug, paper.examNumber);
+      return {
+        examNumber: paper.examNumber,
+        examPaper: paper,
         status: result ? 'attempted' : 'not-attempted',
         result,
-      });
-    }
+      };
+    });
 
-    setMockTests(tests);
+    setExamPapers(papers);
 
     // Load statistics
     const examStats = getMockTestStats(examSlug);
-    setStats(examStats);
+    setStats({
+      ...examStats,
+      notAttempted: papers.filter((p) => p.status === 'not-attempted').length,
+    });
   }, [examSlug, examInfo, navigate]);
 
   if (!examSlug || !examInfo) {
     return null;
   }
 
-  const unitDistribution = UNIT_DISTRIBUTIONS[examSlug];
-
-  const handleTestClick = (testNumber: number) => {
-    setSelectedTest(testNumber);
+  const handleExamClick = (paper: ExamPaperCardData) => {
+    setSelectedExam(paper);
     setShowPreview(true);
   };
 
   const handleStartTest = () => {
-    if (selectedTest) {
-      navigate(`/exam/${examSlug}/mock/${selectedTest}`);
+    if (selectedExam) {
+      navigate(`/exam/${examSlug}/mock/${selectedExam.examNumber}`);
     }
   };
 
@@ -131,9 +111,10 @@ export function MockTestListPage() {
             Back to Exam
           </Button>
 
-          <h1 className="text-3xl font-bold text-gray-900 mt-4">{examInfo.name} Mock Tests</h1>
+          <h1 className="text-3xl font-bold text-gray-900 mt-4">{examInfo.name} Exam Papers</h1>
           <p className="text-gray-600 mt-2">
-            Complete all 10 practice tests to be fully prepared for your exam
+            Complete all {examInfo.examPapers.length} exam papers to be fully prepared for your qualification.
+            These match the official SIA exam structure.
           </p>
         </div>
 
@@ -171,21 +152,27 @@ export function MockTestListPage() {
           </Card>
         </div>
 
-        {/* Mock Tests Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {mockTests.map((test) => (
-            <Card key={test.testNumber} padding="lg">
+        {/* Exam Papers Grid */}
+        <div className="grid md:grid-cols-2 gap-6">
+          {examPapers.map((paper) => (
+            <Card key={paper.examNumber} padding="lg">
               <div className="flex items-start justify-between mb-4">
                 <div>
                   <h3 className="text-xl font-semibold text-gray-900">
-                    Mock Test {test.testNumber}
+                    Exam {paper.examNumber}
                   </h3>
-                  <p className="text-sm text-gray-600 mt-1">
-                    {examInfo.totalQuestions} questions • {examInfo.timeLimit} minutes
+                  <p className="text-md font-medium text-primary-600 mt-1">
+                    {paper.examPaper.examName}
+                  </p>
+                  <p className="text-sm text-gray-600 mt-2">
+                    {paper.examPaper.questions} questions • {paper.examPaper.timeMinutes} minutes • {paper.examPaper.passingScore}% to pass
+                  </p>
+                  <p className="text-xs text-gray-500 mt-1">
+                    Unit{paper.examPaper.unitsCovered.length > 1 ? 's' : ''}: {paper.examPaper.unitsCovered.join(' & ')}
                   </p>
                 </div>
                 <div className="flex-shrink-0">
-                  {test.status === 'attempted' ? (
+                  {paper.status === 'attempted' ? (
                     <span className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-accent-100">
                       <svg className="w-5 h-5 text-accent-600" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clipRule="evenodd" />
@@ -201,24 +188,24 @@ export function MockTestListPage() {
                 </div>
               </div>
 
-              {/* Test Result */}
-              {test.result ? (
+              {/* Exam Result */}
+              {paper.result ? (
                 <div className="mb-4">
-                  <div className={`p-3 rounded-lg ${test.result.passed ? 'bg-accent-50 border border-accent-200' : 'bg-warning-50 border border-warning-200'}`}>
+                  <div className={`p-3 rounded-lg ${paper.result.passed ? 'bg-accent-50 border border-accent-200' : 'bg-warning-50 border border-warning-200'}`}>
                     <div className="flex items-center justify-between mb-2">
                       <span className="text-sm font-medium text-gray-700">Last Score</span>
-                      <span className={`text-lg font-bold ${test.result.passed ? 'text-accent-600' : 'text-warning-600'}`}>
-                        {test.result.percentage}%
+                      <span className={`text-lg font-bold ${paper.result.passed ? 'text-accent-600' : 'text-warning-600'}`}>
+                        {paper.result.percentage}%
                       </span>
                     </div>
                     <div className="flex items-center justify-between text-xs text-gray-600">
-                      <span>{test.result.score}/{test.result.totalQuestions} correct</span>
-                      <span className={test.result.passed ? 'text-accent-600 font-semibold' : 'text-warning-600 font-semibold'}>
-                        {test.result.passed ? 'PASSED' : 'NOT PASSED'}
+                      <span>{paper.result.score}/{paper.result.totalQuestions} correct</span>
+                      <span className={paper.result.passed ? 'text-accent-600 font-semibold' : 'text-warning-600 font-semibold'}>
+                        {paper.result.passed ? 'PASSED' : 'NOT PASSED'}
                       </span>
                     </div>
                     <div className="text-xs text-gray-500 mt-1">
-                      {new Date(test.result.completedAt).toLocaleDateString()}
+                      {new Date(paper.result.completedAt).toLocaleDateString()}
                     </div>
                   </div>
                 </div>
@@ -232,29 +219,29 @@ export function MockTestListPage() {
 
               {/* Action Button */}
               <Button
-                variant={test.status === 'attempted' ? 'secondary' : 'primary'}
+                variant={paper.status === 'attempted' ? 'secondary' : 'primary'}
                 size="md"
                 fullWidth
-                onClick={() => handleTestClick(test.testNumber)}
+                onClick={() => handleExamClick(paper)}
               >
-                {test.status === 'attempted' ? 'Retake Test' : 'Start Test'}
+                {paper.status === 'attempted' ? 'Retake Exam' : 'Start Exam'}
               </Button>
             </Card>
           ))}
         </div>
 
-        {/* Syllabus Preview Modal */}
+        {/* Exam Preview Modal */}
         <Modal
           isOpen={showPreview}
           onClose={() => setShowPreview(false)}
-          title={`Mock Test ${selectedTest} - Syllabus Preview`}
+          title={selectedExam ? `Exam ${selectedExam.examNumber} - ${selectedExam.examPaper.examName}` : ''}
           size="lg"
         >
-          {selectedTest && (
+          {selectedExam && (
             <div className="space-y-6">
-              {/* Exam Info */}
+              {/* Exam Paper Info */}
               <div>
-                <h3 className="text-lg font-semibold text-gray-900 mb-3">Exam Information</h3>
+                <h3 className="text-lg font-semibold text-gray-900 mb-3">Exam Paper Details</h3>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="flex items-center gap-3">
                     <div className="flex-shrink-0 w-10 h-10 rounded-lg bg-primary-100 flex items-center justify-center">
@@ -263,8 +250,8 @@ export function MockTestListPage() {
                       </svg>
                     </div>
                     <div>
-                      <p className="text-sm text-gray-600">Total Questions</p>
-                      <p className="text-lg font-semibold text-gray-900">{examInfo.totalQuestions}</p>
+                      <p className="text-sm text-gray-600">Questions</p>
+                      <p className="text-lg font-semibold text-gray-900">{selectedExam.examPaper.questions}</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-3">
@@ -275,7 +262,7 @@ export function MockTestListPage() {
                     </div>
                     <div>
                       <p className="text-sm text-gray-600">Time Limit</p>
-                      <p className="text-lg font-semibold text-gray-900">{examInfo.timeLimit} minutes</p>
+                      <p className="text-lg font-semibold text-gray-900">{selectedExam.examPaper.timeMinutes} minutes</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-3">
@@ -286,7 +273,7 @@ export function MockTestListPage() {
                     </div>
                     <div>
                       <p className="text-sm text-gray-600">Passing Score</p>
-                      <p className="text-lg font-semibold text-gray-900">{examInfo.passingScore}%</p>
+                      <p className="text-lg font-semibold text-gray-900">{selectedExam.examPaper.passingScore}%</p>
                     </div>
                   </div>
                   <div className="flex items-center gap-3">
@@ -296,31 +283,28 @@ export function MockTestListPage() {
                       </svg>
                     </div>
                     <div>
-                      <p className="text-sm text-gray-600">Total Units</p>
-                      <p className="text-lg font-semibold text-gray-900">{examInfo.units}</p>
+                      <p className="text-sm text-gray-600">Units Covered</p>
+                      <p className="text-lg font-semibold text-gray-900">{selectedExam.examPaper.unitsCovered.join(' & ')}</p>
                     </div>
                   </div>
                 </div>
               </div>
 
-              {/* Question Distribution */}
-              <div>
-                <h3 className="text-lg font-semibold text-gray-900 mb-3">Question Distribution by Unit</h3>
-                <div className="space-y-3">
-                  {unitDistribution.map((unit) => {
-                    const questionCount = Math.round((examInfo.totalQuestions * unit.percentage) / 100);
-                    return (
-                      <div key={unit.unitNumber} className="flex items-center justify-between p-3 bg-gray-50 rounded-lg">
-                        <div className="flex-1">
-                          <p className="font-medium text-gray-900">Unit {unit.unitNumber}: {unit.title}</p>
-                          <p className="text-sm text-gray-600 mt-1">
-                            Approximately {questionCount} questions ({unit.percentage}%)
-                          </p>
-                        </div>
-                      </div>
-                    );
-                  })}
-                </div>
+              {/* Pass Mark Calculation */}
+              <div className="p-4 bg-gray-50 rounded-lg">
+                <h4 className="font-semibold text-gray-900 mb-2">Pass Requirements</h4>
+                <p className="text-sm text-gray-700">
+                  You need to answer at least{' '}
+                  <span className="font-bold text-primary-600">
+                    {Math.ceil(selectedExam.examPaper.questions * selectedExam.examPaper.passingScore / 100)}
+                  </span>{' '}
+                  out of {selectedExam.examPaper.questions} questions correctly ({selectedExam.examPaper.passingScore}%) to pass this exam paper.
+                </p>
+                {selectedExam.examPaper.passingScore === 80 && (
+                  <p className="text-sm text-warning-600 mt-2 font-medium">
+                    Note: This exam paper has an elevated 80% pass mark due to critical safety content.
+                  </p>
+                )}
               </div>
 
               {/* Important Notes */}
@@ -332,11 +316,11 @@ export function MockTestListPage() {
                   Important Notes
                 </h4>
                 <ul className="space-y-1 text-sm text-gray-700">
-                  <li>This is a full-length practice exam matching the official format</li>
-                  <li>Questions are randomly selected but consistent for each test number</li>
+                  <li>This exam paper matches the official SIA exam structure</li>
+                  <li>Questions are drawn from the units covered by this paper</li>
                   <li>You can navigate between questions and change answers before submitting</li>
                   <li>The exam will auto-submit when time expires</li>
-                  <li>You can retake this test as many times as you want</li>
+                  <li>You can retake this exam as many times as you want</li>
                 </ul>
               </div>
 
@@ -356,7 +340,7 @@ export function MockTestListPage() {
                   fullWidth
                   onClick={handleStartTest}
                 >
-                  Start Test {selectedTest}
+                  Start Exam {selectedExam.examNumber}
                 </Button>
               </div>
             </div>

@@ -101,7 +101,7 @@ export function useMockExam(examSlug: ExamSlug, userId?: string): UseMockExamRes
     const loadQuestions = async () => {
       setIsLoading(true);
       try {
-        const mockQuestions = await generateMockExam(examSlug, examDetails.totalQuestions, {
+        const mockQuestions = await generateMockExam(examSlug, examDetails.totalMcqQuestions, {
           shuffleAnswers: true,
           ensureBalancedUnits: true,
         });
@@ -175,11 +175,13 @@ export function useMockExam(examSlug: ExamSlug, userId?: string): UseMockExamRes
       const incorrectAnswers = quizSession.answeredCount - correctAnswers;
       const unanswered = totalQuestions - quizSession.answeredCount;
       const score = Math.round((correctAnswers / totalQuestions) * 100);
-      const passed = score >= examDetails.passingScore;
+      // Use 70% as default passing score for full exam
+      const passingScore = 70;
+      const passed = score >= passingScore;
 
       const examResult: MockExamResult = {
         score,
-        passingScore: examDetails.passingScore,
+        passingScore: passingScore,
         passed,
         totalQuestions,
         correctAnswers,
@@ -196,7 +198,7 @@ export function useMockExam(examSlug: ExamSlug, userId?: string): UseMockExamRes
         await saveMockExamResult(userId, {
           qualification: examDetails.code,
           score,
-          passingScore: examDetails.passingScore,
+          passingScore: passingScore,
           totalQuestions,
           correctAnswers,
           timeSpent: timeElapsed,
@@ -247,7 +249,7 @@ export function useMockExam(examSlug: ExamSlug, userId?: string): UseMockExamRes
     const loadQuestions = async () => {
       setIsLoading(true);
       try {
-        const mockQuestions = await generateMockExam(examSlug, examDetails.totalQuestions, {
+        const mockQuestions = await generateMockExam(examSlug, examDetails.totalMcqQuestions, {
           shuffleAnswers: true,
           ensureBalancedUnits: true,
         });

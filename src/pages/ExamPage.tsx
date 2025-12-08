@@ -49,7 +49,7 @@ export function ExamPage() {
       color: 'from-blue-500 to-blue-600',
       hoverColor: 'hover:from-blue-600 hover:to-blue-700',
       path: `/exam/${examSlug}/practice`,
-      details: `${exam.units} units available`,
+      details: `${exam.totalUnits} units available`,
     },
     {
       id: 'mock',
@@ -59,7 +59,7 @@ export function ExamPage() {
       color: 'from-green-500 to-green-600',
       hoverColor: 'hover:from-green-600 hover:to-green-700',
       path: `/exam/${examSlug}/mock`,
-      details: `${exam.timeLimit} minutes, ${exam.totalQuestions} questions`,
+      details: `${exam.totalTimeMinutes} minutes, ${exam.totalMcqQuestions} questions`,
     },
   ];
 
@@ -95,10 +95,10 @@ export function ExamPage() {
             {exam.description}
           </p>
           <div className="flex flex-wrap items-center justify-center gap-2">
-            <Badge variant="default">{exam.units} Units</Badge>
-            <Badge variant="info">{exam.totalQuestions} Questions</Badge>
-            <Badge variant="warning">{exam.passingScore}% Pass Required</Badge>
-            <Badge variant="success">{exam.timeLimit} min Exam</Badge>
+            <Badge variant="default">{exam.totalUnits} Units</Badge>
+            <Badge variant="info">{exam.totalMcqQuestions} Questions</Badge>
+            <Badge variant="warning">70% Pass Required</Badge>
+            <Badge variant="success">{exam.totalTimeMinutes} min Exam</Badge>
           </div>
         </div>
 

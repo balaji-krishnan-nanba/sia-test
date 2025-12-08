@@ -50,12 +50,12 @@ export function HomePage() {
                       <p className="mb-4 text-gray-600">{exam.description}</p>
                       <div className="flex items-center gap-4 text-sm text-gray-500">
                         <span className="font-medium">
-                          {exam.totalQuestions} questions
+                          {exam.totalMcqQuestions} questions
                         </span>
                         <span>•</span>
-                        <span>{exam.timeLimit} minutes</span>
+                        <span>{exam.totalTimeMinutes} minutes</span>
                         <span>•</span>
-                        <span>{exam.passingScore}% to pass</span>
+                        <span>70% to pass</span>
                       </div>
                     </div>
                   </Card>

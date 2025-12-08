@@ -1,13 +1,28 @@
 /**
- * Mock Exam Page - Complete examination experience for all SIA qualifications
+ * Mock Exam Page - Exam-paper-based examination experience matching real SIA exams
  *
  * Features:
  * - Pre-exam instructions screen
- * - Dynamic question count and time based on exam type:
- *   - Door Supervisor: 50 questions, 90 minutes, 70% pass
- *   - Security Guard: 40 questions, 75 minutes, 70% pass
- *   - CCTV Operator: 45 questions, 80 minutes, 70% pass
- *   - Close Protection: 60 questions, 120 minutes, 75% pass
+ * - Exam-paper-based mock tests matching official SIA specifications:
+ *
+ *   DOOR SUPERVISOR (60 MCQs, 90 min total):
+ *   - Exam 1: Units 1 & 3 (40 questions, 60 min, 70% pass)
+ *   - Exam 2: Unit 2 (20 questions, 30 min, 70% pass)
+ *
+ *   SECURITY GUARD (40 MCQs, 60 min total):
+ *   - Exam 1: Units 1 & 3 (20 questions, 30 min, 70% pass)
+ *   - Exam 2: Unit 2 (20 questions, 30 min, 70% pass)
+ *
+ *   CCTV OPERATOR (40 MCQs, 60 min total):
+ *   - Exam 1: Unit 1 (20 questions, 30 min, 70% pass)
+ *   - Exam 2: Unit 2 (20 questions, 30 min, 70% pass)
+ *
+ *   CLOSE PROTECTION (132 MCQs, 200 min total):
+ *   - Exam 1: Unit 1 (52 questions, 80 min, 70% pass)
+ *   - Exam 2: Unit 2 (30 questions, 45 min, 70% pass)
+ *   - Exam 3: Unit 3 (20 questions, 30 min, 70% pass)
+ *   - Exam 4: Unit 7 (30 questions, 45 min, 80% pass)
+ *
  * - Question navigator with status indicators
  * - Flag for review functionality
  * - Submit confirmation
@@ -22,7 +37,7 @@ import { generateMockExam } from '@/utils/questionRandomizer';
 import { saveMockExamResult } from '@/utils/progressTracker';
 import { generateMockTestSeed } from '@/utils/seededRandom';
 import { saveMockTestResult } from '@/utils/mockTestProgress';
-import { EXAM_DETAILS, type ExamSlug } from '@/utils/constants';
+import { EXAM_DETAILS, type ExamSlug, type ExamPaperSpec } from '@/utils/constants';
 import { Timer } from '@/components/mock-exam/Timer';
 import { ResultsScreen, UnitBreakdown } from '@/components/mock-exam/ResultsScreen';
 import { QuestionCard } from '@/components/quiz/QuestionCard';
@@ -36,18 +51,65 @@ import type { Question, SIAQualification } from '@/types/question';
 type ExamState = 'pre-exam' | 'in-progress' | 'completed' | 'review';
 
 /**
- * Get exam configuration based on exam slug
- * Uses real SIA exam specifications for each qualification
+ * Exam configuration returned by getExamConfig
  */
-function getExamConfig(examSlug: string) {
+interface ExamConfig {
+  totalQuestions: number;
+  timeLimitSeconds: number;
+  timeLimitMinutes: number;
+  passingScore: number;
+  examName: string;
+  examCode: string;
+  examPaper: ExamPaperSpec | null; // The specific exam paper (null if full exam)
+  examPaperName: string;
+  unitsCovered: number[];
+  isFullExam: boolean;
+}
+
+/**
+ * Get exam configuration based on exam slug and test number
+ * Uses real SIA exam specifications for each qualification
+ *
+ * testNumber maps to exam papers:
+ * - testNumber 1 = Exam Paper 1
+ * - testNumber 2 = Exam Paper 2
+ * - etc.
+ * - No testNumber or testNumber 0 = Full exam (all papers combined)
+ */
+function getExamConfig(examSlug: string, testNumber: number | null): ExamConfig {
   const validSlug = (examSlug in EXAM_DETAILS ? examSlug : 'door-supervisor') as ExamSlug;
   const examDetails = EXAM_DETAILS[validSlug];
+
+  // If testNumber is provided and valid, use specific exam paper
+  if (testNumber && testNumber > 0 && testNumber <= examDetails.examPapers.length) {
+    // Safe to use non-null assertion as we've verified the index is valid
+    const examPaper = examDetails.examPapers[testNumber - 1]!;
+    return {
+      totalQuestions: examPaper.questions,
+      timeLimitSeconds: examPaper.timeMinutes * 60,
+      timeLimitMinutes: examPaper.timeMinutes,
+      passingScore: examPaper.passingScore,
+      examName: examDetails.name,
+      examCode: examDetails.code,
+      examPaper: examPaper,
+      examPaperName: examPaper.examName,
+      unitsCovered: examPaper.unitsCovered,
+      isFullExam: false,
+    };
+  }
+
+  // Otherwise, return full exam configuration (all papers combined)
   return {
-    totalQuestions: examDetails.totalQuestions,
-    timeLimitSeconds: examDetails.timeLimit * 60, // Convert minutes to seconds
-    passingScore: examDetails.passingScore,
+    totalQuestions: examDetails.totalMcqQuestions,
+    timeLimitSeconds: examDetails.totalTimeMinutes * 60,
+    timeLimitMinutes: examDetails.totalTimeMinutes,
+    passingScore: 70, // Standard pass mark for full exam
     examName: examDetails.name,
     examCode: examDetails.code,
+    examPaper: null,
+    examPaperName: 'Full Exam',
+    unitsCovered: examDetails.examPapers.flatMap(p => p.unitsCovered),
+    isFullExam: true,
   };
 }
 
@@ -73,8 +135,18 @@ export function MockExamPage() {
   const testNumber = testNumberStr ? parseInt(testNumberStr, 10) : null;
 
   // Get exam-specific configuration (questions, time, passing score)
-  const examConfig = useMemo(() => getExamConfig(examSlug), [examSlug]);
-  const { totalQuestions, timeLimitSeconds, passingScore, examName, examCode } = examConfig;
+  const examConfig = useMemo(() => getExamConfig(examSlug, testNumber), [examSlug, testNumber]);
+  const {
+    totalQuestions,
+    timeLimitSeconds,
+    timeLimitMinutes,
+    passingScore,
+    examName,
+    examCode,
+    examPaperName,
+    unitsCovered,
+    isFullExam,
+  } = examConfig;
 
   // Exam state
   const [examState, setExamState] = useState<ExamState>('pre-exam');
@@ -142,8 +214,9 @@ export function MockExamPage() {
         totalQuestions,
         {
           shuffleAnswers: true,
-          ensureBalancedUnits: true,
+          ensureBalancedUnits: !isFullExam, // Only balance units for specific exam papers
           seed, // Use seed for reproducible questions
+          filterUnits: isFullExam ? undefined : unitsCovered, // Filter by units covered
         }
       );
 
@@ -174,7 +247,7 @@ export function MockExamPage() {
     } finally {
       setLoading(false);
     }
-  }, [examSlug, testNumber]);
+  }, [examSlug, testNumber, totalQuestions, isFullExam, unitsCovered]);
 
   // Handle answer selection
   const handleAnswerSelect = useCallback((answerId: string) => {
@@ -447,11 +520,16 @@ export function MockExamPage() {
               </svg>
             </div>
             <h1 className="text-3xl font-bold text-gray-900 mb-2">
-              {examName} {testNumber ? `Mock Test ${testNumber}` : 'Mock Exam'}
+              {examName} {testNumber ? `Exam ${testNumber}` : 'Mock Exam'}
             </h1>
+            {testNumber && !isFullExam && (
+              <p className="text-md font-medium text-primary-600 mb-2">
+                {examPaperName}
+              </p>
+            )}
             <p className="text-lg text-gray-600">
-              {testNumber
-                ? `Complete this practice test to assess your knowledge`
+              {testNumber && !isFullExam
+                ? `Complete this exam paper covering Unit${unitsCovered.length > 1 ? 's' : ''} ${unitsCovered.join(' & ')}`
                 : 'Test your knowledge with a full practice exam'}
             </p>
           </div>
@@ -489,7 +567,7 @@ export function MockExamPage() {
               <svg className="w-8 h-8 text-primary-600 mx-auto mb-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <p className="text-2xl font-bold text-gray-900">90</p>
+              <p className="text-2xl font-bold text-gray-900">{timeLimitMinutes}</p>
               <p className="text-sm text-gray-600">Minutes</p>
             </div>
             <div className="text-center p-4 bg-gray-50 rounded-lg">
@@ -509,13 +587,13 @@ export function MockExamPage() {
                 <svg className="w-5 h-5 text-accent-600 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>Answer all 50 multiple-choice questions</span>
+                <span>Answer all {totalQuestions} multiple-choice questions</span>
               </li>
               <li className="flex items-start gap-2">
                 <svg className="w-5 h-5 text-accent-600 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
-                <span>You have 90 minutes to complete the exam</span>
+                <span>You have {timeLimitMinutes} minutes to complete the exam</span>
               </li>
               <li className="flex items-start gap-2">
                 <svg className="w-5 h-5 text-accent-600 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">

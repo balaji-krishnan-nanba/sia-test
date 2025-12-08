@@ -1,5 +1,36 @@
 # Session Log
 
+## Session: 2025-12-08 (Fix Mock Exam Timing Constants)
+
+### 🎯 Session Goals
+- Fix critical timing discrepancy in TIMING.MOCK_EXAM_DURATION constant
+- Ensure all mock exam specifications match official SIA exam structure
+
+### ✅ Completed
+
+#### 1. Fixed TIMING.MOCK_EXAM_DURATION
+- [x] **Security Guard**: Changed 75 → 60 minutes
+- [x] **CCTV Operator**: Changed 80 → 60 minutes
+- [x] **Close Protection**: Changed 120 → 200 minutes
+- [x] Added JSDoc comments documenting paper breakdown
+
+#### 2. Verification
+- [x] TypeScript type-check passed
+- [x] Build successful
+- [x] Changes committed and pushed
+
+### 📁 Files Modified This Session
+- `src/utils/constants.ts` - Fixed TIMING.MOCK_EXAM_DURATION values
+- `docs/CHANGELOG.md` - Added changelog entries
+- `docs/SESSION_LOG.md` - This update
+
+### 💡 Notes for Next Session
+- All mock exam timing now correctly matches EXAM_DETAILS.totalTimeMinutes
+- The system is now consistent: both EXAM_DETAILS and TIMING use the same values
+- Consider removing TIMING.MOCK_EXAM_DURATION in favor of deriving from EXAM_DETAILS to avoid future discrepancies
+
+---
+
 ## Session: 2025-12-07 (GitHub Pages Deployment Setup)
 
 ### 🎯 Session Goals

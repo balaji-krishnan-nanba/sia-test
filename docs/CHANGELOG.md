@@ -9,11 +9,47 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## [Unreleased]
 
 ### To Be Done
-- Fix TypeScript build errors in utility files
 - Set up Supabase database and import question data
 - Configure Stripe payment integration
 - Test Google OAuth end-to-end
 - Deploy MVP to Vercel
+
+---
+
+## [2025-12-08] - Fix Mock Exam Timing Constants
+
+### Fixed
+- **TIMING.MOCK_EXAM_DURATION**: Corrected exam timing values to match official SIA specifications
+  - Security Guard: 75 → 60 minutes
+  - CCTV Operator: 80 → 60 minutes
+  - Close Protection: 120 → 200 minutes
+  - Door Supervisor: 90 minutes (unchanged, was already correct)
+
+### Technical
+- Values now correctly match `EXAM_DETAILS.totalTimeMinutes`
+- Added JSDoc comments documenting paper breakdown
+- Fixes discrepancy found via ultrathink analysis using subagents
+
+---
+
+## [2025-12-07] - Mock Exams Use Real SIA Exam Specifications
+
+### Changed
+- **Mock tests now mirror real SIA exams**: Instead of 10 arbitrary tests, each qualification now shows its actual exam papers
+  - Door Supervisor: 2 exam papers (40Q/60min + 20Q/30min)
+  - Security Guard: 2 exam papers (20Q/30min + 20Q/30min)
+  - CCTV Operator: 2 exam papers (20Q/30min + 20Q/30min)
+  - Close Protection: 4 exam papers (52Q/80min + 30Q/45min + 20Q/30min + 30Q/45min)
+
+### Added
+- **ExamPaperSpec interface**: New type for individual exam paper specifications
+- **examPapers array**: Each qualification now has detailed paper breakdown with units, questions, time, and pass marks
+- **Unit filtering**: Mock exams filter questions by relevant units for each paper
+- **Per-paper timing**: Each exam paper has its own time limit
+
+### Fixed
+- **PracticePage**: Removed "Practice All" from unit level (only at chapter level)
+- **Question loader URL**: Fixed base path for GitHub Pages
 
 ---
 
